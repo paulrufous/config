@@ -1,0 +1,234 @@
+# Gorilla gtk theme
+# (c) 2002-2003 Jakub 'jimmac' Steiner <jimmac@ximian.com>
+
+style "gorilla-default"
+{
+  GtkWidget::interior_focus = 1
+  GtkButton::default_border = { 0, 0, 0, 0 } #{ 3, 3, 3, 3 }
+  GtkButton::default_outside_border = { 0, 0, 0, 0 } #{ 3, 3, 3, 3 }
+  GtkRange::trough_border = 0
+  GtkWidget::focus_padding = 1
+  GtkPaned::handle_size = 5
+  GtkRange::slider_width = 15
+  GtkRange::stepper_size = 15
+  GtkScrollbar::min_slider_length = 30
+  GtkCheckButton::indicator_size = 13
+  GtkRadioButton::indicator_size = 13
+  GtkMenuBar::internal-padding = 0
+  GtkButton::child_displacement_x = 0
+  GtkButton::child_displacement_y = 1
+  GtkMenuItem::selected_shadow_type = GTK_SHADOW_IN
+  xthickness = 0
+  ythickness = 0
+  
+  #Оригинальные цвета, список неполный, остальные by default
+			  #~ bg[NORMAL]      = "#dedfce"
+			  #~ bg[PRELIGHT]	   = "#9f9f93"
+			  #~ fg[PRELIGHT]    = "#ffffff"
+			  #~ bg[ACTIVE]	   = "#bebfae"
+			  #~ bg[INSENSITIVE] = "#eeeee0"
+			  #~ bg[SELECTED]    = "#9f9f93"
+			  #~ base[SELECTED]  = "#9f9f93"
+			  #~ text[SELECTED]  = "#ffffff"
+  #~ 
+	fg[ACTIVE]        = "#000000"			#текст активных элементов
+	fg[INSENSITIVE]   = "#9f9f93"			#текст неактивных элементов
+	fg[NORMAL]        = "#000000"			#текст почти всех эл.
+	fg[PRELIGHT]      = "#000000"
+	fg[SELECTED]      = "#fff"				#текст баннера в gajim
+  #~ 
+	bg[ACTIVE]        = "#bebfae"			#неактивные выделения
+	bg[INSENSITIVE]   = "#eeeee0"			#неактивные кнопки и стрелки
+	bg[NORMAL]        = "#dedfce"			#осн.цвет фона
+	bg[PRELIGHT]      = "#9f9f93"			#фон выделений
+	bg[SELECTED]      = "#9f9f93"			#фон выделений
+  #~ 
+	base[ACTIVE]      = "#9f9f93"
+	base[INSENSITIVE] = "#EAEBD9"			#фон недоступных полей
+	base[NORMAL]      = "#f6f7f7"			#основной фон текстовых полей
+	#~ base[PRELIGHT]    = "#f00"			#???
+	base[SELECTED]    = "#9f9f93"			#фон выделений
+	#~ 
+	text[ACTIVE]      = "#000000"			#текст выделенного элемента
+	text[INSENSITIVE] = "#9f9f93"			#текст недоступного элемента
+	text[NORMAL]      = "#000000"			#текст большинства элементов
+	#~ text[PRELIGHT]    = "#ff0000"		#???
+	text[SELECTED]    = "#ffffff"			#текст выделений
+
+  engine "industrial" {
+    rounded_buttons = FALSE
+  }
+  GtkToolbar::shadow_type = none
+  GtkStatusbar::shadow_type = none
+  GtkMenuBar::shadow_type = none
+  GtkHandleBox::shadow_type = none
+  GtkEntry::shadow_type = in
+  GtkToolbar::button_relief = GTK_RELIEF_NONE
+  GtkScrolledWindow::scrollbar_spacing = 0
+  
+  GtkButton::button-relief = GTK_RELIEF_NONE
+}
+
+style "gorilla-unrounded" = "gorilla-default"
+{
+  engine "industrial" 
+    {
+      rounded_buttons = FALSE
+    }
+}
+
+style "gorilla-wide" = "gorilla-default"
+{
+  xthickness = 0
+  ythickness = 0
+}
+
+style "gorilla-tasklist" = "gorilla-default"
+{
+  xthickness = 1
+  ythickness = 3
+}
+
+style "gorilla-arrows" = "gorilla-default"
+{
+  fg[NORMAL] = { 0.2,0.2,0.2 }
+}
+
+style "gorilla-menu" = "gorilla-default"
+{
+#  engine "redmond95" { }
+  xthickness = 3
+  ythickness = 3
+
+  #bg[PRELIGHT]    = "#7b96ac"
+  #bg[SELECTED]    = "#7b96ac"
+  bg[PRELIGHT]    = "#9f9f93"
+  bg[SELECTED]    = "#bebfae"
+
+  fg[PRELIGHT]  = "#ffffff"
+  fg[SELECTED]  = "#ffffff"
+}
+
+style "gorilla-menu-separator" = "gorilla-default"
+{
+#  engine "redmond95" { }
+  xthickness = 0
+  ythickness = 0
+
+#  bg[PRELIGHT]    = "#7b96ac"
+#  bg[SELECTED]    = "#7b96ac"
+#  fg[PRELIGHT]  = "#ffffff"
+#  fg[SELECTED]  = "#ffffff"
+}
+
+style "gorilla-menubar" = "gorilla-default"
+{
+  xthickness = 1
+  ythickness = 1
+}
+
+style "gorilla-paned" = "gorilla-default"
+{
+  xthickness = 1
+  ythickness = 10
+}
+
+style "gorilla-tree" = "gorilla-default"
+{
+  engine "industrial" 
+    {
+      rounded_buttons = FALSE
+    }
+  xthickness = 0
+  ythickness = 0
+}
+
+style "gorilla-frame-title" = "gorilla-default"
+{
+  fg[NORMAL] = { 0.25,0.25,0.25 }
+}
+
+style "gorilla-panel" = "gorilla-default"
+{
+  xthickness = 3
+  ythickness = 3
+}
+
+style "gorilla-tooltips" = "gorilla-default"
+{
+  xthickness = 4
+  ythickness = 4
+  bg[NORMAL] = { 0.9,0.9,0.9 }
+}
+
+widget "*.tasklist-button" style "gorilla-unrounded"
+widget_class "*.GtkTreeView.*" style "gorilla-tree"
+widget_class "*.GtkList.*" style "gorilla-tree"
+widget_class "*.GtkCList.*" style "gorilla-tree"
+widget_class "*.ETree.*" style "gorilla-tree"
+widget_class "*.ETable.*" style "gorilla-tree"
+class "GtkNotebook" style "gorilla-wide"
+class "GtkWidget" style "gorilla-default"
+class "GtkButton" style "gorilla-wide"
+class "GtkRange" style "gorilla-wide"
+class "GtkMenu" style "gorilla-wide"
+class "GtkFrame" style "gorilla-wide"
+class "GtkStatusbar" style "gorilla-wide"
+class "GtkMenuItem" style "gorilla-menu"
+widget_class "*.GtkMenuItem.*" style "gorilla-menu"
+widget_class "*.GtkAccelMenuItem.*" style "gorilla-menu"
+widget_class "*.GtkRadioMenuItem.*" style "gorilla-menu"
+widget_class "*.GtkCheckMenuItem.*" style "gorilla-menu"
+widget_class "*.GtkImageMenuItem.*" style "gorilla-menu"
+widget_class "*.GtkSeparatorMenuItem.*" style "gorilla-menu-separator"
+class "GtkEntry" style "gorilla-wide"
+widget_class "*.tooltips.*.GtkToggleButton" style "gorilla-tasklist"
+widget_class "*.GtkFrame.GtkLabel" style "gorilla-frame-title"
+widget_class "*.GtkFrame.GtkCheckButton.GtkLabel" style "gorilla-frame-title"
+class "GtkVScrollbar" style "gorilla-arrows"
+class "GtkHScrollbar" style "gorilla-arrows"
+widget_class "BasePWidget.GtkEventBox.GtkTable.GtkFrame" style "gorilla-panel"
+widget "gtk-tooltips" style "gorilla-tooltips"
+
+
+style "gorilla-slim" = "gorilla-default"
+{
+  xthickness = 1
+  ythickness = 1
+}
+class "GtkEntry" style "gorilla-slim"
+widget_class "*GtkEntry*" style "gorilla-slim"
+widget_class "*TextView*" style "gorilla-slim"
+
+style "clear-engine"
+{
+    engine "xfce" 
+    {
+        #~ smooth_edge = true
+        grip_style = none
+    }
+    xthickness = 0
+    ythickness = 0
+    GtkHandleBox::border_width = 0
+}
+class "GtkToolbar" style "clear-engine"
+class "GtkHandleBox" style "clear-engine"
+widget_class "*<GtkStatusbar>*" style "clear-engine"
+
+#~ style "gorilla-slim2" = "gorilla-default"
+#~ {
+  #~ xthickness = 0
+  #~ ythickness = 0
+#~ }
+#~ widget "GtkLabel" style "gorilla-slim2"
+#~ class "GtkButton" style "gorilla-slim2"
+#~ widget_class "*GtkLabel*" style "gorilla-slim2"
+
+style "last" {
+   #~ GtkButton::button-relief = GTK_RELIEF_NONE
+   #~ GtkButton::default_border         = {50, 50, 50, 50}
+  xthickness = 0
+  ythickness = 0
+   
+}
+widget_class "*<GtkButton>" style "last"

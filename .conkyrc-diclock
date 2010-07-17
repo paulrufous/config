@@ -1,0 +1,30 @@
+background yes
+use_xft yes
+xftfont Georgia:size=25
+xftalpha 0,5 #.8
+update_interval 2.0
+total_run_times 0
+own_window yes 
+own_window_type override 
+own_window_transparent yes
+own_window_colour hotpink
+double_buffer yes
+draw_shades no
+draw_outline no
+draw_borders no
+draw_graph_borders yes
+stippled_borders 8
+border_margin 4
+border_width 1
+alignment bottom_middle
+gap_x 0
+gap_y 10
+no_buffers yes
+uppercase no
+cpu_avg_samples 2
+net_avg_samples 2
+override_utf8_locale yes
+use_spacer no
+
+TEXT
+${color #707070}${time %H:%M}

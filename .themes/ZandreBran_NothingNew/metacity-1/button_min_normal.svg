@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="20"
+   height="18"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47pre4 r22446"
+   sodipodi:docname="button_min_normal.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5209">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop5211" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1"
+         id="stop5213" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5127">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5129" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop5131" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective3600"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3622"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3644"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5127"
+       id="linearGradient5133"
+       x1="733.25311"
+       y1="729.89557"
+       x2="754.69574"
+       y2="729.89557"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49497475,0.49497475,-0.49497475,0.49497475,2.9498124,313.82622)" />
+    <filter
+       id="filter6253"
+       inkscape:label="Drop shadow"
+       width="1.5"
+       height="1.5"
+       x="-0.25"
+       y="-0.25"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur6255"
+         in="SourceAlpha"
+         stdDeviation="1,000000"
+         result="blur" />
+      <feColorMatrix
+         id="feColorMatrix6257"
+         result="bluralpha"
+         type="matrix"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 0,700000 0 " />
+      <feOffset
+         id="feOffset6259"
+         in="bluralpha"
+         dx="-0,500000"
+         dy="-0,500000"
+         result="offsetBlur" />
+      <feMerge
+         id="feMerge6261"
+         result="fbSourceGraphic">
+        <feMergeNode
+           id="feMergeNode6263"
+           in="offsetBlur" />
+        <feMergeNode
+           id="feMergeNode6265"
+           in="SourceGraphic" />
+      </feMerge>
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix6309" />
+      <feGaussianBlur
+         id="feGaussianBlur6311"
+         in="fbSourceGraphicAlpha"
+         stdDeviation="1,000000"
+         result="blur" />
+      <feColorMatrix
+         id="feColorMatrix6313"
+         result="bluralpha"
+         type="matrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0,700000 0 " />
+      <feOffset
+         id="feOffset6315"
+         in="bluralpha"
+         dx="0,500000"
+         dy="0,500000"
+         result="offsetBlur" />
+      <feMerge
+         id="feMerge6317">
+        <feMergeNode
+           id="feMergeNode6319"
+           in="offsetBlur" />
+        <feMergeNode
+           id="feMergeNode6321"
+           in="fbSourceGraphic" />
+      </feMerge>
+    </filter>
+    <inkscape:perspective
+       id="perspective2844"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       id="filter6253-9"
+       inkscape:label="Drop shadow"
+       width="1.5"
+       height="1.5"
+       x="-0.25"
+       y="-0.25"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur6255-6"
+         in="SourceAlpha"
+         stdDeviation="1,000000"
+         result="blur" />
+      <feColorMatrix
+         id="feColorMatrix6257-2"
+         result="bluralpha"
+         type="matrix"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 0,700000 0 " />
+      <feOffset
+         id="feOffset6259-1"
+         in="bluralpha"
+         dx="-0,500000"
+         dy="-0,500000"
+         result="offsetBlur" />
+      <feMerge
+         id="feMerge6261-7"
+         result="fbSourceGraphic">
+        <feMergeNode
+           id="feMergeNode6263-8"
+           in="offsetBlur" />
+        <feMergeNode
+           id="feMergeNode6265-5"
+           in="SourceGraphic" />
+      </feMerge>
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix6309-7" />
+      <feGaussianBlur
+         id="feGaussianBlur6311-4"
+         in="fbSourceGraphicAlpha"
+         stdDeviation="1,000000"
+         result="blur" />
+      <feColorMatrix
+         id="feColorMatrix6313-1"
+         result="bluralpha"
+         type="matrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0,700000 0 " />
+      <feOffset
+         id="feOffset6315-8"
+         in="bluralpha"
+         dx="0,500000"
+         dy="0,500000"
+         result="offsetBlur" />
+      <feMerge
+         id="feMerge6317-5">
+        <feMergeNode
+           id="feMergeNode6319-9"
+           in="offsetBlur" />
+        <feMergeNode
+           id="feMergeNode6321-7"
+           in="fbSourceGraphic" />
+      </feMerge>
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5127-3"
+       id="linearGradient5133-5"
+       x1="733.25311"
+       y1="729.89557"
+       x2="754.69574"
+       y2="729.89557"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49497475,0.49497475,-0.49497475,0.49497475,2.9498124,313.82622)" />
+    <linearGradient
+       id="linearGradient5127-3">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5129-8" />
+      <stop
+         id="stop3775"
+         offset="0.67000002"
+         style="stop-color:#7f7f7f;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop5131-8" />
+    </linearGradient>
+    <linearGradient
+       y2="729.89557"
+       x2="754.69574"
+       y1="729.89557"
+       x1="733.25311"
+       gradientTransform="matrix(0.49497475,0.49497475,-0.49497475,0.49497475,-14.530996,312.9467)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2868"
+       xlink:href="#linearGradient5127-3"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5127-3"
+       id="linearGradient2973"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.7,0,0,0.7,-510.87097,536.15533)"
+       x1="733.25311"
+       y1="729.89557"
+       x2="754.69574"
+       y2="729.89557" />
+    <filter
+       id="filter4763"
+       inkscape:label="Drop shadow"
+       width="1.5"
+       height="1.5"
+       x="-.25"
+       y="-.25">
+      <feGaussianBlur
+         id="feGaussianBlur4765"
+         in="SourceAlpha"
+         stdDeviation="1,000000"
+         result="blur" />
+      <feColorMatrix
+         id="feColorMatrix4767"
+         result="bluralpha"
+         type="matrix"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1,000000 0 " />
+      <feOffset
+         id="feOffset4769"
+         in="bluralpha"
+         dx="-1,000000"
+         dy="0,000000"
+         result="offsetBlur" />
+      <feMerge
+         id="feMerge4771">
+        <feMergeNode
+           id="feMergeNode4773"
+           in="offsetBlur" />
+        <feMergeNode
+           id="feMergeNode4775"
+           in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5209"
+       id="linearGradient5215"
+       x1="-11.908039"
+       y1="1042.4826"
+       x2="-3.2477934"
+       y2="1042.4826"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,-721.87744,304.59908)" />
+    <filter
+       id="filter3725"
+       inkscape:label="Drop shadow"
+       width="1.5"
+       height="1.5"
+       x="-.25"
+       y="-.25">
+      <feGaussianBlur
+         id="feGaussianBlur3727"
+         in="SourceAlpha"
+         stdDeviation="1,000000"
+         result="blur" />
+      <feColorMatrix
+         id="feColorMatrix3729"
+         result="bluralpha"
+         type="matrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0,800000 0 " />
+      <feOffset
+         id="feOffset3731"
+         in="bluralpha"
+         dx="0,500000"
+         dy="0,000000"
+         result="offsetBlur" />
+      <feMerge
+         id="feMerge3733"
+         result="fbSourceGraphic">
+        <feMergeNode
+           id="feMergeNode3735"
+           in="offsetBlur" />
+        <feMergeNode
+           id="feMergeNode3737"
+           in="SourceGraphic" />
+      </feMerge>
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix3767" />
+      <feGaussianBlur
+         id="feGaussianBlur3769"
+         in="fbSourceGraphicAlpha"
+         stdDeviation="1,000000"
+         result="blur" />
+      <feColorMatrix
+         id="feColorMatrix3771"
+         result="bluralpha"
+         type="matrix"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 0,700000 0 " />
+      <feOffset
+         id="feOffset3773"
+         in="bluralpha"
+         dx="-0,500000"
+         dy="0,000000"
+         result="offsetBlur" />
+      <feMerge
+         id="feMerge3775">
+        <feMergeNode
+           id="feMergeNode3777"
+           in="offsetBlur" />
+        <feMergeNode
+           id="feMergeNode3779"
+           in="fbSourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter
+       id="filter3809"
+       inkscape:label="Drop shadow"
+       width="1.5"
+       height="1.5"
+       x="-.25"
+       y="-.25">
+      <feGaussianBlur
+         id="feGaussianBlur3811"
+         in="SourceAlpha"
+         stdDeviation="1,000000"
+         result="blur" />
+      <feColorMatrix
+         id="feColorMatrix3813"
+         result="bluralpha"
+         type="matrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0,600000 0 " />
+      <feOffset
+         id="feOffset3815"
+         in="bluralpha"
+         dx="0,000000"
+         dy="0,000000"
+         result="offsetBlur" />
+      <feMerge
+         id="feMerge3817"
+         result="fbSourceGraphic">
+        <feMergeNode
+           id="feMergeNode3819"
+           in="offsetBlur" />
+        <feMergeNode
+           id="feMergeNode3821"
+           in="SourceGraphic" />
+      </feMerge>
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix3893" />
+      <feGaussianBlur
+         id="feGaussianBlur3895"
+         in="fbSourceGraphicAlpha"
+         stdDeviation="1,000000"
+         result="blur" />
+      <feColorMatrix
+         id="feColorMatrix3897"
+         result="bluralpha"
+         type="matrix"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 0,600000 0 " />
+      <feOffset
+         id="feOffset3899"
+         in="bluralpha"
+         dx="-1,000000"
+         dy="0,000000"
+         result="offsetBlur" />
+      <feMerge
+         id="feMerge3901">
+        <feMergeNode
+           id="feMergeNode3903"
+           in="offsetBlur" />
+        <feMergeNode
+           id="feMergeNode3905"
+           in="fbSourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.583647"
+     inkscape:cx="4.0784565"
+     inkscape:cy="8.2288239"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="746"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.08928572,-1034.3622)">
+    <rect
+       style="opacity:0.57999998;fill:none;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.91703036;stroke-dasharray:none"
+       id="rect2816"
+       width="14.062499"
+       height="14"
+       x="2.9241071"
+       y="1035.3622" />
+    <path
+       style="opacity:0.57999998;fill:url(#linearGradient2973);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.91703036;stroke-dasharray:none"
+       d="m 2.4495399,1047.1039 c 4.1e-5,-1.1558 1.094382,-2.0864 2.453733,-2.0864 l 10.0149111,0 c 1.359347,0 2.453746,0.9306 2.453705,2.0865 3.5e-5,1.1559 -1.094311,2.0865 -2.453657,2.0865 l -10.0149821,-10e-5 c -1.35935,0 -2.453676,-0.9305 -2.45371,-2.0865 z"
+       id="rect3590-4-3" />
+    <path
+       style="fill:#c2beb6;fill-opacity:1;stroke:url(#linearGradient5215);stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.91703036000000004;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter3809)"
+       d="m 4.0261328,1047.104 c 9.9e-6,-0.429 0.8633725,-0.7742 1.9352005,-0.7745 l 7.8986697,0 c 1.072111,0 1.935232,0.3455 1.935293,0.7746 -8.5e-5,0.429 -0.863373,0.7743 -1.935271,0.7745 l -7.8986703,0 c -1.0721103,0 -1.935236,-0.3455 -1.9352219,-0.7746 z"
+       id="rect3590-1-2-1"
+       transform="matrix(1,0,0,1.7028164,5.0662358e-8,-735.92195)" />
+  </g>
+</svg>

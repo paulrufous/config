@@ -1,0 +1,301 @@
+# Galactic Empire Theme
+# Based on Nodoka theme
+# Nelson Marques <nmarques@fedoraproject.org>
+
+# Uses the Nodoka theme engine forked from Murrine theme engine
+
+gtk_color_scheme = "fg_color:#212121\nbg_color:#ecebe5\ntext_color:#212121\nbase_color:#ecebe5\nselected_fg_color:#ecebe5\nselected_bg_color:#212121\ntooltip_fg_color:#ecebe5\ntooltip_bg_color:#212121"
+
+style "empire-default"
+{
+
+	GtkButton::default_border	= { 0, 0, 0, 0 }
+	GtkButton::child-displacement-x	= 0
+	GtkButton::child-displacement-y	= 1
+
+	GtkRange::trough_border		= 0
+	GtkRange::slider_width		= 13
+	GtkRange::slide_height		= 13
+	GtkRange::stepper_size		= 13
+  	GtkRange::stepper_spacing	= 1
+
+	GtkScale::slider-length		= 13
+	GtkScale::trough-side-details = 1
+
+	GtkPaned::handle_size		= 6
+	GtkEntry::honors-transparent-bg-hint = 1
+
+	GtkScrollbar::min_slider_length	= 45
+	GtkCheckButton::indicator_size	= 13
+  	GtkRadioButton::indicator_size	= 13
+	GtkMenuBar::internal-padding	= 1
+	GtkTreeView::expander_size	= 13
+	GtkExpander::expander_size	= 13
+
+	xthickness			= 0
+	ythickness			= 0
+
+	fg[NORMAL]			= @fg_color
+	fg[PRELIGHT]			= @fg_color
+	fg[ACTIVE]			= @fg_color
+	fg[SELECTED]			= @selected_fg_color
+	fg[INSENSITIVE]			= shade (0.7019, @selected_fg_color)
+
+	bg[NORMAL]			= @bg_color
+	bg[PRELIGHT]			= shade (1.0346, @bg_color)
+	bg[ACTIVE]			= shade (0.9437, @bg_color)
+	bg[SELECTED]			= @selected_bg_color
+	bg[INSENSITIVE]			= shade (0.9437, @bg_color)
+
+	base[NORMAL]			= @base_color
+	base[PRELIGHT]			= shade (0.3967, @base_color)
+	base[ACTIVE]			= shade (0.52, @selected_fg_color)
+	base[SELECTED]			= @selected_bg_color
+	base[INSENSITIVE]		= shade (0.9437, @bg_color)
+
+	text[NORMAL]			= @text_color
+	text[PRELIGHT]			= @text_color
+	text[ACTIVE]			= @selected_fg_color
+	text[SELECTED]			= @selected_fg_color
+	text[INSENSITIVE]		= darker (@selected_fg_color)
+
+	engine "nodoka"
+	{
+		scrollbar_color		= shade (1.039, "#212121")
+		animation		= TRUE # FALSE = disabled, TRUE = enabled
+		contrast		= 1.0
+		gradients		= TRUE
+		hilight_ratio		= 0.909090909
+		listviewheaderstyle	= 2 # 0 = flat, 1 = gradient, 2 = raised
+		listviewstyle		= 1 # 0 = nothing, 1 = dotted
+		menubarstyle		= 0 # 0 = flat, 1 = normal raised gradient, 2 = normal lowered gradient, 3 = menubar gradient
+		toolbarstyle		= 2 # 0 = flat, 1 = normal raised gradient, 2 = normal lowered gradient, 3 = menubar gradient
+		roundness		= 0 # 0 = squared, 1 = old default, more will increase roundness
+		scrollbarstyle		= 3 # 0 = nothing, 1 = circles, 2 = bars
+		stripes			= FALSE # enable or disable stripes in progressbars
+		bullet_color		= "#212121"
+		focus_fill		= FALSE # enable or disable focus overlay fill
+		focus_inner		= TRUE	# TRUE = secondary focus ring inside, FALSE = secondary focus ring outside widgets
+	}
+
+}
+
+# Evolution (and some deprecated widgets) use bg and fg for its listview instead of 
+# base and text like they should, so we override it.
+style "evolution-hack" = "empire-default"
+{	
+	bg[ACTIVE]	= @bg_color
+}
+
+style "evolution-hack-tree" = "empire-default"
+{	
+	bg[ACTIVE]	= shade (0.8, @bg_color)
+	bg[SELECTED]	= shade (1.040897799, @selected_bg_color)
+	fg[ACTIVE]	= @text_color
+	fg[SELECTED]	= @selected_fg_color
+}
+
+style "empire-bright" = "empire-default"
+{
+	bg[SELECTED]	= shade (1.040897799, @selected_bg_color)
+}
+
+
+style "empire-wide" = "empire-default"
+{
+	xthickness	= 2
+	ythickness	= 2
+}
+
+style "empire-wide-bright" = "empire-wide"
+{
+	bg[SELECTED]	= shade (1.040897799, @selected_bg_color)
+}
+
+style "empire-wider" = "empire-default"
+{
+	xthickness	= 3
+	ythickness	= 3
+}
+
+style "empire-wider-bright" = "empire-wider"
+{
+	bg[SELECTED]	= shade (1.040897799, @selected_bg_color)
+}
+
+style "empire-button" = "empire-wider"
+{
+	bg[NORMAL]   =  shade (1.02,@bg_color)
+ 	bg[ACTIVE]   =  shade (0.85,@bg_color)
+	bg[PRELIGHT] =  mix(0.90, shade (1.05,@bg_color), @selected_bg_color)
+}
+
+style "empire-notebook" = "empire-wide-bright"
+{
+	bg[ACTIVE]   	= shade (0.80, @bg_color)
+  	bg[INSENSITIVE] = shade (0.9221, @bg_color)
+  	bg[NORMAL]      = shade (1.0346, @bg_color)
+	bg[PRELIGHT] 	= lighter (@bg_color)
+}
+
+style "empire-menubar" = "empire-default"
+{
+	bg[NORMAL]	= mix (0.8, lighter(@bg_color), shade(1.040897799, @selected_bg_color))
+	bg[NORMAL]	= shade (1.02, @bg_color)
+}
+
+style "empire-panel-menubar" = "empire-menubar"
+{
+	fg[PRELIGHT]	= @selected_fg_color
+	text[PRELIGHT]	= @selected_fg_color
+}
+
+
+style "empire-menu" = "empire-default"
+{
+	xthickness	= 2
+
+	bg[NORMAL]	= @base_color
+}
+
+style "empire-menu-item" = "empire-default"
+{
+	xthickness	= 3
+	ythickness	= 3
+
+	bg[PRELIGHT]	= @bg_color
+	bg[SELECTED]	= shade (0.9, @selected_bg_color)
+	fg[PRELIGHT]	= @selected_fg_color
+	text[PRELIGHT]	= @selected_fg_color
+}
+
+style "empire-tree" = "empire-wide"
+{
+	bg[ACTIVE]	= shade (0.9, @bg_color)
+}
+
+style "empire-frame-title" = "empire-default"
+{
+	fg[NORMAL]	= lighter (@fg_color)
+}
+
+style "empire-tooltips"
+{
+	xthickness	= 4
+	ythickness	= 4
+
+	bg[NORMAL]	= @tooltip_bg_color
+	fg[NORMAL]	= @tooltip_fg_color
+}
+
+style "empire-progressbar" = "empire-wide-bright"
+{
+  	bg[NORMAL]      = shade (0.80, @bg_color)
+  	bg[SELECTED]    = @selected_bg_color
+	fg[PRELIGHT]	= shade(1.1946, @selected_fg_color)
+}
+
+style "empire-combo" = "empire-button"
+{
+}
+
+style "empire-status" = "empire-wide"
+{
+	GtkStatusbar	::shadow-type	= GTK_SHADOW_IN
+}
+
+style "empire-entry" = "empire-button"
+{
+}
+
+style "empire-scrollbar" = "empire-button"
+{
+	text[NORMAL]		= shade (0.2, @bg_color)
+	text[PRELIGHT]		= shade (0.2, @bg_color)
+	text[ACTIVE]		= @text_color
+}
+
+style "empire-scale" = "empire-button"
+{
+
+	GtkRange	::trough-side-details	= 0
+	GtkRange	::slider_width		= 16
+
+	bg[SELECTED]    = shade (1.1, @selected_bg_color)
+	fg[PRELIGHT]	= shade(1.1946, @selected_fg_color)
+}
+
+style "empire-checkbutton" = "empire-button"
+{
+	bg[PRELIGHT]	= @bg_color
+}
+
+style "empire-spin-button" = "empire-entry"
+{
+}
+
+# widget styles
+class "GtkWidget"	style "empire-default"
+class "GtkButton"	style "empire-button"
+class "GtkCombo"	style "empire-combo"
+class "GtkRange"	style "empire-wide-bright"
+class "GtkFrame"	style "empire-wide"
+class "GtkMenu"		style "empire-menu"
+class "GtkEntry"	style "empire-entry"
+class "GtkMenuItem"	style "empire-menu-item"
+class "GtkNotebook"	style "empire-notebook"
+class "GtkProgressBar"	style "empire-progressbar"
+class "GtkMenuBar"	style "empire-menubar"
+class "GtkStatusbar"	style "empire-status"
+class "GtkScrollbar"	style "empire-scrollbar"
+class "GtkHBox"		style "empire-wider"
+class "GtkScale"	style "empire-scale"
+class "GtkCheckButton"	style "empire-checkbutton"
+class "GtkSpinButton"	style "empire-spin-button"
+
+widget_class "*MenuItem.*"		style "empire-menu-item"
+
+# combobox stuff
+widget_class "*.GtkComboBox.GtkButton"	style "empire-combo"
+widget_class "*.GtkCombo.GtkButton"	style "empire-combo"
+widget_class "*.GtkComboBox.GtkFrame"	style "empire-wider"
+
+# tooltips stuff
+widget "gtk-tooltip*"			style "empire-tooltips"
+
+# treeview stuff
+widget_class "*.GtkTreeView.GtkButton"	style "empire-tree"
+widget_class "*.GtkCTree.GtkButton"	style "empire-tree"
+widget_class "*.GtkList.GtkButton"	style "empire-tree"
+widget_class "*.GtkCList.GtkButton"	style "empire-tree"
+widget_class "*.GtkFrame.GtkLabel"	style "empire-frame-title"
+
+# notebook stuff
+widget_class "*.GtkNotebook.*.GtkEventBox"	style "empire-notebook"
+widget_class "*.GtkNotebook.*.GtkViewport"	style "empire-notebook"
+widget_class "*<GtkNotebook>*<GtkDrawingArea>"  style "empire-notebook"
+widget_class "*<GtkNotebook>*<GtkLayout>"       style "empire-notebook"
+
+# these should really use base and text colors instead
+widget_class "*GtkCTree*"	style "evolution-hack-tree"
+widget_class "*GtkList*"	style "evolution-hack-tree"
+widget_class "*GtkCList*"	style "evolution-hack-tree"
+widget_class "*.ETree.*"	style "evolution-hack-tree"
+widget_class "*EInfoLabel*"	style "evolution-hack"
+
+#panel bg hack
+widget "*Panel*Menu*"		style "empire-panel-menubar"
+
+#evolution new button workaround (should be fixed in Evo 2.24)
+style "empire-evo-new-button-workaround"
+{
+	engine "nodoka"
+	{
+		toolbarstyle = 0
+	}
+}
+
+widget_class "EShellWindow.GtkVBox.BonoboDock.BonoboDockBand.BonoboDockItem*" style "empire-evo-new-button-workaround"
+
+widget_class "*.<GtkProgress>"   	style "empire-progressbar"
+

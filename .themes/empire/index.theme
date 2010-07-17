@@ -1,0 +1,7 @@
+[X-GNOME-Metatheme]
+Name=Galactical Empire
+Type=X-GNOME-Metatheme
+Comment=Theme inspired on the Galatic Empire (Star Wars) based on simplicity.
+Encoding=UTF-8
+GtkTheme=empire
+MetacityTheme=Equinox Light
