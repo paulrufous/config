@@ -1,0 +1,13 @@
+
+[settings]
+default-encoding=ISO-8859-1
+last-window-width=752
+last-window-height=470
+last-window-state=MIDORI_WINDOW_MAXIMIZED
+last-panel-position=212
+last-panel-page=5
+location-entry-search=http://www.google.com/search?q=%s
+user-agent=Midori/0.2 (X11; Linux; U; en-us) WebKit/531.2+
+
+[extensions]
+libadblock.so=true
