@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="Writer" oor:package="org.openoffice.Office">
+ <node oor:name="Layout">
+  <node oor:name="Other">
+   <prop oor:name="MeasureUnit" oor:type="xs:int">
+    <value>2</value>
+   </prop>
+   <prop oor:name="TabStop" oor:type="xs:int">
+    <value>1251</value>
+   </prop>
+   <prop oor:name="ApplyCharUnit" oor:type="xs:boolean">
+    <value>false</value>
+   </prop>
+  </node>
+  <node oor:name="Window">
+   <prop oor:name="SmoothScroll" oor:type="xs:boolean">
+    <value>true</value>
+   </prop>
+  </node>
+ </node>
+ <node oor:name="FormLetter">
+  <node oor:name="FileOutput">
+   <node oor:name="FileName">
+    <prop oor:name="FromDatabaseField" oor:type="xs:string">
+     <value/>
+    </prop>
+    <prop oor:name="FromManualSetting" oor:type="xs:string">
+     <value/>
+    </prop>
+    <prop oor:name="Generation" oor:type="xs:boolean">
+     <value>true</value>
+    </prop>
+   </node>
+  </node>
+  <node oor:name="MailingOutput">
+   <prop oor:name="Format" oor:type="xs:int">
+    <value>0</value>
+   </prop>
+  </node>
+ </node>
+</oor:component-data>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="Image@32@Checksum-misc" mtime="1279044938" type="int" value="0"/>
+	<entry name="audio2cue-image" mtime="1279044938" type="int" value="0"/>
+	<entry name="libburn-burn" mtime="1279044938" type="int" value="0"/>
+	<entry name="dvd@43@rw-format-burn" mtime="1279044938" type="int" value="0"/>
+	<entry name="vcdimager-image" mtime="1279044938" type="int" value="0"/>
+	<entry name="libisofs-image" mtime="1279044938" type="int" value="0"/>
+	<entry name="CD@47@DVD@32@Creator@32@Folder-misc" mtime="1279044938" type="int" value="0"/>
+	<entry name="growisofs-burn" mtime="1279044938" type="int" value="0"/>
+	<entry name="cdrdao-burn" mtime="1279044938" type="int" value="0"/>
+	<entry name="Normalize-misc" mtime="1279044938" type="int" value="0"/>
+	<entry name="dvdcss-image" mtime="1279044938" type="int" value="0"/>
+	<entry name="File@32@Checksum-misc" mtime="1279044938" type="int" value="0"/>
+	<entry name="File@32@Downloader-misc" mtime="1279044938" type="int" value="0"/>
+	<entry name="transcode-convert" mtime="1279044938" type="int" value="0"/>
+</gconf>

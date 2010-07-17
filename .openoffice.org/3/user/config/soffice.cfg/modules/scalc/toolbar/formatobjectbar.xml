@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE toolbar:toolbar PUBLIC "-//OpenOffice.org//DTD OfficeDocument 1.0//EN" "toolbar.dtd">
+<toolbar:toolbar xmlns:toolbar="http://openoffice.org/2001/toolbar" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <toolbar:toolbaritem xlink:href=".uno:DesignerDialog" toolbar:helpid="5539"/>
+ <toolbar:toolbaritem xlink:href=".uno:StyleApply" toolbar:helpid="helpid:5552"/>
+ <toolbar:toolbarseparator/>
+ <toolbar:toolbaritem xlink:href=".uno:CharFontName" toolbar:helpid="helpid:10007"/>
+ <toolbar:toolbarseparator/>
+ <toolbar:toolbaritem xlink:href=".uno:FontHeight" toolbar:helpid="helpid:10015"/>
+ <toolbar:toolbarseparator/>
+ <toolbar:toolbaritem xlink:href=".uno:Bold" toolbar:helpid="helpid:10009"/>
+ <toolbar:toolbaritem xlink:href=".uno:Italic" toolbar:helpid="helpid:10008"/>
+ <toolbar:toolbaritem xlink:href=".uno:Underline" toolbar:helpid="helpid:10014"/>
+ <toolbar:toolbaritem xlink:href=".uno:UnderlineDouble" toolbar:visible="false" toolbar:helpid="helpid:26648"/>
+ <toolbar:toolbarseparator/>
+ <toolbar:toolbaritem xlink:href=".uno:AlignLeft" toolbar:helpid="helpid:26371"/>
+ <toolbar:toolbaritem xlink:href=".uno:AlignHorizontalCenter" toolbar:helpid="helpid:26373"/>
+ <toolbar:toolbaritem xlink:href=".uno:AlignRight" toolbar:helpid="helpid:26372"/>
+ <toolbar:toolbaritem xlink:href=".uno:AlignBlock" toolbar:helpid="helpid:26374"/>
+ <toolbar:toolbaritem xlink:href=".uno:ToggleMergeCells" toolbar:helpid="helpid:26581"/>
+ <toolbar:toolbarseparator/>
+ <toolbar:toolbaritem xlink:href=".uno:ParaLeftToRight" toolbar:helpid="helpid:10950"/>
+ <toolbar:toolbaritem xlink:href=".uno:ParaRightToLeft" toolbar:helpid="helpid:10951"/>
+ <toolbar:toolbarseparator/>
+ <toolbar:toolbaritem xlink:href=".uno:TextdirectionLeftToRight" toolbar:helpid="helpid:10907"/>
+ <toolbar:toolbaritem xlink:href=".uno:TextdirectionTopToBottom" toolbar:helpid="helpid:10908"/>
+ <toolbar:toolbarseparator/>
+ <toolbar:toolbaritem xlink:href=".uno:AlignTop" toolbar:helpid="helpid:26375"/>
+ <toolbar:toolbaritem xlink:href=".uno:AlignVCenter" toolbar:helpid="helpid:26377"/>
+ <toolbar:toolbaritem xlink:href=".uno:AlignBottom" toolbar:helpid="helpid:26376"/>
+ <toolbar:toolbarseparator/>
+ <toolbar:toolbaritem xlink:href=".uno:NumberFormatCurrency" toolbar:visible="false" toolbar:helpid="helpid:26045"/>
+ <toolbar:toolbaritem xlink:href=".uno:NumberFormatPercent" toolbar:visible="false" toolbar:helpid="helpid:26046"/>
+ <toolbar:toolbaritem xlink:href=".uno:NumberFormatDate" toolbar:visible="false" toolbar:helpid="helpid:26053"/>
+ <toolbar:toolbaritem xlink:href=".uno:NumberFormatScientific" toolbar:visible="false" toolbar:helpid="helpid:26055"/>
+ <toolbar:toolbaritem xlink:href=".uno:NumberFormatStandard" toolbar:visible="false" toolbar:helpid="helpid:26052"/>
+ <toolbar:toolbaritem xlink:href=".uno:NumberFormatIncDecimals" toolbar:visible="false" toolbar:helpid="helpid:26057"/>
+ <toolbar:toolbaritem xlink:href=".uno:NumberFormatDecDecimals" toolbar:visible="false" toolbar:helpid="helpid:26058"/>
+ <toolbar:toolbarseparator/>
+ <toolbar:toolbaritem xlink:href=".uno:DecrementIndent" toolbar:visible="false" toolbar:helpid="helpid:10461"/>
+ <toolbar:toolbaritem xlink:href=".uno:IncrementIndent" toolbar:visible="false" toolbar:helpid="helpid:10462"/>
+ <toolbar:toolbarseparator/>
+ <toolbar:toolbaritem xlink:href=".uno:SetBorderStyle" toolbar:helpid="helpid:10187"/>
+ <toolbar:toolbaritem xlink:href=".uno:BackgroundColor" toolbar:helpid="helpid:10185"/>
+ <toolbar:toolbaritem xlink:href=".uno:Color" toolbar:helpid="helpid:10017"/>
+ <toolbar:toolbaritem xlink:href=".uno:LineStyle" toolbar:helpid="10200"/>
+ <toolbar:toolbaritem xlink:href=".uno:FrameLineColor" toolbar:helpid="helpid:10201"/>
+ <toolbar:toolbarseparator/>
+ <toolbar:toolbaritem xlink:href=".uno:InsertRows" toolbar:visible="false" toolbar:helpid="helpid:26267"/>
+ <toolbar:toolbaritem xlink:href=".uno:InsertColumns" toolbar:visible="false" toolbar:helpid="helpid:26268"/>
+ <toolbar:toolbaritem xlink:href=".uno:DeleteRows" toolbar:visible="false" toolbar:helpid="helpid:26236"/>
+ <toolbar:toolbaritem xlink:href=".uno:DeleteColumns" toolbar:visible="false" toolbar:helpid="helpid:26237"/>
+ <toolbar:toolbarseparator/>
+ <toolbar:toolbaritem xlink:href=".uno:ToggleSheetGrid" toolbar:helpid="helpid:26238"/>
+</toolbar:toolbar>

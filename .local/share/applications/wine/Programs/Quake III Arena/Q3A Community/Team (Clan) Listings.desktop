@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Team (Clan) Listings
+Exec=env WINEPREFIX="/home/sio/q3" wine "C:\\windows\\command\\start.exe" "C:\\Program Files\\Quake III Arena\\extras\\Team (Clan) Listings.url"
+Type=Application
+StartupNotify=true
+Icon=/home/sio/.local/share/icons/03e7_team (clan) listings.xpm

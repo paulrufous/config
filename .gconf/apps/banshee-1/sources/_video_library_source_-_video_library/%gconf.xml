@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="library-location" mtime="1279216003" type="string">
+		<stringvalue>/home/sio/Videos</stringvalue>
+	</entry>
+	<entry name="expanded" mtime="1279215846" type="bool" value="true"/>
+</gconf>

@@ -1,0 +1,9 @@
+[MIME Cache]
+application/x-wine-extension-hlp=wine-extension-hlp.desktop
+text/html=wine-extension-htm.desktop;wine-extension-html.desktop;
+text/plain=wine-extension-txt.desktop;wine-extension-ini.desktop;
+application/rtf=wine-extension-rtf.desktop
+application/x-chm=wine-extension-chm.desktop
+application/mpi=wine-extension-mpi.desktop
+application/xml=wine-extension-xml.desktop
+application/x-mswrite=wine-extension-wri.desktop

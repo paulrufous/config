@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Patchs, Files, Mods, & Maps
+Exec=env WINEPREFIX="/home/sio/q3" wine "C:\\windows\\command\\start.exe" "C:\\Program Files\\Quake III Arena\\extras\\Patchs, Files, Mods, & Maps.url"
+Type=Application
+StartupNotify=true
+Icon=/home/sio/.local/share/icons/03e7_patchs, files, mods, & maps.xpm

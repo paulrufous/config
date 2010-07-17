@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Discussion Forums
+Exec=env WINEPREFIX="/home/sio/q3" wine "C:\\windows\\command\\start.exe" "C:\\Program Files\\Quake III Arena\\extras\\Discussion Forums.url"
+Type=Application
+StartupNotify=true
+Icon=/home/sio/.local/share/icons/03e7_discussion forums.xpm

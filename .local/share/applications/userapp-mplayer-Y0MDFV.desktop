@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=mplayer
+Exec=mplayer %f
+NoDisplay=true

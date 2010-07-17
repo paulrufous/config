@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="preview_sound" mtime="1279041682" type="string">
+		<stringvalue>never</stringvalue>
+	</entry>
+	<entry name="show_desktop" mtime="1279041584" type="bool" value="false"/>
+	<entry name="mouse_use_extra_buttons" mtime="1279041572" type="bool" value="true"/>
+	<entry name="exit_with_last_window" mtime="1279041546" type="bool" value="true"/>
+	<entry name="start_with_location_bar" mtime="1279351978" type="bool" value="true"/>
+	<entry name="media_automount_open" mtime="1279040693" type="bool" value="false"/>
+	<entry name="media_autorun_never" mtime="1279040691" type="bool" value="true"/>
+	<entry name="media_autorun_x_content_open_folder" mtime="1279040681" type="list" ltype="string">
+	</entry>
+	<entry name="media_autorun_x_content_ignore" mtime="1279040681" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>x-content/audio-cdda</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>x-content/video-dvd</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>x-content/audio-player</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>x-content/software</stringvalue>
+		</li>
+	</entry>
+	<entry name="media_autorun_x_content_start_app" mtime="1279040681" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>x-content/image-picturecd</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>x-content/video-hddvd</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>x-content/audio-dvd</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>x-content/video-bluray</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>x-content/blank-cd</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>x-content/blank-dvd</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>x-content/blank-bd</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>x-content/blank-hddvd</stringvalue>
+		</li>
+	</entry>
+	<entry name="enable_delete" mtime="1279040629" type="bool" value="true"/>
+	<entry name="side_pane_view" mtime="1279040572" type="string">
+		<stringvalue>NautilusPlacesSidebar</stringvalue>
+	</entry>
+	<entry name="sidebar_width" mtime="1279352134" type="int" value="116"/>
+	<entry name="start_with_sidebar" mtime="1279352136" type="bool" value="false"/>
+	<entry name="start_with_toolbar" mtime="1279208464" type="bool" value="false"/>
+	<entry name="navigation_window_saved_maximized" mtime="1279379807" type="bool" value="false"/>
+	<entry name="navigation_window_saved_geometry" mtime="1279379807" type="string">
+		<stringvalue>802x519+0+258</stringvalue>
+	</entry>
+</gconf>

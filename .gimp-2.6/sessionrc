@@ -1,0 +1,69 @@
+# GIMP sessionrc
+# 
+# This file takes session-specific info (that is info, you want to keep
+# between two GIMP sessions).  You are not supposed to edit it manually, but
+# of course you can do.  The sessionrc will be entirely rewritten every time
+# you quit GIMP.  If this file isn't found, defaults are used.
+
+(session-info "dock" "dock"
+    (position 1072 0)
+    (size 206 801)
+    (open-on-exit)
+    (aux-info
+        (show-image-menu "true")
+        (follow-active-image "true"))
+    (dock
+        (book
+            (current-page 0)
+            (dockable "gimp-layer-list"
+                (tab-style icon)
+                (preview-size 32))
+            (dockable "gimp-channel-list"
+                (tab-style icon)
+                (preview-size 32))
+            (dockable "gimp-vectors-list"
+                (tab-style icon)
+                (preview-size 32))
+            (dockable "gimp-undo-history"
+                (tab-style icon))
+            (dockable "gimp-tool-options"
+                (tab-style icon)))
+        (book
+            (position 424)
+            (current-page 3)
+            (dockable "gimp-brush-grid"
+                (tab-style preview))
+            (dockable "gimp-pattern-grid"
+                (tab-style preview))
+            (dockable "gimp-gradient-list"
+                (tab-style preview))
+            (dockable "gimp-color-editor"
+                (tab-style preview)
+                (aux-info
+                    (current-page "ColorselWheel"))))))
+(session-info "toolbox" "dock"
+    (position 13 309)
+    (size 44 440)
+    (open-on-exit))
+(session-info "toplevel" "gimp-file-open-dialog"
+    (position 100 41)
+    (size 962 759))
+(session-info "toplevel" "gimp-toolbox-color-dialog"
+    (position 0 0))
+(session-info "toplevel" "gimp-text-tool-dialog"
+    (position 478 341)
+    (size 204 177))
+(session-info "toplevel" "gimp-preferences-dialog"
+    (position 302 0))
+(session-info "toplevel" "gimp-image-new-dialog"
+    (position 684 0))
+(session-info "toplevel" "gimp-file-save-dialog"
+    (position 55 19)
+    (size 862 611))
+(session-info "display" "gimp-empty-image-window"
+    (position 0 0)
+    (size 1072 797))
+
+(last-tip-shown 12)
+
+# end of sessionrc

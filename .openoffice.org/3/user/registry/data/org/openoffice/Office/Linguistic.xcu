@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="Linguistic" oor:package="org.openoffice.Office">
+ <node oor:name="ServiceManager">
+  <node oor:name="LastFoundSpellCheckers">
+   <prop oor:name="en-US" oor:op="replace" oor:type="oor:string-list">
+    <value>org.openoffice.lingu.MySpellSpellChecker</value>
+   </prop>
+   <prop oor:name="ru-RU" oor:op="replace" oor:type="oor:string-list">
+    <value>org.openoffice.lingu.MySpellSpellChecker</value>
+   </prop>
+  </node>
+  <node oor:name="SpellCheckerList">
+   <prop oor:name="en-US" oor:op="replace" oor:type="oor:string-list">
+    <value>org.openoffice.lingu.MySpellSpellChecker</value>
+   </prop>
+   <prop oor:name="ru-RU" oor:op="replace" oor:type="oor:string-list">
+    <value>org.openoffice.lingu.MySpellSpellChecker</value>
+   </prop>
+  </node>
+  <node oor:name="HyphenatorList">
+   <prop oor:name="ru-RU" oor:op="replace" oor:type="oor:string-list">
+    <value>org.openoffice.lingu.LibHnjHyphenator</value>
+   </prop>
+  </node>
+  <node oor:name="LastFoundHyphenators">
+   <prop oor:name="ru-RU" oor:op="replace" oor:type="oor:string-list">
+    <value>org.openoffice.lingu.LibHnjHyphenator</value>
+   </prop>
+  </node>
+ </node>
+ <node oor:name="General">
+  <prop oor:name="DefaultLocale" oor:type="xs:string">
+   <value>ru-RU</value>
+  </prop>
+  <node oor:name="DictionaryList">
+   <prop oor:name="ActiveDictionaries" oor:type="oor:string-list">
+    <value>Debian.dic soffice.dic IgnoreAllList</value>
+   </prop>
+  </node>
+ </node>
+ <node oor:name="TextConversion">
+  <prop oor:name="IsDirectionToSimplified" oor:type="xs:boolean">
+   <value>true</value>
+  </prop>
+ </node>
+</oor:component-data>

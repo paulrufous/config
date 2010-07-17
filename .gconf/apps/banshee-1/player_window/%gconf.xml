@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="last_file_chooser_uri" mtime="1279215901" type="string">
+		<stringvalue>file:///media/torrents</stringvalue>
+	</entry>
+	<entry name="height" mtime="1279216023" type="int" value="700"/>
+	<entry name="width" mtime="1279216023" type="int" value="1024"/>
+	<entry name="y_pos" mtime="1279216023" type="int" value="50"/>
+	<entry name="x_pos" mtime="1279216023" type="int" value="128"/>
+	<entry name="maximized" mtime="1279216023" type="bool" value="false"/>
+	<entry name="source_view_width" mtime="1279216026" type="int" value="175"/>
+</gconf>

@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="default_use_tighter_layout" mtime="1279040613" type="bool" value="false"/>
+</gconf>

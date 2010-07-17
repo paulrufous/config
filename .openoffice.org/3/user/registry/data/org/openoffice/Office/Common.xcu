@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="Common" oor:package="org.openoffice.Office">
+ <node oor:name="Internal">
+  <prop oor:name="CurrentTempURL" oor:type="xs:string">
+   <value/>
+  </prop>
+ </node>
+ <node oor:name="Misc">
+  <prop oor:name="FirstRun" oor:type="xs:boolean">
+   <value>false</value>
+  </prop>
+  <prop oor:name="SymbolSet" oor:type="xs:short">
+   <value>0</value>
+  </prop>
+ </node>
+ <node oor:name="Cache">
+  <node oor:name="GraphicManager">
+   <prop oor:name="ObjectCacheSize" oor:type="xs:int">
+    <value>5452595</value>
+   </prop>
+   <prop oor:name="TotalCacheSize" oor:type="xs:int">
+    <value>20971520</value>
+   </prop>
+  </node>
+ </node>
+ <node oor:name="Font">
+  <node oor:name="View">
+   <prop oor:name="ShowFontBoxWYSIWYG" oor:type="xs:boolean">
+    <value>false</value>
+   </prop>
+  </node>
+ </node>
+ <node oor:name="Help">
+  <node oor:name="HelpAgent">
+   <prop oor:name="Enabled" oor:type="xs:boolean">
+    <value>false</value>
+   </prop>
+  </node>
+ </node>
+ <node oor:name="Save">
+  <node oor:name="Document">
+   <prop oor:name="AutoSave" oor:type="xs:boolean">
+    <value>true</value>
+   </prop>
+   <prop oor:name="AutoSaveTimeIntervall" oor:type="xs:int">
+    <value>10</value>
+   </prop>
+  </node>
+ </node>
+ <node oor:name="Undo">
+  <prop oor:name="Steps" oor:type="xs:int">
+   <value>20</value>
+  </prop>
+ </node>
+ <node oor:name="View">
+  <node oor:name="Dialog">
+   <prop oor:name="MiddleMouseButton" oor:type="xs:short">
+    <value>1</value>
+   </prop>
+  </node>
+ </node>
+</oor:component-data>

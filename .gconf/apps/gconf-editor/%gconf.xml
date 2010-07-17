@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="recents" mtime="1279041584" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>/apps/nautilus/preferences/show_desktop</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>/apps/nautilus/preferences/mouse_use_extra_buttons</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>/apps/nautilus/preferences/exit_with_last_window</stringvalue>
+		</li>
+	</entry>
+</gconf>

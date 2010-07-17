@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=AT&T WorldNet
+Exec=env WINEPREFIX="/home/sio/q3" wine "C:\\Program Files\\Quake III Arena\\Extras\\WorldNet\\Pcvkit.exe" 
+Type=Application
+StartupNotify=true
+Path=/home/sio/q3/dosdevices/c:/Program Files/Quake III Arena
+Icon=/home/sio/.local/share/icons/6710_pcvkit.xpm

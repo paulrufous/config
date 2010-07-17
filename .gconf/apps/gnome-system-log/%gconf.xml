@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="height" mtime="1279118615" type="int" value="400"/>
+	<entry name="width" mtime="1279118615" type="int" value="600"/>
+	<entry name="logfiles" mtime="1279118609" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>/var/log/mpdscribble.log</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>/var/log/wimax.log</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>/var/log/fontconfig.log</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>/var/log/dpkg.log</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>/var/log/aptitude</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>/var/log/Xorg.0.log</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>/var/log/pycentral.log</stringvalue>
+		</li>
+	</entry>
+</gconf>

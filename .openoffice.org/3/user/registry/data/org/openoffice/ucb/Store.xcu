@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="Store" oor:package="org.openoffice.ucb">
+ <node oor:name="ContentProperties">
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="DirectoryList" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>0</value>
+     </prop>
+     <prop oor:name="Value" oor:type="oor:string-list">
+      <value>$(baseinsturl)/share/template/en-US file:///usr/share/templates/ooo/common file:///usr/share/templates/ooo/en-US file:///usr/share/templates/ooo2/common file:///usr/share/templates/ooo2/en-US $(baseinsturl)/share/template/common $(userdataurl)/user/template</value>
+     </prop>
+    </node>
+    <node oor:name="NeedsUpdate" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>0</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:boolean">
+      <value>false</value>
+     </prop>
+    </node>
+    <node oor:name="TemplateComponentVersion" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value>2</value>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Business%20Correspondence" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TargetDirURL" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value/>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Business%20Correspondence/Project%20Proposal" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TypeDescription" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value>application/vnd.oasis.opendocument.text-template</value>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Forms%20and%20Contracts" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TargetDirURL" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value/>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Forms%20and%20Contracts/Standard%20Resume" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TypeDescription" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value>application/vnd.oasis.opendocument.text-template</value>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/My%20Templates" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TargetDirURL" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>0</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value>$(userdataurl)/user/template</value>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Presentation%20Backgrounds" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TargetDirURL" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value/>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Presentation%20Backgrounds/Black%20and%20White" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TypeDescription" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value>application/vnd.oasis.opendocument.presentation-template</value>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Presentation%20Backgrounds/Blue%20Border" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TypeDescription" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value>application/vnd.oasis.opendocument.presentation-template</value>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Presentation%20Backgrounds/Blue%20Lines%20and%20Gradients" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TypeDescription" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value>application/vnd.oasis.opendocument.presentation-template</value>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Presentation%20Backgrounds/Blue%20Step%20Gradients" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TypeDescription" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value>application/vnd.oasis.opendocument.presentation-template</value>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Presentation%20Backgrounds/Blue%20and%20Grey" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TypeDescription" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value>application/vnd.oasis.opendocument.presentation-template</value>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Presentation%20Backgrounds/Blue%20and%20Red%20Gradient" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TypeDescription" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value>application/vnd.oasis.opendocument.presentation-template</value>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Presentation%20Backgrounds/Blue%20with%20Bottom%20Title%20" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TypeDescription" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value>application/vnd.oasis.opendocument.presentation-template</value>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Presentation%20Backgrounds/Brown" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TypeDescription" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value>application/vnd.oasis.opendocument.presentation-template</value>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Presentation%20Backgrounds/Characters%20with%20Glow" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TypeDescription" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value>application/vnd.oasis.opendocument.presentation-template</value>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Presentation%20Backgrounds/Forest" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TypeDescription" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value>application/vnd.oasis.opendocument.presentation-template</value>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Presentation%20Backgrounds/Fresco" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TypeDescription" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value>application/vnd.oasis.opendocument.presentation-template</value>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Presentation%20Backgrounds/Glacier" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TypeDescription" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value>application/vnd.oasis.opendocument.presentation-template</value>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Presentation%20Backgrounds/Green%20with%20White%20Lines" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TypeDescription" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value>application/vnd.oasis.opendocument.presentation-template</value>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Presentation%20Backgrounds/Keyboard" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TypeDescription" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value>application/vnd.oasis.opendocument.presentation-template</value>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Presentation%20Backgrounds/Light%20Blue%20Shapes" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TypeDescription" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value>application/vnd.oasis.opendocument.presentation-template</value>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Presentation%20Backgrounds/Noise%20Paper" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TypeDescription" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value>application/vnd.oasis.opendocument.presentation-template</value>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Presentation%20Backgrounds/Notebook" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TypeDescription" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value>application/vnd.oasis.opendocument.presentation-template</value>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Presentation%20Backgrounds/Numbers%20on%20Dark%20Background" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TypeDescription" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value>application/vnd.oasis.opendocument.presentation-template</value>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Presentation%20Backgrounds/Red%20Noise%20Shapes" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TypeDescription" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value>application/vnd.oasis.opendocument.presentation-template</value>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Presentation%20Backgrounds/Rounded%20Rectangles" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TypeDescription" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value>application/vnd.oasis.opendocument.presentation-template</value>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Presentation%20Backgrounds/Technical%20Polygon" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TypeDescription" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value>application/vnd.oasis.opendocument.presentation-template</value>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Presentation%20Backgrounds/Tunnel" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TypeDescription" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value>application/vnd.oasis.opendocument.presentation-template</value>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Presentation%20Backgrounds/Water" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TypeDescription" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value>application/vnd.oasis.opendocument.presentation-template</value>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Presentation%20Backgrounds/White%20Blue%20and%20Lightnings" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TypeDescription" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value>application/vnd.oasis.opendocument.presentation-template</value>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Presentation%20Backgrounds/Wine" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TypeDescription" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value>application/vnd.oasis.opendocument.presentation-template</value>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Presentations" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TargetDirURL" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value/>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Presentations/Introducing%20a%20New%20Product" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TypeDescription" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value>application/vnd.oasis.opendocument.presentation-template</value>
+     </prop>
+    </node>
+   </node>
+  </node>
+  <node oor:name="vnd.sun.star.hier://com.sun.star.ucb.DefaultHierarchyDataSource/templates/en-US/Presentations/Recommendation%20of%20a%20Strategy" oor:op="replace">
+   <node oor:name="Values">
+    <node oor:name="TypeDescription" oor:op="replace">
+     <prop oor:name="Attributes" oor:type="xs:int">
+      <value>129</value>
+     </prop>
+     <prop oor:name="Handle" oor:type="xs:int">
+      <value>-1</value>
+     </prop>
+     <prop oor:name="State" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <prop oor:name="Value" oor:type="xs:string">
+      <value>application/vnd.oasis.opendocument.presentation-template</value>
+     </prop>
+    </node>
+   </node>
+  </node>
+ </node>
+</oor:component-data>

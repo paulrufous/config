@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="Calc" oor:package="org.openoffice.Office">
+ <node oor:name="Input">
+  <prop oor:name="LastFunctions" oor:type="oor:int-list">
+   <value>100 224 226 222 223 6</value>
+  </prop>
+ </node>
+ <node oor:name="Layout">
+  <node oor:name="Other">
+   <node oor:name="MeasureUnit">
+    <prop oor:name="Metric" oor:type="xs:int">
+     <value>2</value>
+    </prop>
+   </node>
+   <node oor:name="TabStop">
+    <prop oor:name="Metric" oor:type="xs:int">
+     <value>1270</value>
+    </prop>
+   </node>
+  </node>
+ </node>
+ <node oor:name="SortList">
+  <prop oor:name="List" oor:type="oor:string-list">
+   <value oor:separator=";">Sun,Mon,Tue,Wed,Thu,Fri,Sat;Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday;Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec;January,February,March,April,May,June,July,August,September,October,November,December;Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Shabbat;Nissan,Iyar,Sivan,Tammuz,Av,Elul,Tishri,Heshvan,Kislev,Tevet,Shevat,Adar,Adar B</value>
+  </prop>
+ </node>
+ <node oor:name="Calculate">
+  <node oor:name="Other">
+   <prop oor:name="DecimalPlaces" oor:type="xs:int">
+    <value>65535</value>
+   </prop>
+  </node>
+ </node>
+ <node oor:name="Formula">
+  <node oor:name="Syntax">
+   <prop oor:name="Grammar" oor:type="xs:int">
+    <value>0</value>
+   </prop>
+   <prop oor:name="SeparatorArg" oor:type="xs:string">
+    <value>;</value>
+   </prop>
+   <prop oor:name="SeparatorArrayCol" oor:type="xs:string">
+    <value>.</value>
+   </prop>
+   <prop oor:name="SeparatorArrayRow" oor:type="xs:string">
+    <value>;</value>
+   </prop>
+  </node>
+ </node>
+</oor:component-data>

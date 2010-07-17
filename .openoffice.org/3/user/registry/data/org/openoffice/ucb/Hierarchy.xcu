@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="Hierarchy" oor:package="org.openoffice.ucb">
+ <node oor:name="Root">
+  <node oor:name="templates" oor:op="replace">
+   <prop oor:name="TargetURL" oor:type="xs:string">
+    <value/>
+   </prop>
+   <prop oor:name="Title" oor:type="xs:string">
+    <value>templates</value>
+   </prop>
+   <prop oor:name="Type" oor:type="xs:int">
+    <value>1</value>
+   </prop>
+   <node oor:name="Children">
+    <node oor:name="en-US" oor:op="replace">
+     <prop oor:name="TargetURL" oor:type="xs:string">
+      <value/>
+     </prop>
+     <prop oor:name="Title" oor:type="xs:string">
+      <value>en-US</value>
+     </prop>
+     <prop oor:name="Type" oor:type="xs:int">
+      <value>1</value>
+     </prop>
+     <node oor:name="Children">
+      <node oor:name="Business%20Correspondence" oor:op="replace">
+       <prop oor:name="TargetURL" oor:type="xs:string">
+        <value/>
+       </prop>
+       <prop oor:name="Title" oor:type="xs:string">
+        <value>Business Correspondence</value>
+       </prop>
+       <prop oor:name="Type" oor:type="xs:int">
+        <value>1</value>
+       </prop>
+       <node oor:name="Children">
+        <node oor:name="Project%20Proposal" oor:op="replace">
+         <prop oor:name="TargetURL" oor:type="xs:string">
+          <value>$(baseinsturl)/share/template/en-US/officorr/project-proposal.ott</value>
+         </prop>
+         <prop oor:name="Title" oor:type="xs:string">
+          <value>Project Proposal</value>
+         </prop>
+         <prop oor:name="Type" oor:type="xs:int">
+          <value>0</value>
+         </prop>
+        </node>
+       </node>
+      </node>
+      <node oor:name="Forms%20and%20Contracts" oor:op="replace">
+       <prop oor:name="TargetURL" oor:type="xs:string">
+        <value/>
+       </prop>
+       <prop oor:name="Title" oor:type="xs:string">
+        <value>Forms and Contracts</value>
+       </prop>
+       <prop oor:name="Type" oor:type="xs:int">
+        <value>1</value>
+       </prop>
+       <node oor:name="Children">
+        <node oor:name="Standard%20Resume" oor:op="replace">
+         <prop oor:name="TargetURL" oor:type="xs:string">
+          <value>$(baseinsturl)/share/template/en-US/forms/resume.ott</value>
+         </prop>
+         <prop oor:name="Title" oor:type="xs:string">
+          <value>Standard Resume</value>
+         </prop>
+         <prop oor:name="Type" oor:type="xs:int">
+          <value>0</value>
+         </prop>
+        </node>
+       </node>
+      </node>
+      <node oor:name="My%20Templates" oor:op="replace">
+       <prop oor:name="TargetURL" oor:type="xs:string">
+        <value/>
+       </prop>
+       <prop oor:name="Title" oor:type="xs:string">
+        <value>My Templates</value>
+       </prop>
+       <prop oor:name="Type" oor:type="xs:int">
+        <value>1</value>
+       </prop>
+      </node>
+      <node oor:name="Presentation%20Backgrounds" oor:op="replace">
+       <prop oor:name="TargetURL" oor:type="xs:string">
+        <value/>
+       </prop>
+       <prop oor:name="Title" oor:type="xs:string">
+        <value>Presentation Backgrounds</value>
+       </prop>
+       <prop oor:name="Type" oor:type="xs:int">
+        <value>1</value>
+       </prop>
+       <node oor:name="Children">
+        <node oor:name="Black%20and%20White" oor:op="replace">
+         <prop oor:name="TargetURL" oor:type="xs:string">
+          <value>$(baseinsturl)/share/template/en-US/layout/lyt-blackandwhite.otp</value>
+         </prop>
+         <prop oor:name="Title" oor:type="xs:string">
+          <value>Black and White</value>
+         </prop>
+         <prop oor:name="Type" oor:type="xs:int">
+          <value>0</value>
+         </prop>
+        </node>
+        <node oor:name="Blue%20Border" oor:op="replace">
+         <prop oor:name="TargetURL" oor:type="xs:string">
+          <value>$(baseinsturl)/share/template/en-US/layout/lyt-aqua.otp</value>
+         </prop>
+         <prop oor:name="Title" oor:type="xs:string">
+          <value>Blue Border</value>
+         </prop>
+         <prop oor:name="Type" oor:type="xs:int">
+          <value>0</value>
+         </prop>
+        </node>
+        <node oor:name="Blue%20Lines%20and%20Gradients" oor:op="replace">
+         <prop oor:name="TargetURL" oor:type="xs:string">
+          <value>$(baseinsturl)/share/template/en-US/layout/lyt-bluelinesgrad.otp</value>
+         </prop>
+         <prop oor:name="Title" oor:type="xs:string">
+          <value>Blue Lines and Gradients</value>
+         </prop>
+         <prop oor:name="Type" oor:type="xs:int">
+          <value>0</value>
+         </prop>
+        </node>
+        <node oor:name="Blue%20Step%20Gradients" oor:op="replace">
+         <prop oor:name="TargetURL" oor:type="xs:string">
+          <value>$(baseinsturl)/share/template/en-US/layout/lyt-ocean.otp</value>
+         </prop>
+         <prop oor:name="Title" oor:type="xs:string">
+          <value>Blue Step Gradients</value>
+         </prop>
+         <prop oor:name="Type" oor:type="xs:int">
+          <value>0</value>
+         </prop>
+        </node>
+        <node oor:name="Blue%20and%20Grey" oor:op="replace">
+         <prop oor:name="TargetURL" oor:type="xs:string">
+          <value>$(baseinsturl)/share/template/en-US/layout/lyt-bluegrey.otp</value>
+         </prop>
+         <prop oor:name="Title" oor:type="xs:string">
+          <value>Blue and Grey</value>
+         </prop>
+         <prop oor:name="Type" oor:type="xs:int">
+          <value>0</value>
+         </prop>
+        </node>
+        <node oor:name="Blue%20and%20Red%20Gradient" oor:op="replace">
+         <prop oor:name="TargetURL" oor:type="xs:string">
+          <value>$(baseinsturl)/share/template/en-US/layout/lyt-sunrise.otp</value>
+         </prop>
+         <prop oor:name="Title" oor:type="xs:string">
+          <value>Blue and Red Gradient</value>
+         </prop>
+         <prop oor:name="Type" oor:type="xs:int">
+          <value>0</value>
+         </prop>
+        </node>
+        <node oor:name="Blue%20with%20Bottom%20Title%20" oor:op="replace">
+         <prop oor:name="TargetURL" oor:type="xs:string">
+          <value>$(baseinsturl)/share/template/en-US/layout/lyt-bluetitledown.otp</value>
+         </prop>
+         <prop oor:name="Title" oor:type="xs:string">
+          <value>Blue with Bottom Title </value>
+         </prop>
+         <prop oor:name="Type" oor:type="xs:int">
+          <value>0</value>
+         </prop>
+        </node>
+        <node oor:name="Brown" oor:op="replace">
+         <prop oor:name="TargetURL" oor:type="xs:string">
+          <value>$(baseinsturl)/share/template/en-US/layout/lyt-brown.otp</value>
+         </prop>
+         <prop oor:name="Title" oor:type="xs:string">
+          <value>Brown</value>
+         </prop>
+         <prop oor:name="Type" oor:type="xs:int">
+          <value>0</value>
+         </prop>
+        </node>
+        <node oor:name="Characters%20with%20Glow" oor:op="replace">
+         <prop oor:name="TargetURL" oor:type="xs:string">
+          <value>$(baseinsturl)/share/template/en-US/layout/lyt-charglow.otp</value>
+         </prop>
+         <prop oor:name="Title" oor:type="xs:string">
+          <value>Characters with Glow</value>
+         </prop>
+         <prop oor:name="Type" oor:type="xs:int">
+          <value>0</value>
+         </prop>
+        </node>
+        <node oor:name="Forest" oor:op="replace">
+         <prop oor:name="TargetURL" oor:type="xs:string">
+          <value>$(baseinsturl)/share/template/en-US/layout/lyt-forest.otp</value>
+         </prop>
+         <prop oor:name="Title" oor:type="xs:string">
+          <value>Forest</value>
+         </prop>
+         <prop oor:name="Type" oor:type="xs:int">
+          <value>0</value>
+         </prop>
+        </node>
+        <node oor:name="Fresco" oor:op="replace">
+         <prop oor:name="TargetURL" oor:type="xs:string">
+          <value>$(baseinsturl)/share/template/en-US/layout/lyt-frepa.otp</value>
+         </prop>
+         <prop oor:name="Title" oor:type="xs:string">
+          <value>Fresco</value>
+         </prop>
+         <prop oor:name="Type" oor:type="xs:int">
+          <value>0</value>
+         </prop>
+        </node>
+        <node oor:name="Glacier" oor:op="replace">
+         <prop oor:name="TargetURL" oor:type="xs:string">
+          <value>$(baseinsturl)/share/template/en-US/layout/lyt-glacier.otp</value>
+         </prop>
+         <prop oor:name="Title" oor:type="xs:string">
+          <value>Glacier</value>
+         </prop>
+         <prop oor:name="Type" oor:type="xs:int">
+          <value>0</value>
+         </prop>
+        </node>
+        <node oor:name="Green%20with%20White%20Lines" oor:op="replace">
+         <prop oor:name="TargetURL" oor:type="xs:string">
+          <value>$(baseinsturl)/share/template/en-US/layout/lyt-greengradlines.otp</value>
+         </prop>
+         <prop oor:name="Title" oor:type="xs:string">
+          <value>Green with White Lines</value>
+         </prop>
+         <prop oor:name="Type" oor:type="xs:int">
+          <value>0</value>
+         </prop>
+        </node>
+        <node oor:name="Keyboard" oor:op="replace">
+         <prop oor:name="TargetURL" oor:type="xs:string">
+          <value>$(baseinsturl)/share/template/en-US/layout/lyt-keyboard.otp</value>
+         </prop>
+         <prop oor:name="Title" oor:type="xs:string">
+          <value>Keyboard</value>
+         </prop>
+         <prop oor:name="Type" oor:type="xs:int">
+          <value>0</value>
+         </prop>
+        </node>
+        <node oor:name="Light%20Blue%20Shapes" oor:op="replace">
+         <prop oor:name="TargetURL" oor:type="xs:string">
+          <value>$(baseinsturl)/share/template/en-US/layout/lyt-movwaves.otp</value>
+         </prop>
+         <prop oor:name="Title" oor:type="xs:string">
+          <value>Light Blue Shapes</value>
+         </prop>
+         <prop oor:name="Type" oor:type="xs:int">
+          <value>0</value>
+         </prop>
+        </node>
+        <node oor:name="Noise%20Paper" oor:op="replace">
+         <prop oor:name="TargetURL" oor:type="xs:string">
+          <value>$(baseinsturl)/share/template/en-US/layout/lyt-paper.otp</value>
+         </prop>
+         <prop oor:name="Title" oor:type="xs:string">
+          <value>Noise Paper</value>
+         </prop>
+         <prop oor:name="Type" oor:type="xs:int">
+          <value>0</value>
+         </prop>
+        </node>
+        <node oor:name="Notebook" oor:op="replace">
+         <prop oor:name="TargetURL" oor:type="xs:string">
+          <value>$(baseinsturl)/share/template/en-US/layout/lyt-book.otp</value>
+         </prop>
+         <prop oor:name="Title" oor:type="xs:string">
+          <value>Notebook</value>
+         </prop>
+         <prop oor:name="Type" oor:type="xs:int">
+          <value>0</value>
+         </prop>
+        </node>
+        <node oor:name="Numbers%20on%20Dark%20Background" oor:op="replace">
+         <prop oor:name="TargetURL" oor:type="xs:string">
+          <value>$(baseinsturl)/share/template/en-US/layout/lyt-numdark.otp</value>
+         </prop>
+         <prop oor:name="Title" oor:type="xs:string">
+          <value>Numbers on Dark Background</value>
+         </prop>
+         <prop oor:name="Type" oor:type="xs:int">
+          <value>0</value>
+         </prop>
+        </node>
+        <node oor:name="Red%20Noise%20Shapes" oor:op="replace">
+         <prop oor:name="TargetURL" oor:type="xs:string">
+          <value>$(baseinsturl)/share/template/en-US/layout/lyt-rededges.otp</value>
+         </prop>
+         <prop oor:name="Title" oor:type="xs:string">
+          <value>Red Noise Shapes</value>
+         </prop>
+         <prop oor:name="Type" oor:type="xs:int">
+          <value>0</value>
+         </prop>
+        </node>
+        <node oor:name="Rounded%20Rectangles" oor:op="replace">
+         <prop oor:name="TargetURL" oor:type="xs:string">
+          <value>$(baseinsturl)/share/template/en-US/layout/lyt-roundedrect.otp</value>
+         </prop>
+         <prop oor:name="Title" oor:type="xs:string">
+          <value>Rounded Rectangles</value>
+         </prop>
+         <prop oor:name="Type" oor:type="xs:int">
+          <value>0</value>
+         </prop>
+        </node>
+        <node oor:name="Technical%20Polygon" oor:op="replace">
+         <prop oor:name="TargetURL" oor:type="xs:string">
+          <value>$(baseinsturl)/share/template/en-US/layout/lyt-techpoly.otp</value>
+         </prop>
+         <prop oor:name="Title" oor:type="xs:string">
+          <value>Technical Polygon</value>
+         </prop>
+         <prop oor:name="Type" oor:type="xs:int">
+          <value>0</value>
+         </prop>
+        </node>
+        <node oor:name="Tunnel" oor:op="replace">
+         <prop oor:name="TargetURL" oor:type="xs:string">
+          <value>$(baseinsturl)/share/template/en-US/layout/lyt-tunnel.otp</value>
+         </prop>
+         <prop oor:name="Title" oor:type="xs:string">
+          <value>Tunnel</value>
+         </prop>
+         <prop oor:name="Type" oor:type="xs:int">
+          <value>0</value>
+         </prop>
+        </node>
+        <node oor:name="Water" oor:op="replace">
+         <prop oor:name="TargetURL" oor:type="xs:string">
+          <value>$(baseinsturl)/share/template/en-US/layout/lyt-water.otp</value>
+         </prop>
+         <prop oor:name="Title" oor:type="xs:string">
+          <value>Water</value>
+         </prop>
+         <prop oor:name="Type" oor:type="xs:int">
+          <value>0</value>
+         </prop>
+        </node>
+        <node oor:name="White%20Blue%20and%20Lightnings" oor:op="replace">
+         <prop oor:name="TargetURL" oor:type="xs:string">
+          <value>$(baseinsturl)/share/template/en-US/layout/lyt-organic.otp</value>
+         </prop>
+         <prop oor:name="Title" oor:type="xs:string">
+          <value>White Blue and Lightnings</value>
+         </prop>
+         <prop oor:name="Type" oor:type="xs:int">
+          <value>0</value>
+         </prop>
+        </node>
+        <node oor:name="Wine" oor:op="replace">
+         <prop oor:name="TargetURL" oor:type="xs:string">
+          <value>$(baseinsturl)/share/template/en-US/layout/lyt-wine.otp</value>
+         </prop>
+         <prop oor:name="Title" oor:type="xs:string">
+          <value>Wine</value>
+         </prop>
+         <prop oor:name="Type" oor:type="xs:int">
+          <value>0</value>
+         </prop>
+        </node>
+       </node>
+      </node>
+      <node oor:name="Presentations" oor:op="replace">
+       <prop oor:name="TargetURL" oor:type="xs:string">
+        <value/>
+       </prop>
+       <prop oor:name="Title" oor:type="xs:string">
+        <value>Presentations</value>
+       </prop>
+       <prop oor:name="Type" oor:type="xs:int">
+        <value>1</value>
+       </prop>
+       <node oor:name="Children">
+        <node oor:name="Introducing%20a%20New%20Product" oor:op="replace">
+         <prop oor:name="TargetURL" oor:type="xs:string">
+          <value>$(baseinsturl)/share/template/en-US/presnt/prs-novelty.otp</value>
+         </prop>
+         <prop oor:name="Title" oor:type="xs:string">
+          <value>Introducing a New Product</value>
+         </prop>
+         <prop oor:name="Type" oor:type="xs:int">
+          <value>0</value>
+         </prop>
+        </node>
+        <node oor:name="Recommendation%20of%20a%20Strategy" oor:op="replace">
+         <prop oor:name="TargetURL" oor:type="xs:string">
+          <value>$(baseinsturl)/share/template/en-US/presnt/prs-strategy.otp</value>
+         </prop>
+         <prop oor:name="Title" oor:type="xs:string">
+          <value>Recommendation of a Strategy</value>
+         </prop>
+         <prop oor:name="Type" oor:type="xs:int">
+          <value>0</value>
+         </prop>
+        </node>
+       </node>
+      </node>
+     </node>
+    </node>
+   </node>
+  </node>
+ </node>
+</oor:component-data>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="exec_arg" mtime="1279207875" type="string">
+		<stringvalue>-e</stringvalue>
+	</entry>
+	<entry name="exec" mtime="1279207875" type="string">
+		<stringvalue>rxvt</stringvalue>
+	</entry>
+</gconf>

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=notepad
+MimeType=text/plain
+Exec=wine start /ProgIDOpen txtfile %f
+NoDisplay=true
+StartupNotify=true

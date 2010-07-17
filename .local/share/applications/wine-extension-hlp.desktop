@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=winhlp32
+MimeType=application/x-wine-extension-hlp
+Exec=wine start /ProgIDOpen hlpfile %f
+NoDisplay=true
+StartupNotify=true

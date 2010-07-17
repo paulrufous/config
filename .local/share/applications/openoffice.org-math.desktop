@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Icon=openofficeorg3-math
+Type=Application
+Categories=Office;
+Exec=env OOO_FORCE_DESKTOP="gnome" ooffice -math %U
+MimeType=application/vnd.oasis.opendocument.formula;application/vnd.sun.xml.math;application/vnd.stardivision.math;
+Name=OpenOffice.org Math
+GenericName=Formula Editor
+GenericName[en]=Formula Editor
+Comment=Create and edit scientific formulas and equations by using Math.
+Comment[en]=Create and edit scientific formulas and equations by using Math.
+InitialPreference=5
+X-KDE-Protocols=file,http,smb,ftp,webdav
