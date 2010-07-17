@@ -1,0 +1,79 @@
+[app] (name=fbrun)
+  [Position]	(CENTER)	{0 0}
+  [Deco]	{NONE}
+  [Layer]	{2}
+[end]
+[app] (name=gajim.py) (class=Gajim.py) (role=roster)
+  [Workspace]	{0}
+  [Dimensions]	{149 526}
+  [Position]	(UPPERLEFT)	{0 272}
+[end]
+[group]  (workspace=[current])
+ [app] (name=Navigator) (role=browser)
+[end]
+[app] (name=pcmanfm) (class=Pcmanfm)
+[end]
+[app] (name=gmpc) (class=Gmpc)
+  [Workspace]	{2}
+  [Dimensions]	{962 759}
+  [Position]	(UPPERLEFT)	{178 22}
+  [Deco]	{NONE}
+[end]
+[app] (name=gajim.py) (class=Gajim.py) (role=gc)
+  [Workspace]	{0}
+  [Dimensions]	{632 409}
+  [Position]	(UPPERLEFT)	{646 0}
+[end]
+[app] (name=gajim.py) (class=Gajim.py) (role=pm)
+  [Workspace]	{0}
+  [Dimensions]	{407 387}
+  [Position]	(UPPERLEFT)	{237 22}
+[end]
+[app] (name=gajim.py) (class=Gajim.py) (role=chat)
+  [Workspace]	{0}
+  [Dimensions]	{407 387}
+  [Position]	(UPPERLEFT)	{0 22}
+[end]
+[app] (name=evince) (class=Evince)
+  [Dimensions]	{600 621}
+  [Maximized]	{yes}
+[end]
+[app] (name=gimp-2.6) (class=Gimp-2.6) (role=gimp-dock)
+  [Dimensions]	{206 801}
+  [Position]	(UPPERLEFT)	{1072 0}
+  [Deco]	{NONE}
+  [Layer]	{6}
+[end]
+[app] (name=gimp-2.6) (class=Gimp-2.6) (role=gimp-image-window)
+  [Dimensions]	{1072 797}
+  [Position]	(UPPERLEFT)	{0 0}
+  [Deco]	{NONE}
+[end]
+[app] (name=gimp-2.6) (class=Gimp-2.6) (role=gimp-toolbox)
+  [Dimensions]	{44 447}
+  [Position]	(UPPERLEFT)	{13 309}
+  [Deco]	{NONE}
+  [Layer]	{6}
+[end]
+[app] (name=deluge-gtk) (class=Deluge-gtk)
+  [Workspace]	{2}
+[end]
+[app] (name=Terminal) (class=URxvt)
+  [Dimensions]	{644 409}
+  [Position]	(UPPERLEFT)	{0 0}
+  [Shaded]	{yes}
+  [Sticky]	{yes}
+[end]
+[app] (name=gnome-system-monitor) (class=Gnome-system-monitor)
+  [Dimensions]	{638 791}
+[end]
+[app] (name=synaptic) (class=Synaptic)
+  [Workspace]	{2}
+[end]
+[app] (name=deluge) (class=Deluge)
+  [Workspace]	{2}
+  [Minimized]	{yes}
+[end]
+[app] (name=Pinta) (class=Pinta)
+  [Maximized]	{yes}
+[end]

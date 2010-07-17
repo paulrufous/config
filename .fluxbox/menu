@@ -1,0 +1,49 @@
+[begin] (Main Menu)
+#[include] (/etc/X11/fluxbox/fluxbox-menu)
+[exec] (Terminal) {urxvt -name Terminal}
+[exec] (File Manager) {nautilus}
+[separator]
+[submenu] (Internet/)
+	[exec] (Firefox) {firefox}
+	[exec] (Gajim) {gajim}
+	[exec] (gFtp) {gftp}
+	[exec] (Deluge) {deluge}
+[end]
+[submenu] (Multimedia/)
+	[exec] (GMPC) {gmpc}
+	[exec] (SMplayer) {smplayer}
+	[exec] (Easytag) {easytag}
+	[exec] (Audacity) {audacity}
+[end]
+[submenu] (Graphics/)
+	[exec] (Gimp) {gimp}
+	[exec] (Pinta) {pinta}
+	[exec] (Shutter) {shutter}
+[end]
+[submenu] (Office/)
+	[submenu] (MS Office/)
+	[end]
+	[submenu] (OO Office/)
+		[exec] (Writer) {env OOO_FORCE_DESKTOP="gnome" oowriter}
+		[exec] (Calc) {env OOO_FORCE_DESKTOP="gnome" oocalc}
+		[exec] (Impress) {env OOO_FORCE_DESKTOP="gnome" ooimpress}
+	[end]
+	[submenu] (GN Office/)
+	[end]
+	[exec] (Geany) {geany}
+	[exec] (Leafpad) {leafpad}
+	[exec] (Scribus) {scribus-ng}	
+[end]
+[submenu] (Other/)
+	[exec] (Comix) {comix}
+[end]
+[submenu] (System/)
+[end]
+[separator]
+[submenu] (Fluxbox/)
+	[config] (Config/)
+	[reconfig]
+	[restart] (Restart Flux)
+[end]
+[exit] (Log Out)
+[end]
