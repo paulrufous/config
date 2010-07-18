@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" enconding="utf-8"?>
+<FictionBookMarks>
+  <file>
+    <file-info>
+      <doc-title>Поэт</doc-title>
+      <doc-author>Карел Чапек</doc-author>
+      <doc-series/>
+      <doc-filename>chapek13.txt_Ascii.txt</doc-filename>
+      <doc-filepath>/home/sio/documents/books/</doc-filepath>
+      <doc-filesize>10427</doc-filesize>
+    </file-info>
+    <bookmark-list>
+      <bookmark type="lastpos" percent="0.21%" timestamp="1279452389" shortcut="0">
+        <start-point>/FictionBook/body/section[1]/title[1]/p/text().0</start-point>
+        <end-point/>
+        <header-text/>
+        <selection-text/>
+        <comment-text/>
+      </bookmark>
+    </bookmark-list>
+  </file>
+  <file>
+    <file-info>
+      <doc-title>451 градус по Фаренгейту</doc-title>
+      <doc-author>Рэй Д. Брэдбери</doc-author>
+      <doc-series/>
+      <doc-filename>Bredberi_451_gradus_po_Farengeytu.103371.fb2.zip</doc-filename>
+      <doc-filepath>/home/sio/downloads/</doc-filepath>
+      <doc-filesize>425468</doc-filesize>
+    </file-info>
+    <bookmark-list>
+      <bookmark type="lastpos" percent="0.00%" timestamp="1279452315" shortcut="0">
+        <start-point>/FictionBook/description/title-info/genre/text().0</start-point>
+        <end-point/>
+        <header-text/>
+        <selection-text/>
+        <comment-text/>
+      </bookmark>
+    </bookmark-list>
+  </file>
+</FictionBookMarks>
