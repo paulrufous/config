@@ -8,3 +8,4 @@ alias ":q"="clear && exit"
 alias dvtm="dvtm -m \<"
 alias dtach="cd && dtach"
 #alias aptitude="dtach -A aptitude aptitude"
+alias github_config_update='cd && git commit -a -m "`date`" && git push'
