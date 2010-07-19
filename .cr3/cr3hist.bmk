@@ -2,16 +2,42 @@
 <FictionBookMarks>
   <file>
     <file-info>
-      <doc-title>Поэт</doc-title>
-      <doc-author>Карел Чапек</doc-author>
+      <doc-title>The Graveyard Book</doc-title>
+      <doc-author>Neil Gaiman</doc-author>
       <doc-series/>
-      <doc-filename>chapek13.txt_Ascii.txt</doc-filename>
+      <doc-filename>Gaiman - The Graveyard Book.zip</doc-filename>
       <doc-filepath>/home/sio/documents/books/</doc-filepath>
-      <doc-filesize>10427</doc-filesize>
+      <doc-filesize>517613</doc-filesize>
     </file-info>
     <bookmark-list>
-      <bookmark type="lastpos" percent="0.21%" timestamp="1279452389" shortcut="0">
-        <start-point>/FictionBook/body/section[1]/title[1]/p/text().0</start-point>
+      <bookmark type="lastpos" percent="8.39%" timestamp="1279472833" shortcut="0">
+        <start-point>/FictionBook/body/section[2]/p[155]/text().30</start-point>
+        <end-point/>
+        <header-text/>
+        <selection-text/>
+        <comment-text/>
+      </bookmark>
+      <bookmark type="comment" percent="8.04%" timestamp="0" shortcut="0">
+        <start-point>/FictionBook/body/section[2]/p[156]/text().0</start-point>
+        <end-point>/FictionBook/body/section[2]/p[156]/text().65</end-point>
+        <header-text/>
+        <selection-text>It was late autumn when the daybreak was long in coming. Although</selection-text>
+        <comment-text/>
+      </bookmark>
+    </bookmark-list>
+  </file>
+  <file>
+    <file-info>
+      <doc-title/>
+      <doc-author/>
+      <doc-series/>
+      <doc-filename>Cory_Doctorow_-_For_the_Win.txt</doc-filename>
+      <doc-filepath>/home/sio/documents/books/</doc-filepath>
+      <doc-filesize>948732</doc-filesize>
+    </file-info>
+    <bookmark-list>
+      <bookmark type="lastpos" percent="5.09%" timestamp="1279453074" shortcut="0">
+        <start-point>/FictionBook/body/section[30]/title/p/text().0</start-point>
         <end-point/>
         <header-text/>
         <selection-text/>
@@ -29,8 +55,27 @@
       <doc-filesize>425468</doc-filesize>
     </file-info>
     <bookmark-list>
-      <bookmark type="lastpos" percent="0.00%" timestamp="1279452315" shortcut="0">
-        <start-point>/FictionBook/description/title-info/genre/text().0</start-point>
+      <bookmark type="lastpos" percent="9.04%" timestamp="1279452722" shortcut="0">
+        <start-point>/FictionBook/body[1]/section[2]/p[115]/text().102</start-point>
+        <end-point/>
+        <header-text/>
+        <selection-text/>
+        <comment-text/>
+      </bookmark>
+    </bookmark-list>
+  </file>
+  <file>
+    <file-info>
+      <doc-title>Поэт</doc-title>
+      <doc-author>Карел Чапек</doc-author>
+      <doc-series/>
+      <doc-filename>chapek13.txt_Ascii.txt</doc-filename>
+      <doc-filepath>/home/sio/documents/books/</doc-filepath>
+      <doc-filesize>10427</doc-filesize>
+    </file-info>
+    <bookmark-list>
+      <bookmark type="lastpos" percent="0.01%" timestamp="1279452389" shortcut="0">
+        <start-point>/FictionBook/body/section[1]/title[1]/p/text().0</start-point>
         <end-point/>
         <header-text/>
         <selection-text/>
@@ -39,3 +84,4 @@
     </bookmark-list>
   </file>
 </FictionBookMarks>
+

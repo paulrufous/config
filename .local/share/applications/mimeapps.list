@@ -1,14 +1,20 @@
 
 [Added Associations]
-text/plain=leafpad.desktop;
+text/plain=leafpad.desktop;geany.desktop;userapp-cr3-CAV8FV.desktop;
 video/x-matroska=smplayer.desktop;smplayer_enqueue.desktop;totem.desktop;vlc.desktop;userapp-mplayer-Y0MDFV.desktop;
 audio/x-wav=totem.desktop;smplayer.desktop;vlc.desktop;smplayer_enqueue.desktop;alsaplayer.desktop;
 audio/mpeg=totem.desktop;smplayer.desktop;vlc.desktop;smplayer_enqueue.desktop;alsaplayer.desktop;
 image/jpeg=gpicview.desktop;shutter.desktop;gimp.desktop;iceweasel.desktop;comix.desktop;feh.desktop;userapp-fbsetbg-UP8DFV.desktop;
 image/gif=gpicview.desktop;shutter.desktop;gimp.desktop;iceweasel.desktop;comix.desktop;feh.desktop;userapp-fbsetbg-UP8DFV.desktop;
-application/zip=file-roller.desktop;userapp-firefox-ULXLFV.desktop;
+application/zip=file-roller.desktop;userapp-firefox-ULXLFV.desktop;comix.desktop;userapp-cr3-4H61FV.desktop;
 video/x-ogm+ogg=smplayer.desktop;totem.desktop;smplayer_enqueue.desktop;mplayer.desktop;vlc.desktop;easytag.desktop;audacity.desktop;
-inode/directory=nautilus-folder-handler.desktop;pcmanfm.desktop;totem.desktop;
+inode/directory=nautilus-folder-handler.desktop;pcmanfm.desktop;totem.desktop;easytag.desktop;
 video/x-flv=smplayer.desktop;
 video/3gpp=smplayer.desktop;
 application/x-extension-mdf=vlc.desktop;
+application/xml=geany.desktop;
+
+[Removed Associations]
+application/xml=wine-extension-txt.desktop;wine-extension-ini.desktop;wine-extension-xml.desktop;
+text/plain=wine-extension-ini.desktop;wine-extension-txt.desktop;
+application/zip=userapp-ob-BYF2FV.desktop;

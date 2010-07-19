@@ -234,9 +234,9 @@ vmap <F7> <esc>:bn<cr>i
 imap <F7> <esc>:bn<cr>i
 
 " F8 - список закладок
-map <F8> :MarksBrowser<cr>
-vmap <F8> <esc>:MarksBrowser<cr>
-imap <F8> <esc>:MarksBrowser<cr>
+"map <F8> :MarksBrowser<cr>
+"vmap <F8> <esc>:MarksBrowser<cr>
+"imap <F8> <esc>:MarksBrowser<cr>
 
 " F9 - закрыть буфер
 map <F9> :bd<CR>
