@@ -1,7 +1,0 @@
-[Desktop Entry]
-Name=Uninstall Quake III Arena
-Exec=env WINEPREFIX="/home/sio/q3" wine "C:\\windows\\IsUninst.exe" -f"C:\\Program Files\\Quake III Arena\\QIII.isu"
-Type=Application
-StartupNotify=true
-Path=/home/sio/q3/dosdevices/c:/windows
-Icon=/home/sio/.local/share/icons/b672_isuninst.0.xpm

@@ -1,7 +1,0 @@
-[Desktop Entry]
-Name=Uninstall Mplayer.com
-Exec=env WINEPREFIX="/home/sio/q3" wine "C:\\Program Files\\Mplayer\\system\\unwise32.exe" install.log
-Type=Application
-StartupNotify=true
-Path=/home/sio/q3/dosdevices/c:/Program Files/Mplayer/System
-Icon=/home/sio/.local/share/icons/c9e4_unwise32.0.xpm

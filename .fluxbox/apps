@@ -77,3 +77,10 @@
 [app] (name=Pinta) (class=Pinta)
   [Maximized]	{yes}
 [end]
+[app] (name=htop) (class=URxvt)
+  [Dimensions]	{828 473}
+[end]
+[app] (name=aptitude) (class=URxvt)
+  [Dimensions]	{644 585}
+  [Close]	{yes}
+[end]

@@ -1,6 +1,0 @@
-[Desktop Entry]
-Name=Check for Quake III Arena Updates
-Exec=env WINEPREFIX="/home/sio/q3" wine "C:\\Program Files\\Quake III Arena\\Check for Quake III Arena Updates.exe" 
-Type=Application
-StartupNotify=true
-Icon=/home/sio/.local/share/icons/0611_check for quake iii arena updates.0.xpm

@@ -1,6 +1,0 @@
-[Desktop Entry]
-Name=Connect to Mplayer.com
-Exec=env WINEPREFIX="/home/sio/q3" wine "C:\\windows\\command\\start.exe" "C:\\Program Files\\Mplayer\\Connect to Mplayer.com.url"
-Type=Application
-StartupNotify=true
-Icon=/home/sio/.local/share/icons/de5e_mplaunch.0.xpm

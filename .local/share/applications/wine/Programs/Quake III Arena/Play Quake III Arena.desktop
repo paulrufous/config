@@ -1,7 +1,0 @@
-[Desktop Entry]
-Name=Play Quake III Arena
-Exec=env WINEPREFIX="/home/sio/q3" wine "C:\\Program Files\\Quake III Arena\\quake3.exe" 
-Type=Application
-StartupNotify=true
-Path=/home/sio/q3/dosdevices/c:/Program Files/Quake III Arena
-Icon=/home/sio/.local/share/icons/0611_quake3.0.xpm

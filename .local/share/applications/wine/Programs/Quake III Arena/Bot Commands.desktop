@@ -1,6 +1,0 @@
-[Desktop Entry]
-Name=Bot Commands
-Exec=env WINEPREFIX="/home/sio/q3" wine "C:\\windows\\command\\start.exe" "C:\\Program Files\\Quake III Arena\\extras\\help\\botcommands.htm"
-Type=Application
-StartupNotify=true
-Icon=/home/sio/.local/share/icons/c4c4_botcommands.xpm

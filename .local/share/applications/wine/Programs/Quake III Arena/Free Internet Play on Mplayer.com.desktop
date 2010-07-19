@@ -1,7 +1,0 @@
-[Desktop Entry]
-Name=Free Internet Play on Mplayer.com
-Exec=env WINEPREFIX="/home/sio/q3" wine "C:\\Program Files\\Mplayer\\Programs\\Mplaunch.exe" 
-Type=Application
-StartupNotify=true
-Path=/home/sio/q3/dosdevices/c:/Program Files/Mplayer/Programs/MpLaunch.exe
-Icon=/home/sio/.local/share/icons/de5e_mplaunch.0.xpm

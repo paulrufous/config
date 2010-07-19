@@ -17,6 +17,7 @@
 [end]
 [submenu] (Graphics/)
 	[exec] (Gimp) {gimp}
+    [exec] (Inkscape) {inkscape}
 	[exec] (Pinta) {pinta}
 	[exec] (Shutter) {shutter}
 [end]
@@ -29,15 +30,34 @@
 		[exec] (Impress) {env OOO_FORCE_DESKTOP="gnome" ooimpress}
 	[end]
 	[submenu] (GN Office/)
+        [exec] (Abiword) {abiword}
+        [exec] (Gnumeric) {gnumeric}
 	[end]
 	[exec] (Geany) {geany}
 	[exec] (Leafpad) {leafpad}
+    [exec] (Dia) {dia}
 	[exec] (Scribus) {scribus-ng}	
 [end]
 [submenu] (Other/)
+    [submenu] (Games/)
+        [exec] (Quake 3) {export WINEPREFIX=~/.wineprefixes/q3 && cd $WINEPREFIX/drive_c/Program\ Files/Quake\ III\ Arena && wine quake3.exe}
+    [end]
+    [submenu] (Gnome Games/)
+    [end]
+    [separator]
+    [exec] (Coolreader) {cr3}
 	[exec] (Comix) {comix}
+    [exec] (Playonlinux) {playonlinux}
 [end]
 [submenu] (System/)
+    [exec] (Alsamixer) {urxvt -name alsamixer -T "ALSA Mixer" -e alsamixer}
+    [exec] (ControlCenter) {gnome-control-center}
+    [exec] (Gtk Theme) {lxappearance && killall lxappearance}
+    [exec] (htop) {urxvt -name htop -T "System Monitor" -e htop}
+    [exec] (Monitor) {gnome-system-monitor} 
+    [separator] 
+    [exec] (Aptitude) {urxvt -T "Aptitude Package Manager" -name aptitude -e sudo aptitude}
+    [exec] (Synaptic) {gksudo synaptic}
 [end]
 [separator]
 [submenu] (Fluxbox/)
