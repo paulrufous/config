@@ -1,7 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=winebrowser
-MimeType=text/html
-Exec=wine start /ProgIDOpen htmlfile %f
-NoDisplay=true
-StartupNotify=true

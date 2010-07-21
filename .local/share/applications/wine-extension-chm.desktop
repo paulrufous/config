@@ -1,7 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=hh
-MimeType=application/x-chm
-Exec=wine start /ProgIDOpen chm.file %f
-NoDisplay=true
-StartupNotify=true

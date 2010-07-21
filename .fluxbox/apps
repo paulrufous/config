@@ -57,6 +57,7 @@
 [end]
 [app] (name=deluge-gtk) (class=Deluge-gtk)
   [Workspace]	{2}
+  [Minimized]	{yes}
 [end]
 [app] (name=Terminal) (class=URxvt)
   [Dimensions]	{644 409}
@@ -83,4 +84,6 @@
 [app] (name=aptitude) (class=URxvt)
   [Dimensions]	{644 585}
   [Close]	{yes}
+[end]
+[app] (name=nautilus) (class=Nautilus)
 [end]

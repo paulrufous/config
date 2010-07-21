@@ -1,7 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=notepad
-MimeType=text/plain
-Exec=wine start /ProgIDOpen inifile %f
-NoDisplay=true
-StartupNotify=true

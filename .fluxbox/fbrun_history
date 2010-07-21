@@ -36,3 +36,5 @@ gnome-system-log
 gnome-system-monitor
 vlc
 xrdb ~/.Xresources && urxvt
+pcmanfm
+xfontsel

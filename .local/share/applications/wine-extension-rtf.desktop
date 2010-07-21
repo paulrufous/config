@@ -1,7 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=wordpad
-MimeType=application/rtf
-Exec=wine start /ProgIDOpen rtffile %f
-NoDisplay=true
-StartupNotify=true

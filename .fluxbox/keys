@@ -105,3 +105,5 @@ Mod1 m :ExecCommand amixer sset Master toggle
 Mod4 t :ToggleDecor
 Print :ExecCommand cd ~/pictures/screens && scrot
 Mod4 h :Shade
+
+Mod4 Tab :ExecCommand ~/bin/cml.sh

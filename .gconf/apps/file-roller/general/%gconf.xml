@@ -1,6 +1,9 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="editors" mtime="1279206107" type="list" ltype="string">
+	<entry name="editors" mtime="1279643536" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>evince</stringvalue>
+		</li>
 		<li type="string">
 			<stringvalue>firefox</stringvalue>
 		</li>

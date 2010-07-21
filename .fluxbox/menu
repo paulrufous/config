@@ -33,6 +33,7 @@
         [exec] (Abiword) {abiword}
         [exec] (Gnumeric) {gnumeric}
 	[end]
+    [separator]
 	[exec] (Geany) {geany}
 	[exec] (Leafpad) {leafpad}
     [exec] (Dia) {dia}

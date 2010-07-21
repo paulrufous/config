@@ -1,7 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=wordpad
-MimeType=application/x-mswrite
-Exec=wine start /ProgIDOpen wrifile %f
-NoDisplay=true
-StartupNotify=true
