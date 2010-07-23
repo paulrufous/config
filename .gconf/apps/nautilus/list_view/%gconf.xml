@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="default_column_order" mtime="1279567598" type="list" ltype="string">
+	<entry name="default_column_order" mtime="1279916324" type="list" ltype="string">
 		<li type="string">
 			<stringvalue>name</stringvalue>
 		</li>
@@ -38,7 +38,7 @@
 			<stringvalue>selinux_context</stringvalue>
 		</li>
 	</entry>
-	<entry name="default_visible_columns" mtime="1279567598" type="list" ltype="string">
+	<entry name="default_visible_columns" mtime="1279916324" type="list" ltype="string">
 		<li type="string">
 			<stringvalue>name</stringvalue>
 		</li>

@@ -40,3 +40,14 @@
 2010-07-18T13:32:52 devicepreference.upd: Running script 'phonon_devicepreference_update'
 2010-07-18T13:32:52 devicepreference.upd: Found new update 'DevicesUIDsChanged'
 2010-07-18T13:32:52 devicepreference.upd: Running script 'phonon_deviceuids_update'
+2010-07-24T00:15:08 Checking update-file '/usr/share/kde4/apps/kconf_update/kuriikwsfilter.upd' for new updates
+2010-07-24T00:15:08 Checking update-file '/usr/share/kde4/apps/kconf_update/kio_help.upd' for new updates
+2010-07-24T00:15:08 Checking update-file '/usr/share/kde4/apps/kconf_update/kded.upd' for new updates
+2010-07-24T00:15:08 Checking update-file '/usr/share/kde4/apps/kconf_update/kcookiescfg.upd' for new updates
+2010-07-24T00:15:08 Checking update-file '/usr/share/kde4/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2010-07-24T00:15:08 Checking update-file '/usr/share/kde4/apps/kconf_update/kioslave.upd' for new updates
+2010-07-24T00:15:08 kioslave.upd: Found new update 'kde2.2/r1'
+2010-07-24T00:15:08 kioslave.upd: Skipping update 'kde2.2/r1'
+2010-07-24T00:15:08 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2010-07-24T00:15:08 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma_popupapplet_fix_groups.upd' for new updates
+2010-07-24T00:15:08 Checking update-file '/usr/share/kde4/apps/kconf_update/devicepreference.upd' for new updates

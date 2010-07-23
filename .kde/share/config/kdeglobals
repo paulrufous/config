@@ -1,6 +1,25 @@
 [$Version]
 update_info=kded.upd:kde3.0
 
+[ColorEffects:Inactive]
+ColorEffect=-2
+ContrastEffect=-2
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundNormal=223,223,207
+
+[Colors:Selection]
+BackgroundNormal=159,159,147
+ForegroundInactive=166,194,228
+
+[Colors:View]
+BackgroundNormal=246,247,247
+
+[Colors:Window]
+BackgroundNormal=223,223,207
+ForegroundNormal=20,19,18
+
 [General]
 XftAntialias=true
 XftHintStyle=hintfull
@@ -18,11 +37,11 @@ widgetStyle=gtk+
 ShowIconsOnPushButtons=true
 
 [KDE-Global GUI Settings]
-GraphicEffectsLevel=6
+GraphicEffectsLevel=0
 
 [Toolbar style]
-ToolButtonStyle=TextBesideIcon
-ToolButtonStyleOtherToolbars=TextBesideIcon
+ToolButtonStyle=NoText
+ToolButtonStyleOtherToolbars=NoText
 
 [WM]
 activeFont=DejaVu Sans,9,-1,5,75,0,0,0,0,0
