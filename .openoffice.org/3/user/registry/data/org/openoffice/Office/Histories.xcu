@@ -69,34 +69,50 @@
       <value>Тест</value>
      </prop>
     </node>
+    <node oor:name="file:///home/sio/tmp/trash/1424702284_1xls" oor:op="replace">
+     <prop oor:name="Filter" oor:type="xs:string">
+      <value>MS Excel 2003 XML</value>
+     </prop>
+     <prop oor:name="Password" oor:type="xs:string">
+      <value/>
+     </prop>
+     <prop oor:name="Title" oor:type="xs:string">
+      <value>1424702284_1xls</value>
+     </prop>
+    </node>
    </node>
    <node oor:name="OrderList">
     <node oor:name="0" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/%D0%A2%D0%B5%D1%81%D1%82.xls</value>
+      <value>file:///home/sio/tmp/trash/1424702284_1xls</value>
      </prop>
     </node>
     <node oor:name="1" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/%D0%A1%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%B8%20%D0%9C%D1%83%D1%87%D0%BD%D0%BE%D0%B9%20%D0%BC%D0%BE%D1%81%D1%82%D1%8B.doc</value>
+      <value>file:///home/sio/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/%D0%A2%D0%B5%D1%81%D1%82.xls</value>
      </prop>
     </node>
     <node oor:name="2" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/portable_list.ods</value>
+      <value>file:///home/sio/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/%D0%A1%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%B8%20%D0%9C%D1%83%D1%87%D0%BD%D0%BE%D0%B9%20%D0%BC%D0%BE%D1%81%D1%82%D1%8B.doc</value>
      </prop>
     </node>
     <node oor:name="3" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/%D1%83%D1%87%D0%B5%D0%B1%D0%B0/%D0%A3%D1%87%D0%B5%D0%B1%D0%B0/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B8/mine/kurs_1.01.ods</value>
+      <value>file:///home/sio/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/portable_list.ods</value>
      </prop>
     </node>
     <node oor:name="4" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/%D1%83%D1%87%D0%B5%D0%B1%D0%B0/%D0%A3%D1%87%D0%B5%D0%B1%D0%B0/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B8/mine/kurs_1.01.xls</value>
+      <value>file:///home/sio/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/%D1%83%D1%87%D0%B5%D0%B1%D0%B0/%D0%A3%D1%87%D0%B5%D0%B1%D0%B0/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B8/mine/kurs_1.01.ods</value>
      </prop>
     </node>
     <node oor:name="5" oor:op="replace">
+     <prop oor:name="HistoryItemRef" oor:type="xs:string">
+      <value>file:///home/sio/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/%D1%83%D1%87%D0%B5%D0%B1%D0%B0/%D0%A3%D1%87%D0%B5%D0%B1%D0%B0/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B8/mine/kurs_1.01.xls</value>
+     </prop>
+    </node>
+    <node oor:name="6" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
       <value>file:///media/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/%D1%83%D1%87%D0%B5%D0%B1%D0%B0/%D0%A3%D1%87%D0%B5%D0%B1%D0%B0/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B8/%D0%94%D0%B0%D1%88%D0%B0%20%D0%9A%D1%83%D0%B7%D0%BD%D0%B5%D1%86%D0%BE%D0%B2%D0%B0.xlsx</value>
      </prop>
@@ -171,34 +187,50 @@
       <value>dpi</value>
      </prop>
     </node>
+    <node oor:name="file:///home/sio/tmp/trash/1424702284_1xls.ods" oor:op="replace">
+     <prop oor:name="Filter" oor:type="xs:string">
+      <value>calc8</value>
+     </prop>
+     <prop oor:name="Password" oor:type="xs:string">
+      <value/>
+     </prop>
+     <prop oor:name="Title" oor:type="xs:string">
+      <value>1424702284_1xls</value>
+     </prop>
+    </node>
    </node>
    <node oor:name="OrderList">
     <node oor:name="0" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/documents/dpi.ods</value>
+      <value>file:///home/sio/tmp/trash/1424702284_1xls.ods</value>
      </prop>
     </node>
     <node oor:name="1" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/%D0%A2%D0%B5%D1%81%D1%82.xls</value>
+      <value>file:///home/sio/documents/dpi.ods</value>
      </prop>
     </node>
     <node oor:name="2" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/%D0%A1%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%B8%20%D0%9C%D1%83%D1%87%D0%BD%D0%BE%D0%B9%20%D0%BC%D0%BE%D1%81%D1%82%D1%8B.doc</value>
+      <value>file:///home/sio/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/%D0%A2%D0%B5%D1%81%D1%82.xls</value>
      </prop>
     </node>
     <node oor:name="3" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/portable_list.ods</value>
+      <value>file:///home/sio/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/%D0%A1%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%B8%20%D0%9C%D1%83%D1%87%D0%BD%D0%BE%D0%B9%20%D0%BC%D0%BE%D1%81%D1%82%D1%8B.doc</value>
      </prop>
     </node>
     <node oor:name="4" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/%D1%83%D1%87%D0%B5%D0%B1%D0%B0/%D0%A3%D1%87%D0%B5%D0%B1%D0%B0/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B8/mine/kurs_1.01.ods</value>
+      <value>file:///home/sio/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/portable_list.ods</value>
      </prop>
     </node>
     <node oor:name="5" oor:op="replace">
+     <prop oor:name="HistoryItemRef" oor:type="xs:string">
+      <value>file:///home/sio/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/%D1%83%D1%87%D0%B5%D0%B1%D0%B0/%D0%A3%D1%87%D0%B5%D0%B1%D0%B0/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B8/mine/kurs_1.01.ods</value>
+     </prop>
+    </node>
+    <node oor:name="6" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
       <value>file:///media/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/%D1%83%D1%87%D0%B5%D0%B1%D0%B0/%D0%A3%D1%87%D0%B5%D0%B1%D0%B0/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B8/%D0%94%D0%B0%D1%88%D0%B0%20%D0%9A%D1%83%D0%B7%D0%BD%D0%B5%D1%86%D0%BE%D0%B2%D0%B0.xlsx</value>
      </prop>

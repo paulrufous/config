@@ -1,4 +1,4 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="statusbar_visible" mtime="1279354629" type="bool" value="false"/>
+	<entry name="statusbar_visible" mtime="1279913561" type="bool" value="false"/>
 </gconf>

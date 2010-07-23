@@ -41,6 +41,7 @@
 [end]
 [submenu] (Other/)
     [submenu] (Games/)
+        [exec] (OpenArena) {SDL_VIDEO_X11_DGAMOUSE=0 openarena}
         [exec] (Quake 3) {export WINEPREFIX=~/.wineprefixes/q3 && cd $WINEPREFIX/drive_c/Program\ Files/Quake\ III\ Arena && wine quake3.exe}
     [end]
     [submenu] (Gnome Games/)
@@ -53,6 +54,7 @@
 [submenu] (System/)
     [exec] (Alsamixer) {urxvt -name alsamixer -T "ALSA Mixer" -e alsamixer}
     [exec] (ControlCenter) {gnome-control-center}
+    [exec] (GParted) {gksudo gparted}
     [exec] (Gtk Theme) {lxappearance && killall lxappearance}
     [exec] (htop) {urxvt -name htop -T "System Monitor" -e htop}
     [exec] (Monitor) {gnome-system-monitor} 

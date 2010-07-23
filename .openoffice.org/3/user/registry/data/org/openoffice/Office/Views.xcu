@@ -118,6 +118,19 @@
     </prop>
    </node>
   </node>
+  <node oor:name="26152" oor:op="replace">
+   <prop oor:name="Visible" oor:type="xs:boolean">
+    <value xsi:nil="true"/>
+   </prop>
+   <prop oor:name="WindowState" oor:type="xs:string">
+    <value>294,451,,;1;,,,;</value>
+   </prop>
+   <node oor:name="UserData">
+    <prop oor:name="Data" oor:op="replace" oor:type="xs:string">
+     <value>V2,H,0</value>
+    </prop>
+   </node>
+  </node>
  </node>
  <node oor:name="Dialogs">
   <node oor:name="16615" oor:op="replace">
@@ -146,9 +159,14 @@
    </prop>
    <node oor:name="UserData">
     <prop oor:name="UserItem" oor:op="replace" oor:type="xs:string">
-     <value>1 file:///home/sio/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/%D1%83%D1%87%D0%B5%D0%B1%D0%B0/%D0%A3%D1%87%D0%B5%D0%B1%D0%B0/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B8/mine</value>
+     <value>1 file:///home/sio/tmp/trash</value>
     </prop>
    </node>
+  </node>
+  <node oor:name="2308" oor:op="replace">
+   <prop oor:name="WindowState" oor:type="xs:string">
+    <value>389,283,,;;,,,;</value>
+   </prop>
   </node>
  </node>
  <node oor:name="TabDialogs">
@@ -166,6 +184,14 @@
    </prop>
    <prop oor:name="WindowState" oor:type="xs:string">
     <value>321,151,,;;,,,;</value>
+   </prop>
+  </node>
+  <node oor:name="25609" oor:op="replace">
+   <prop oor:name="PageID" oor:type="xs:int">
+    <value>1</value>
+   </prop>
+   <prop oor:name="WindowState" oor:type="xs:string">
+    <value>441,300,,;;,,,;</value>
    </prop>
   </node>
  </node>

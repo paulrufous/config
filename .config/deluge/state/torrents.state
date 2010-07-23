@@ -126,7 +126,7 @@ sg8
 V/home/sio
 p50
 sg10
-I00
+I01
 sg11
 I-1
 sg12
@@ -136,7 +136,7 @@ I-1
 sg14
 I00
 sg15
-I0
+I-1
 sg16
 (lp51
 I1
@@ -151,7 +151,7 @@ p53
 sg23
 F1279724252.6709969
 sg24
-L26987706L
+L54755428L
 sg25
 S'1981657a6ec6a70654ef4ec5b80c111a9c64169b'
 p54
@@ -195,7 +195,7 @@ I00
 sg46
 F2
 sg47
-I00
+I01
 sba(ideluge.core.torrentmanager
 TorrentState
 p66

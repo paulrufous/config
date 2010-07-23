@@ -19,7 +19,9 @@
   [Position]	(UPPERLEFT)	{178 22}
   [Deco]	{NONE}
 [end]
-[app] (name=gajim.py) (class=Gajim.py) (role=gc)
+[group]  (workspace=[current])
+ [app] (name=gajim.py) (class=Gajim.py) (role=gc)
+ [app] (name=Download) (class=Firefox) (role=Manager)
   [Workspace]	{0}
   [Dimensions]	{632 409}
   [Position]	(UPPERLEFT)	{646 0}
@@ -86,4 +88,6 @@
   [Close]	{yes}
 [end]
 [app] (name=nautilus) (class=Nautilus)
+[end]
+[app] (name=alsamixer) (class=URxvt)
 [end]

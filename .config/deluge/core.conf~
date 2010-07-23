@@ -50,7 +50,7 @@
   "enabled_plugins": [], 
   "random_port": true, 
   "autoadd_enable": true, 
-  "max_connections_global": 50, 
+  "max_connections_global": 100, 
   "enc_prefer_rc4": true, 
   "listen_ports": [
     6881, 
