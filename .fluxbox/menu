@@ -4,40 +4,40 @@
 [exec] (File Manager) {nautilus}
 [separator]
 [submenu] (Internet/)
-	[exec] (Firefox) {firefox}
-	[exec] (Gajim) {gajim}
-	[exec] (gFtp) {gftp}
-	[exec] (Deluge) {deluge}
+    [exec] (Firefox) {firefox}
+    [exec] (Gajim) {gajim}
+    [exec] (gFtp) {gftp}
+    [exec] (Deluge) {deluge}
 [end]
 [submenu] (Multimedia/)
-	[exec] (GMPC) {gmpc}
-	[exec] (SMplayer) {smplayer}
-	[exec] (Easytag) {easytag}
-	[exec] (Audacity) {audacity}
+    [exec] (GMPC) {gmpc}
+    [exec] (SMplayer) {smplayer}
+    [exec] (Easytag) {easytag}
+    [exec] (Audacity) {audacity}
 [end]
 [submenu] (Graphics/)
-	[exec] (Gimp) {gimp}
+    [exec] (Gimp) {gimp}
     [exec] (Inkscape) {inkscape}
-	[exec] (Pinta) {pinta}
-	[exec] (Shutter) {shutter}
+    [exec] (Pinta) {pinta}
+    [exec] (Shutter) {shutter}
 [end]
 [submenu] (Office/)
-	[submenu] (MS Office/)
-	[end]
-	[submenu] (OO Office/)
-		[exec] (Writer) {env OOO_FORCE_DESKTOP="gnome" oowriter}
-		[exec] (Calc) {env OOO_FORCE_DESKTOP="gnome" oocalc}
-		[exec] (Impress) {env OOO_FORCE_DESKTOP="gnome" ooimpress}
-	[end]
-	[submenu] (GN Office/)
+    [submenu] (MS Office/)
+    [end]
+    [submenu] (OO Office/)
+        [exec] (Writer) {env OOO_FORCE_DESKTOP="gnome" oowriter}
+        [exec] (Calc) {env OOO_FORCE_DESKTOP="gnome" oocalc}
+        [exec] (Impress) {env OOO_FORCE_DESKTOP="gnome" ooimpress}
+    [end]
+    [submenu] (GN Office/)
         [exec] (Abiword) {abiword}
         [exec] (Gnumeric) {gnumeric}
-	[end]
+    [end]
     [separator]
-	[exec] (Geany) {geany}
-	[exec] (Leafpad) {leafpad}
+    [exec] (Geany) {geany}
+    [exec] (Leafpad) {leafpad}
     [exec] (Dia) {dia}
-	[exec] (Scribus) {scribus-ng}	
+    [exec] (Scribus) {scribus-ng}
 [end]
 [submenu] (Other/)
     [submenu] (Games/)
@@ -48,7 +48,7 @@
     [end]
     [separator]
     [exec] (Coolreader) {cr3}
-	[exec] (Comix) {comix}
+    [exec] (Comix) {comix}
     [exec] (Playonlinux) {playonlinux}
 [end]
 [submenu] (System/)
@@ -57,16 +57,16 @@
     [exec] (GParted) {gksudo gparted}
     [exec] (Gtk Theme) {lxappearance && killall lxappearance}
     [exec] (htop) {urxvt -name htop -T "System Monitor" -e htop}
-    [exec] (Monitor) {gnome-system-monitor} 
-    [separator] 
+    [exec] (Monitor) {gnome-system-monitor}
+    [separator]
     [exec] (Aptitude) {urxvt -T "Aptitude Package Manager" -name aptitude -e sudo aptitude}
     [exec] (Synaptic) {gksudo synaptic}
 [end]
 [separator]
 [submenu] (Fluxbox/)
-	[config] (Config/)
-	[reconfig]
-	[restart] (Restart Flux)
+    [config] (Config/)
+    [reconfig]
+    [restart] (Restart Flux)
 [end]
 [exit] (Log Out)
 [end]
