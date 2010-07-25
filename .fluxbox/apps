@@ -91,3 +91,6 @@
 [end]
 [app] (name=alsamixer) (class=URxvt)
 [end]
+[app] (name=kolf) (class=Kolf) (role=Kolf)
+  [Dimensions]	{580 741}
+[end]

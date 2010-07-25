@@ -38,3 +38,5 @@ vlc
 xrdb ~/.Xresources && urxvt
 pcmanfm
 xfontsel
+gsoko
+playonlinux

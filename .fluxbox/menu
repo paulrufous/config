@@ -41,8 +41,15 @@
 [end]
 [submenu] (Other/)
     [submenu] (Games/)
+        [exec] (Armagetron) {armagetronad}
+        [exec] (BattleTanks) {btanks}
+        [exec] (Diablo II) {cd "/home/sio/.PlayOnLinux/wineprefix/DiabloII/drive_c/Program Files/Diablo II" && WINEPREFIX=~/.PlayOnLinux/wineprefix/DiabloII wine Game.exe}
+        [exec] (GLTron) {gltron}
+        [exec] (gtkPool) {gtkpool}
+        [exec] (Kolf) {kolf}
         [exec] (OpenArena) {SDL_VIDEO_X11_DGAMOUSE=0 openarena}
         [exec] (Quake 3) {export WINEPREFIX=~/.wineprefixes/q3 && cd $WINEPREFIX/drive_c/Program\ Files/Quake\ III\ Arena && wine quake3.exe}
+        [exec] (Wesnoth) {wesnoth-1.8}
     [end]
     [submenu] (Gnome Games/)
     [end]
