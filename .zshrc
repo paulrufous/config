@@ -145,3 +145,7 @@ screensaver()
     fi
 }
 ### END SCREENSAVER
+
+### REMOVE ~/bin FROM PATH
+PATH=/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games
+### END REMOVE ~/bin FROM PATH
