@@ -3,11 +3,13 @@
 image/bmp:*.dib
 text/x-component:*.htc
 application/x-extension-mdf:*.mdf
-image/jpeg:*.jfif
+application/x-wine-extension-cpg:*.cpg
 message/rfc822:*.mhtml
+image/jpeg:*.jfif
 application/mpi:*.mpi
 application/x-wine-extension-lnk:*.lnk
 application/x-wine-extension-cpl:*.cpl
 application/x-wine-extension-hlp:*.hlp
 application/x-wine-extension-its:*.its
 message/rfc822:*.mht
+application/x-wine-extension-scx:*.scx

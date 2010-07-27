@@ -49,11 +49,16 @@
         [exec] (Kolf) {kolf}
         [exec] (OpenArena) {SDL_VIDEO_X11_DGAMOUSE=0 openarena}
         [exec] (Quake 3) {export WINEPREFIX=~/.wineprefixes/q3 && cd $WINEPREFIX/drive_c/Program\ Files/Quake\ III\ Arena && wine quake3.exe}
+        [submenu] (StarCraft)
+            [exec] (Original) {~/bin/starcraft-launcher.sh --sc}
+            [exec] (BroodWar) {~/bin/starcraft-launcher.sh --bw}
+        [end]]
         [exec] (Wesnoth) {wesnoth-1.8}
     [end]
     [submenu] (Gnome Games/)
     [end]
     [separator]
+    [exec] (Calculator) {gcalctool}
     [exec] (Coolreader) {cr3}
     [exec] (Comix) {comix}
     [exec] (Playonlinux) {playonlinux}

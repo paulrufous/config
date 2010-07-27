@@ -40,3 +40,4 @@ pcmanfm
 xfontsel
 gsoko
 playonlinux
+conky -c ~/.conkyrc-diclock
