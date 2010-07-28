@@ -68,8 +68,9 @@ esac
   #autoload -U promptinit
   #promptinit
   #prompt adam2
-PROMPT='
-%B%F{blue}[%n] %F{green}%/# %f%b'
+[ "x$USER" = "xroot" ] && NAMECOLOR=red || NAMECOLOR=blue
+PROMPT="
+%B%F{$NAMECOLOR}[%n] %F{green}%/# %f%b"
 ### END PROMPT
 
 ### COMPLETION COLORS

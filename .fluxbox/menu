@@ -53,6 +53,7 @@
             [exec] (Original) {~/bin/starcraft-launcher.sh --sc}
             [exec] (BroodWar) {~/bin/starcraft-launcher.sh --bw}
         [end]]
+        [exec] (Warcraft III) {LANG=ru_RU.CP1251 WINEPREFIX=~/.wineprefixes/wc3 wine "C:\Program Files\Warcraft III\Frozen Throne.exe" -opengl}
         [exec] (Wesnoth) {wesnoth-1.8}
     [end]
     [submenu] (Gnome Games/)

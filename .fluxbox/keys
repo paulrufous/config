@@ -13,9 +13,9 @@ OnToolbar Mouse4 :PrevWorkspace
 OnToolbar Mouse5 :NextWorkspace
 
 # alt + left/right click to move/resize a window
-OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+OnWindow Mod4 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
 OnWindow Control Mouse3 :MacroCmd {Raise} {Focus} {StartResizing NearestCorner}
-OnWindow Mod1 Mouse3 :Maximize
+OnWindow Mod4 Mouse3 :Maximize
 
 # middle click a window's titlebar and drag to attach windows
 OnTitlebar Mouse2 :StartTabbing
@@ -64,7 +64,7 @@ Mod1 F10 :Maximize
 Mod1 F11 :Fullscreen
 
 # open the window menu
-Mod1 space :WindowMenu
+#Mod1 space :WindowMenu
 
 # exit fluxbox
 #Control Mod1 Delete :Exit

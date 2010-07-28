@@ -77,3 +77,17 @@
 26/07/2010-17:54:16:Info:Connected to mpd
 27/07/2010-06:57:27:Info:Connected to mpd
 27/07/2010-15:27:56:Info:Connected to mpd
+27/07/2010-20:46:39:Info:Connected to mpd
+28/07/2010-00:04:24:Critical:<b>error code 17: connection closed</b>
+28/07/2010-00:04:24:Info:Disconnected from mpd
+28/07/2010-07:27:54:Info:Connected to mpd
+28/07/2010-17:36:30:Info:Connected to mpd
+28/07/2010-19:46:56:Info:Connected to mpd
+28/07/2010-20:02:14:Warning:MPD Reported the following error: 'problems decoding &quot;Dark_Tranquillity/link/dark_tranquillity-character-(digipak)-2005-butt/15-dark_tranquillity-the_treason_wall_(live_in_korea)-butt.mp3&quot;'
+28/07/2010-20:02:28:Warning:MPD Reported the following error: 'problems decoding &quot;Dark_Tranquillity/link/dark_tranquillity-damage_done-ltd.ed.-digipak-proper-2002-berc/03-monochromatic_stains-berc.mp3&quot;'
+28/07/2010-20:02:28:Warning:MPD Reported the following error: 'problems decoding &quot;Dark_Tranquillity/link/dark_tranquillity-damage_done-ltd.ed.-digipak-proper-2002-berc/12-ex_nihilo-berc.mp3&quot;'
+28/07/2010-20:03:09:Warning:MPD Reported the following error: 'problems decoding &quot;Dark_Tranquillity/link/dark_tranquillity-the_gallery-(deluxe_edition)-2005-butt/09-dark_tranquillity-the_emptiness_from_which_i_fed-butt.mp3&quot;'
+28/07/2010-20:03:11:Warning:MPD Reported the following error: 'problems decoding &quot;Dark_Tranquillity/link/dark_tranquillity-damage_done-ltd.ed.-digipak-proper-2002-berc/03-monochromatic_stains-berc.mp3&quot;'
+28/07/2010-20:03:11:Warning:MPD Reported the following error: 'problems decoding &quot;Dark_Tranquillity/link/dark_tranquillity-damage_done-ltd.ed.-digipak-proper-2002-berc/12-ex_nihilo-berc.mp3&quot;'
+28/07/2010-20:03:36:Warning:MPD Reported the following error: 'problems decoding &quot;Dark_Tranquillity/link/dark_tranquillity-damage_done-ltd.ed.-digipak-proper-2002-berc/09-the_enemy-berc.mp3&quot;'
+28/07/2010-20:03:36:Warning:MPD Reported the following error: 'problems decoding &quot;Dark_Tranquillity/link/dark_tranquillity-damage_done-ltd.ed.-digipak-proper-2002-berc/12-ex_nihilo-berc.mp3&quot;'

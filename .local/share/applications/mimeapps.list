@@ -15,6 +15,7 @@ application/x-extension-mdf=vlc.desktop;
 application/xml=geany.desktop;
 application/x-chm=gnochm.desktop;userapp-evince-9O3ZFV.desktop;
 application/x-cd-image=file-roller.desktop;
+image/vnd.microsoft.icon=eog.desktop;
 
 [Removed Associations]
 application/xml=wine-extension-txt.desktop;wine-extension-ini.desktop;wine-extension-xml.desktop;

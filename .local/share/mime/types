@@ -6,6 +6,11 @@ application/x-wine-extension-hlp
 application/x-wine-extension-its
 application/x-wine-extension-lnk
 application/x-wine-extension-scx
+application/x-wine-extension-w3g
+application/x-wine-extension-w3m
+application/x-wine-extension-w3n
+application/x-wine-extension-w3x
+application/x-wine-extension-wai
 image/bmp
 image/jpeg
 message/rfc822

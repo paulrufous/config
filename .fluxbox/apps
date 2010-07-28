@@ -94,3 +94,5 @@
 [app] (name=kolf) (class=Kolf) (role=Kolf)
   [Dimensions]	{580 741}
 [end]
+[app] (name=war3.exe) (class=Wine)
+[end]
