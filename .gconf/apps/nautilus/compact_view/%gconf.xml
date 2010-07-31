@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="default_zoom_level" mtime="1279567124" type="string">
+		<stringvalue>small</stringvalue>
+	</entry>
+</gconf>

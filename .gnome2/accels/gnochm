@@ -1,0 +1,10 @@
+; gnochm GtkAccelMap rc-file         -*- scheme -*-
+; this file is an automated accelerator map dump
+;
+; (gtk_accel_path "<gnochm>/-Orphan/_Copy" "<Control>c")
+; (gtk_accel_path "<gnochm>/-Orphan/_Quit" "<Control>q")
+; (gtk_accel_path "<gnochm>/-Orphan/_New" "<Control>n")
+; (gtk_accel_path "<gnochm>/-Orphan/Prefere_nces" "")
+; (gtk_accel_path "<gnochm>/-Orphan/_About" "")
+; (gtk_accel_path "<gnochm>/-Orphan/_Open..." "<Control>o")
+; (gtk_accel_path "<gnochm>/-Orphan/_Close" "<Control>w")

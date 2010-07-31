@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="height" mtime="1280587124" type="int" value="550"/>
+	<entry name="width" mtime="1280587124" type="int" value="500"/>
+	<entry name="promotion_type" mtime="1280587120" type="string">
+		<stringvalue>queen</stringvalue>
+	</entry>
+	<entry name="board_view" mtime="1280587120" type="string">
+		<stringvalue>human</stringvalue>
+	</entry>
+	<entry name="move_format" mtime="1280587120" type="string">
+		<stringvalue>human</stringvalue>
+	</entry>
+	<entry name="show_move_hints" mtime="1280587120" type="bool" value="true"/>
+	<entry name="show_history" mtime="1280587120" type="bool" value="true"/>
+</gconf>

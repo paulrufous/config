@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="height" mtime="1280587105" type="int" value="400"/>
+	<entry name="width" mtime="1280587105" type="int" value="600"/>
+	<entry name="game_file" mtime="1280587103" type="string">
+		<stringvalue>klondike.scm</stringvalue>
+	</entry>
+	<entry name="recent_games_list" mtime="1280587103" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>klondike.scm</stringvalue>
+		</li>
+	</entry>
+	<entry name="animations" mtime="1280587103" type="bool" value="true"/>
+	<entry name="show_statusbar" mtime="1280587103" type="bool" value="true"/>
+</gconf>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="height" mtime="1280587060" type="int" value="240"/>
+	<entry name="width" mtime="1280587060" type="int" value="320"/>
+	<entry name="colours" mtime="1280587058" type="bool" value="true"/>
+</gconf>

@@ -1,0 +1,9 @@
+﻿# Cool Reader 3 - exported bookmarks
+# file name: Gaiman - The Graveyard Book.zip
+# file path: /home/sio/documents/books/
+# book title: The Graveyard Book
+# author: Neil Gaiman
+
+## 8.04% - comment
+<< It was late autumn when the daybreak was long in coming. Although
+

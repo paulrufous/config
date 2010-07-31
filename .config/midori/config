@@ -6,6 +6,8 @@ last-window-height=470
 last-window-state=MIDORI_WINDOW_MAXIMIZED
 last-panel-position=212
 last-panel-page=5
+load-on-startup=MIDORI_STARTUP_BLANK_PAGE
+speed-dial-in-new-tabs=false
 location-entry-search=http://www.google.com/search?q=%s
 user-agent=Midori/0.2 (X11; Linux; U; en-us) WebKit/531.2+
 
