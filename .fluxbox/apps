@@ -20,7 +20,7 @@
   [Deco]	{NONE}
 [end]
 [group]  (workspace=[current])
- [app] (name=gajim.py) (class=Gajim.py) (role=gc)
+ [app] (name=gajim*) (class=Gajim.py) (role=gc)
  [app] (name=Download) (class=Firefox) (role=Manager)
   [Workspace]	{0}
   [Dimensions]	{632 409}
@@ -95,4 +95,29 @@
   [Dimensions]	{580 741}
 [end]
 [app] (name=war3.exe) (class=Wine)
+[end]
+[app] (name=gajim) (class=Gajim.py) (role=roster)
+  [Workspace]	{0}
+  [Dimensions]	{149 526}
+  [Position]	(UPPERLEFT)	{0 272}
+[end]
+[app] (name=gajim) (class=Gajim.py) (role=gc)
+  [Workspace]	{0}
+  [Dimensions]	{632 409}
+  [Position]	(UPPERLEFT)	{646 0}
+[end]
+[app] (name=gajim) (class=Gajim.py) (role=pm)
+  [Workspace]	{0}
+  [Dimensions]	{407 387}
+  [Position]	(UPPERLEFT)	{237 22}
+[end]
+[app] (name=gajim) (class=Gajim.py) (role=chat)
+  [Workspace]	{0}
+  [Dimensions]	{407 387}
+  [Position]	(UPPERLEFT)	{0 22}
+[end]
+[app] (name=gajim.py) (class=Gajim.py) (role=messages)
+  [Workspace]	{0}
+  [Dimensions]	{632 409}
+  [Position]	(UPPERLEFT)	{646 0}
 [end]

@@ -15,7 +15,8 @@ sleep 2 && xxkb&
 sleep 1 && conky&
 sleep 1 && conky -c ~/.conkyrc-diclock&
 sleep 5 && gmpc&
-gajim&
+#gajim&
+~/src/gajim/launch.sh&
 urxvt -name Terminal&
 # wmnd &
 # wmsmixer -w &

@@ -1,4 +1,3 @@
-gajim
 iceweasel
 smplayer
 qtconfig
@@ -41,3 +40,8 @@ xfontsel
 gsoko
 playonlinux
 conky -c ~/.conkyrc-diclock
+geany ~/bin/cml.sh
+midorii
+gajim
+gconf-editor
+gnuchess

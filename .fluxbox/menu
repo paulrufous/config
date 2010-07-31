@@ -5,7 +5,7 @@
 [separator]
 [submenu] (Internet/)
     [exec] (Firefox) {firefox}
-    [exec] (Gajim) {gajim}
+    [exec] (Gajim) {~/src/gajim/launch.sh}
     [exec] (gFtp) {gftp}
     [exec] (Deluge) {deluge}
 [end]
@@ -57,6 +57,21 @@
         [exec] (Wesnoth) {wesnoth-1.8}
     [end]
     [submenu] (Gnome Games/)
+        [exec] (glchess) {/usr/games/glchess}
+        [exec] (glines) {/usr/games/glines}
+        [exec] (gnect) {/usr/games/gnect}
+        [exec] (gnibbles) {/usr/games/gnibbles}
+        [exec] (gnobots2) {/usr/games/gnobots2}
+        [exec] (gnome-hearts) {/usr/games/gnome-hearts}
+        [exec] (gnome-sudoku) {/usr/games/gnome-sudoku}
+        [exec] (gnomine) {/usr/games/gnomine}
+        [exec] (gnotravex) {/usr/games/gnotravex}
+        [exec] (gnotski) {/usr/games/gnotski}
+        [exec] (gtali) {/usr/games/gtali}
+        [exec] (iagno) {/usr/games/iagno}
+        [exec] (mahjongg) {/usr/games/mahjongg}
+        [exec] (quadrapassel) {/usr/games/quadrapassel}
+        [exec] (sol) {/usr/games/sol}
     [end]
     [separator]
     [exec] (Calculator) {gcalctool}
