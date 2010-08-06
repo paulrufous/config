@@ -65,6 +65,7 @@
   [Dimensions]	{644 409}
   [Position]	(UPPERLEFT)	{0 0}
   [Shaded]	{yes}
+  [IconHidden]	{yes}
   [Sticky]	{yes}
 [end]
 [app] (name=gnome-system-monitor) (class=Gnome-system-monitor)

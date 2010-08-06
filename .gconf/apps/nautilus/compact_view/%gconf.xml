@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 <gconf>
+	<entry name="all_columns_have_same_width" mtime="1280762248" type="bool" value="false"/>
 	<entry name="default_zoom_level" mtime="1279567124" type="string">
 		<stringvalue>small</stringvalue>
 	</entry>

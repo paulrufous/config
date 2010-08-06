@@ -45,6 +45,9 @@
    <prop oor:name="AutoSaveTimeIntervall" oor:type="xs:int">
     <value>10</value>
    </prop>
+   <prop oor:name="WarnAlienFormat" oor:type="xs:boolean">
+    <value>false</value>
+   </prop>
   </node>
  </node>
  <node oor:name="Undo">

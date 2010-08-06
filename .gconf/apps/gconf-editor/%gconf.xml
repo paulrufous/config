@@ -1,6 +1,12 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="recents" mtime="1280512834" type="list" ltype="string">
+	<entry name="recents" mtime="1280935867" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>/apps/notification-daemon/sound_enabled</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>/apps/nautilus/icon_view/text_ellipsis_limit</stringvalue>
+		</li>
 		<li type="string">
 			<stringvalue>/desktop/gnome/thumbnailers/video@fli/command</stringvalue>
 		</li>

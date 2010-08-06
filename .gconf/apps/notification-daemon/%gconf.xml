@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 <gconf>
+	<entry name="sound_enabled" mtime="1280935867" type="bool" value="false"/>
 	<entry name="popup_location" mtime="1279454398" type="string">
 		<stringvalue>bottom_right</stringvalue>
 	</entry>

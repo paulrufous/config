@@ -55,6 +55,7 @@
         [end]]
         [exec] (Warcraft III) {LANG=ru_RU.CP1251 WINEPREFIX=~/.wineprefixes/wc3 wine "C:\Program Files\Warcraft III\Frozen Throne.exe" -opengl}
         [exec] (Wesnoth) {wesnoth-1.8}
+        [exec] (Widelands) {SDL_VIDEO_X11_DGAMOUSE=0 widelands}
     [end]
     [submenu] (Gnome Games/)
         [exec] (glchess) {/usr/games/glchess}
@@ -78,6 +79,7 @@
     [exec] (Coolreader) {cr3}
     [exec] (Comix) {comix}
     [exec] (Playonlinux) {playonlinux}
+    [exec] (VirtualBox) {sudo /etc/init.d/vboxdrv start && VirtualBox; sudo /etc/init.d/vboxdrv stop}
 [end]
 [submenu] (System/)
     [exec] (Alsamixer) {urxvt -name alsamixer -T "ALSA Mixer" -e alsamixer}
