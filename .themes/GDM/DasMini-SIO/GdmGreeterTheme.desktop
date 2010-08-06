@@ -1,0 +1,11 @@
+# This is not really a .desktop file like the rest, but it's useful to treat
+# it as such
+
+[GdmGreeterTheme]
+Encoding=UTF-8
+Greeter=das_mini.xml
+Name=Das Mini mod by SIO
+Description=Uber Minimalist Theme\nI dare you to make one more minimal.
+Author=Ryan A. Johnson (CITguy)
+Copyright=(c) 2009 Ryan A. Johnson (CITguy)
+Screenshot=screenshot.png

@@ -60,6 +60,7 @@
     [submenu] (Gnome Games/)
         [exec] (glchess) {/usr/games/glchess}
         [exec] (glines) {/usr/games/glines}
+        [exec] (ghextris) {ghextris}
         [exec] (gnect) {/usr/games/gnect}
         [exec] (gnibbles) {/usr/games/gnibbles}
         [exec] (gnobots2) {/usr/games/gnobots2}
@@ -69,6 +70,7 @@
         [exec] (gnotravex) {/usr/games/gnotravex}
         [exec] (gnotski) {/usr/games/gnotski}
         [exec] (gtali) {/usr/games/gtali}
+        [exec] (gweled) {gweled}
         [exec] (iagno) {/usr/games/iagno}
         [exec] (mahjongg) {/usr/games/mahjongg}
         [exec] (quadrapassel) {/usr/games/quadrapassel}

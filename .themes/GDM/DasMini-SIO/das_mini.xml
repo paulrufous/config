@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE greeter SYSTEM "greeter.dtd">
+<!-- INFORMATION
+	NAME:			"Das Mini"
+  DATE:     March 10, 2009
+  VERSION:  1.2
+  AUTHOR:   Ryan Johnson (CITguy) (rhino.citguy@gmail.com)
+      			Copyright Ryan Johnson 2009 (GPLv3)
+	CHANGELOG:
+		1.2
+			- Label Text fix
+-->
+<greeter>
+
+	<!-- BLACK BACKGROUND -->
+	<item type="rect" background="true">
+		<pos x="0" y="0" width="100%" height="100%" />
+		<normal color="#1B1B1B" alpha="1.0" />
+	</item>
+
+	<!-- Text Entry for Login -->
+	<item type="entry" id="user-pw-entry">
+		<pos anchor="w" x="50%" y="75%" width="200" height="30" />
+		<normal color="#ffffff" font="FreeSans 20" />
+	</item>
+
+	<!-- The PSEUDO Command Prompt is an OPTIONS BUTTON! -->
+	<item type="label">
+		<pos anchor="e" x="49%" y="75%" />
+		<normal 	color="#ffffff" font="FreeSans Bold 20" alpha="1.0" />
+		<prelight color="#ff0000" font="FreeSans Bold 20" alpha="1.0" />
+		<text>[%h]~$</text>
+	</item>
+
+	<!-- CAPS LOCK WARNING -->
+	<item type="label" id="caps-lock-warning">
+		<pos anchor="w" x="50%" y="80%" />
+		<normal color="#FF0000" font="FreeSans Bold 12" />
+		<text>Caps Lock is ON</text>
+	</item>
+
+
+</greeter>
