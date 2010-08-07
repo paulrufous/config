@@ -4,7 +4,7 @@
 [exec] (File Manager) {nautilus}
 [separator]
 [submenu] (Internet/)
-    [exec] (Firefox) {firefox}
+    [exec] (Firefox) {firefox -P default}
     [exec] (Gajim) {~/src/gajim/launch.sh}
     [exec] (gFtp) {gftp}
     [exec] (Deluge) {deluge}

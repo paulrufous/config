@@ -81,10 +81,10 @@ Control F3 :Workspace 3
 #Control Mod4 F12 :TakeToWorkspace 12
 
 
-Mod4 w :Resize 0 -1
-Mod4 s :Resize 0 +1
-Mod4 a :Resize -1 0
-Mod4 d :Resize +1 0
+Mod4 Shift w :Resize 0 -1
+Mod4 Shift s :Resize 0 +1
+Mod4 Shift a :Resize -1 0
+Mod4 Shift d :Resize +1 0
 Mod4 Mod1 w :Move 0 -1
 Mod4 Mod1 s :Move 0 +1
 Mod4 Mod1 a :Move -1 0
@@ -100,7 +100,7 @@ Mod1 Mouse5 :ExecCommand mpc volume -2
 Mod1 Mouse2 :ExecCommand mpc volume 60
 Mod4 Mouse2 :ExecCommand amixer sset Master 100%
 
-Mod4 f :ShowDesktop
+Mod4 d :ShowDesktop
 Mod1 m :ExecCommand amixer sset Master toggle
 Mod4 t :ToggleDecor
 Print :ExecCommand cd ~/pictures/screens && scrot
