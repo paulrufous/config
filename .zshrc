@@ -148,5 +148,5 @@ screensaver()
 ### END SCREENSAVER
 
 ### REMOVE ~/bin FROM PATH
-PATH=/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games
+[ $USER = root ] || PATH=/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games
 ### END REMOVE ~/bin FROM PATH

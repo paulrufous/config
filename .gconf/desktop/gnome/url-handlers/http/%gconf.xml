@@ -2,7 +2,7 @@
 <gconf>
 	<entry name="needs_terminal" mtime="1278943070" type="bool" value="false"/>
 	<entry name="enabled" mtime="1278943070" type="bool" value="true"/>
-	<entry name="command" mtime="1280673197" type="string">
-		<stringvalue>firefox -new-tab &quot;%s&quot;</stringvalue>
+	<entry name="command" mtime="1281203728" type="string">
+		<stringvalue>firefox %s</stringvalue>
 	</entry>
 </gconf>

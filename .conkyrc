@@ -16,7 +16,6 @@ draw_outline no
 draw_borders no
 draw_graph_borders yes
 stippled_borders 8
-border_margin 4
 border_width 1
 alignment top_left
 gap_x 38
@@ -26,7 +25,7 @@ uppercase no
 cpu_avg_samples 2
 net_avg_samples 2
 override_utf8_locale yes
-use_spacer no
+use_spacer false
 
 TEXT
 ${color #707070}$mpd_artist${font Dejavu Sans:pixelsize=5:style=book}

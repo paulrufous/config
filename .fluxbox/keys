@@ -22,6 +22,7 @@ OnTitlebar Mouse2 :StartTabbing
 
 # double click on the titlebar to shade
 OnTitlebar Double Mouse1 :Shade
+OnTitlebar Mouse1 :MacroCmd {Raise} {Focus}
 
 # right click on the titlebar for a menu of options
 OnTitlebar Mouse3 :WindowMenu
@@ -104,6 +105,7 @@ Mod4 d :ShowDesktop
 Mod1 m :ExecCommand amixer sset Master toggle
 Mod4 t :ToggleDecor
 Print :ExecCommand cd ~/pictures/screens && scrot
+Mod1 Print :ExecCommand cd ~/pictures/screens && scrot -bu
 Mod4 h :Shade
 
 Mod4 Tab :ExecCommand ~/bin/cml.sh

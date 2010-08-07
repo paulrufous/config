@@ -1,6 +1,27 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="recents" mtime="1280935867" type="list" ltype="string">
+	<entry name="recents" mtime="1281190677" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>/desktop/gnome/url-handlers/unknown/command</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>/desktop/gnome/url-handlers/https/command</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>/desktop/gnome/url-handlers/http/command</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>/desktop/gnome/url-handlers/ftp/command</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>/desktop/gnome/url-handlers/chrome/command</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>/desktop/gnome/url-handlers/about/command</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>/desktop/gnome/applications/browser/exec</stringvalue>
+		</li>
 		<li type="string">
 			<stringvalue>/apps/notification-daemon/sound_enabled</stringvalue>
 		</li>

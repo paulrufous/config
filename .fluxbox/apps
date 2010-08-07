@@ -122,3 +122,6 @@
   [Dimensions]	{632 409}
   [Position]	(UPPERLEFT)	{646 0}
 [end]
+[app] (name=sol-clutter) (class=Sol-clutter)
+  [Maximized]	{yes}
+[end]
