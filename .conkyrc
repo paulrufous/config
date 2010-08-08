@@ -28,5 +28,5 @@ override_utf8_locale yes
 use_spacer false
 
 TEXT
-${color #707070}$mpd_artist${font Dejavu Sans:pixelsize=5:style=book}
-${font Dejavu Sans:size=16:style=book}                ${color #dddddd}$mpd_title
+${if_match "${mpd_status}" != "Stopped"}${color #707070}$mpd_artist${font Dejavu Sans:pixelsize=5:style=book}
+${font Dejavu Sans:size=16:style=book}                ${color #dddddd}$mpd_title$endif
