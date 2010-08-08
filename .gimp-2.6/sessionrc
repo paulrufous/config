@@ -47,7 +47,7 @@
     (open-on-exit))
 (session-info "toplevel" "gimp-file-open-dialog"
     (position 100 41)
-    (size 962 759))
+    (size 879 704))
 (session-info "toplevel" "gimp-toolbox-color-dialog"
     (position 0 0))
 (session-info "toplevel" "gimp-text-tool-dialog"
@@ -58,12 +58,12 @@
 (session-info "toplevel" "gimp-image-new-dialog"
     (position 684 0))
 (session-info "toplevel" "gimp-file-save-dialog"
-    (position 55 19)
-    (size 862 611))
+    (position 109 41)
+    (size 879 704))
 (session-info "display" "gimp-empty-image-window"
     (position 0 0)
     (size 1072 797))
 
-(last-tip-shown 13)
+(last-tip-shown 20)
 
 # end of sessionrc

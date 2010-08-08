@@ -12,8 +12,9 @@ application/x-wine-extension-lnk:*.lnk
 application/x-wine-extension-cpl:*.cpl
 application/x-wine-extension-w3g:*.w3g
 application/x-wine-extension-w3m:*.w3m
-application/x-wine-extension-w3n:*.w3n
+application/x-extension-logo:*.logo
 application/x-wine-extension-hlp:*.hlp
+application/x-wine-extension-w3n:*.w3n
 application/x-wine-extension-its:*.its
 message/rfc822:*.mht
 application/x-wine-extension-scx:*.scx

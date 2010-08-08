@@ -12,8 +12,9 @@
 50:application/x-wine-extension-cpl:*.cpl
 50:application/x-wine-extension-w3g:*.w3g
 50:application/x-wine-extension-w3m:*.w3m
-50:application/x-wine-extension-w3n:*.w3n
+50:application/x-extension-logo:*.logo
 50:application/x-wine-extension-hlp:*.hlp
+50:application/x-wine-extension-w3n:*.w3n
 50:application/x-wine-extension-its:*.its
 50:message/rfc822:*.mht
 50:application/x-wine-extension-scx:*.scx

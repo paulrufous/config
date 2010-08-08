@@ -1,8 +1,7 @@
 (dp1
 S'sort_id'
 p2
-I0
-sS'sort_order'
+NsS'sort_order'
 p3
 NsS'columns'
 p4
@@ -15,7 +14,7 @@ p8
 I3
 sS'width'
 p9
-I406
+I421
 ssS'Progress'
 p10
 (dp11

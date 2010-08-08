@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <gconf>
 	<entry name="view_statusbar" mtime="1279355713" type="bool" value="true"/>
-	<entry name="view_toolbar" mtime="1280762373" type="bool" value="false"/>
-	<entry name="sidebar_width" mtime="1280762462" type="int" value="200"/>
-	<entry name="window_height" mtime="1280762462" type="int" value="480"/>
-	<entry name="window_width" mtime="1280762462" type="int" value="590"/>
+	<entry name="view_toolbar" mtime="1281254944" type="bool" value="false"/>
+	<entry name="sidebar_width" mtime="1281254947" type="int" value="200"/>
+	<entry name="window_height" mtime="1281254947" type="int" value="480"/>
+	<entry name="window_width" mtime="1281254947" type="int" value="590"/>
 </gconf>
