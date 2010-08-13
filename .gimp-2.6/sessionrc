@@ -30,7 +30,7 @@
                 (tab-style icon)))
         (book
             (position 424)
-            (current-page 3)
+            (current-page 2)
             (dockable "gimp-brush-grid"
                 (tab-style preview))
             (dockable "gimp-pattern-grid"
@@ -60,10 +60,12 @@
 (session-info "toplevel" "gimp-file-save-dialog"
     (position 109 41)
     (size 879 704))
+(session-info "toplevel" "gimp-shear-tool-dialog"
+    (position 470 356))
 (session-info "display" "gimp-empty-image-window"
     (position 0 0)
     (size 1072 797))
 
-(last-tip-shown 20)
+(last-tip-shown 22)
 
 # end of sessionrc

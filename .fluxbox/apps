@@ -125,3 +125,14 @@
 [app] (name=sol-clutter) (class=Sol-clutter)
   [Maximized]	{yes}
 [end]
+[app] (role=gimp-layer-new)
+  [Position]	(UPPERLEFT)	{497 238}
+[end]
+[app] (role=gimp-layer-add-mask)
+  [Position]	(UPPERLEFT)	{626 196}
+  [Close]	{yes}
+[end]
+[app] (role=gimp-message-dialog)
+  [Position]	(UPPERLEFT)	{413 281}
+  [Close]	{yes}
+[end]

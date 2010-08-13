@@ -19,7 +19,7 @@
     [exec] (Gimp) {gimp}
     [exec] (Inkscape) {inkscape}
     [exec] (Pinta) {pinta}
-    [exec] (Shutter) {shutter}
+    [exec] (Shutter) {shutter; killall shutter}
 [end]
 [submenu] (Office/)
     [submenu] (MS Office/)

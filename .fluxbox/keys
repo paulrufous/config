@@ -99,7 +99,7 @@ Mod4 Mouse5 :ExecCommand amixer sset Master 2-
 Mod1 Mouse4 :ExecCommand mpc volume +2
 Mod1 Mouse5 :ExecCommand mpc volume -2
 Mod1 Mouse2 :ExecCommand mpc volume 60
-Mod4 Mouse2 :ExecCommand amixer sset Master 100%
+Mod4 Mouse2 :ExecCommand amixer sset Master 100% && amixer sset PCM 100%
 
 Mod4 d :ShowDesktop
 Mod1 m :ExecCommand amixer sset Master toggle
