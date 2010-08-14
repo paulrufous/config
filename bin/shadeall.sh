@@ -1,6 +1,7 @@
 #!/bin/bash 
 # GotF http://www.linux.org.ru/forum/desktop/5070771
-
+# Требования: wmctrl, gawk (с другими ?awk не проверял).
+# Параметры: add, toggle, remove.
 
 ACTION=${1}; # get action; must be add, toggle or remove 
 get-current-ws() { 
