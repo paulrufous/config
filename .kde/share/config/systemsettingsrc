@@ -5,3 +5,6 @@ CurrentPalette=Forty Colors
 MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAAAAAtAAAAHvAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
+
+[Notification Messages]
+FontSettingsChanged=false

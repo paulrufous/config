@@ -13,6 +13,9 @@ BackgroundNormal=223,223,207
 BackgroundNormal=159,159,147
 ForegroundInactive=166,194,228
 
+[Colors:Tooltip]
+BackgroundNormal=222,223,206
+
 [Colors:View]
 BackgroundNormal=246,247,247
 
@@ -66,6 +69,7 @@ desktopFont=DejaVu Sans,9,-1,5,50,0,0,0,0,0
 fixed=DejaVu Sans Mono,9,-1,5,50,0,0,0,0,0
 font=DejaVu Sans,9,-1,5,50,0,0,0,0,0
 menuFont=DejaVu Sans,9,-1,5,50,0,0,0,0,0
+shadeSortColumn=true
 smallestReadableFont=DejaVu Sans,8,-1,5,50,0,0,0,0,0
 taskbarFont=DejaVu Sans,9,-1,5,50,0,0,0,0,0
 toolBarFont=DejaVu Sans,8,-1,5,50,0,0,0,0,0
@@ -76,6 +80,7 @@ Theme=Tango
 
 [KDE]
 ShowIconsOnPushButtons=true
+contrast=5
 
 [KDE-Global GUI Settings]
 GraphicEffectsLevel=0

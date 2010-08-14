@@ -1,3 +1,5 @@
+!mouse actions added by fluxbox-update_configs
+
 # click on the desktop to get menus
 OnDesktop Mouse1 :HideMenus
 OnDesktop Mouse2 :WorkspaceMenu
@@ -13,7 +15,7 @@ OnToolbar Mouse4 :PrevWorkspace
 OnToolbar Mouse5 :NextWorkspace
 
 # alt + left/right click to move/resize a window
-OnWindow Mod4 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
 OnWindow Control Mouse3 :MacroCmd {Raise} {Focus} {StartResizing NearestCorner}
 OnWindow Mod4 Mouse3 :Maximize
 
@@ -25,7 +27,7 @@ OnTitlebar Double Mouse1 :Shade
 OnTitlebar Mouse1 :MacroCmd {Raise} {Focus}
 
 # right click on the titlebar for a menu of options
-OnTitlebar Mouse3 :WindowMenu
+OnTitlebar Mouse3 :MacroCmd {StartMoving} {WindowMenu}
 
 # alt-tab
 Mod1 Tab :NextWindow {groups}
@@ -51,6 +53,7 @@ Mod1 F1 :Exec urxvt
 
 # open a dialog to run programs
 Mod1 F2 :Exec fbrun -font "-*-terminus-bold-r-normal-*-14-140-*-72-*-*-*-*" -bg black -fg gray -centered -w 300
+Mod4 r :Exec fbrun -font "-*-terminus-bold-r-normal-*-14-140-*-72-*-*-*-*" -bg black -fg gray -centered -w 300
 
 # volume settings, using common keycodes
 # if these don't work, use xev to find out your real keycodes
@@ -109,3 +112,4 @@ Mod1 Print :ExecCommand cd ~/pictures/screens && scrot -bu
 Mod4 h :Shade
 
 Mod4 Tab :ExecCommand ~/bin/cml.sh
+
