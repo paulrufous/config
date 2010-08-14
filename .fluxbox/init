@@ -65,7 +65,7 @@ session.screen0.showwindowposition:	false
 session.screen0.focusModel:	ClickFocus
 session.screen0.tabFocusModel:	ClickToTabFocus
 session.screen0.maxDisableMove:	false
-session.screen0.rootCommand:	fbsetbg -l	
+session.screen0.rootCommand:
 session.tabPadding:	0
 session.appsFile:	~/.fluxbox/apps
 session.colorsPerChannel:	4

@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="current_tab" mtime="1281671990" type="int" value="3"/>
-	<entry name="height" mtime="1281671990" type="int" value="770"/>
-	<entry name="width" mtime="1281671990" type="int" value="638"/>
+	<entry name="current_tab" mtime="1281807530" type="int" value="2"/>
+	<entry name="height" mtime="1281807530" type="int" value="770"/>
+	<entry name="width" mtime="1281807530" type="int" value="638"/>
 	<entry name="show_all_fs" mtime="1279122296" type="bool" value="false"/>
 	<entry name="disks_interval" mtime="1279122294" type="int" value="5000"/>
 	<entry name="network_in_bits" mtime="1279816152" type="bool" value="false"/>

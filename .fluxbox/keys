@@ -17,7 +17,7 @@ OnToolbar Mouse5 :NextWorkspace
 # alt + left/right click to move/resize a window
 OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
 OnWindow Control Mouse3 :MacroCmd {Raise} {Focus} {StartResizing NearestCorner}
-OnWindow Mod4 Mouse3 :Maximize
+OnWindow Mod1 Mouse3 :Maximize
 
 # middle click a window's titlebar and drag to attach windows
 OnTitlebar Mouse2 :StartTabbing
@@ -27,7 +27,8 @@ OnTitlebar Double Mouse1 :Shade
 OnTitlebar Mouse1 :MacroCmd {Raise} {Focus}
 
 # right click on the titlebar for a menu of options
-OnTitlebar Mouse3 :MacroCmd {StartMoving} {WindowMenu}
+OnTitlebar Mouse3 :MacroCmd {StartMoving}
+OnTitlebar Double Mouse3 :WindowMenu
 
 # alt-tab
 Mod1 Tab :NextWindow {groups}
@@ -52,8 +53,8 @@ OnTitleBar Mouse4 :PrevTab
 Mod1 F1 :Exec urxvt
 
 # open a dialog to run programs
-Mod1 F2 :Exec fbrun -font "-*-terminus-bold-r-normal-*-14-140-*-72-*-*-*-*" -bg black -fg gray -centered -w 300
-Mod4 r :Exec fbrun -font "-*-terminus-bold-r-normal-*-14-140-*-72-*-*-*-*" -bg black -fg gray -centered -w 300
+Mod1 F2 :Exec fbrun -font "-*-terminus-bold-r-normal-*-14-140-*-72-*-*-*-*" -bg black -fg gray -w 300
+Mod4 r :Exec fbrun -font "-*-terminus-bold-r-normal-*-14-140-*-72-*-*-*-*" -bg black -fg gray -w 300
 
 # volume settings, using common keycodes
 # if these don't work, use xev to find out your real keycodes

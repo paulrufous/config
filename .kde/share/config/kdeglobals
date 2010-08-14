@@ -64,7 +64,7 @@ Size=32
 [General]
 XftAntialias=true
 XftHintStyle=hintfull
-XftSubPixel=rgb
+XftSubPixel=none
 desktopFont=DejaVu Sans,9,-1,5,50,0,0,0,0,0
 fixed=DejaVu Sans Mono,9,-1,5,50,0,0,0,0,0
 font=DejaVu Sans,9,-1,5,50,0,0,0,0,0

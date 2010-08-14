@@ -126,15 +126,12 @@ bindkey ^T tetris
 ### END TETRIS
 
 ### SCREENSAVER
-TMOUT=60
+[ $USER = root ] || TMOUT=60 && trap 'screensaver' 14
 #~      Каждые 60 секунд после ввода последней команды будет срабатывать SIGALRM
 #~      (trap 14) и будет проверяться условие
-     
 IDLELIMIT=360
 #~      IDLELIMIT - максимальная величина idle к моменту проверки (замените на
 #~      удобное вам значение в секундах)
-
-trap 'screensaver' 14
 screensaver()
 {
     if [ $TTYIDLE -ge $IDLELIMIT ]

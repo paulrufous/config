@@ -18,6 +18,8 @@ application/x-cd-image=file-roller.desktop;
 image/vnd.microsoft.icon=eog.desktop;
 text/html=userapp-firefox-BRRLGV.desktop;geany.desktop;wine-extension-htm.desktop;wine-extension-html.desktop;abiword.desktop;iceweasel.desktop;midori.desktop;leafpad.desktop;userapp-cr3-CAV8FV.desktop;
 application/x-extension-logo=leafpad.desktop;
+x-content/blank-cd=brasero-nautilus.desktop;
+x-content/blank-dvd=brasero-nautilus.desktop;
 
 [Removed Associations]
 application/xml=wine-extension-txt.desktop;wine-extension-ini.desktop;wine-extension-xml.desktop;
