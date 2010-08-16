@@ -103,6 +103,9 @@ Sort reversed=false
 Speedbar Width=91
 View Style=Simple
 
+[KShortcutsDialog Settings]
+Dialog Size=600,480
+
 [MainToolbarIcons]
 ActiveColor=169,156,255
 ActiveColor2=0,0,0

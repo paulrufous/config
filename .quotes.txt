@@ -6,3 +6,7 @@ Mon Jul 19 19:50:02 MSD 2010
 Sat Aug 14 22:45:50 MSD 2010
 На форуме и не такое возможно.
 thesis http://www.linux.org.ru/forum/talks/5228292
+
+Sun Aug 15 14:29:21 MSD 2010
+[14:27]thephilosoft: Note that aptitude is the preferred program for package management from console both for package installations and package or system upgrades. http://www.debian.org/doc/FAQ/ch-pkgtools.en.html
+[14:28]thephilosoft: In fact, aptitude is now the recommended utility for package management.  http://www.debian.org/releases/stable/i386/ch06s03.html.en#di-install-software

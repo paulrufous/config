@@ -30,7 +30,7 @@
                 (tab-style icon)))
         (book
             (position 424)
-            (current-page 2)
+            (current-page 3)
             (dockable "gimp-brush-grid"
                 (tab-style preview))
             (dockable "gimp-pattern-grid"
@@ -66,6 +66,6 @@
     (position 0 0)
     (size 1072 797))
 
-(last-tip-shown 22)
+(last-tip-shown 24)
 
 # end of sessionrc

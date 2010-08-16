@@ -10,5 +10,8 @@ InfoOutput=4
 [kio_trash]
 InfoOutput=4
 
+[kubrick]
+InfoOutput=4
+
 [systemsettings]
 InfoOutput=4

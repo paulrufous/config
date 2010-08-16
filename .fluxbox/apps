@@ -136,3 +136,8 @@
   [Position]	(UPPERLEFT)	{413 281}
   [Close]	{yes}
 [end]
+[app] (name=openarena) (class=openarena)
+  [Deco]	{NONE}
+  [Maximized]	{yes}
+  [Close]	{yes}
+[end]

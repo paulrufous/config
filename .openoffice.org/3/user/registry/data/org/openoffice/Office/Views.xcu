@@ -131,6 +131,19 @@
     </prop>
    </node>
   </node>
+  <node oor:name="10243" oor:op="replace">
+   <prop oor:name="Visible" oor:type="xs:boolean">
+    <value xsi:nil="true"/>
+   </prop>
+   <prop oor:name="WindowState" oor:type="xs:string">
+    <value>333,246,,;1;,,,;</value>
+   </prop>
+   <node oor:name="UserData">
+    <prop oor:name="Data" oor:op="replace" oor:type="xs:string">
+     <value>V2,H,0</value>
+    </prop>
+   </node>
+  </node>
  </node>
  <node oor:name="Dialogs">
   <node oor:name="16615" oor:op="replace">

@@ -298,7 +298,7 @@ I-1
 sg14
 I00
 sg15
-I0
+I-1
 sg16
 (lp85
 I1
@@ -325,7 +325,7 @@ p87
 sg23
 F1281730880.6583011
 sg24
-L242539512L
+L2489133900L
 sg25
 S'3a53a9c7e627801346e023feb03d14841a4956bd'
 p88
@@ -471,7 +471,7 @@ I00
 sg64
 F2
 sg65
-I00
+I01
 sba(ideluge.core.torrentmanager
 TorrentState
 p154

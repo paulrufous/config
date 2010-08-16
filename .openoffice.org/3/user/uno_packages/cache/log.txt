@@ -39,3 +39,5 @@ Enabling: Russian dictionaries and hyphenation
 ###### Progress log entry 2010-07-30 23:06:12 ######
 ###### Progress log entry 2010-08-01 16:06:02 ######
 ###### Progress log entry 2010-08-05 18:51:36 ######
+###### Progress log entry 2010-08-14 23:03:49 ######
+###### Progress log entry 2010-08-15 21:20:28 ######
