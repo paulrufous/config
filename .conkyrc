@@ -1,4 +1,4 @@
-background yes
+background no
 use_xft yes
 xftfont Book Antiqua:size=50:style=bold
 xftalpha 0,5 #.8

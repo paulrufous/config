@@ -5,9 +5,11 @@
 
 
 #~ sleep 1 && unclutter -root & - MOVED TO /etc/default/unclutter
-xxkb&
-conky&
-conky -c ~/.conkyrc-diclock&
+#~ xxkb&                        - MOVED TO ~/.xsession
+#~ conky&                       - MOVED TO ~/.xsession
+#~ conky -c ~/.conkyrc-diclock& - MOVED TO ~/.xsession
+~/bin/userapps.d.sh
+
 (sleep 3; gmpc&)&
 ~/src/gajim/launch.sh&
 urxvt -name Terminal&

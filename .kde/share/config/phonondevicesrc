@@ -1,2 +1,22 @@
+[AudioDevice_pci:8086:27d8:1509:4540:0:capture]
+cardName=HDA Intel (ALC260 Analog)
+deleted=false
+deviceNumber=0
+hotpluggable=false
+iconName=audio-card
+index=-2
+initialPreference=36
+isAdvanced=false
+
+[AudioDevice_pci:8086:27d8:1509:4540:0:playback]
+cardName=HDA Intel (ALC260 Analog)
+deleted=false
+deviceNumber=0
+hotpluggable=false
+iconName=audio-card
+index=-1
+initialPreference=36
+isAdvanced=false
+
 [Globals]
-nextIndex=1
+nextIndex=3

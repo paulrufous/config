@@ -1,5 +1,5 @@
 [$Version]
-update_info=kded.upd:kde3.0
+update_info=kded.upd:kde3.0,kwin.upd:kde3.2Xinerama
 
 [ColorEffects:Inactive]
 ColorEffect=-2
@@ -62,6 +62,7 @@ DisabledValue=1
 Size=32
 
 [General]
+BrowserApplication[$e]=!firefox
 XftAntialias=true
 XftHintStyle=hintfull
 XftSubPixel=none

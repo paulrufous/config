@@ -27,7 +27,7 @@ OnTitlebar Double Mouse1 :Shade
 OnTitlebar Mouse1 :MacroCmd {Raise} {Focus}
 
 # right click on the titlebar for a menu of options
-OnTitlebar Mouse3 :MacroCmd {StartMoving}
+OnTitlebar Mouse3 :MacroCmd {Raise} {Focus} {StartMoving}
 OnTitlebar Double Mouse3 :WindowMenu
 
 # alt-tab

@@ -51,3 +51,40 @@
 2010-07-24T00:15:08 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
 2010-07-24T00:15:08 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma_popupapplet_fix_groups.upd' for new updates
 2010-07-24T00:15:08 Checking update-file '/usr/share/kde4/apps/kconf_update/devicepreference.upd' for new updates
+2010-08-17T18:42:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinsticky.upd' for new updates
+2010-08-17T18:42:59 kwinsticky.upd: Found new update 'stickyupd3.1'
+2010-08-17T18:42:59 kwinsticky.upd: File 'kwin.eventsrc' does not exist or empty, skipping
+2010-08-17T18:42:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus1.upd' for new updates
+2010-08-17T18:42:59 kwin_focus1.upd: Found new update 'kwin_focus1'
+2010-08-17T18:42:59 kwin_focus1.upd: File 'kwinrc' does not exist or empty, skipping
+2010-08-17T18:42:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_window_shortcuts.upd' for new updates
+2010-08-17T18:42:59 kwin_window_shortcuts.upd: Found new update 'kde414'
+2010-08-17T18:42:59 kwin_window_shortcuts.upd: File 'kglobalshortcutsrc' does not exist or empty, skipping
+2010-08-17T18:42:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinupdatewindowsettings.upd' for new updates
+2010-08-17T18:42:59 kwinupdatewindowsettings.upd: Found new update 'kde33b1'
+2010-08-17T18:42:59 kwinupdatewindowsettings.upd: Running script 'kwin_update_window_settings'
+2010-08-17T18:42:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_fsp_workarounds_1.upd' for new updates
+2010-08-17T18:42:59 kwin_fsp_workarounds_1.upd: Found new update 'kde351'
+2010-08-17T18:42:59 kwin_fsp_workarounds_1.upd: Running script 'kwin_update_default_rules' with arguments 'fsp_workarounds_1.kwinrules'
+2010-08-17T18:42:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin.upd' for new updates
+2010-08-17T18:42:59 kwin.upd: Found new update 'kde3.0r1'
+2010-08-17T18:42:59 kwin.upd: File 'kwinrc' does not exist or empty, skipping
+2010-08-17T18:42:59 kwin.upd: Found new update 'kde3.2Xinerama'
+2010-08-17T18:42:59 kwin.upd: File 'kwinrc' does not exist or empty, skipping
+2010-08-17T18:42:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_update_tabbox_settings.upd' for new updates
+2010-08-17T18:42:59 kwin_update_tabbox_settings.upd: Found new update 'Kwin-4.4'
+2010-08-17T18:42:59 kwin_update_tabbox_settings.upd: Running script 'kwin_update_tabbox_settings'
+2010-08-17T18:42:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus2.upd' for new updates
+2010-08-17T18:42:59 kwin_focus2.upd: Found new update 'kwin_focus2'
+2010-08-17T18:42:59 kwin_focus2.upd: Running script 'kwin_focus2.sh'
+2010-08-17T18:42:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_on_off.upd' for new updates
+2010-08-17T18:42:59 kwin_on_off.upd: Found new update 'kwin_on_off'
+2010-08-17T18:42:59 kwin_on_off.upd: Running script 'on-off_to_true-false.sh'
+2010-08-17T18:42:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kwiniconify.upd' for new updates
+2010-08-17T18:42:59 kwiniconify.upd: Found new update 'iconifyupd3.1'
+2010-08-17T18:42:59 kwiniconify.upd: File 'kwin.eventsrc' does not exist or empty, skipping
+2010-08-17T18:42:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin3_plugin.upd' for new updates
+2010-08-17T18:42:59 kwin3_plugin.upd: Found new update 'kde3.2'
+2010-08-17T18:42:59 kwin3_plugin.upd: Running script 'kwin3_plugin.pl'
+2010-08-17T18:42:59 kwin3_plugin.upd: Updating kwinrc:TabBox:ListMode to '0'
+2010-08-17T18:42:59 kwin3_plugin.upd: Updating kwinrc:TabBox:ShowTabBox to 'true'

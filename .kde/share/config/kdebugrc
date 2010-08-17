@@ -4,6 +4,15 @@ InfoOutput=4
 [kdecore (KConfigSkeleton)]
 InfoOutput=2
 
+[kdecore (KPluginInfo)]
+InfoOutput=2
+
+[kdecore (services)]
+InfoOutput=2
+
+[kded]
+InfoOutput=4
+
 [kio (delegateanimationhandler)]
 InfoOutput=4
 

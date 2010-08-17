@@ -1,4 +1,4 @@
-background yes
+background no
 use_xft yes
 xftfont Georgia:size=25
 xftalpha 0,5 #.8

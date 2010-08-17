@@ -1,10 +1,13 @@
+#!/bin/sh
 #
 # THIS FILE IS EXECUTED AT START OF X SESSION
 #
 
 # SOME APPLICATIONS TO LAUNCH BEFORE WINDOW MANAGER
 fbsetbg -l
+#sleep 20; ~/bin/userapps.d.sh
 
 # LAUNCH WINDOW MANAGER AND EXIT THIS SCRIPT
 # "EXEC" REQUIRED
 exec startfluxbox
+#~exec urxvt
