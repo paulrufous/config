@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="run_command_window_screenshot" mtime="1282063520" type="string">
+	<entry name="run_command_window_screenshot" mtime="1282147674" type="string">
 		<stringvalue>&lt;Alt&gt;Print</stringvalue>
 	</entry>
-	<entry name="run_command_screenshot" mtime="1282063520" type="string">
+	<entry name="run_command_screenshot" mtime="1282147674" type="string">
 		<stringvalue>Print</stringvalue>
 	</entry>
 </gconf>

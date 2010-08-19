@@ -223,3 +223,10 @@
 17/08/2010-21:55:38:Info:Connected to mpd
 17/08/2010-21:56:27:Info:Connected to mpd
 17/08/2010-22:55:09:Info:Connected to mpd
+18/08/2010-20:09:48:Info:Connected to mpd
+18/08/2010-20:09:57:Critical:<b>error code 17: connection closed</b>
+18/08/2010-20:09:57:Info:Disconnected from mpd
+18/08/2010-20:11:06:Info:Connected to mpd
+19/08/2010-20:05:04:Critical:<b>error code 17: connection closed</b>
+19/08/2010-20:05:05:Info:Disconnected from mpd
+19/08/2010-20:08:43:Info:Connected to mpd

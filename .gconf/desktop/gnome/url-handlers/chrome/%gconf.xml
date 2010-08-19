@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="needs_terminal" mtime="1281364858" type="bool" value="false"/>
-	<entry name="enabled" mtime="1281364858" type="bool" value="true"/>
-	<entry name="command" mtime="1281364858" type="string">
-		<stringvalue>/opt/firefox/firefox &quot;%s&quot;</stringvalue>
+	<entry name="needs_terminal" mtime="1282147184" type="bool" value="false"/>
+	<entry name="enabled" mtime="1282147184" type="bool" value="true"/>
+	<entry name="command" mtime="1282147184" type="string">
+		<stringvalue>/home/sio/downloads/firefox/firefox &quot;%s&quot;</stringvalue>
 	</entry>
 </gconf>
