@@ -106,6 +106,7 @@ Mod1 Mouse2 :ExecCommand mpc volume 60
 Mod4 Mouse2 :ExecCommand amixer sset Master 100% && amixer sset PCM 100%
 
 Mod4 d :ShowDesktop
+Mod4 s :Stick
 Mod1 m :ExecCommand amixer sset Master toggle
 Mod4 t :ToggleDecor
 Print :ExecCommand cd ~/pictures/screens && scrot

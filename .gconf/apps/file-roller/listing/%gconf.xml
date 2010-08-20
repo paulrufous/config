@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="list_mode" mtime="1281788738" type="string">
+	<entry name="list_mode" mtime="1282320734" type="string">
 		<stringvalue>as_folder</stringvalue>
 	</entry>
-	<entry name="sort_type" mtime="1281788738" type="string">
+	<entry name="sort_type" mtime="1282320734" type="string">
 		<stringvalue>ascending</stringvalue>
 	</entry>
-	<entry name="sort_method" mtime="1281788738" type="string">
+	<entry name="sort_method" mtime="1282320734" type="string">
 		<stringvalue>name</stringvalue>
 	</entry>
 	<entry name="name_column_width" mtime="1281788738" type="int" value="250"/>
-	<entry name="show_path" mtime="1281788722" type="bool" value="false"/>
+	<entry name="show_path" mtime="1282320710" type="bool" value="false"/>
 </gconf>

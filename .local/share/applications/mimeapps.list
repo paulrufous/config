@@ -20,6 +20,7 @@ text/html=userapp-firefox-BRRLGV.desktop;geany.desktop;wine-extension-htm.deskto
 application/x-extension-logo=leafpad.desktop;
 x-content/blank-cd=brasero-nautilus.desktop;
 x-content/blank-dvd=brasero-nautilus.desktop;
+image/png=gpicview.desktop;eog.desktop;gimp.desktop;pinta.desktop;comix.desktop;feh.desktop;userapp-fbsetbg-UP8DFV.desktop;
 
 [Removed Associations]
 application/xml=wine-extension-txt.desktop;wine-extension-ini.desktop;wine-extension-xml.desktop;

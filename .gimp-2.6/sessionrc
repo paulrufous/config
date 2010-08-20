@@ -29,7 +29,7 @@
             (dockable "gimp-tool-options"
                 (tab-style icon)))
         (book
-            (position 424)
+            (position 423)
             (current-page 3)
             (dockable "gimp-brush-grid"
                 (tab-style preview))
@@ -40,14 +40,14 @@
             (dockable "gimp-color-editor"
                 (tab-style preview)
                 (aux-info
-                    (current-page "ColorselWheel"))))))
+                    (current-page "GimpColorScales"))))))
 (session-info "toolbox" "dock"
     (position 13 309)
     (size 44 440)
     (open-on-exit))
 (session-info "toplevel" "gimp-file-open-dialog"
     (position 100 41)
-    (size 879 704))
+    (size 983 612))
 (session-info "toplevel" "gimp-toolbox-color-dialog"
     (position 0 0))
 (session-info "toplevel" "gimp-text-tool-dialog"
@@ -58,14 +58,16 @@
 (session-info "toplevel" "gimp-image-new-dialog"
     (position 684 0))
 (session-info "toplevel" "gimp-file-save-dialog"
-    (position 109 41)
-    (size 879 704))
+    (position 87 58)
+    (size 983 704))
 (session-info "toplevel" "gimp-shear-tool-dialog"
     (position 470 356))
+(session-info "toplevel" "gimp-color-balance-tool-dialog"
+    (position 700 0))
 (session-info "display" "gimp-empty-image-window"
     (position 0 0)
     (size 1072 797))
 
-(last-tip-shown 26)
+(last-tip-shown 38)
 
 # end of sessionrc

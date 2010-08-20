@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="default_extension" mtime="1281123000" type="string">
+	<entry name="default_extension" mtime="1282320734" type="string">
 		<stringvalue>.tar.gz</stringvalue>
 	</entry>
 </gconf>

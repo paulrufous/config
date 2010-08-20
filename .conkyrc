@@ -1,7 +1,7 @@
 background no
 use_xft yes
 xftfont Book Antiqua:size=50:style=bold
-xftalpha 0,5 #.8
+#~ xftalpha 0,5 #.8
 mpd_host localhost
 mpd_port 6600
 update_interval 2.0
@@ -27,6 +27,9 @@ net_avg_samples 2
 override_utf8_locale yes
 use_spacer false
 
+#~ TEXT
+#~ ${if_match "${mpd_status}" != "Stopped"}${color #707070}$mpd_artist${font Dejavu Sans:pixelsize=5:style=book}
+#~ ${font Dejavu Sans:size=16:style=book}                ${color #dddddd}$mpd_title$endif
 TEXT
-${if_match "${mpd_status}" != "Stopped"}${color #707070}$mpd_artist${font Dejavu Sans:pixelsize=5:style=book}
-${font Dejavu Sans:size=16:style=book}                ${color #dddddd}$mpd_title$endif
+${if_match "${mpd_status}" != "Stopped"}${color #7c8c9c}$mpd_artist${font Dejavu Sans:pixelsize=5:style=book}
+${font Dejavu Sans:size=16:style=book}                ${color #7c8c9c}$mpd_title$endif

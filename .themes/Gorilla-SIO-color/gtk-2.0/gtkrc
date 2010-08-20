@@ -22,35 +22,35 @@ style "gorilla-default"
   ythickness = 0
   
   #Оригинальные цвета, список неполный, остальные by default
-			  #~ bg[NORMAL]      = "#dedfce"
-			  #~ bg[PRELIGHT]	   = "#9f9f93"
+			  #~ bg[NORMAL]      = "#CFD8DE"
+			  #~ bg[PRELIGHT]	   = "#677485"
 			  #~ fg[PRELIGHT]    = "#ffffff"
-			  #~ bg[ACTIVE]	   = "#bebfae"
-			  #~ bg[INSENSITIVE] = "#eeeee0"
-			  #~ bg[SELECTED]    = "#9f9f93"
-			  #~ base[SELECTED]  = "#9f9f93"
+			  #~ bg[ACTIVE]	   = "#ABB2B8"
+			  #~ bg[INSENSITIVE] = "#CCD5DB"
+			  #~ bg[SELECTED]    = "#677485"
+			  #~ base[SELECTED]  = "#677485"
 			  #~ text[SELECTED]  = "#ffffff"
   #~ 
 	fg[ACTIVE]        = "#000000"			#текст активных элементов
-	fg[INSENSITIVE]   = "#9f9f93"			#текст неактивных элементов
+	fg[INSENSITIVE]   = "#677485"			#текст неактивных элементов
 	fg[NORMAL]        = "#000000"			#текст почти всех эл.
 	fg[PRELIGHT]      = "#000000"
 	fg[SELECTED]      = "#fff"				#текст баннера в gajim
   #~ 
-	bg[ACTIVE]        = "#bebfae"			#неактивные выделения
-	bg[INSENSITIVE]   = "#eeeee0"			#неактивные кнопки и стрелки
-	bg[NORMAL]        = "#dedfce"			#осн.цвет фона
-	bg[PRELIGHT]      = "#9f9f93"			#фон выделений
-	bg[SELECTED]      = "#9f9f93"			#фон выделений
+	bg[ACTIVE]        = "#ABB2B8"			#неактивные выделения
+	bg[INSENSITIVE]   = "#CCD5DB"			#неактивные кнопки и стрелки
+	bg[NORMAL]        = "#CFD8DE"			#осн.цвет фона
+	bg[PRELIGHT]      = "#677485"			#фон выделений
+	bg[SELECTED]      = "#677485"			#фон выделений
   #~ 
-	base[ACTIVE]      = "#9f9f93"
-	base[INSENSITIVE] = "#EAEBD9"			#фон недоступных полей
-	base[NORMAL]      = "#f6f7f7"			#основной фон текстовых полей
+	base[ACTIVE]      = "#677485"
+	base[INSENSITIVE] = "#E6E6E9"			#фон недоступных полей
+	base[NORMAL]      = "#EDEDF7"			#основной фон текстовых полей
 	#~ base[PRELIGHT]    = "#f00"			#???
-	base[SELECTED]    = "#9f9f93"			#фон выделений
+	base[SELECTED]    = "#677485"			#фон выделений
 	#~ 
 	text[ACTIVE]      = "#000000"			#текст выделенного элемента
-	text[INSENSITIVE] = "#9f9f93"			#текст недоступного элемента
+	text[INSENSITIVE] = "#677485"			#текст недоступного элемента
 	text[NORMAL]      = "#000000"			#текст большинства элементов
 	#~ text[PRELIGHT]    = "#ff0000"		#???
 	text[SELECTED]    = "#ffffff"			#текст выделений
@@ -102,8 +102,8 @@ style "gorilla-menu" = "gorilla-default"
 
   #bg[PRELIGHT]    = "#7b96ac"
   #bg[SELECTED]    = "#7b96ac"
-  bg[PRELIGHT]    = "#9f9f93"
-  bg[SELECTED]    = "#bebfae"
+  bg[PRELIGHT]    = "#677485"
+  bg[SELECTED]    = "#ABB2B8"
 
   fg[PRELIGHT]  = "#ffffff"
   fg[SELECTED]  = "#ffffff"

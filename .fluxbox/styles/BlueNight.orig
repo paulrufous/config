@@ -4,12 +4,11 @@ style.date:                          Mon Dec 31 2001
 style.credits:
 style.comments:                      Modified/tweaked by skypher
 
-!*.po
+
 background: flat
 background.color: rgb:1B/1B/1B
 
 ! Toolbar settings...
-toolbar.*.pixmap: BlueNight-tile.png
 toolbar.button:                      Gradient Diagonal
 toolbar.button.color:                rgb:9B/9B/9B
 toolbar.button.colorTo:              rgb:42/42/42
@@ -19,22 +18,22 @@ toolbar.button.pressed:              Flat Gradient CrossDiagonal
 toolbar.button.pressed.color:        #60747d
 toolbar.button.pressed.colorTo:      #0e1a27
 
-toolbar.label: tiled
+toolbar.label:                       Flat Gradient CrossDiagonal
 toolbar.label.color:                 #40545d
 toolbar.label.colorTo:               #0e1a27
 toolbar.label.textColor:             #ffffff
 
-toolbar.windowLabel: tiled
+toolbar.windowLabel:                 Flat Gradient CrossDiagonal
 toolbar.windowLabel.color:           #40545d
 toolbar.windowLabel.colorTo:         #0e1a27
 toolbar.windowLabel.textColor:       #ffffff
 
-toolbar.clock:                       tiled
+toolbar.clock:                       Flat Gradient CrossDiagonal
 toolbar.clock.color:                 #40545d
 toolbar.clock.colorTo:               #0e1a27
 toolbar.clock.textColor:             #ffffff
 
-toolbar: tiled
+toolbar:                             Flat Solid CrossDiagonal
 toolbar.color:                       #000000
 toolbar.textColor:                   #333333
 toolbar.font:                        dejavusans-9
@@ -42,24 +41,21 @@ toolbar.justify:                     Left
 
 
 ! Menu settings...
-menu.frame: tiled
-menu.frame.pixmap:                   BlueNight-tile.png
+menu.frame:                          Flat Gradient CrossDiagonal
 menu.frame.color:                    #40545d
 menu.frame.colorTo:                  #0e1a27
 menu.frame.textColor:                #ffffff
 menu.frame.font:                     dejavusans-9
 menu.frame.justify:                  Left
 
-menu.title: tiled
-menu.title.pixmap:                   BlueNight-tile-selected.png
+menu.title:                          Flat Gradient CrossDiagonal
 menu.title.color:                    #80949d
 menu.title.colorTo:                  #4e5a67
 menu.title.textColor:                #ffffff
 menu.title.font:                     dejavusans-10
 menu.title.justify:                  Left
 
-menu.hilite:                         tiled
-menu.hilite.pixmap:                   BlueNight-tile-selected.png
+menu.hilite:                         Flat Gradient CrossDiagonal
 menu.hilite.color:                   #80949d
 menu.hilite.colorTo:                 #4e5a67
 menu.hilite.textColor:               #ffffff
@@ -91,8 +87,7 @@ window.handle.focus.color:           #000000
 window.handle.unfocus:               Flat Solid
 window.handle.unfocus.color:         #000000
 
-window.label.focus:                  tiled
-window.label.focus.pixmap:                   BlueNight-tile.png
+window.label.focus:                  Flat Gradient CrossDiagonal
 window.label.focus.color:            #60747d
 window.label.focus.colorTo:          #0e1a27
 window.label.focus.textColor:        #ffffff
@@ -101,25 +96,19 @@ window.label.focus.justify:          Left
 
 window.font:                         dejavusans-9
 window.justify:                      Left
-window.label.unfocus:                tiled
-window.label.unfocus.pixmap:                   BlueNight-tile.png
+window.label.unfocus:                Flat Gradient CrossDiagonal
 window.label.unfocus.color:          #40545d
 window.label.unfocus.colorTo:        #000a17
 window.label.unfocus.textColor:      #777777
 
-window.title.focus:                  tiled
-window.title.focus.pixmap:                   BlueNight-tile.png
+window.title.focus:                  Flat Solid Horizontal
 window.title.focus.color:            #000000
 window.title.focus.colorTo:          #ffffff
 window.title.height:		     20
 
-window.title.unfocus:                tiled
-window.title.unfocus.pixmap:                   BlueNight-tile.png
+window.title.unfocus:                Flat Solid Horizontal
 window.title.unfocus.color:          #000000
 window.title.unfocus.colorTo:        #ffffff
-
-!window.button.*: tiled
-!window.button.*.pixmap: BlueNight-tile-selected.png
 
 window.button.pressed:               Flat Gradient CrossDiagonal
 window.button.pressed.color:         #60747d

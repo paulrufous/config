@@ -1,7 +1,7 @@
 background no
 use_xft yes
 xftfont Georgia:size=25
-xftalpha 0,5 #.8
+#~ xftalpha 0,5 #.8
 update_interval 2.0
 total_run_times 0
 own_window yes 
@@ -25,5 +25,7 @@ net_avg_samples 2
 override_utf8_locale yes
 use_spacer false
 
+#~ TEXT
+#~ ${color #707070}${time %H:%M}
 TEXT
-${color #707070}${time %H:%M}
+${color #7c8c9c}${time %H:%M}

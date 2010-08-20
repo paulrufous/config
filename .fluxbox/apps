@@ -141,3 +141,31 @@
   [Maximized]	{yes}
   [Close]	{yes}
 [end]
+[app] (name=inkscape) (class=Inkscape)
+  [Deco]	{NONE}
+  [Maximized]	{yes}
+[end]
+[app] (name=gimp-2.6) (class=Gimp-2.6) (role=gimp-color-balance-tool)
+  [Position]	(UPPERLEFT)	{700 0}
+  [Close]	{yes}
+[end]
+[transient] (name=gimp-2.6) (class=Gimp-2.6) (role=gimp-file-save)
+  [Position]	(UPPERLEFT)	{87 58}
+  [Close]	{yes}
+[end]
+[transient] (name=deinterlace) (class=Gimp-2.6) (role=deinterlace)
+  [Position]	(UPPERLEFT)	{371 96}
+  [Close]	{yes}
+[end]
+[transient] (name=noise-randomize) (class=Gimp-2.6) (role=noise-randomize)
+  [Position]	(UPPERLEFT)	{307 242}
+  [Close]	{yes}
+[end]
+[app] (name=gimp-2.6) (class=Gimp-2.6) (role=gimp-image-resize)
+  [Position]	(UPPERLEFT)	{88 48}
+  [Close]	{yes}
+[end]
+[app] (name=gimp-2.6) (class=Gimp-2.6) (role=gimp-image-scale)
+  [Position]	(UPPERLEFT)	{665 75}
+  [Close]	{yes}
+[end]

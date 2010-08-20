@@ -92,7 +92,7 @@
     [exec] (htop) {urxvt -name htop -T "System Monitor" -e htop}
     [exec] (Monitor) {gnome-system-monitor}
     [separator]
-    [exec] (Aptitude) {urxvt -T "Aptitude Package Manager" -name aptitude -e sudo aptitude}
+    [exec] (Aptitude) {urxvt  -fn "xft:DejaVu Sans Mono-9:antiallias=True" -T "Aptitude Package Manager" -name aptitude -e sudo aptitude}
     [exec] (Synaptic) {gksudo synaptic}
 [end]
 [separator]

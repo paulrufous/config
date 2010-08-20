@@ -50,3 +50,6 @@ systemsettings
 abe
 qtconfig-qt4
 xmag
+scrot -s
+killall watch
+xterm
