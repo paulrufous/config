@@ -54,3 +54,4 @@ scrot -s
 killall watch
 xterm
 geany .conkyrc
+killall fluxbox

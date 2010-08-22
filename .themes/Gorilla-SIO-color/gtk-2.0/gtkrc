@@ -37,7 +37,7 @@ style "gorilla-default"
 	base[ACTIVE]      = "#677485"           #фон выделения не в фокусе
 	base[INSENSITIVE] = "#d1dae0" 			#фон недоступных полей
 	base[NORMAL]      = "#EDEDF7"			#основной фон текстовых полей
-	 base[PRELIGHT]    = "#f00"			#???
+	base[PRELIGHT]    = "#DEE3EB"			    #фон урлов в окошках About
 	base[SELECTED]    = "#677485" 			#фон выделений в фокусе
 	#~ 
 	text[ACTIVE]      = "#000000"			#текст выделенного элемента

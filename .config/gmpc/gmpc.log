@@ -240,3 +240,16 @@
 22/08/2010-14:54:22:Info:Connected to mpd
 22/08/2010-15:54:27:Info:MPD Database has been updated at: Sun 22 Aug 2010 03:54:26 PM MSD
 22/08/2010-16:01:02:Info:MPD Database has been updated at: Sun 22 Aug 2010 04:01:02 PM MSD
+22/08/2010-16:30:12:Critical:<b>error code 17: connection closed</b>
+22/08/2010-16:30:13:Info:Disconnected from mpd
+22/08/2010-16:30:19:Info:Connected to mpd
+22/08/2010-16:30:19:Info:MPD Database has been updated at: Sun 22 Aug 2010 04:01:02 PM MSD
+22/08/2010-18:53:08:Info:MPD Database has been updated at: Sun 22 Aug 2010 06:53:08 PM MSD
+22/08/2010-19:08:03:Info:Connected to mpd
+22/08/2010-19:18:53:Info:MPD Database has been updated at: Sun 22 Aug 2010 07:18:52 PM MSD
+22/08/2010-19:21:38:Info:MPD Database has been updated at: Sun 22 Aug 2010 07:21:37 PM MSD
+22/08/2010-19:23:34:Info:Connected to mpd
+22/08/2010-19:24:25:Info:Connected to mpd
+22/08/2010-20:19:52:Critical:<b>error code 17: connection closed</b>
+22/08/2010-20:19:53:Info:Disconnected from mpd
+22/08/2010-21:36:55:Info:Connected to mpd

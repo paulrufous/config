@@ -59,10 +59,10 @@
 		<stringvalue>NautilusPlacesSidebar</stringvalue>
 	</entry>
 	<entry name="sidebar_width" mtime="1279352134" type="int" value="116"/>
-	<entry name="start_with_sidebar" mtime="1282397916" type="bool" value="false"/>
+	<entry name="start_with_sidebar" mtime="1282498826" type="bool" value="false"/>
 	<entry name="start_with_toolbar" mtime="1282333316" type="bool" value="false"/>
-	<entry name="navigation_window_saved_maximized" mtime="1282470975" type="bool" value="false"/>
-	<entry name="navigation_window_saved_geometry" mtime="1282431922" type="string">
-		<stringvalue>802x519+68+106</stringvalue>
+	<entry name="navigation_window_saved_maximized" mtime="1282499294" type="bool" value="false"/>
+	<entry name="navigation_window_saved_geometry" mtime="1282499294" type="string">
+		<stringvalue>802x519+333+176</stringvalue>
 	</entry>
 </gconf>
