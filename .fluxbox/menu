@@ -5,7 +5,7 @@
 [separator]
 [submenu] (Internet/)
     [exec] (Firefox) {firefox -P default}
-    [exec] (Gajim) {~/src/gajim/launch.sh}
+    [exec] (Gajim) {~/misc/src/gajim/launch.sh}
     [exec] (gFtp) {gftp}
     [exec] (Deluge) {deluge}
 [end]
@@ -89,7 +89,7 @@
     [exec] (ControlCenter) {gnome-control-center}
     [exec] (GParted) {gksudo gparted}
     [exec] (Gtk Theme) {lxappearance && killall lxappearance}
-    [exec] (htop) {urxvt -name htop -T "System Monitor" -e htop}
+    [exec] (htop) {urxvt -fn "xft:DejaVu Sans Mono-9:antiallias=True"  -name htop -T "System Monitor" -e htop}
     [exec] (Monitor) {gnome-system-monitor}
     [separator]
     [exec] (Aptitude) {urxvt  -fn "xft:DejaVu Sans Mono-9:antiallias=True" -T "Aptitude Package Manager" -name aptitude -e sudo aptitude}

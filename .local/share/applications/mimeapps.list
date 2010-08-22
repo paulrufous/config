@@ -21,6 +21,8 @@ application/x-extension-logo=leafpad.desktop;
 x-content/blank-cd=brasero-nautilus.desktop;
 x-content/blank-dvd=brasero-nautilus.desktop;
 image/png=gpicview.desktop;eog.desktop;gimp.desktop;pinta.desktop;comix.desktop;feh.desktop;userapp-fbsetbg-UP8DFV.desktop;
+image/svg+xml=eog.desktop;
+application/x-shockwave-flash=userapp-firefox-4BMTHV.desktop;vlc.desktop;avidemux-gtk.desktop;
 
 [Removed Associations]
 application/xml=wine-extension-txt.desktop;wine-extension-ini.desktop;wine-extension-xml.desktop;

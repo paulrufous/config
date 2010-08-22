@@ -1,8 +1,8 @@
-!Xft.antialias: true
-!Xft.hinting: true
-!Xft.hintstyle: hintfull
-!Xft.rgba: none
-!Xft.dpi: 96.0
+Xft.antialias: true
+Xft.hinting: true
+Xft.hintstyle: hintfull
+Xft.rgba: rgb
+Xft.dpi: 96.0
 
 !!URxvt*background: black
 !!URxvt*foreground: grey

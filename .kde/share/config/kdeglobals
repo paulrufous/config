@@ -7,20 +7,20 @@ ContrastEffect=-2
 IntensityEffect=0
 
 [Colors:Button]
-BackgroundNormal=223,223,207
+BackgroundNormal=208,216,222
 
 [Colors:Selection]
-BackgroundNormal=159,159,147
+BackgroundNormal=103,116,133
 ForegroundInactive=166,194,228
 
 [Colors:Tooltip]
-BackgroundNormal=222,223,206
+BackgroundNormal=208,216,222
 
 [Colors:View]
-BackgroundNormal=246,247,247
+BackgroundNormal=237,237,247
 
 [Colors:Window]
-BackgroundNormal=223,223,207
+BackgroundNormal=208,216,222
 ForegroundNormal=20,19,18
 
 [DesktopIcons]

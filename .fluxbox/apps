@@ -82,10 +82,11 @@
   [Maximized]	{yes}
 [end]
 [app] (name=htop) (class=URxvt)
-  [Dimensions]	{828 473}
+  [Dimensions]	{837 475}
+  [Close]	{yes}
 [end]
 [app] (name=aptitude) (class=URxvt)
-  [Dimensions]	{644 585}
+  [Dimensions]	{641 610}
   [Close]	{yes}
 [end]
 [app] (name=nautilus) (class=Nautilus)

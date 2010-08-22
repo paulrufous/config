@@ -11,7 +11,7 @@
 ~/bin/userapps.d.sh
 
 (sleep 3; gmpc&)&
-~/src/gajim/launch.sh&
+~/misc/src/gajim/launch.sh&
 urxvt -name Terminal&
 
 

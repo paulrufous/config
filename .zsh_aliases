@@ -12,3 +12,12 @@ alias github_config_update='cd && git commit -a -m "`date`" && git push'
 mkcd () {mkdir $1; cd $1}
 alias "quote_add"="(echo; date; cat) >> ~/.quotes.txt"
 alias "quote_show"="cat ~/.quotes.txt"
+
+cue2flac () {
+    if [[ ( -z "$*" || -z "$2" || -n "$3" ) ]];
+    then
+        echo -e "Error: wrong number of arguments\n\nUsage: cue2flac file.cue file.flac\n Will write cue sheet into flac file";
+    else        
+        metaflac --set-tag-from-file=CUESHEET="$1" --import-cuesheet-from="$1" "$2";
+    fi
+}

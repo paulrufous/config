@@ -12,7 +12,8 @@ own_window_transparent yes
 own_window_colour hotpink
 double_buffer yes
 draw_shades no
-draw_outline no
+#~ draw_outline yes
+#~ default_outline_color rgb:ff/00/00
 draw_borders no
 draw_graph_borders yes
 stippled_borders 8
@@ -32,4 +33,7 @@ use_spacer false
 #~ ${font Dejavu Sans:size=16:style=book}                ${color #dddddd}$mpd_title$endif
 TEXT
 ${if_match "${mpd_status}" != "Stopped"}${color #7c8c9c}$mpd_artist${font Dejavu Sans:pixelsize=5:style=book}
-${font Dejavu Sans:size=16:style=book}                ${color #7c8c9c}$mpd_title$endif
+${font Dejavu Sans:size=16:style=book}                ${color #9cacbc}$mpd_title$endif
+#~ TEXT
+#~ ${if_match "${mpd_status}" != "Stopped"}${color #7c8c9c}$mpd_artist
+#~ ${font Dejavu Sans:size=16:style=book}                $mpd_title$endif
