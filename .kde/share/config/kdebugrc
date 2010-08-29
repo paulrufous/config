@@ -1,3 +1,6 @@
+[amarok]
+InfoOutput=4
+
 [kbuildsycoca4]
 InfoOutput=4
 
@@ -14,6 +17,9 @@ InfoOutput=2
 InfoOutput=4
 
 [kio (delegateanimationhandler)]
+InfoOutput=4
+
+[kio_http]
 InfoOutput=4
 
 [kio_trash]

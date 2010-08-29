@@ -253,3 +253,75 @@
 22/08/2010-20:19:52:Critical:<b>error code 17: connection closed</b>
 22/08/2010-20:19:53:Info:Disconnected from mpd
 22/08/2010-21:36:55:Info:Connected to mpd
+22/08/2010-22:13:11:Info:Connected to mpd
+22/08/2010-22:14:35:Info:Connected to mpd
+23/08/2010-07:42:19:Info:MPD Database has been updated at: Mon 23 Aug 2010 07:42:19 AM MSD
+23/08/2010-07:43:10:Info:Connected to mpd
+23/08/2010-07:47:16:Info:Connected to mpd
+23/08/2010-07:48:10:Info:Connected to mpd
+23/08/2010-07:50:02:Info:Connected to mpd
+23/08/2010-07:50:19:Info:Connected to mpd
+23/08/2010-07:52:09:Info:Connected to mpd
+23/08/2010-07:53:34:Info:Connected to mpd
+23/08/2010-07:56:01:Info:Connected to mpd
+23/08/2010-07:58:13:Info:Connected to mpd
+23/08/2010-18:07:50:Info:MPD Database has been updated at: Mon 23 Aug 2010 06:07:49 PM MSD
+23/08/2010-18:15:10:Info:Connected to mpd
+23/08/2010-18:16:59:Info:Connected to mpd
+23/08/2010-18:17:38:Info:Connected to mpd
+23/08/2010-19:17:36:Info:Connected to mpd
+23/08/2010-20:16:04:Info:Connected to mpd
+23/08/2010-20:44:44:Critical:<b>error code 10: connection timeout</b>
+23/08/2010-20:44:54:Info:Disconnected from mpd
+23/08/2010-20:45:12:Info:Connected to mpd
+23/08/2010-21:00:29:Critical:<b>error code 17: connection closed</b>
+23/08/2010-21:00:29:Info:Disconnected from mpd
+23/08/2010-21:00:35:Critical:<b>error code 13: problems connecting to &quot;localhost&quot; on port 6600: Operation now in progress</b>
+23/08/2010-21:00:41:Critical:<b>error code 13: problems connecting to &quot;localhost&quot; on port 6600: Operation now in progress</b>
+23/08/2010-21:00:48:Critical:<b>error code 13: problems connecting to &quot;localhost&quot; on port 6600: Operation now in progress</b>
+23/08/2010-21:00:56:Critical:<b>error code 13: problems connecting to &quot;localhost&quot; on port 6600: Operation now in progress</b>
+23/08/2010-21:01:05:Critical:<b>error code 13: problems connecting to &quot;localhost&quot; on port 6600: Operation now in progress</b>
+23/08/2010-21:01:15:Critical:<b>error code 13: problems connecting to &quot;localhost&quot; on port 6600: Operation now in progress</b>
+23/08/2010-21:01:26:Critical:<b>error code 13: problems connecting to &quot;localhost&quot; on port 6600: Operation now in progress</b>
+23/08/2010-21:01:38:Critical:<b>error code 13: problems connecting to &quot;localhost&quot; on port 6600: Operation now in progress</b>
+23/08/2010-21:01:51:Critical:<b>error code 13: problems connecting to &quot;localhost&quot; on port 6600: Operation now in progress</b>
+23/08/2010-21:02:05:Critical:<b>error code 13: problems connecting to &quot;localhost&quot; on port 6600: Operation now in progress</b>
+23/08/2010-21:02:20:Critical:<b>error code 13: problems connecting to &quot;localhost&quot; on port 6600: Operation now in progress</b>
+23/08/2010-21:02:36:Critical:<b>error code 13: problems connecting to &quot;localhost&quot; on port 6600: Operation now in progress</b>
+23/08/2010-21:02:53:Critical:<b>error code 13: problems connecting to &quot;localhost&quot; on port 6600: Operation now in progress</b>
+23/08/2010-21:03:11:Critical:<b>error code 13: problems connecting to &quot;localhost&quot; on port 6600: Operation now in progress</b>
+23/08/2010-21:03:30:Critical:<b>error code 13: problems connecting to &quot;localhost&quot; on port 6600: Operation now in progress</b>
+23/08/2010-21:03:50:Critical:<b>error code 13: problems connecting to &quot;localhost&quot; on port 6600: Operation now in progress</b>
+23/08/2010-21:04:11:Critical:<b>error code 13: problems connecting to &quot;localhost&quot; on port 6600: Operation now in progress</b>
+23/08/2010-21:04:33:Critical:<b>error code 13: problems connecting to &quot;localhost&quot; on port 6600: Operation now in progress</b>
+23/08/2010-21:04:56:Critical:<b>error code 13: problems connecting to &quot;localhost&quot; on port 6600: Operation now in progress</b>
+23/08/2010-21:05:20:Critical:<b>error code 13: problems connecting to &quot;localhost&quot; on port 6600: Operation now in progress</b>
+23/08/2010-21:05:45:Critical:<b>error code 13: problems connecting to &quot;localhost&quot; on port 6600: Operation now in progress</b>
+23/08/2010-21:06:11:Critical:<b>error code 13: problems connecting to &quot;localhost&quot; on port 6600: Operation now in progress</b>
+23/08/2010-21:06:38:Critical:<b>error code 13: problems connecting to &quot;localhost&quot; on port 6600: Operation now in progress</b>
+23/08/2010-21:07:06:Critical:<b>error code 13: problems connecting to &quot;localhost&quot; on port 6600: Operation now in progress</b>
+23/08/2010-21:07:35:Critical:<b>error code 13: problems connecting to &quot;localhost&quot; on port 6600: Operation now in progress</b>
+23/08/2010-21:08:05:Critical:<b>error code 13: problems connecting to &quot;localhost&quot; on port 6600: Operation now in progress</b>
+23/08/2010-21:11:08:Info:Connected to mpd
+26/08/2010-07:42:34:Critical:<b>error code 17: connection closed</b>
+26/08/2010-07:42:34:Info:Disconnected from mpd
+26/08/2010-07:42:40:Info:Connected to mpd
+26/08/2010-19:14:33:Critical:<b>error code 17: connection closed</b>
+26/08/2010-19:14:33:Info:Disconnected from mpd
+26/08/2010-19:14:38:Info:Connected to mpd
+26/08/2010-20:45:30:Info:Connected to mpd
+27/08/2010-15:54:22:Info:Connected to mpd
+28/08/2010-22:49:37:Info:Connected to mpd
+28/08/2010-23:06:47:Critical:<b>error code 17: connection closed</b>
+28/08/2010-23:06:47:Info:Disconnected from mpd
+28/08/2010-23:08:32:Info:Connected to mpd
+28/08/2010-23:19:34:Critical:<b>error code 17: connection closed</b>
+28/08/2010-23:19:36:Info:Disconnected from mpd
+28/08/2010-23:20:50:Info:Connected to mpd
+29/08/2010-00:01:08:Critical:<b>error code 17: connection closed</b>
+29/08/2010-00:01:09:Info:Disconnected from mpd
+29/08/2010-11:25:01:Info:Connected to mpd
+29/08/2010-16:59:16:Info:Connected to mpd
+29/08/2010-18:12:21:Critical:<b>error code 17: connection closed</b>
+29/08/2010-18:12:21:Info:Disconnected from mpd
+29/08/2010-18:12:27:Info:Connected to mpd

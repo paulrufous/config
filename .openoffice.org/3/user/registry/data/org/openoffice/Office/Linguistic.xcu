@@ -45,7 +45,7 @@
  </node>
  <node oor:name="SpellChecking">
   <prop oor:name="IsSpellAuto" oor:type="xs:boolean">
-   <value>true</value>
+   <value>false</value>
   </prop>
  </node>
 </oor:component-data>

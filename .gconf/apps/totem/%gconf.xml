@@ -1,21 +1,21 @@
 <?xml version="1.0"?>
 <gconf>
 	<entry name="lock_screensaver_on_audio" mtime="1279034724" type="bool" value="true"/>
-	<entry name="auto_resize" mtime="1282489257" type="bool" value="true"/>
+	<entry name="auto_resize" mtime="1283075172" type="bool" value="true"/>
 	<entry name="autoload_subtitles" mtime="1279034718" type="bool" value="true"/>
-	<entry name="remember_position" mtime="1282489257" type="bool" value="true"/>
-	<entry name="subtitle_encoding" mtime="1282489257" type="string">
+	<entry name="remember_position" mtime="1283075172" type="bool" value="true"/>
+	<entry name="subtitle_encoding" mtime="1283075172" type="string">
 		<stringvalue>UTF-8</stringvalue>
 	</entry>
-	<entry name="hue" mtime="1282489257" type="int" value="32767"/>
-	<entry name="brightness" mtime="1282489257" type="int" value="31868"/>
-	<entry name="saturation" mtime="1282489257" type="int" value="32767"/>
-	<entry name="contrast" mtime="1282489257" type="int" value="31868"/>
-	<entry name="visual_quality" mtime="1282489257" type="int" value="0"/>
+	<entry name="hue" mtime="1283075172" type="int" value="32767"/>
+	<entry name="brightness" mtime="1283075172" type="int" value="31868"/>
+	<entry name="saturation" mtime="1283075172" type="int" value="32767"/>
+	<entry name="contrast" mtime="1283075172" type="int" value="31868"/>
+	<entry name="visual_quality" mtime="1283075172" type="int" value="0"/>
 	<entry name="visual" mtime="1278785529" type="string">
 		<stringvalue>GOOM: what a GOOM!</stringvalue>
 	</entry>
-	<entry name="show_vfx" mtime="1282489257" type="bool" value="false"/>
+	<entry name="show_vfx" mtime="1283075172" type="bool" value="false"/>
 	<entry name="audio_output_type" mtime="1278785529" type="int" value="0"/>
-	<entry name="debug" mtime="1282489255" type="bool" value="false"/>
+	<entry name="debug" mtime="1283075170" type="bool" value="false"/>
 </gconf>

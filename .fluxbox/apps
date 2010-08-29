@@ -23,8 +23,8 @@
  [app] (name=gajim*) (class=Gajim.py) (role=gc)
  [app] (name=Download) (class=Firefox) (role=Manager)
   [Workspace]	{0}
-  [Dimensions]	{632 409}
-  [Position]	(UPPERLEFT)	{646 0}
+  [Dimensions]	{635 400}
+  [Position]	(UPPERLEFT)	{643 0}
 [end]
 [app] (name=gajim.py) (class=Gajim.py) (role=pm)
   [Workspace]	{0}
@@ -61,8 +61,9 @@
   [Workspace]	{2}
   [Minimized]	{yes}
 [end]
-[app] (name=Terminal) (class=URxvt)
-  [Dimensions]	{644 409}
+[group]  (workspace=[current])
+ [app] (name=Terminal) (class=URxvt)
+  [Dimensions]	{641 400}
   [Position]	(UPPERLEFT)	{0 0}
   [Shaded]	{yes}
   [IconHidden]	{yes}
@@ -110,12 +111,12 @@
 [end]
 [app] (name=gajim) (class=Gajim.py) (role=pm)
   [Workspace]	{0}
-  [Dimensions]	{407 387}
-  [Position]	(UPPERLEFT)	{237 22}
+  [Dimensions]	{407 378}
+  [Position]	(UPPERLEFT)	{234 22}
 [end]
 [app] (name=gajim) (class=Gajim.py) (role=chat)
   [Workspace]	{0}
-  [Dimensions]	{407 387}
+  [Dimensions]	{407 378}
   [Position]	(UPPERLEFT)	{0 22}
 [end]
 [app] (name=gajim.py) (class=Gajim.py) (role=messages)

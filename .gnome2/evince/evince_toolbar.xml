@@ -23,5 +23,6 @@
     <separator/>
     <toolitem name="ViewFullscreen"/>
     <toolitem name="ViewPresentation"/>
+    <toolitem name="ViewInvertedColors"/>
   </toolbar>
 </toolbars>

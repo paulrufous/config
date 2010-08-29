@@ -210,21 +210,16 @@ class "GtkToolbar" style "clear-engine"
 class "GtkHandleBox" style "clear-engine"
 widget_class "*<GtkStatusbar>*" style "clear-engine"
 
-#~ style "gorilla-slim2" = "gorilla-default"
-#~ {
-  #~ xthickness = 0
-  #~ ythickness = 0
-#~ }
-#~ widget "GtkLabel" style "gorilla-slim2"
-#~ class "GtkButton" style "gorilla-slim2"
-#~ widget_class "*GtkLabel*" style "gorilla-slim2"
-
 style "last" {
-   #~ GtkButton::button-relief = GTK_RELIEF_NONE
-   #~ GtkButton::default_border         = {50, 50, 50, 50}
   xthickness = 0
   ythickness = 0
-   
-}
+   }
 widget_class "*<GtkButton>" style "last"
 widget_class "*TreeView*" style "gorilla-tree"
+
+style "gorilla-progress" = "gorilla-default"
+{
+	fg[PRELIGHT]    = "#fff"  	    	#текст заполненой части прогрессбара
+}
+class "GtkProgressBar" style "gorilla-progress"
+widget_class "*GtkProgressBar*" style "gorilla-progress"

@@ -67,37 +67,37 @@ File:Arial_Black.ttf
 Arial Black
 -1;Arial-Black;0;5;5;2;65535;1100;309;409;0;1880;1409;1880;1409;0;0;0;0;Normal
 
-File:timesi.ttf
-2;1
-Times New Roman
--1;TimesNewRomanPS-ItalicMT;2;5;5;2;65535;891;216;107;0;1617;1107;1617;1107;0;0;0;0;cursiva
-
 File:verdana.ttf
 2;1
 Verdana
 -1;Verdana;0;5;5;2;65535;1005;209;214;0;1495;1214;1495;1214;0;0;0;0;Normal
 
-File:Courier_New.ttf
+File:timesi.ttf
 2;1
-Courier New
--1;CourierNewPSMT;0;5;5;1;65535;832;300;132;0;658;1132;658;1132;0;0;0;0;Normal
+Times New Roman
+-1;TimesNewRomanPS-ItalicMT;2;5;5;2;65535;891;216;107;0;1617;1107;1617;1107;0;0;0;0;cursiva
 
 File:timesbi.ttf
 2;1
 Times New Roman
 -1;TimesNewRomanPS-BoldItalicMT;2;8;5;2;65535;891;216;107;0;1753;1107;1753;1107;0;0;0;0;Negreta cursiva
 
+File:Courier_New.ttf
+2;1
+Courier New
+-1;CourierNewPSMT;0;5;5;1;65535;832;300;132;0;658;1132;658;1132;0;0;0;0;Normal
+
 File:Verdana_Bold_Italic.ttf
 2;1
 Verdana
 -1;Verdana-BoldItalic;2;8;5;2;65535;1005;209;214;0;1870;1214;1870;1214;0;0;0;0;Negreta cursiva
 
-File:Arial_Italic.ttf
+File:ariali.ttf
 2;1
 Arial
 -1;Arial-ItalicMT;2;5;5;2;65535;905;211;116;0;1598;1116;1598;1116;0;0;0;0;Cursiva
 
-File:ariali.ttf
+File:Arial_Italic.ttf
 2;1
 Arial
 -1;Arial-ItalicMT;2;5;5;2;65535;905;211;116;0;1598;1116;1598;1116;0;0;0;0;Cursiva
@@ -112,30 +112,30 @@ File:ariblk.ttf
 Arial Black
 -1;Arial-Black;0;5;5;2;65535;1100;309;409;0;1880;1409;1880;1409;0;0;0;0;Normal
 
-File:Georgia_Italic.ttf
-2;1
-Georgia
--1;Georgia-Italic;2;5;5;2;65535;916;219;135;0;1391;1135;1391;1135;0;0;0;0;Cursiva
-
 File:arialbi.ttf
 2;1
 Arial
 -1;Arial-BoldItalicMT;2;8;5;2;65535;905;211;116;0;1715;1116;1715;1116;0;0;0;0;Negreta cursiva
+
+File:Georgia_Italic.ttf
+2;1
+Georgia
+-1;Georgia-Italic;2;5;5;2;65535;916;219;135;0;1391;1135;1391;1135;0;0;0;0;Cursiva
 
 File:courbi.ttf
 2;1
 Courier New
 -1;CourierNewPS-BoldItalicMT;2;8;5;1;65535;832;300;132;0;938;1132;938;1132;0;0;0;0;Negreta cursiva
 
-File:Trebuchet_MS_Bold.ttf
-2;1
-Trebuchet MS
--1;TrebuchetMS-Bold;0;8;5;2;65535;938;222;160;0;1229;1160;1229;1160;0;0;0;8;Negreta
-
 File:comic.ttf
 2;1
 Comic Sans MS
 -1;ComicSansMS;0;5;5;2;65535;1102;291;393;0;1278;1393;1278;1393;0;0;0;0;Normal
+
+File:Trebuchet_MS_Bold.ttf
+2;1
+Trebuchet MS
+-1;TrebuchetMS-Bold;0;8;5;2;65535;938;222;160;0;1229;1160;1229;1160;0;0;0;8;Negreta
 
 File:Times_New_Roman.ttf
 2;1
@@ -147,15 +147,15 @@ File:impact.ttf
 Impact
 -1;Impact;0;5;3;2;65535;1008;210;218;0;1390;1218;1390;1218;0;0;0;0;Normal
 
-File:Georgia_Bold_Italic.ttf
-2;1
-Georgia
--1;Georgia-BoldItalic;2;8;5;2;65535;916;219;135;0;1596;1135;1596;1135;0;0;0;0;Negreta cursiva
-
 File:verdanaz.ttf
 2;1
 Verdana
 -1;Verdana-BoldItalic;2;8;5;2;65535;1005;209;214;0;1870;1214;1870;1214;0;0;0;0;Negreta cursiva
+
+File:Georgia_Bold_Italic.ttf
+2;1
+Georgia
+-1;Georgia-BoldItalic;2;8;5;2;65535;916;219;135;0;1596;1135;1596;1135;0;0;0;0;Negreta cursiva
 
 File:georgia.ttf
 2;1
@@ -192,45 +192,45 @@ File:Courier_New_Bold.ttf
 Courier New
 -1;CourierNewPS-BoldMT;0;8;5;1;65535;832;300;132;0;747;1132;747;1132;0;0;0;0;Negreta
 
-File:Andale_Mono.ttf
-2;1
-Andale Mono
--1;AndaleMono;0;5;5;1;65535;907;217;124;0;600;1124;600;1124;0;0;0;8;Normal
-
 File:Arial_Bold.ttf
 2;1
 Arial
 -1;Arial-BoldMT;0;8;5;2;65535;905;211;116;0;2660;1116;2660;1116;0;0;0;0;Negreta
+
+File:Andale_Mono.ttf
+2;1
+Andale Mono
+-1;AndaleMono;0;5;5;1;65535;907;217;124;0;600;1124;600;1124;0;0;0;8;Normal
 
 File:trebucbi.ttf
 2;1
 Trebuchet MS
 -1;Trebuchet-BoldItalic;2;8;5;2;65535;938;222;160;0;1262;1160;1262;1160;0;0;0;8;Negreta cursiva
 
-File:cour.ttf
-2;1
-Courier New
--1;CourierNewPSMT;0;5;5;1;65535;832;300;132;0;658;1132;658;1132;0;0;0;0;Normal
-
 File:times.ttf
 2;1
 Times New Roman
 -1;TimesNewRomanPSMT;0;5;5;2;65535;891;216;107;0;2596;1107;2596;1107;0;0;0;0;Normal
+
+File:cour.ttf
+2;1
+Courier New
+-1;CourierNewPSMT;0;5;5;1;65535;832;300;132;0;658;1132;658;1132;0;0;0;0;Normal
 
 File:Impact.ttf
 2;1
 Impact
 -1;Impact;0;5;3;2;65535;1008;210;218;0;1390;1218;1390;1218;0;0;0;0;Normal
 
-File:Times_New_Roman_Bold.ttf
-2;1
-Times New Roman
--1;TimesNewRomanPS-BoldMT;0;8;5;2;65535;891;216;107;0;2591;1107;2591;1107;0;0;0;0;Negreta
-
 File:georgiai.ttf
 2;1
 Georgia
 -1;Georgia-Italic;2;5;5;2;65535;916;219;135;0;1391;1135;1391;1135;0;0;0;0;Cursiva
+
+File:Times_New_Roman_Bold.ttf
+2;1
+Times New Roman
+-1;TimesNewRomanPS-BoldMT;0;8;5;2;65535;891;216;107;0;2591;1107;2591;1107;0;0;0;0;Negreta
 
 File:Comic_Sans_MS_Bold.ttf
 2;1
@@ -257,15 +257,15 @@ File:Verdana.ttf
 Verdana
 -1;Verdana;0;5;5;2;65535;1005;209;214;0;1495;1214;1495;1214;0;0;0;0;Normal
 
-File:Trebuchet_MS.ttf
-2;1
-Trebuchet MS
--1;TrebuchetMS;0;5;5;2;65535;938;222;160;0;1167;1160;1167;1160;0;0;0;8;Normal
-
 File:trebucit.ttf
 2;1
 Trebuchet MS
 -1;TrebuchetMS-Italic;2;5;5;2;65535;938;222;160;0;1216;1160;1216;1160;0;0;0;8;Cursiva
+
+File:Trebuchet_MS.ttf
+2;1
+Trebuchet MS
+-1;TrebuchetMS;0;5;5;2;65535;938;222;160;0;1167;1160;1167;1160;0;0;0;8;Normal
 
 File:georgiab.ttf
 2;1
@@ -292,15 +292,15 @@ File:Verdana_Bold.ttf
 Verdana
 -1;Verdana-Bold;0;8;5;2;65535;1005;209;214;0;1780;1214;1780;1214;0;0;0;0;Negreta
 
-File:Trebuchet_MS_Bold_Italic.ttf
-2;1
-Trebuchet MS
--1;Trebuchet-BoldItalic;2;8;5;2;65535;938;222;160;0;1262;1160;1262;1160;0;0;0;8;Negreta cursiva
-
 File:arialbd.ttf
 2;1
 Arial
 -1;Arial-BoldMT;0;8;5;2;65535;905;211;116;0;2660;1116;2660;1116;0;0;0;0;Negreta
+
+File:Trebuchet_MS_Bold_Italic.ttf
+2;1
+Trebuchet MS
+-1;Trebuchet-BoldItalic;2;8;5;2;65535;938;222;160;0;1262;1160;1262;1160;0;0;0;8;Negreta cursiva
 
 File:andalemo.ttf
 2;1
@@ -332,15 +332,15 @@ File:verdanab.ttf
 Verdana
 -1;Verdana-Bold;0;8;5;2;65535;1005;209;214;0;1780;1214;1780;1214;0;0;0;0;Negreta
 
-File:Times_New_Roman_Bold_Italic.ttf
-2;1
-Times New Roman
--1;TimesNewRomanPS-BoldItalicMT;2;8;5;2;65535;891;216;107;0;1753;1107;1753;1107;0;0;0;0;Negreta cursiva
-
 File:georgiaz.ttf
 2;1
 Georgia
 -1;Georgia-BoldItalic;2;8;5;2;65535;916;219;135;0;1596;1135;1596;1135;0;0;0;0;Negreta cursiva
+
+File:Times_New_Roman_Bold_Italic.ttf
+2;1
+Times New Roman
+-1;TimesNewRomanPS-BoldItalicMT;2;8;5;2;65535;891;216;107;0;1753;1107;1753;1107;0;0;0;0;Negreta cursiva
 
 FontCacheDirectory:1278777241:/home/sio/.fonts/usrfonts
 File:Visitor-TT1--BRK-.ttf
@@ -465,7 +465,7 @@ File:FreeSerifBoldItalic.ttf
 FreeSerif
 -1;FreeSerifBoldItalic;2;8;5;2;65535;900;300;200;0;2654;1200;2654;1200;0;0;0;0;FettKursiv
 
-FontCacheDirectory:1280462606:/usr/share/fonts/truetype/openoffice
+FontCacheDirectory:1282472266:/usr/share/fonts/truetype/openoffice
 File:opens___.ttf
 2;1
 OpenSymbol
@@ -522,15 +522,15 @@ File:DejaVuSansMono-Bold.ttf
 DejaVu Sans Mono
 -1;DejaVuSansMono-Bold;0;8;5;1;65535;928;235;163;0;1176;1163;1176;1163;0;0;0;0;Bold
 
-File:DejaVuSerif-Italic.ttf
-2;1
-DejaVu Serif
--1;DejaVuSerif-Italic;2;5;5;2;65535;928;235;163;0;2483;1163;2483;1163;0;0;0;0;Italic
-
 File:DejaVuSans-Bold.ttf
 2;1
 DejaVu Sans
 -1;DejaVuSans-Bold;0;8;5;2;65535;928;235;163;0;3044;1163;3044;1163;0;0;0;0;Bold
+
+File:DejaVuSerif-Italic.ttf
+2;1
+DejaVu Serif
+-1;DejaVuSerif-Italic;2;5;5;2;65535;928;235;163;0;2483;1163;2483;1163;0;0;0;0;Italic
 
 FontCacheDirectory:1278777614:/usr/share/fonts/truetype/ttf-liberation
 File:LiberationMono-Bold.ttf
@@ -727,15 +727,15 @@ File:n021004l.pfb
 Nimbus Roman No9 L
 -1;NimbusRomNo9L-Medi;0;8;0;2;91;960;341;301;0;1093;676;1093;676;0;0;0;n021004l.afm;Medium
 
-File:a010033l.pfb
-1;1
-URW Gothic L
--1;URWGothicL-BookObli;1;4;0;2;91;1007;232;239;0;1275;739;1275;739;0;0;0;a010033l.afm;Book Oblique
-
 File:n019063l.pfb
 1;1
 Nimbus Sans L
 -1;NimbusSanL-ReguCondItal;2;5;0;2;91;959;286;245;0;1021;718;1021;718;0;0;0;n019063l.afm;Regular Condensed Italic
+
+File:a010033l.pfb
+1;1
+URW Gothic L
+-1;URWGothicL-BookObli;1;4;0;2;91;1007;232;239;0;1275;739;1275;739;0;0;0;a010033l.afm;Book Oblique
 
 File:n022024l.pfb
 1;1
@@ -767,15 +767,15 @@ File:n019064l.pfb
 Nimbus Sans L
 -1;NimbusSanL-BoldCondItal;2;8;0;2;91;989;298;287;0;1001;718;1001;718;0;0;0;n019064l.afm;Bold Condensed Italic
 
-File:a010013l.pfb
-1;1
-URW Gothic L
--1;URWGothicL-Book;0;4;0;2;91;984;240;224;0;1151;739;1151;739;0;0;0;a010013l.afm;Book
-
 File:n019043l.pfb
 1;1
 Nimbus Sans L
 -1;NimbusSanL-ReguCond;0;5;0;2;91;959;282;241;0;893;718;893;718;0;0;0;n019043l.afm;Regular Condensed
+
+File:a010013l.pfb
+1;1
+URW Gothic L
+-1;URWGothicL-Book;0;4;0;2;91;984;240;224;0;1151;739;1151;739;0;0;0;a010013l.afm;Book
 
 File:n022004l.pfb
 1;1
@@ -939,40 +939,40 @@ File:ZapfDingbats.afm
 ITC Zapf Dingbats
 -1;ZapfDingbats;0;6;0;2;10;820;143;-37;0;981;820;981;820;0;0;0
 
-File:ITCAvantGarde-Book.afm
+File:Times-Italic.afm
 3;1
-ITC Avant Garde Gothic
--1;AvantGarde-Book;0;3;0;2;91;955;222;177;0;1148;740;1148;740;0;0;0;Book
+Times
+-1;Times-Italic;2;6;0;2;91;883;217;100;0;1010;653;1010;653;0;0;0;Italic
 
 File:Helvetica-Oblique.afm
 3;1
 Helvetica
 -1;Helvetica-Oblique;2;6;0;2;91;931;225;156;0;1116;718;1116;718;0;0;0;Oblique
 
-File:Times-Italic.afm
-3;1
-Times
--1;Times-Italic;2;6;0;2;91;883;217;100;0;1010;653;1010;653;0;0;0;Italic
-
-File:ITCAvantGarde-Demi.afm
+File:ITCAvantGarde-Book.afm
 3;1
 ITC Avant Garde Gothic
--1;AvantGarde-Demi;0;7;0;2;91;1021;251;272;0;1222;740;1222;740;0;0;0;Demi
+-1;AvantGarde-Book;0;3;0;2;91;955;222;177;0;1148;740;1148;740;0;0;0;Book
 
 File:ITCBookman-Light.afm
 3;1
 ITC Bookman
 -1;Bookman-Light;0;3;0;2;91;908;251;159;0;1266;681;1266;681;0;0;0;Light
 
-File:Courier-Oblique.afm
+File:ITCAvantGarde-Demi.afm
 3;1
-Courier
--1;Courier-Oblique;2;6;0;1;91;805;250;55;0;849;562;849;562;0;0;0;Oblique
+ITC Avant Garde Gothic
+-1;AvantGarde-Demi;0;7;0;2;91;1021;251;272;0;1222;740;1222;740;0;0;0;Demi
 
 File:NewCenturySchlbk-Italic.afm
 3;1
 New Century Schoolbook
 -1;NewCenturySchlbk-Italic;2;6;0;2;91;958;250;208;0;994;722;994;722;0;0;0;Italic
+
+File:Courier-Oblique.afm
+3;1
+Courier
+-1;Courier-Oblique;2;6;0;1;91;805;250;55;0;849;562;849;562;0;0;0;Oblique
 
 File:Courier-BoldOblique.afm
 3;1
@@ -1004,15 +1004,15 @@ File:ITCAvantGarde-BookOblique.afm
 ITC Avant Garde Gothic
 -1;AvantGarde-BookOblique;2;3;0;2;91;955;222;177;0;1279;740;1279;740;0;0;0;Book Oblique
 
-File:ITCBookman-DemiItalic.afm
-3;1
-ITC Bookman
--1;Bookman-DemiItalic;2;7;0;2;91;941;250;191;0;1333;681;1333;681;0;0;0;Demi Italic
-
 File:Palatino-Bold.afm
 3;1
 Palatino
 -1;Palatino-Bold;0;8;0;2;91;924;266;190;0;1000;681;1000;681;0;0;0;Bold
+
+File:ITCBookman-DemiItalic.afm
+3;1
+ITC Bookman
+-1;Bookman-DemiItalic;2;7;0;2;91;941;250;191;0;1333;681;1333;681;0;0;0;Demi Italic
 
 File:NewCenturySchlbk-Roman.afm
 3;1
@@ -1103,12 +1103,12 @@ mikachan;みかちゃ�
 
 File:mikachan-PS.ttf
 2;1
-mikachan-PS;みかちゃん-
+mikachan-PS;みかちゃん
 -1;mikachan-PS;0;5;5;2;65535;859;140;-1;1;1023;999;1023;999;0;0;0;4;Regular
 
 File:mikachan-P.ttf
 2;1
-mikachan-P;みかちゃん
+mikachan-P;みかちゃ�
 -1;mikachan-P;0;5;5;2;65535;859;140;-1;1;1025;999;1025;999;0;0;0;4;Regular
 
 File:mikachan_puchi.ttc
@@ -1120,7 +1120,7 @@ mikachan-puchiB;みかちゃん-ぷ�
 
 File:mikachan-PB.ttf
 2;1
-mikachan-PB;みかちゃん-
+mikachan-PB;みかちゃん
 -1;mikachan-PB;0;5;5;2;65535;859;140;-1;1;1100;999;1100;999;0;0;0;4;Regular
 
 FontCacheDirectory:1279391916:/usr/share/fonts/truetype/sazanami
@@ -1165,15 +1165,15 @@ File:UnJamoBatang.ttf
 UnJamoBatang;은 자모 바�
 -1;UnJamoBatang;0;5;5;2;65535;970;250;220;0;2104;1220;2104;1220;0;0;0;12;Regular
 
-File:UnJamoSora.ttf
-2;1
-UnJamoSora;은 자모 소�
--1;UnJamoSora;0;5;5;2;65535;963;250;213;0;2120;1213;2120;1213;0;0;0;12;Regular
-
 File:UnGraphic.ttf
 2;1
 UnGraphic;은 그래�
 -1;UnGraphic;0;5;5;2;65535;963;250;213;0;2002;1213;2002;1213;0;0;0;12;Regular
+
+File:UnJamoSora.ttf
+2;1
+UnJamoSora;은 자모 소�
+-1;UnJamoSora;0;5;5;2;65535;963;250;213;0;2120;1213;2120;1213;0;0;0;12;Regular
 
 File:UnPilgiBold.ttf
 2;1

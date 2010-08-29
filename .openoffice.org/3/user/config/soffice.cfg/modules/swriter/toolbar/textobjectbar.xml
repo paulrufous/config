@@ -31,8 +31,8 @@
  <toolbar:toolbaritem xlink:href=".uno:DefaultBullet" toolbar:helpid="helpid:20138"/>
  <toolbar:toolbaritem xlink:href=".uno:DecrementIndent" toolbar:helpid="helpid:10461"/>
  <toolbar:toolbaritem xlink:href=".uno:IncrementIndent" toolbar:helpid="helpid:10462"/>
- <toolbar:toolbaritem xlink:href=".uno:Grow" toolbar:visible="false" toolbar:helpid="helpid:20403"/>
- <toolbar:toolbaritem xlink:href=".uno:Shrink" toolbar:visible="false" toolbar:helpid="helpid:20404"/>
+ <toolbar:toolbaritem xlink:href=".uno:Grow" toolbar:helpid="helpid:20403"/>
+ <toolbar:toolbaritem xlink:href=".uno:Shrink" toolbar:helpid="helpid:20404"/>
  <toolbar:toolbarseparator/>
  <toolbar:toolbaritem xlink:href=".uno:FontColor" toolbar:helpid="helpid:10017"/>
  <toolbar:toolbaritem xlink:href=".uno:BackColor" toolbar:helpid="helpid:10489"/>

@@ -18,7 +18,7 @@ lib_view = 1
 lib_genre = !NONE!
 lib_path = !NONE!
 lib_year = !NONE!
-lib_artist = In This Moment
+lib_artist = Iron Maiden
 lib_album = !NONE!
 
 [player]
@@ -61,8 +61,8 @@ xfade = 0
 initial_run = False
 w = 473
 update_on_start = False
-y = 0
-x = 0
+y = 86
+x = 533
 art_location = 0
 browser = 
 

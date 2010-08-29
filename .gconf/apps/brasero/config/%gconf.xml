@@ -1,12 +1,6 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="plugins" mtime="1281807837" type="list" ltype="string">
-		<li type="string">
-			<stringvalue>File Downloader</stringvalue>
-		</li>
-		<li type="string">
-			<stringvalue>File Checksum</stringvalue>
-		</li>
+	<entry name="plugins" mtime="1283075234" type="list" ltype="string">
 		<li type="string">
 			<stringvalue>Normalize</stringvalue>
 		</li>
@@ -14,7 +8,13 @@
 			<stringvalue>CD/DVD Creator Folder</stringvalue>
 		</li>
 		<li type="string">
+			<stringvalue>File Downloader</stringvalue>
+		</li>
+		<li type="string">
 			<stringvalue>Image Checksum</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>File Checksum</stringvalue>
 		</li>
 	</entry>
 </gconf>

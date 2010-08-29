@@ -38,4 +38,11 @@
    </prop>
   </node>
  </node>
+ <node oor:name="ObjectBar">
+  <node oor:name="Selection">
+   <prop oor:name="Table" oor:type="xs:int">
+    <value>23266</value>
+   </prop>
+  </node>
+ </node>
 </oor:component-data>
