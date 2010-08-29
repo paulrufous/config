@@ -2,16 +2,16 @@
 <FictionBookMarks>
   <file>
     <file-info>
-      <doc-title>The Graveyard Book</doc-title>
-      <doc-author>Neil Gaiman</doc-author>
-      <doc-series/>
-      <doc-filename>Gaiman - The Graveyard Book.fb2.zip</doc-filename>
+      <doc-title>The Player of Games</doc-title>
+      <doc-author>Iain M. Banks</doc-author>
+      <doc-series>(Culture #2)</doc-series>
+      <doc-filename>Banks - The Player of Games.fb2.zip</doc-filename>
       <doc-filepath>/home/sio/documents/books/Fiction/</doc-filepath>
-      <doc-filesize>517613</doc-filesize>
+      <doc-filesize>304566</doc-filesize>
     </file-info>
     <bookmark-list>
-      <bookmark type="lastpos" percent="0.30%" timestamp="1283079442" shortcut="0">
-        <start-point>/FictionBook/description/title-info/annotation/p[5]/text()[2].75</start-point>
+      <bookmark type="lastpos" percent="0.00%" timestamp="1283102539" shortcut="0">
+        <start-point>/FictionBook/description/title-info/genre/text().0</start-point>
         <end-point/>
         <header-text/>
         <selection-text/>
@@ -21,16 +21,35 @@
   </file>
   <file>
     <file-info>
-      <doc-title>The Player of Games</doc-title>
-      <doc-author>Iain M. Banks</doc-author>
-      <doc-series>(Culture #2)</doc-series>
-      <doc-filename>Banks - The Player of Games.fb2.zip</doc-filename>
+      <doc-title>The Graveyard Book</doc-title>
+      <doc-author>Neil Gaiman</doc-author>
+      <doc-series/>
+      <doc-filename>Gaiman - The Graveyard Book.fb2.zip</doc-filename>
       <doc-filepath>/home/sio/documents/books/Fiction/</doc-filepath>
-      <doc-filesize>304566</doc-filesize>
+      <doc-filesize>517613</doc-filesize>
     </file-info>
     <bookmark-list>
-      <bookmark type="lastpos" percent="0.00%" timestamp="1283079424" shortcut="0">
+      <bookmark type="lastpos" percent="0.00%" timestamp="1283098995" shortcut="0">
         <start-point>/FictionBook/description/title-info/genre/text().0</start-point>
+        <end-point/>
+        <header-text/>
+        <selection-text/>
+        <comment-text/>
+      </bookmark>
+    </bookmark-list>
+  </file>
+  <file>
+    <file-info>
+      <doc-title/>
+      <doc-author/>
+      <doc-series/>
+      <doc-filename>Ветка сакуры.txt</doc-filename>
+      <doc-filepath>/home/sio/documents/books/Fiction/</doc-filepath>
+      <doc-filesize>476202</doc-filesize>
+    </file-info>
+    <bookmark-list>
+      <bookmark type="lastpos" percent="1.04%" timestamp="1283098572" shortcut="0">
+        <start-point>/FictionBook/body/section[2]/p[33]/text().149</start-point>
         <end-point/>
         <header-text/>
         <selection-text/>
@@ -122,3 +141,4 @@
     </bookmark-list>
   </file>
 </FictionBookMarks>
+onBookMarks>
