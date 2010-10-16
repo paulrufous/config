@@ -17,9 +17,9 @@ title = %A - %T
 lib_view = 1
 lib_genre = !NONE!
 lib_path = !NONE!
-lib_year = !NONE!
-lib_artist = Linkin Park
-lib_album = !NONE!
+lib_year = 2006
+lib_artist = Sunrise Avenue
+lib_album = On The Way To Wonderland
 
 [player]
 art_location_custom_filename = 

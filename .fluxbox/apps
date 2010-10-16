@@ -81,7 +81,7 @@
   [Maximized]	{yes}
 [end]
 [app] (name=htop) (class=URxvt)
-  [Dimensions]	{837 475}
+  [Dimensions]	{872 475}
   [Close]	{yes}
 [end]
 [app] (name=aptitude) (class=URxvt)

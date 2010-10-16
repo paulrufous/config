@@ -20,4 +20,4 @@ urxvt -name Terminal&
 # Because it is the last app you have to run it with ''exec'' before it.
 exec fluxbox
 # or if you want to keep a log:
-# exec fluxbox -log "/home/sio/.fluxbox/log"
+#~exec fluxbox -log "/home/sio/.fluxbox/log"

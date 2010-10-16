@@ -28,7 +28,6 @@ OnTitlebar Mouse2 :StartTabbing
 
 # double click on the titlebar to shade
 OnTitlebar Double Mouse1 :Shade
-OnTitlebar Mouse1 :MacroCmd {Raise} {Focus}
 
 #OnTab Mouse1 :Shade
 
