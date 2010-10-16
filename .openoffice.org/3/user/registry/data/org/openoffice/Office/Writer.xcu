@@ -17,6 +17,11 @@
     <value>true</value>
    </prop>
   </node>
+  <node oor:name="Zoom">
+   <prop oor:name="Value" oor:type="xs:int">
+    <value>100</value>
+   </prop>
+  </node>
  </node>
  <node oor:name="FormLetter">
   <node oor:name="FileOutput">
@@ -41,7 +46,10 @@
  <node oor:name="ObjectBar">
   <node oor:name="Selection">
    <prop oor:name="Table" oor:type="xs:int">
-    <value>23266</value>
+    <value>23265</value>
+   </prop>
+   <prop oor:name="NumberedList" oor:type="xs:int">
+    <value>23265</value>
    </prop>
   </node>
  </node>

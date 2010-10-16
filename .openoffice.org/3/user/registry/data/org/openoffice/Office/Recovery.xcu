@@ -5,6 +5,9 @@
   <node oor:name="recovery_item_2" oor:op="remove"/>
   <node oor:name="recovery_item_3" oor:op="remove"/>
   <node oor:name="recovery_item_4" oor:op="remove"/>
+  <node oor:name="recovery_item_5" oor:op="remove"/>
+  <node oor:name="recovery_item_6" oor:op="remove"/>
+  <node oor:name="recovery_item_7" oor:op="remove"/>
  </node>
  <node oor:name="AutoSave">
   <prop oor:name="TimeIntervall" oor:type="xs:int">

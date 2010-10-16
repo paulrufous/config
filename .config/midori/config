@@ -1,15 +1,39 @@
 
 [settings]
-default-encoding=ISO-8859-1
-last-window-width=752
-last-window-height=470
+default-encoding=UTF-8
+default-font-family=Liberation Sans
+monospace-font-family=Liberation Mono
+minimum-font-size=8
+last-window-width=1127
+last-window-height=678
 last-window-state=MIDORI_WINDOW_MAXIMIZED
-last-panel-position=212
-last-panel-page=5
-load-on-startup=MIDORI_STARTUP_BLANK_PAGE
+last-panel-position=224
+last-panel-page=7
+show-menubar=false
+show-transferbar=false
+show-statusbar=false
+toolbar-style=MIDORI_TOOLBAR_SMALL_ICONS
+search-engines-in-completion=false
+toolbar-items=TabNew,Location,Search,CompactMenu,
+open-panels-in-windows=true
+homepage=
 speed-dial-in-new-tabs=false
+download-folder=/home/sio/downloads
+ask-for-destination-folder=true
+text-editor=leafpad %f
 location-entry-search=http://www.google.com/search?q=%s
-user-agent=Midori/0.2 (X11; Linux; U; en-us) WebKit/531.2+
+preferred-encoding=MIDORI_ENCODING_UNICODE
+always-show-tabbar=true
+close-buttons-on-tabs=false
+open-tabs-in-the-background=true
+open-tabs-next-to-current=false
+identify-as=MIDORI_IDENT_SAFARI
+user-agent=Mozilla/5.0 (X11; U; Linux; en-us) AppleWebKit/531+ (KHTML, like Gecko) Safari/531.2+ Midori/0.2
 
 [extensions]
 libadblock.so=true
+libweb-cache.so=true
+libtoolbar-editor.so=true
+libshortcuts.so=true
+libformhistory.so=true
+libaddons.so=true

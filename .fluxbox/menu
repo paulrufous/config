@@ -6,11 +6,13 @@
 [submenu] (Internet/)
     [exec] (Firefox) {firefox -P default}
     [exec] (Gajim) {~/misc/src/gajim/launch.sh}
-    [exec] (gFtp) {gftp}
+    [exec] (Skype) {amixer sset Master 66%; skype; amixer sset Master 100%}
+#    [exec] (gFtp) {gftp}
     [exec] (Deluge) {deluge}
 [end]
 [submenu] (Multimedia/)
     [exec] (GMPC) {gmpc}
+    [exec] (Sonata) {~/misc/src/sonata/sonata.py}
     [exec] (SMplayer) {smplayer}
     [exec] (Easytag) {easytag}
     [exec] (Audacity) {audacity}
@@ -52,8 +54,11 @@
         [submenu] (StarCraft)
             [exec] (Original) {~/bin/starcraft-launcher.sh --sc}
             [exec] (BroodWar) {~/bin/starcraft-launcher.sh --bw}
-        [end]]
-        [exec] (Warcraft III) {LANG=ru_RU.CP1251 WINEPREFIX=~/.wineprefixes/wc3 wine "C:\Program Files\Warcraft III\Frozen Throne.exe" -opengl}
+        [end]
+        [submenu] (Warcraft III)
+            [exec] (Frozen Throne) {LANG=ru_RU.CP1251 WINEPREFIX=~/.wineprefixes/wc3 wine "C:\Program Files\Warcraft III\Frozen Throne.exe" -opengl}
+            [exec] (Reign of Chaos) {LANG=ru_RU.CP1251 WINEPREFIX=~/.wineprefixes/wc3 wine "C:\Program Files\Warcraft III\Warcraft III.exe" -opengl}
+        [end]
         [exec] (Warsow) {warsow}
         [exec] (Wesnoth) {wesnoth-1.8}
         [exec] (Widelands) {SDL_VIDEO_X11_DGAMOUSE=0 widelands}

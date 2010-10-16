@@ -1,5 +1,5 @@
 PspFontCacheFile format 4
-FontCacheDirectory:1281780319:/home/sio/.fonts
+FontCacheDirectory:1285760768:/home/sio/.fonts
 File:UbuntuRegular.ttf
 2;1
 UbuntuBeta
@@ -15,10 +15,50 @@ File:UbuntuBoldItalic.ttf
 UbuntuBeta
 -1;UbuntuBeta-BoldItalic;2;8;5;2;65535;932;189;121;0;3713;1121;3713;1121;0;0;0;8;Bold Italic
 
+File:PTS75F.ttf
+2;1
+PT Sans
+-1;PTSans-Bold;0;8;5;2;65535;1019;276;295;0;1578;1295;1578;1295;0;0;0;0;Bold
+
 File:UbuntuBold.ttf
 2;1
 UbuntuBeta
 -1;UbuntuBeta-Bold;0;8;5;2;65535;932;189;121;0;2653;1121;2653;1121;0;0;0;8;Bold
+
+File:PTS76F.ttf
+2;1
+PT Sans
+-1;PTSans-BoldItalic;2;8;5;2;65535;1019;276;295;0;1468;1295;1468;1295;0;0;0;0;Bold Italic
+
+File:PTS55F.ttf
+2;1
+PT Sans
+-1;PTSans-Regular;0;5;5;2;65535;1019;276;295;0;1448;1295;1448;1295;0;0;0;0;Regular
+
+File:PTN57F.ttf
+2;1
+PT Sans Narrow
+-1;PTSans-Narrow;0;5;3;2;65535;1019;276;295;0;1299;1295;1299;1295;0;0;0;0;Regular
+
+File:PTS56F.ttf
+2;1
+PT Sans
+-1;PTSans-Italic;2;5;5;2;65535;1019;276;295;0;1372;1295;1372;1295;0;0;0;0;Italic
+
+File:PTC75F.ttf
+2;1
+PT Sans Caption
+-1;PTSans-CaptionBold;0;8;5;2;65535;1019;276;295;0;1660;1295;1660;1295;0;0;0;0;Bold
+
+File:PTC55F.ttf
+2;1
+PT Sans Caption
+-1;PTSans-Caption;0;5;5;2;65535;1019;276;295;0;1551;1295;1551;1295;0;0;0;0;Regular
+
+File:PTN77F.ttf
+2;1
+PT Sans Narrow
+-1;PTSans-NarrowBold;0;8;3;2;65535;1019;276;295;0;1440;1295;1440;1295;0;0;0;0;Bold
 
 FontCacheDirectory:1278774522:/home/sio/.fonts/Book Antiqua
 File:ANTQUAI.TTF
@@ -465,7 +505,7 @@ File:FreeSerifBoldItalic.ttf
 FreeSerif
 -1;FreeSerifBoldItalic;2;8;5;2;65535;900;300;200;0;2654;1200;2654;1200;0;0;0;0;FettKursiv
 
-FontCacheDirectory:1282472266:/usr/share/fonts/truetype/openoffice
+FontCacheDirectory:1286029668:/usr/share/fonts/truetype/openoffice
 File:opens___.ttf
 2;1
 OpenSymbol
@@ -883,162 +923,7 @@ File:Symbol.pfb
 Symbol
 -1;Symbol;0;5;0;2;10;1010;293;303;0;1090;673;1090;673;0;0;0;Symbol.afm;Regular
 
-FontCacheDirectory:1278847914:/usr/lib/openoffice/program/../basis-link/share/psprint/fontmetric
-File:Times-Roman.afm
-3;1
-Times
--1;Times-Roman;0;6;0;2;91;898;218;116;0;1000;662;1000;662;0;0;0;Roman
-
-File:Courier.afm
-3;1
-Courier
--1;Courier;0;6;0;1;91;805;250;55;0;715;562;715;562;0;0;0
-
-File:Palatino-Italic.afm
-3;1
-Palatino
--1;Palatino-Italic;2;6;0;2;91;918;276;194;0;1010;692;1010;692;0;0;0;Italic
-
-File:Courier-Bold.afm
-3;1
-Courier
--1;Courier-Bold;0;8;0;1;91;801;250;51;0;749;562;749;562;0;0;0;Bold
-
-File:ITCBookman-LightItalic.afm
-3;1
-ITC Bookman
--1;Bookman-LightItalic;2;3;0;2;91;883;250;133;0;1269;681;1269;681;0;0;0;Light Italic
-
-File:ITCBookman-Demi.afm
-3;1
-ITC Bookman
--1;Bookman-Demi;0;7;0;2;91;934;250;184;0;1346;681;1346;681;0;0;0;Demi
-
-File:Helvetica.afm
-3;1
-Helvetica
--1;Helvetica;0;6;0;2;91;931;225;156;0;1000;718;1000;718;0;0;0
-
-File:NewCenturySchlbk-Bold.afm
-3;1
-New Century Schoolbook
--1;NewCenturySchlbk-Bold;0;8;0;2;91;988;250;238;0;1000;722;1000;722;0;0;0;Bold
-
-File:NewCenturySchlbk-BoldItalic.afm
-3;1
-New Century Schoolbook
--1;NewCenturySchlbk-BoldItalic;2;8;0;2;91;991;250;241;0;1147;722;1147;722;0;0;0;Bold Italic
-
-File:ITCZapfChancery-MediumItalic.afm
-3;1
-ITC Zapf Chancery
--1;ZapfChancery-MediumItalic;2;6;0;2;91;831;314;145;0;1065;708;1065;708;0;0;0;Medium Italic
-
-File:ZapfDingbats.afm
-3;1
-ITC Zapf Dingbats
--1;ZapfDingbats;0;6;0;2;10;820;143;-37;0;981;820;981;820;0;0;0
-
-File:Times-Italic.afm
-3;1
-Times
--1;Times-Italic;2;6;0;2;91;883;217;100;0;1010;653;1010;653;0;0;0;Italic
-
-File:Helvetica-Oblique.afm
-3;1
-Helvetica
--1;Helvetica-Oblique;2;6;0;2;91;931;225;156;0;1116;718;1116;718;0;0;0;Oblique
-
-File:ITCAvantGarde-Book.afm
-3;1
-ITC Avant Garde Gothic
--1;AvantGarde-Book;0;3;0;2;91;955;222;177;0;1148;740;1148;740;0;0;0;Book
-
-File:ITCBookman-Light.afm
-3;1
-ITC Bookman
--1;Bookman-Light;0;3;0;2;91;908;251;159;0;1266;681;1266;681;0;0;0;Light
-
-File:ITCAvantGarde-Demi.afm
-3;1
-ITC Avant Garde Gothic
--1;AvantGarde-Demi;0;7;0;2;91;1021;251;272;0;1222;740;1222;740;0;0;0;Demi
-
-File:NewCenturySchlbk-Italic.afm
-3;1
-New Century Schoolbook
--1;NewCenturySchlbk-Italic;2;6;0;2;91;958;250;208;0;994;722;994;722;0;0;0;Italic
-
-File:Courier-Oblique.afm
-3;1
-Courier
--1;Courier-Oblique;2;6;0;1;91;805;250;55;0;849;562;849;562;0;0;0;Oblique
-
-File:Courier-BoldOblique.afm
-3;1
-Courier
--1;Courier-BoldOblique;2;8;0;1;91;801;250;51;0;869;562;869;562;0;0;0;Bold Oblique
-
-File:ITCAvantGarde-DemiOblique.afm
-3;1
-ITC Avant Garde Gothic
--1;AvantGarde-DemiOblique;2;7;0;2;91;1021;251;272;0;1256;740;1256;740;0;0;0;Demi Oblique
-
-File:Palatino-BoldItalic.afm
-3;1
-Palatino
--1;Palatino-BoldItalic;2;8;0;2;91;926;271;197;0;1073;681;1073;681;0;0;0;Bold Italic
-
-File:Times-Bold.afm
-3;1
-Times
--1;Times-Bold;0;8;0;2;91;935;218;153;0;1000;676;1000;676;0;0;0;Bold
-
-File:Palatino-Roman.afm
-3;1
-Palatino
--1;Palatino-Roman;0;6;0;2;91;927;283;210;0;1021;692;1021;692;0;0;0;Roman
-
-File:ITCAvantGarde-BookOblique.afm
-3;1
-ITC Avant Garde Gothic
--1;AvantGarde-BookOblique;2;3;0;2;91;955;222;177;0;1279;740;1279;740;0;0;0;Book Oblique
-
-File:Palatino-Bold.afm
-3;1
-Palatino
--1;Palatino-Bold;0;8;0;2;91;924;266;190;0;1000;681;1000;681;0;0;0;Bold
-
-File:ITCBookman-DemiItalic.afm
-3;1
-ITC Bookman
--1;Bookman-DemiItalic;2;7;0;2;91;941;250;191;0;1333;681;1333;681;0;0;0;Demi Italic
-
-File:NewCenturySchlbk-Roman.afm
-3;1
-New Century Schoolbook
--1;NewCenturySchlbk-Roman;0;6;0;2;91;965;250;215;0;1000;722;1000;722;0;0;0;Roman
-
-File:Helvetica-BoldOblique.afm
-3;1
-Helvetica
--1;Helvetica-BoldOblique;2;8;0;2;91;962;228;190;0;1114;718;1114;718;0;0;0;Bold Oblique
-
-File:Helvetica-Bold.afm
-3;1
-Helvetica
--1;Helvetica-Bold;0;8;0;2;91;962;228;190;0;1003;718;1003;718;0;0;0;Bold
-
-File:Times-BoldItalic.afm
-3;1
-Times
--1;Times-BoldItalic;2;8;0;2;91;921;218;139;0;996;669;996;669;0;0;0;Bold Italic
-
-File:Symbol.afm
-3;1
-Symbol
--1;Symbol;0;6;0;2;10;1010;293;303;0;1090;1010;1090;1010;0;0;0
-
+FontCacheDirectory:1284940934:/usr/lib/openoffice/program/../basis-link/share/psprint/fontmetric
 EmptyFontCacheDirectory:1278848412:/home/sio/.openoffice.org/3/user/psprint/fontmetric
 FontCacheDirectory:1279219189:/home/sio/.fonts/Lucida Grande
 File:Lucida Grande Bold.ttf
@@ -1103,7 +988,7 @@ mikachan;みかちゃ�
 
 File:mikachan-PS.ttf
 2;1
-mikachan-PS;みかちゃん
+mikachan-PS;みかちゃ�
 -1;mikachan-PS;0;5;5;2;65535;859;140;-1;1;1023;999;1023;999;0;0;0;4;Regular
 
 File:mikachan-P.ttf
@@ -1120,7 +1005,7 @@ mikachan-puchiB;みかちゃん-ぷ�
 
 File:mikachan-PB.ttf
 2;1
-mikachan-PB;みかちゃん
+mikachan-PB;みかちゃ�
 -1;mikachan-PB;0;5;5;2;65535;859;140;-1;1;1100;999;1100;999;0;0;0;4;Regular
 
 FontCacheDirectory:1279391916:/usr/share/fonts/truetype/sazanami
@@ -1255,16 +1140,16 @@ File:UnPilgi.ttf
 UnPilgi;은 필�
 -1;UnPilgi;0;5;5;2;65535;963;419;382;0;1490;1382;1490;1382;0;0;0;12;Regular
 
-FontCacheDirectory:1279391918:/usr/share/fonts/truetype/vlgothic
+FontCacheDirectory:1284743349:/usr/share/fonts/truetype/vlgothic
 File:VL-PGothic-Regular.ttf
 2;1
 VL PGothic;VL Pゴシッ�
--1;VL-PGothic-Regular;0;5;5;2;65535;1005;270;275;1;1578;1275;1578;1275;0;0;0;0;regular
+-1;VL-PGothic-Regular;0;5;5;2;65535;1000;270;270;1;1578;1270;1578;1270;0;0;0;0;regular
 
 File:VL-Gothic-Regular.ttf
 2;1
 VL Gothic;VL ゴシッ�
--1;VL-Gothic-Regular;0;5;5;2;65535;1021;328;349;1;1061;1349;1061;1349;0;0;0;0;regular
+-1;VL-Gothic-Regular;0;5;5;2;65535;1000;270;270;1;1061;1270;1061;1270;0;0;0;0;regular
 
 FontCacheDirectory:1279392346:/usr/share/fonts/truetype/wqy
 File:wqy-zenhei.ttc

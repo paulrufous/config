@@ -2,6 +2,101 @@
 <FictionBookMarks>
   <file>
     <file-info>
+      <doc-title>Двор Хаоса</doc-title>
+      <doc-author>Роджер Желязны</doc-author>
+      <doc-series>( Хроники Амбера #5)</doc-series>
+      <doc-filename>Желязны - Хроники Амбера 5 - Двор Хаоса.zip</doc-filename>
+      <doc-filepath>/home/sio/documents/books/Fiction/Желязны - Хроники Амбера/</doc-filepath>
+      <doc-filesize>166217</doc-filesize>
+    </file-info>
+    <bookmark-list>
+      <bookmark type="lastpos" percent="99.86%" timestamp="1286734415" shortcut="0">
+        <start-point>/FictionBook/body[1]/section[14]/p[26]/text().88</start-point>
+        <end-point/>
+        <header-text/>
+        <selection-text/>
+        <comment-text/>
+      </bookmark>
+    </bookmark-list>
+  </file>
+  <file>
+    <file-info>
+      <doc-title>Рука Оберона</doc-title>
+      <doc-author>Роджер Желязны</doc-author>
+      <doc-series>(Хроники Амбера #4)</doc-series>
+      <doc-filename>Желязны - Хроники Амбера 4 - Рука Оберона.zip</doc-filename>
+      <doc-filepath/>
+      <doc-filesize>190453</doc-filesize>
+    </file-info>
+    <bookmark-list>
+      <bookmark type="lastpos" percent="0.00%" timestamp="1285280796" shortcut="0">
+        <start-point>/FictionBook/description/title-info/genre/text().0</start-point>
+        <end-point/>
+        <header-text/>
+        <selection-text/>
+        <comment-text/>
+      </bookmark>
+    </bookmark-list>
+  </file>
+  <file>
+    <file-info>
+      <doc-title>Знак Единорога</doc-title>
+      <doc-author>Роджер Желязны</doc-author>
+      <doc-series>(Хроники Амбера #3)</doc-series>
+      <doc-filename>Желязны - Хроники Амбера 3 - Знак единорога.zip</doc-filename>
+      <doc-filepath/>
+      <doc-filesize>165323</doc-filesize>
+    </file-info>
+    <bookmark-list>
+      <bookmark type="lastpos" percent="0.00%" timestamp="1285267467" shortcut="0">
+        <start-point>/FictionBook/description/title-info/genre/text().0</start-point>
+        <end-point/>
+        <header-text/>
+        <selection-text/>
+        <comment-text/>
+      </bookmark>
+    </bookmark-list>
+  </file>
+  <file>
+    <file-info>
+      <doc-title>Ружья Авалона</doc-title>
+      <doc-author>Роджер Желязны</doc-author>
+      <doc-series>(Хроники Амбера #2)</doc-series>
+      <doc-filename>Желязны - Хроники Амбера 2 - Ружья Авалона.zip</doc-filename>
+      <doc-filepath>/home/sio/documents/books/Fiction/Желязны - Хроники Амбера/</doc-filepath>
+      <doc-filesize>184990</doc-filesize>
+    </file-info>
+    <bookmark-list>
+      <bookmark type="lastpos" percent="99.06%" timestamp="1285253439" shortcut="0">
+        <start-point>/FictionBook/body/section[9]/p[239]/text().94</start-point>
+        <end-point/>
+        <header-text/>
+        <selection-text/>
+        <comment-text/>
+      </bookmark>
+    </bookmark-list>
+  </file>
+  <file>
+    <file-info>
+      <doc-title/>
+      <doc-author/>
+      <doc-series/>
+      <doc-filename>Heinlein, Robert A. - The Moon is a Harsh Mistress.txt</doc-filename>
+      <doc-filepath>tmp/trash/</doc-filepath>
+      <doc-filesize>681175</doc-filesize>
+    </file-info>
+    <bookmark-list>
+      <bookmark type="lastpos" percent="99.04%" timestamp="1283809943" shortcut="0">
+        <start-point>/FictionBook/body/section[35]/p[32]/text().0</start-point>
+        <end-point/>
+        <header-text/>
+        <selection-text/>
+        <comment-text/>
+      </bookmark>
+    </bookmark-list>
+  </file>
+  <file>
+    <file-info>
       <doc-title>The Player of Games</doc-title>
       <doc-author>Iain M. Banks</doc-author>
       <doc-series>(Culture #2)</doc-series>
@@ -10,8 +105,8 @@
       <doc-filesize>304566</doc-filesize>
     </file-info>
     <bookmark-list>
-      <bookmark type="lastpos" percent="0.00%" timestamp="1283102539" shortcut="0">
-        <start-point>/FictionBook/description/title-info/genre/text().0</start-point>
+      <bookmark type="lastpos" percent="3.09%" timestamp="1283108107" shortcut="0">
+        <start-point>/FictionBook/body/section[1]/p[93]/text().135</start-point>
         <end-point/>
         <header-text/>
         <selection-text/>
@@ -141,4 +236,3 @@
     </bookmark-list>
   </file>
 </FictionBookMarks>
-onBookMarks>

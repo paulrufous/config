@@ -9,7 +9,8 @@
   [Position]	(UPPERLEFT)	{0 272}
 [end]
 [group]  (workspace=[current])
- [app] (name=Navigator) (role=browser)
+ [app] (class=Firefox) (role=browser)
+  [Workspace]	{0}
 [end]
 [app] (name=pcmanfm) (class=Pcmanfm)
 [end]
@@ -21,7 +22,7 @@
 [end]
 [group]  (workspace=[current])
  [app] (name=gajim*) (class=Gajim.py) (role=gc)
- [app] (name=Download) (class=Firefox) (role=Manager)
+ [app] (name=Download) (role=Manager)
   [Workspace]	{0}
   [Dimensions]	{635 400}
   [Position]	(UPPERLEFT)	{643 0}
@@ -57,10 +58,6 @@
   [Deco]	{NONE}
   [Layer]	{6}
 [end]
-[app] (name=deluge-gtk) (class=Deluge-gtk)
-  [Workspace]	{2}
-  [Minimized]	{yes}
-[end]
 [group]  (workspace=[current])
  [app] (name=Terminal) (class=URxvt)
   [Dimensions]	{641 400}
@@ -77,6 +74,7 @@
 [end]
 [app] (name=deluge) (class=Deluge)
   [Workspace]	{2}
+  [Deco]	{BORDER}
   [Minimized]	{yes}
 [end]
 [app] (name=Pinta) (class=Pinta)
@@ -87,7 +85,7 @@
   [Close]	{yes}
 [end]
 [app] (name=aptitude) (class=URxvt)
-  [Dimensions]	{641 610}
+  [Dimensions]	{634 640}
   [Close]	{yes}
 [end]
 [app] (name=nautilus) (class=Nautilus)
@@ -170,4 +168,24 @@
 [app] (name=gimp-2.6) (class=Gimp-2.6) (role=gimp-image-scale)
   [Position]	(UPPERLEFT)	{665 75}
   [Close]	{yes}
+[end]
+[app] (name=sonata) (class=Sonata) (role=mainWindow)
+  [Workspace]	{2}
+  [Position]	(UPPERLEFT)	{42 102}
+  [Deco]	{BORDER}
+[end]
+[app] (name=skype) (class=Skype) (role=MainWindow)
+  [Workspace]	{2}
+  [Dimensions]	{240 519}
+  [Position]	(UPPERLEFT)	{0 279}
+  [Deco]	{BORDER}
+[end]
+[app] (name=chromium-browser) (class=Chromium-browser)
+  [Deco]	{BORDER}
+[end]
+[app] (name=skype) (class=Skype)
+  [Workspace]	{2}
+[end]
+[app] (name=transmission) (class=Transmission) (role=tr-main)
+  [Deco]	{BORDER}
 [end]

@@ -40,7 +40,7 @@
             (dockable "gimp-color-editor"
                 (tab-style preview)
                 (aux-info
-                    (current-page "GimpColorScales"))))))
+                    (current-page "GimpColorSelectorPalette"))))))
 (session-info "toolbox" "dock"
     (position 13 309)
     (size 44 440)
@@ -59,15 +59,17 @@
     (position 684 0))
 (session-info "toplevel" "gimp-file-save-dialog"
     (position 87 58)
-    (size 918 643))
+    (size 883 549))
 (session-info "toplevel" "gimp-shear-tool-dialog"
     (position 470 356))
 (session-info "toplevel" "gimp-color-balance-tool-dialog"
     (position 700 0))
+(session-info "toplevel" "gimp-rotate-tool-dialog"
+    (position 0 22))
 (session-info "display" "gimp-empty-image-window"
     (position 0 0)
     (size 1072 797))
 
-(last-tip-shown 43)
+(last-tip-shown 49)
 
 # end of sessionrc

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="height" mtime="1282661205" type="int" value="680"/>
-	<entry name="width" mtime="1282661205" type="int" value="757"/>
-	<entry name="y" mtime="1282661205" type="int" value="0"/>
-	<entry name="x" mtime="1282661205" type="int" value="523"/>
+	<entry name="height" mtime="1286881347" type="int" value="680"/>
+	<entry name="width" mtime="1286881347" type="int" value="757"/>
+	<entry name="y" mtime="1286881347" type="int" value="0"/>
+	<entry name="x" mtime="1286881347" type="int" value="0"/>
 </gconf>

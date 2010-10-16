@@ -7,31 +7,31 @@ use_audioscrobbler = False
 use_mpdpaths = False
 
 [currformat]
-current = %A - %T|%L
+current = %T|%A|%B
 currsong1 = %T
 currsong2 = by %A from %B
 library = %A - %T
-title = [Sonata] %A - %T
+title = %A - %T
 
 [library]
 lib_view = 1
 lib_genre = !NONE!
 lib_path = !NONE!
 lib_year = !NONE!
-lib_artist = Iron Maiden
+lib_artist = Linkin Park
 lib_album = !NONE!
 
 [player]
 art_location_custom_filename = 
 lyrics = True
-columnwidths = 325,10
-trayicon = True
+columnwidths = 187,155,155
+trayicon = False
 playback = True
-covers = True
+covers = False
 sticky = False
 xfade_enabled = False
-info_song_more = False
-search_num = 0
+info_song_more = True
+search_num = 5
 progressbar = True
 ontop = False
 lyrics_location = 0
@@ -54,15 +54,15 @@ existing_playlist = 0
 decorated = True
 info_album_expanded = True
 infofile_path = /tmp/xmms-info
-info_art_enlarged = True
-h = 691
+info_art_enlarged = False
+h = 676
 expanded = True
 xfade = 0
 initial_run = False
-w = 473
+w = 514
 update_on_start = False
-y = 86
-x = 533
+y = 102
+x = 42
 art_location = 0
 browser = 
 
@@ -71,16 +71,16 @@ auto = True
 profile_num = 0
 
 [notebook]
-info_tab_pos = 4
-current_tab_pos = 0
+info_tab_pos = 0
+current_tab_pos = 1
 current_tab_visible = True
-playlists_tab_pos = 2
-playlists_tab_visible = True
+playlists_tab_pos = None
+playlists_tab_visible = False
 info_tab_visible = True
-streams_tab_visible = True
+streams_tab_visible = False
 library_tab_visible = True
-library_tab_pos = 1
-streams_tab_pos = 3
+library_tab_pos = 2
+streams_tab_pos = None
 
 [streams]
 num_streams = 0
@@ -91,5 +91,9 @@ num_profiles = 1
 passwords[0] = 
 hosts[0] = localhost
 ports[0] = 6600
-musicdirs[0] = /home/sio/music/
+musicdirs[0] = /home/sio/music
+
+[plugins]
+autostart_plugins = gajim_tune,lyricwiki,rhapsodycovers
+known_plugins = test,localmpd,gajim_tune,lyricwiki,rhapsodycovers,streams,playlists
 

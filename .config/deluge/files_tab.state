@@ -1,9 +1,11 @@
 (dp1
 S'sort_id'
 p2
-NsS'sort_order'
+I0
+sS'sort_order'
 p3
-NsS'columns'
+I0
+sS'columns'
 p4
 (dp5
 S'Priority'
@@ -14,14 +16,14 @@ p8
 I3
 sS'width'
 p9
-I383
+I426
 ssS'Progress'
 p10
 (dp11
 g8
 I2
 sg9
-I142
+I130
 ssS'Size'
 p12
 (dp13
@@ -35,5 +37,5 @@ p14
 g8
 I0
 sg9
-I483
+I371
 sss.

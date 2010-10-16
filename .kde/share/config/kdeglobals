@@ -66,14 +66,14 @@ BrowserApplication[$e]=!firefox
 XftAntialias=true
 XftHintStyle=hintfull
 XftSubPixel=none
-desktopFont=DejaVu Sans,9,-1,5,50,0,0,0,0,0
+desktopFont=Liberation Sans,9,-1,5,50,0,0,0,0,0
 fixed=DejaVu Sans Mono,9,-1,5,50,0,0,0,0,0
-font=DejaVu Sans,9,-1,5,50,0,0,0,0,0
-menuFont=DejaVu Sans,9,-1,5,50,0,0,0,0,0
+font=Liberation Sans,9,-1,5,50,0,0,0,0,0
+menuFont=Liberation Sans,9,-1,5,50,0,0,0,0,0
 shadeSortColumn=true
-smallestReadableFont=DejaVu Sans,8,-1,5,50,0,0,0,0,0
-taskbarFont=DejaVu Sans,9,-1,5,50,0,0,0,0,0
-toolBarFont=DejaVu Sans,8,-1,5,50,0,0,0,0,0
+smallestReadableFont=Liberation Sans,8,-1,5,50,0,0,0,0,0
+taskbarFont=Liberation Sans,9,-1,5,50,0,0,0,0,0
+toolBarFont=Liberation Sans,8,-1,5,50,0,0,0,0,0
 widgetStyle=gtk+
 
 [Icons]
@@ -188,4 +188,4 @@ DisabledValue=1
 Size=22
 
 [WM]
-activeFont=DejaVu Sans,9,-1,5,75,0,0,0,0,0
+activeFont=Liberation Sans,9,-1,5,75,0,0,0,0,0

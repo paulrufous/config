@@ -8,6 +8,6 @@
 			<stringvalue>firefox</stringvalue>
 		</li>
 	</entry>
-	<entry name="encrypt_header" mtime="1283077434" type="bool" value="false"/>
+	<entry name="encrypt_header" mtime="1286378987" type="bool" value="false"/>
 	<entry name="migrate_directories" mtime="1278780178" type="bool" value="false"/>
 </gconf>

@@ -1,4 +1,4 @@
-; sol-clutter GtkAccelMap rc-file         -*- scheme -*-
+; sol GtkAccelMap rc-file         -*- scheme -*-
 ; this file is an automated accelerator map dump
 ;
 ; (gtk_accel_path "<Actions>/MenuActions/ViewMenu" "")
@@ -7,9 +7,8 @@
 ; (gtk_accel_path "<Actions>/MenuActions/Hint" "<Control>h")
 ; (gtk_accel_path "<Actions>/MenuActions/About" "")
 ; (gtk_accel_path "<Actions>/MenuActions/HelpMenu" "")
-; (gtk_accel_path "<Actions>/MenuActions/OptionsMenu" "")
 ; (gtk_accel_path "<Actions>/MenuActions/Statusbar" "")
-; (gtk_accel_path "<Actions>/MenuActions/Animations" "")
+; (gtk_accel_path "<Actions>/MenuActions/OptionsMenu" "")
 ; (gtk_accel_path "<Actions>/MenuActions/Statistics" "")
 ; (gtk_accel_path "<Actions>/MenuActions/Deal" "<Control>d")
 ; (gtk_accel_path "<Actions>/MenuActions/GameMenu" "")

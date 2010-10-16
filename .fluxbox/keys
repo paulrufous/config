@@ -1,3 +1,7 @@
+! fluxbox-update_configs added '(workspace=[current])' to (Next|Prev)(Window|Group)
+! check lines marked by 'FBCV13' if they are correctly updated
+!mouse actions added by fluxbox-update_configs
+OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
 !mouse actions added by fluxbox-update_configs
 
 # click on the desktop to get menus
@@ -33,8 +37,8 @@ OnTitlebar Mouse3 :MacroCmd {Raise} {Focus} {StartMoving}
 OnTitlebar Double Mouse3 :WindowMenu
 
 # alt-tab
-Mod1 Tab :NextWindow {groups}
-Mod1 Shift Tab :PrevWindow {groups}
+Mod1 Tab :NextWindow {groups} (workspace=[current])  !! FBCV13 !!
+Mod1 Shift Tab :PrevWindow {groups} (workspace=[current])  !! FBCV13 !!
 
 # cycle through tabs in the current window
 OnTitleBar Mouse5 :MacroCmd {Focus} {NextTab}
@@ -112,8 +116,12 @@ Mod4 s :Stick
 Mod1 m :ExecCommand amixer sset Master toggle
 Mod4 t :ToggleDecor
 Print :ExecCommand cd ~/pictures/screens && scrot
-Mod1 Print :ExecCommand "cd ~/pictures/screens && scrot -bu"
+Mod1 Print :ExecCommand cd ~/pictures/screens && scrot -bu
 Mod4 h :Shade
 
 Mod4 Tab :ExecCommand ~/bin/cml.sh
+
+
+
+
 

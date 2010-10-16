@@ -49,7 +49,7 @@
    </prop>
    <node oor:name="UserData">
     <prop oor:name="UserItem" oor:op="replace" oor:type="xs:string">
-     <value>V1,2,0</value>
+     <value>V1,2,1,0,6318</value>
     </prop>
    </node>
   </node>
@@ -101,7 +101,7 @@
    </prop>
    <node oor:name="UserData">
     <prop oor:name="Data" oor:op="replace" oor:type="xs:string">
-     <value>V2,H,0,AL:(5,16,0/0/228/350,228;669)</value>
+     <value>V2,H,0,AL:(5,16,0/0/228/350,228;670)</value>
     </prop>
    </node>
   </node>
@@ -114,7 +114,7 @@
    </prop>
    <node oor:name="UserData">
     <prop oor:name="Data" oor:op="replace" oor:type="xs:string">
-     <value>V2,H,0,AL:(4,16,0/0/157/350,157;669)</value>
+     <value>V2,H,0,AL:(4,16,0/0/157/350,157;670)</value>
     </prop>
    </node>
   </node>
@@ -123,7 +123,7 @@
     <value xsi:nil="true"/>
    </prop>
    <prop oor:name="WindowState" oor:type="xs:string">
-    <value>294,451,,;1;,,,;</value>
+    <value>294,401,,;1;,,,;</value>
    </prop>
    <node oor:name="UserData">
     <prop oor:name="Data" oor:op="replace" oor:type="xs:string">
@@ -154,6 +154,29 @@
    <node oor:name="UserData">
     <prop oor:name="Data" oor:op="replace" oor:type="xs:string">
      <value>V2,H,0</value>
+    </prop>
+   </node>
+  </node>
+  <node oor:name="6318" oor:op="replace">
+   <prop oor:name="Visible" oor:type="xs:boolean">
+    <value xsi:nil="true"/>
+   </prop>
+   <prop oor:name="WindowState" oor:type="xs:string">
+    <value/>
+   </prop>
+   <node oor:name="UserData">
+    <prop oor:name="Data" oor:op="replace" oor:type="xs:string">
+     <value>V2,H,0,AL:(8,16,0/0/175/175,175;175)</value>
+    </prop>
+   </node>
+  </node>
+  <node oor:name="5539">
+   <prop oor:name="WindowState" oor:type="xs:string">
+    <value>1028,224,241,376;1;0,0,0,0;</value>
+   </prop>
+   <node oor:name="UserData">
+    <prop oor:name="Data" oor:op="replace" oor:type="xs:string">
+     <value>V2,H,0,AL:(16,4,0/0/241/376,241;376)</value>
     </prop>
    </node>
   </node>
@@ -197,6 +220,31 @@
     <value>389,283,,;;,,,;</value>
    </prop>
   </node>
+  <node oor:name="21450" oor:op="replace">
+   <prop oor:name="WindowState" oor:type="xs:string">
+    <value>321,265,,;;,,,;</value>
+   </prop>
+  </node>
+  <node oor:name="20210" oor:op="replace">
+   <prop oor:name="WindowState" oor:type="xs:string">
+    <value>463,316,,;;,,,;</value>
+   </prop>
+  </node>
+  <node oor:name="14900" oor:op="replace">
+   <prop oor:name="WindowState" oor:type="xs:string">
+    <value>342,266,,;;,,,;</value>
+   </prop>
+  </node>
+  <node oor:name="20705" oor:op="replace">
+   <prop oor:name="WindowState" oor:type="xs:string">
+    <value>473,310,,;;,,,;</value>
+   </prop>
+  </node>
+  <node oor:name="21004" oor:op="replace">
+   <prop oor:name="WindowState" oor:type="xs:string">
+    <value>312,292,,;;,,,;</value>
+   </prop>
+  </node>
  </node>
  <node oor:name="TabDialogs">
   <node oor:name="25604" oor:op="replace">
@@ -220,7 +268,7 @@
     <value>1</value>
    </prop>
    <prop oor:name="WindowState" oor:type="xs:string">
-    <value>441,300,,;;,,,;</value>
+    <value>625,278,,;;,,,;</value>
    </prop>
   </node>
   <node oor:name="20886" oor:op="replace">
@@ -233,7 +281,7 @@
   </node>
   <node oor:name="20968" oor:op="replace">
    <prop oor:name="PageID" oor:type="xs:int">
-    <value>20801</value>
+    <value>20817</value>
    </prop>
    <prop oor:name="WindowState" oor:type="xs:string">
     <value>336,170,,;;,,,;</value>
@@ -253,6 +301,46 @@
    </prop>
    <prop oor:name="WindowState" oor:type="xs:string">
     <value>336,170,,;;,,,;</value>
+   </prop>
+  </node>
+  <node oor:name="21451" oor:op="replace">
+   <prop oor:name="PageID" oor:type="xs:int">
+    <value>20812</value>
+   </prop>
+   <prop oor:name="WindowState" oor:type="xs:string">
+    <value>336,170,,;;,,,;</value>
+   </prop>
+  </node>
+  <node oor:name="20962" oor:op="replace">
+   <prop oor:name="PageID" oor:type="xs:int">
+    <value>20855</value>
+   </prop>
+   <prop oor:name="WindowState" oor:type="xs:string">
+    <value>360,170,,;;,,,;</value>
+   </prop>
+  </node>
+  <node oor:name="20889" oor:op="replace">
+   <prop oor:name="PageID" oor:type="xs:int">
+    <value>20890</value>
+   </prop>
+   <prop oor:name="WindowState" oor:type="xs:string">
+    <value>0,21,,;;,,,;</value>
+   </prop>
+  </node>
+  <node oor:name="20836" oor:op="replace">
+   <prop oor:name="PageID" oor:type="xs:int">
+    <value>20813</value>
+   </prop>
+   <prop oor:name="WindowState" oor:type="xs:string">
+    <value>362,215,,;;,,,;</value>
+   </prop>
+  </node>
+  <node oor:name="20879" oor:op="replace">
+   <prop oor:name="PageID" oor:type="xs:int">
+    <value>10215</value>
+   </prop>
+   <prop oor:name="WindowState" oor:type="xs:string">
+    <value>362,215,,;;,,,;</value>
    </prop>
   </node>
  </node>

@@ -325,3 +325,117 @@
 29/08/2010-18:12:21:Critical:<b>error code 17: connection closed</b>
 29/08/2010-18:12:21:Info:Disconnected from mpd
 29/08/2010-18:12:27:Info:Connected to mpd
+31/08/2010-18:00:00:Warning:MPD Reported the following error: 'problems opening audio device'
+31/08/2010-18:00:10:Warning:MPD Reported the following error: 'problems opening audio device'
+31/08/2010-18:00:13:Warning:MPD Reported the following error: 'problems opening audio device'
+02/09/2010-17:36:13:Info:Connected to mpd
+02/09/2010-20:02:18:Info:Connected to mpd
+02/09/2010-20:41:58:Critical:<b>error code 17: connection closed</b>
+02/09/2010-20:41:58:Info:Disconnected from mpd
+02/09/2010-21:11:39:Info:Connected to mpd
+02/09/2010-21:34:26:Critical:<b>error code 17: connection closed</b>
+02/09/2010-21:34:26:Info:Disconnected from mpd
+03/09/2010-13:00:32:Info:Connected to mpd
+03/09/2010-19:58:06:Warning:MPD Reported the following error: 'problems opening audio device'
+03/09/2010-19:58:12:Warning:MPD Reported the following error: 'problems opening audio device'
+03/09/2010-19:58:13:Warning:MPD Reported the following error: 'problems opening audio device'
+03/09/2010-19:59:44:Warning:MPD Reported the following error: 'problems opening audio device'
+03/09/2010-19:59:46:Warning:MPD Reported the following error: 'problems opening audio device'
+03/09/2010-19:59:46:Warning:MPD Reported the following error: 'problems opening audio device'
+03/09/2010-19:59:49:Warning:MPD Reported the following error: 'problems opening audio device'
+03/09/2010-19:59:50:Warning:MPD Reported the following error: 'problems opening audio device'
+03/09/2010-19:59:51:Warning:MPD Reported the following error: 'problems opening audio device'
+03/09/2010-19:59:51:Warning:MPD Reported the following error: 'problems opening audio device'
+03/09/2010-19:59:52:Warning:MPD Reported the following error: 'problems opening audio device'
+03/09/2010-19:59:52:Warning:MPD Reported the following error: 'problems opening audio device'
+03/09/2010-19:59:53:Warning:MPD Reported the following error: 'problems opening audio device'
+03/09/2010-19:59:53:Warning:MPD Reported the following error: 'problems opening audio device'
+03/09/2010-19:59:54:Warning:MPD Reported the following error: 'problems opening audio device'
+03/09/2010-19:59:54:Warning:MPD Reported the following error: 'problems opening audio device'
+03/09/2010-19:59:55:Warning:MPD Reported the following error: 'problems opening audio device'
+03/09/2010-19:59:58:Warning:MPD Reported the following error: 'problems opening audio device'
+04/09/2010-18:13:43:Info:Connected to mpd
+08/09/2010-20:12:09:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:12:12:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:12:12:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:12:13:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:12:13:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:12:14:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:12:14:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:12:15:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:12:16:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:12:22:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:13:11:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:13:12:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:13:12:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:14:49:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:14:51:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:15:24:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:17:52:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:18:00:Critical:<b>error code 17: connection closed</b>
+08/09/2010-20:18:00:Info:Disconnected from mpd
+08/09/2010-20:18:06:Info:Connected to mpd
+08/09/2010-20:18:53:Info:Connected to mpd
+08/09/2010-20:25:20:Critical:<b>error code 17: connection closed</b>
+08/09/2010-20:25:20:Info:Disconnected from mpd
+08/09/2010-20:25:25:Info:Connected to mpd
+08/09/2010-20:25:43:Critical:<b>error code 17: connection closed</b>
+08/09/2010-20:25:43:Info:Disconnected from mpd
+08/09/2010-20:25:48:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:25:48:Info:Connected to mpd
+08/09/2010-20:25:54:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:28:04:Critical:<b>error code 17: connection closed</b>
+08/09/2010-20:28:04:Info:Disconnected from mpd
+08/09/2010-20:28:09:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:28:09:Info:Connected to mpd
+08/09/2010-20:28:11:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:28:12:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:28:12:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:28:13:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:28:14:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:28:14:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:28:14:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:28:14:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:28:15:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:28:15:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:29:33:Critical:<b>error code 17: connection closed</b>
+08/09/2010-20:29:33:Info:Disconnected from mpd
+08/09/2010-20:29:39:Info:Connected to mpd
+08/09/2010-20:30:21:Critical:<b>error code 17: connection closed</b>
+08/09/2010-20:30:21:Info:Disconnected from mpd
+08/09/2010-20:30:27:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:30:27:Info:Connected to mpd
+08/09/2010-20:30:29:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:30:29:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:30:30:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:30:38:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:30:39:Warning:MPD Reported the following error: 'problems opening audio device'
+08/09/2010-20:30:40:Critical:<b>error code 17: connection closed</b>
+08/09/2010-20:30:40:Info:Disconnected from mpd
+08/09/2010-20:30:46:Info:Connected to mpd
+08/09/2010-20:31:29:Critical:<b>error code 17: connection closed</b>
+08/09/2010-20:31:29:Info:Disconnected from mpd
+08/09/2010-20:31:34:Info:Connected to mpd
+09/09/2010-18:15:31:Info:Connected to mpd
+10/09/2010-19:02:30:Critical:<b>error code 17: connection closed</b>
+10/09/2010-19:02:31:Info:Disconnected from mpd
+10/09/2010-19:44:14:Info:Connected to mpd
+19/09/2010-18:00:41:Info:Connected to mpd
+19/09/2010-21:32:32:Critical:<b>error code 17: connection closed</b>
+19/09/2010-21:32:32:Info:Disconnected from mpd
+19/09/2010-21:35:48:Info:Connected to mpd
+19/09/2010-23:04:08:Info:Connected to mpd
+20/09/2010-04:16:40:Critical:<b>error code 17: connection closed</b>
+20/09/2010-04:16:40:Info:Disconnected from mpd
+20/09/2010-15:39:15:Info:Connected to mpd
+20/09/2010-18:46:03:Critical:<b>error code 17: connection closed</b>
+20/09/2010-18:46:03:Info:Disconnected from mpd
+20/09/2010-18:49:05:Info:Connected to mpd
+20/09/2010-19:46:18:Critical:<b>error code 17: connection closed</b>
+20/09/2010-19:46:19:Info:Disconnected from mpd
+22/09/2010-23:42:08:Info:Connected to mpd
+25/09/2010-14:57:42:Info:Connected to mpd
+25/09/2010-15:48:07:Info:MPD Database has been updated at: Sat 25 Sep 2010 03:48:07 PM MSD
+26/09/2010-14:32:32:Info:Connected to mpd
+26/09/2010-18:57:44:Info:Connected to mpd
+26/09/2010-18:58:21:Info:Connected to mpd

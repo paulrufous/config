@@ -61,7 +61,7 @@ g4
 Nsg5
 S'#'
 sg7
-I13
+I14
 sg8
 I01
 sg9
@@ -73,11 +73,12 @@ ListViewColumnState
 p19
 (dp20
 g4
-Nsg5
+I5
+sg5
 S'Name'
 p21
 sg7
-I340
+I358
 sg8
 I01
 sg9
@@ -109,7 +110,7 @@ Nsg5
 S'Progress'
 p27
 sg7
-I141
+I132
 sg8
 I01
 sg9
@@ -157,7 +158,7 @@ Nsg5
 S'Down Speed'
 p36
 sg7
-I77
+I80
 sg8
 I01
 sg9
@@ -173,7 +174,7 @@ Nsg5
 S'Up Speed'
 p39
 sg7
-I87
+I70
 sg8
 I01
 sg9
@@ -189,7 +190,7 @@ Nsg5
 S'ETA'
 p42
 sg7
-I88
+I171
 sg8
 I01
 sg9
@@ -260,4 +261,20 @@ sg9
 I0
 sg10
 I15
+sba(ideluge.ui.gtkui.listview
+ListViewColumnState
+p55
+(dp56
+g4
+Nsg5
+S'Save Path'
+p57
+sg7
+I0
+sg8
+I00
+sg9
+I0
+sg10
+I16
 sba.

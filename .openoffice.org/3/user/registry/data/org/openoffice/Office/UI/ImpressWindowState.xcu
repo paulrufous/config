@@ -13,6 +13,34 @@
      <value>0,0</value>
     </prop>
    </node>
+   <node oor:name="private:resource/toolbar/textobjectbar">
+    <prop oor:name="DockPos" oor:type="xs:string">
+     <value>709,0</value>
+    </prop>
+    <prop oor:name="DockingArea" oor:type="xs:int">
+     <value>0</value>
+    </prop>
+    <prop oor:name="Pos" oor:type="xs:string">
+     <value>2147483647,2147483647</value>
+    </prop>
+    <prop oor:name="Size" oor:type="xs:string">
+     <value>0,0</value>
+    </prop>
+   </node>
+   <node oor:name="private:resource/toolbar/commontaskbar">
+    <prop oor:name="DockPos" oor:type="xs:string">
+     <value>1,0</value>
+    </prop>
+    <prop oor:name="Docked" oor:type="xs:boolean">
+     <value>false</value>
+    </prop>
+    <prop oor:name="Pos" oor:type="xs:string">
+     <value>693,149</value>
+    </prop>
+    <prop oor:name="Size" oor:type="xs:string">
+     <value>115,31</value>
+    </prop>
+   </node>
   </node>
  </node>
 </oor:component-data>
