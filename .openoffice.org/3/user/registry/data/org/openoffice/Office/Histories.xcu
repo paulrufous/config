@@ -707,324 +707,340 @@
       <value>задача</value>
      </prop>
     </node>
+    <node oor:name="file:///home/sio/Untitled%201.rtf" oor:op="replace">
+     <prop oor:name="Filter" oor:type="xs:string">
+      <value>Rich Text Format</value>
+     </prop>
+     <prop oor:name="Password" oor:type="xs:string">
+      <value/>
+     </prop>
+     <prop oor:name="Title" oor:type="xs:string">
+      <value>Untitled 1</value>
+     </prop>
+    </node>
    </node>
    <node oor:name="OrderList">
     <node oor:name="0" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/tmp/trash/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0.ods</value>
+      <value>file:///home/sio/Untitled%201.rtf</value>
      </prop>
     </node>
     <node oor:name="1" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///tmp/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0.ods</value>
+      <value>file:///home/sio/tmp/trash/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0.ods</value>
      </prop>
     </node>
     <node oor:name="2" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/documents/study/2010_%D0%90%D0%A5%D0%94/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.doc</value>
+      <value>file:///tmp/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0.ods</value>
      </prop>
     </node>
     <node oor:name="3" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///media/381B-007F/11111111111111.doc</value>
+      <value>file:///home/sio/documents/study/2010_%D0%90%D0%A5%D0%94/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.doc</value>
      </prop>
     </node>
     <node oor:name="4" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///media/381B-007F/%D0%9F%D0%90%D0%A1%D0%BF%D0%BE%D1%80%D1%82.RTF</value>
+      <value>file:///media/381B-007F/11111111111111.doc</value>
      </prop>
     </node>
     <node oor:name="5" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///media/381B-007F/%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9%20%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%20%D0%BE%D1%82%D1%87%D1%91%D1%82.docx</value>
+      <value>file:///media/381B-007F/%D0%9F%D0%90%D0%A1%D0%BF%D0%BE%D1%80%D1%82.RTF</value>
      </prop>
     </node>
     <node oor:name="6" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/documents/study/2010_%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/%D0%A7%D1%83%D0%B6%D0%BE%D0%B9%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B8%D0%BA/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0.docx</value>
+      <value>file:///media/381B-007F/%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9%20%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%20%D0%BE%D1%82%D1%87%D1%91%D1%82.docx</value>
      </prop>
     </node>
     <node oor:name="7" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/documents/study/2010_%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/%D0%A7%D1%83%D0%B6%D0%BE%D0%B9%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B8%D0%BA/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80.doc</value>
+      <value>file:///home/sio/documents/study/2010_%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/%D0%A7%D1%83%D0%B6%D0%BE%D0%B9%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B8%D0%BA/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0.docx</value>
      </prop>
     </node>
     <node oor:name="8" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///tmp/%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5%20%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D1%8B%20(%D1%82%D1%8B%D1%81.ppt</value>
+      <value>file:///home/sio/documents/study/2010_%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/%D0%A7%D1%83%D0%B6%D0%BE%D0%B9%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B8%D0%BA/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80.doc</value>
      </prop>
     </node>
     <node oor:name="9" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/documents/study/2010_%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D0%B8%D0%BA%D0%B8/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B%20%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B0%201.xls</value>
+      <value>file:///tmp/%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5%20%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D1%8B%20(%D1%82%D1%8B%D1%81.ppt</value>
      </prop>
     </node>
     <node oor:name="10" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///media/E1FD-DC5E/%D0%A3%D1%87%D0%B5%D0%B1%D0%B0/%D0%9B%D0%BE%D0%B3%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%201.xlsx</value>
+      <value>file:///home/sio/documents/study/2010_%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D0%B8%D0%BA%D0%B8/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B%20%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B0%201.xls</value>
      </prop>
     </node>
     <node oor:name="11" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///media/E1FD-DC5E/%D0%A3%D1%87%D0%B5%D0%B1%D0%B0/%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B%2012.10.xlsx</value>
+      <value>file:///media/E1FD-DC5E/%D0%A3%D1%87%D0%B5%D0%B1%D0%B0/%D0%9B%D0%BE%D0%B3%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%201.xlsx</value>
      </prop>
     </node>
     <node oor:name="12" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///media/E1FD-DC5E/%D0%A3%D1%87%D0%B5%D0%B1%D0%B0/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B%20%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B0%201.xls</value>
+      <value>file:///media/E1FD-DC5E/%D0%A3%D1%87%D0%B5%D0%B1%D0%B0/%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B%2012.10.xlsx</value>
      </prop>
     </node>
     <node oor:name="13" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/documents/study/2010_%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BF%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.%204%20%D0%BA%D1%83%D1%80%D1%81.odt</value>
+      <value>file:///media/E1FD-DC5E/%D0%A3%D1%87%D0%B5%D0%B1%D0%B0/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B%20%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B0%201.xls</value>
      </prop>
     </node>
     <node oor:name="14" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/documents/study/%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F/%D0%93%D0%BE%D1%82%D0%BE%D0%B2%D0%BE/%D0%9F%D0%BE%D1%82%D1%8F%D1%80%D0%BA%D0%B8%D0%BD.doc</value>
+      <value>file:///home/sio/documents/study/2010_%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BF%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.%204%20%D0%BA%D1%83%D1%80%D1%81.odt</value>
      </prop>
     </node>
     <node oor:name="15" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/documents/study/%D0%AD%D0%BA.%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B8%D0%BA.doc</value>
+      <value>file:///home/sio/documents/study/%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F/%D0%93%D0%BE%D1%82%D0%BE%D0%B2%D0%BE/%D0%9F%D0%BE%D1%82%D1%8F%D1%80%D0%BA%D0%B8%D0%BD.doc</value>
      </prop>
     </node>
     <node oor:name="16" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/.cache/.fr-GOb68H/2010%20%D0%B3%D0%BE%D0%B4/%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F%D0%BC/%D0%BF%D0%BB%D0%B0%D0%BD%20%D0%BD%D0%B0%20%D0%B8%D1%8E%D0%BB%D1%8C/%D0%A8%D0%A7-9%20%20%D0%BF%D0%BB%D0%B0%D0%BD.xls</value>
+      <value>file:///home/sio/documents/study/%D0%AD%D0%BA.%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B8%D0%BA.doc</value>
      </prop>
     </node>
     <node oor:name="17" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/.cache/.fr-C5cNH3/2010%20%D0%B3%D0%BE%D0%B4/%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F%D0%BC/%D0%BF%D0%BB%D0%B0%D0%BD%20%D0%BD%D0%B0%20%D0%B8%D1%8E%D0%BB%D1%8C/%D0%A8%D0%A7-23%20%20%D0%BF%D0%BB%D0%B0%D0%BD.xls</value>
+      <value>file:///home/sio/.cache/.fr-GOb68H/2010%20%D0%B3%D0%BE%D0%B4/%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F%D0%BC/%D0%BF%D0%BB%D0%B0%D0%BD%20%D0%BD%D0%B0%20%D0%B8%D1%8E%D0%BB%D1%8C/%D0%A8%D0%A7-9%20%20%D0%BF%D0%BB%D0%B0%D0%BD.xls</value>
      </prop>
     </node>
     <node oor:name="18" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/documents/study/2010_%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%95%D0%B6%D0%B5%D0%BC%D0%B5%D1%81%D1%8F%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BB%D0%B0%D0%BD%20%D0%BE%D1%82%20%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B8/%D0%B8%D1%8E%D0%BB%D1%8C%2029.07.2010.xls</value>
+      <value>file:///home/sio/.cache/.fr-C5cNH3/2010%20%D0%B3%D0%BE%D0%B4/%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F%D0%BC/%D0%BF%D0%BB%D0%B0%D0%BD%20%D0%BD%D0%B0%20%D0%B8%D1%8E%D0%BB%D1%8C/%D0%A8%D0%A7-23%20%20%D0%BF%D0%BB%D0%B0%D0%BD.xls</value>
      </prop>
     </node>
     <node oor:name="19" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/documents/study/2010_%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9D%D0%BE%D0%BC%D0%B5%D0%BA%D0%BB%D0%B0%D1%82%D1%83%D1%80%D0%B0%20%D0%B4%D0%B5%D0%BB%20%D0%9D%D0%9E%D0%94%D0%91%D0%A4.doc</value>
+      <value>file:///home/sio/documents/study/2010_%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%95%D0%B6%D0%B5%D0%BC%D0%B5%D1%81%D1%8F%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BB%D0%B0%D0%BD%20%D0%BE%D1%82%20%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B8/%D0%B8%D1%8E%D0%BB%D1%8C%2029.07.2010.xls</value>
      </prop>
     </node>
     <node oor:name="20" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/documents/study/2010_%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%85%D0%B0%D1%80%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%20%D0%9D%D0%9E%D0%94-2.doc</value>
+      <value>file:///home/sio/documents/study/2010_%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%9D%D0%BE%D0%BC%D0%B5%D0%BA%D0%BB%D0%B0%D1%82%D1%83%D1%80%D0%B0%20%D0%B4%D0%B5%D0%BB%20%D0%9D%D0%9E%D0%94%D0%91%D0%A4.doc</value>
      </prop>
     </node>
     <node oor:name="21" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/documents/study/2010_%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B72009%20%D0%B2%D1%8B%D0%BF%D0%BB%D0%B0%D1%82%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%85%D0%B0%D1%80%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%9D%D0%9E%D0%94.doc</value>
+      <value>file:///home/sio/documents/study/2010_%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%85%D0%B0%D1%80%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%20%D0%9D%D0%9E%D0%94-2.doc</value>
      </prop>
     </node>
     <node oor:name="22" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/documents/study/2010_%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/2010-08-12+/%D0%A1%D1%85%D0%BE%D0%B4%20%D1%81%D1%82.%D0%9F%D0%BE%D0%BB%D0%B0/%D0%A1%D1%85%D0%BE%D0%B4%20%D1%81%D1%82.%D0%9F%D0%BE%D0%BB%D0%B0%20+%D0%AD%D0%A76.xls</value>
+      <value>file:///home/sio/documents/study/2010_%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B72009%20%D0%B2%D1%8B%D0%BF%D0%BB%D0%B0%D1%82%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%85%D0%B0%D1%80%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%9D%D0%9E%D0%94.doc</value>
      </prop>
     </node>
     <node oor:name="23" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/documents/study/2010_%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/2010-08-12+/%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%AD%D0%A0%204%D0%BA%D0%B2/%D0%A1%D0%B2%D0%BE%D0%B4%20-%20%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0/4%D0%BA%D0%B2_%D0%9F%D0%9C%D0%97_%D0%BF%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7.xls</value>
+      <value>file:///home/sio/documents/study/2010_%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/2010-08-12+/%D0%A1%D1%85%D0%BE%D0%B4%20%D1%81%D1%82.%D0%9F%D0%BE%D0%BB%D0%B0/%D0%A1%D1%85%D0%BE%D0%B4%20%D1%81%D1%82.%D0%9F%D0%BE%D0%BB%D0%B0%20+%D0%AD%D0%A76.xls</value>
      </prop>
     </node>
     <node oor:name="24" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/.cache/.fr-zUmETo/%C2%8E%C3%A2%C3%A7%C2%A5%C3%A2%202007.xls</value>
+      <value>file:///home/sio/documents/study/2010_%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/2010-08-12+/%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%AD%D0%A0%204%D0%BA%D0%B2/%D0%A1%D0%B2%D0%BE%D0%B4%20-%20%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0/4%D0%BA%D0%B2_%D0%9F%D0%9C%D0%97_%D0%BF%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7.xls</value>
      </prop>
     </node>
     <node oor:name="25" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/documents/study/2010_%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/%D0%9D%D0%BE%D0%BC%D0%B5%D0%BA%D0%BB%D0%B0%D1%82%D1%83%D1%80%D0%B0%20%D0%B4%D0%B5%D0%BB%20%D0%9D%D0%9E%D0%94%D0%91%D0%A4.doc</value>
+      <value>file:///home/sio/.cache/.fr-zUmETo/%C2%8E%C3%A2%C3%A7%C2%A5%C3%A2%202007.xls</value>
      </prop>
     </node>
     <node oor:name="26" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/.cache/.fr-PeAc8w/2010-07-19/%D0%9C%D0%B0%D1%82.%D1%83%D1%89%D0%B5%D1%80%D0%B1%206%D0%BC%D0%B5%D1%81%202010/%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%83%D1%89%D0%B5%D1%80%D0%B1.xls</value>
+      <value>file:///home/sio/documents/study/2010_%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/%D0%9D%D0%BE%D0%BC%D0%B5%D0%BA%D0%BB%D0%B0%D1%82%D1%83%D1%80%D0%B0%20%D0%B4%D0%B5%D0%BB%20%D0%9D%D0%9E%D0%94%D0%91%D0%A4.doc</value>
      </prop>
     </node>
     <node oor:name="27" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/.cache/.fr-Xq5noI/2010-07-14/%D0%A1%D0%B2%D0%BE%D0%B4%20%D0%9F%D0%9C%D0%97_%20%D0%BF%D1%80%D0%BE%D1%87%D0%B8%D0%B5%206%20%D0%BC%D0%B5%D1%81-%D0%B4%D0%BE%20%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.xls</value>
+      <value>file:///home/sio/.cache/.fr-PeAc8w/2010-07-19/%D0%9C%D0%B0%D1%82.%D1%83%D1%89%D0%B5%D1%80%D0%B1%206%D0%BC%D0%B5%D1%81%202010/%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%83%D1%89%D0%B5%D1%80%D0%B1.xls</value>
      </prop>
     </node>
     <node oor:name="28" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/documents/study/2010_%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/1.%20%D0%9E%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%20Network%20Rail.pptx</value>
+      <value>file:///home/sio/.cache/.fr-Xq5noI/2010-07-14/%D0%A1%D0%B2%D0%BE%D0%B4%20%D0%9F%D0%9C%D0%97_%20%D0%BF%D1%80%D0%BE%D1%87%D0%B8%D0%B5%206%20%D0%BC%D0%B5%D1%81-%D0%B4%D0%BE%20%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.xls</value>
      </prop>
     </node>
     <node oor:name="29" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/.cache/.fr-Ye0ioc/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D1%87%D0%BA%D0%B0%20%D0%BF%D0%BE%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%BE%D0%B9,2009.doc</value>
+      <value>file:///home/sio/documents/study/2010_%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/1.%20%D0%9E%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%20Network%20Rail.pptx</value>
      </prop>
     </node>
     <node oor:name="30" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///tmp/%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B.xls</value>
+      <value>file:///home/sio/.cache/.fr-Ye0ioc/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D1%87%D0%BA%D0%B0%20%D0%BF%D0%BE%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%BE%D0%B9,2009.doc</value>
      </prop>
     </node>
     <node oor:name="31" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/documents/study/2010_%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4.%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/%D0%AD%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D0%BF%D0%BE%20%D0%BA%D1%83%D1%80%D1%81%D1%83-2009-10.doc</value>
+      <value>file:///tmp/%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B.xls</value>
      </prop>
     </node>
     <node oor:name="32" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/.cache/.fr-tfEskV/%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%B8%D0%B5%20%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B9%20%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B0%2012%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F%20-2009.doc</value>
+      <value>file:///home/sio/documents/study/2010_%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4.%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/%D0%AD%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D0%BF%D0%BE%20%D0%BA%D1%83%D1%80%D1%81%D1%83-2009-10.doc</value>
      </prop>
     </node>
     <node oor:name="33" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/.cache/.fr-orTSlk/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D1%87%D0%BA%D0%B0%20%D0%BF%D0%BE%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%BE%D0%B9,2009.doc</value>
+      <value>file:///home/sio/.cache/.fr-tfEskV/%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%B8%D0%B5%20%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B9%20%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B0%2012%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F%20-2009.doc</value>
      </prop>
     </node>
     <node oor:name="34" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/documents/dpi.ods</value>
+      <value>file:///home/sio/.cache/.fr-orTSlk/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D1%87%D0%BA%D0%B0%20%D0%BF%D0%BE%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%BE%D0%B9,2009.doc</value>
      </prop>
     </node>
     <node oor:name="35" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///tmp/f6.doc</value>
+      <value>file:///home/sio/documents/dpi.ods</value>
      </prop>
     </node>
     <node oor:name="36" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/.cache/.fr-xH8Sl8/%C2%8E%20%C2%AF%C3%A0%C2%A8%C3%A1%C3%A3%C2%A6%C2%A4%C2%A5%C2%AD%C2%A8%C2%A8%20%C2%A8%C2%AC%C2%A5%C2%AD%C2%AD%C3%AB%C3%A5%20%C3%A1%C3%A2%C2%A8%C2%AF%C2%A5%C2%AD%C2%A4%C2%A8%C2%A9%20%C2%8E%C2%80%C2%8E%20%C2%90%C2%86%C2%84%20%C2%A2%202010%20%C2%A3%C2%AE%C2%A4%C3%A3.doc</value>
+      <value>file:///tmp/f6.doc</value>
      </prop>
     </node>
     <node oor:name="37" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/.cache/.fr-5zr2oy/%C2%8E%20%C2%AF%C3%A0%C2%A8%C3%A1%C3%A3%C2%A6%C2%A4%C2%A5%C2%AD%C2%A8%C2%A8%20%C2%A8%C2%AC%C2%A5%C2%AD%C2%AD%C3%AB%C3%A5%20%C3%A1%C3%A2%C2%A8%C2%AF%C2%A5%C2%AD%C2%A4%C2%A8%C2%A9%20%C2%8E%C2%80%C2%8E%20%C2%90%C2%86%C2%84%20%C2%A2%202010%20%C2%A3%C2%AE%C2%A4%C3%A3.doc</value>
+      <value>file:///home/sio/.cache/.fr-xH8Sl8/%C2%8E%20%C2%AF%C3%A0%C2%A8%C3%A1%C3%A3%C2%A6%C2%A4%C2%A5%C2%AD%C2%A8%C2%A8%20%C2%A8%C2%AC%C2%A5%C2%AD%C2%AD%C3%AB%C3%A5%20%C3%A1%C3%A2%C2%A8%C2%AF%C2%A5%C2%AD%C2%A4%C2%A8%C2%A9%20%C2%8E%C2%80%C2%8E%20%C2%90%C2%86%C2%84%20%C2%A2%202010%20%C2%A3%C2%AE%C2%A4%C3%A3.doc</value>
      </prop>
     </node>
     <node oor:name="38" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/tmp/trash/exam_2010.xls</value>
+      <value>file:///home/sio/.cache/.fr-5zr2oy/%C2%8E%20%C2%AF%C3%A0%C2%A8%C3%A1%C3%A3%C2%A6%C2%A4%C2%A5%C2%AD%C2%A8%C2%A8%20%C2%A8%C2%AC%C2%A5%C2%AD%C2%AD%C3%AB%C3%A5%20%C3%A1%C3%A2%C2%A8%C2%AF%C2%A5%C2%AD%C2%A4%C2%A8%C2%A9%20%C2%8E%C2%80%C2%8E%20%C2%90%C2%86%C2%84%20%C2%A2%202010%20%C2%A3%C2%AE%C2%A4%C3%A3.doc</value>
      </prop>
     </node>
     <node oor:name="39" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/tmp/trash/%D0%A8%D1%82%D0%B8%D0%B3%D0%BB%D0%B8%D1%86/4.doc</value>
+      <value>file:///home/sio/tmp/trash/exam_2010.xls</value>
      </prop>
     </node>
     <node oor:name="40" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/tmp/trash/%D0%A8%D1%82%D0%B8%D0%B3%D0%BB%D0%B8%D1%86/3.doc</value>
+      <value>file:///home/sio/tmp/trash/%D0%A8%D1%82%D0%B8%D0%B3%D0%BB%D0%B8%D1%86/4.doc</value>
      </prop>
     </node>
     <node oor:name="41" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/.cache/.fr-sWsxne/%C2%91%C2%AF%C2%A8%C3%A1%C2%AE%C2%AA%20%C3%A1%C3%A2%C3%A3%C2%A4%C2%A5%C2%AD%C3%A2%C2%AE%C2%A2%20%C2%A2%C3%A3%C2%A7%C2%AE%C2%A2%20%C2%A6%C2%A4%20%C3%A2%C3%A0%C2%A0%C2%AD%C3%A1%C2%AF%C2%AE%C3%A0%C3%A2%C2%A0,%20%C2%AA%C2%AE%C3%A2%C2%AE%C3%A0%C3%AB%C2%AC%20%C2%A2%202010%20%C2%A3%C2%AE%C2%A4%C3%A3%20%C2%AF%C3%A0%C2%A8%C3%A1%C3%A3%C2%A6%C2%A4%C2%A5%C2%AD%C2%A0%20%C3%A1%C3%A2%C2%A8%C2%AF%C2%A5%C2%AD%C2%A4%C2%A8%C3%AF%20%C2%80.%C2%8B.%20%C2%98%C3%A2%C2%A8%C2%A3%C2%AB%C2%A8%C3%A6%C2%A0.doc</value>
+      <value>file:///home/sio/tmp/trash/%D0%A8%D1%82%D0%B8%D0%B3%D0%BB%D0%B8%D1%86/3.doc</value>
      </prop>
     </node>
     <node oor:name="42" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/.cache/.fr-k2WPoO/%C2%91%C2%AF%C2%A8%C3%A1%C2%AE%C2%AA%20%C2%A0%C3%A1%C2%AF%C2%A8%C3%A0%C2%A0%C2%AD%C3%A2%C2%AE%C2%A2%20%C2%A2%C3%A3%C2%A7%C2%AE%C2%A2%20%C2%A6%C2%A4%20%C3%A2%C3%A0%C2%A0%C2%AD%C3%A1%C2%AF%C2%AE%C3%A0%C3%A2%C2%A0,%20%C2%AA%C2%AE%C3%A2%C2%AE%C3%A0%C3%AB%C2%AC%20%C2%A2%202010%20%C2%A3%C2%AE%C2%A4%C3%A3%20%C2%AF%C3%A0%C2%A8%C3%A1%C3%A3%C2%A6%C2%A4%C2%A5%C2%AD%C2%A0%20%C3%A1%C3%A2%C2%A8%C2%AF%C2%A5%C2%AD%C2%A4%C2%A8%C3%AF%20%C2%AF%C3%A0%C2%A5%C2%A7%C2%A8%C2%A4%C2%A5%C2%AD%C3%A2%C2%A0%20%C2%8E%C2%80%C2%8E%20%C2%90%C2%86%C2%84.doc</value>
+      <value>file:///home/sio/.cache/.fr-sWsxne/%C2%91%C2%AF%C2%A8%C3%A1%C2%AE%C2%AA%20%C3%A1%C3%A2%C3%A3%C2%A4%C2%A5%C2%AD%C3%A2%C2%AE%C2%A2%20%C2%A2%C3%A3%C2%A7%C2%AE%C2%A2%20%C2%A6%C2%A4%20%C3%A2%C3%A0%C2%A0%C2%AD%C3%A1%C2%AF%C2%AE%C3%A0%C3%A2%C2%A0,%20%C2%AA%C2%AE%C3%A2%C2%AE%C3%A0%C3%AB%C2%AC%20%C2%A2%202010%20%C2%A3%C2%AE%C2%A4%C3%A3%20%C2%AF%C3%A0%C2%A8%C3%A1%C3%A3%C2%A6%C2%A4%C2%A5%C2%AD%C2%A0%20%C3%A1%C3%A2%C2%A8%C2%AF%C2%A5%C2%AD%C2%A4%C2%A8%C3%AF%20%C2%80.%C2%8B.%20%C2%98%C3%A2%C2%A8%C2%A3%C2%AB%C2%A8%C3%A6%C2%A0.doc</value>
      </prop>
     </node>
     <node oor:name="43" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/.cache/.fr-6yM2tl/%C2%8E%20%C2%AF%C3%A0%C2%A8%C3%A1%C3%A3%C2%A6%C2%A4%C2%A5%C2%AD%C2%A8%C2%A8%20%C2%A8%C2%AC%C2%A5%C2%AD%C2%AD%C3%AB%C3%A5%20%C3%A1%C3%A2%C2%A8%C2%AF%C2%A5%C2%AD%C2%A4%C2%A8%C2%A9%20%C2%8E%C2%80%C2%8E%20%C2%90%C2%86%C2%84%20%C2%A2%202010%20%C2%A3%C2%AE%C2%A4%C3%A3.doc</value>
+      <value>file:///home/sio/.cache/.fr-k2WPoO/%C2%91%C2%AF%C2%A8%C3%A1%C2%AE%C2%AA%20%C2%A0%C3%A1%C2%AF%C2%A8%C3%A0%C2%A0%C2%AD%C3%A2%C2%AE%C2%A2%20%C2%A2%C3%A3%C2%A7%C2%AE%C2%A2%20%C2%A6%C2%A4%20%C3%A2%C3%A0%C2%A0%C2%AD%C3%A1%C2%AF%C2%AE%C3%A0%C3%A2%C2%A0,%20%C2%AA%C2%AE%C3%A2%C2%AE%C3%A0%C3%AB%C2%AC%20%C2%A2%202010%20%C2%A3%C2%AE%C2%A4%C3%A3%20%C2%AF%C3%A0%C2%A8%C3%A1%C3%A3%C2%A6%C2%A4%C2%A5%C2%AD%C2%A0%20%C3%A1%C3%A2%C2%A8%C2%AF%C2%A5%C2%AD%C2%A4%C2%A8%C3%AF%20%C2%AF%C3%A0%C2%A5%C2%A7%C2%A8%C2%A4%C2%A5%C2%AD%C3%A2%C2%A0%20%C2%8E%C2%80%C2%8E%20%C2%90%C2%86%C2%84.doc</value>
      </prop>
     </node>
     <node oor:name="44" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/tmp/trash/%D1%84%D0%BB%D0%B5%D1%88%D0%BA%D0%B0%20%D0%BF%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9/%D0%A3%D1%80%D0%BE%D0%BA%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%B0.doc</value>
+      <value>file:///home/sio/.cache/.fr-6yM2tl/%C2%8E%20%C2%AF%C3%A0%C2%A8%C3%A1%C3%A3%C2%A6%C2%A4%C2%A5%C2%AD%C2%A8%C2%A8%20%C2%A8%C2%AC%C2%A5%C2%AD%C2%AD%C3%AB%C3%A5%20%C3%A1%C3%A2%C2%A8%C2%AF%C2%A5%C2%AD%C2%A4%C2%A8%C2%A9%20%C2%8E%C2%80%C2%8E%20%C2%90%C2%86%C2%84%20%C2%A2%202010%20%C2%A3%C2%AE%C2%A4%C3%A3.doc</value>
      </prop>
     </node>
     <node oor:name="45" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/tmp/trash/%D1%84%D0%BB%D0%B5%D1%88%D0%BA%D0%B0%20%D0%BF%D0%B0%D0%BF%D1%8B/%D0%BF%D1%80%D0%BE%D0%BA%D1%83%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0/%D0%9D%D0%B8%D1%84%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%20-%20%D0%BF%D1%80%D0%BE%D0%BA%D1%83%D1%80%D0%BE%D1%80%D1%83.doc</value>
+      <value>file:///home/sio/tmp/trash/%D1%84%D0%BB%D0%B5%D1%88%D0%BA%D0%B0%20%D0%BF%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9/%D0%A3%D1%80%D0%BE%D0%BA%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%B0.doc</value>
      </prop>
     </node>
     <node oor:name="46" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/tmp/trash/%D1%84%D0%BB%D0%B5%D1%88%D0%BA%D0%B0%20%D0%BF%D0%B0%D0%BF%D1%8B/%D0%BF%D1%80%D0%BE%D0%BA%D1%83%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0/%D0%9D%D0%B8%D1%84%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%20%D0%B2%20%D1%81%D1%83%D0%B4.doc</value>
+      <value>file:///home/sio/tmp/trash/%D1%84%D0%BB%D0%B5%D1%88%D0%BA%D0%B0%20%D0%BF%D0%B0%D0%BF%D1%8B/%D0%BF%D1%80%D0%BE%D0%BA%D1%83%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0/%D0%9D%D0%B8%D1%84%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%20-%20%D0%BF%D1%80%D0%BE%D0%BA%D1%83%D1%80%D0%BE%D1%80%D1%83.doc</value>
      </prop>
     </node>
     <node oor:name="47" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/documents/study/2010_%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20%231/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%BD%D0%BE%D0%B9%20%D1%80%D0%B5%D1%84%D0%BE%D1%80%D0%BC%D1%8B%20%D0%BD%D0%B0%20%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%BE%D0%BC%20%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B5.doc</value>
+      <value>file:///home/sio/tmp/trash/%D1%84%D0%BB%D0%B5%D1%88%D0%BA%D0%B0%20%D0%BF%D0%B0%D0%BF%D1%8B/%D0%BF%D1%80%D0%BE%D0%BA%D1%83%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0/%D0%9D%D0%B8%D1%84%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%20%D0%B2%20%D1%81%D1%83%D0%B4.doc</value>
      </prop>
     </node>
     <node oor:name="48" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/documents/study/2010_%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20%231/%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%BE%D0%B1%20%D0%B8%D0%BC%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%20%D0%A0%D0%96%D0%94.doc</value>
+      <value>file:///home/sio/documents/study/2010_%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20%231/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%BD%D0%BE%D0%B9%20%D1%80%D0%B5%D1%84%D0%BE%D1%80%D0%BC%D1%8B%20%D0%BD%D0%B0%20%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%BE%D0%BC%20%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B5.doc</value>
      </prop>
     </node>
     <node oor:name="49" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/documents/study/2010_%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20%231/%D0%A6%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%B3%D1%80%D1%83%D0%B7%D0%BE%D0%B2%D1%8B%D1%85%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B7%D0%BE%D0%BA%202015%D0%B3.doc</value>
+      <value>file:///home/sio/documents/study/2010_%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20%231/%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%BE%D0%B1%20%D0%B8%D0%BC%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%20%D0%A0%D0%96%D0%94.doc</value>
      </prop>
     </node>
     <node oor:name="50" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///tmp/%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%BE%D0%B1%20%D0%B8%D0%BC%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%20%D0%A0%D0%96%D0%94.doc</value>
+      <value>file:///home/sio/documents/study/2010_%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20%231/%D0%A6%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%B3%D1%80%D1%83%D0%B7%D0%BE%D0%B2%D1%8B%D1%85%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B7%D0%BE%D0%BA%202015%D0%B3.doc</value>
      </prop>
     </node>
     <node oor:name="51" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///media/1D65-C8D2/%EF%BF%BD%EF%BF%BD%20%EF%BF%BD%EF%BF%BD%EF%BF%BD%203-5.doc</value>
+      <value>file:///tmp/%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%BE%D0%B1%20%D0%B8%D0%BC%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%20%D0%A0%D0%96%D0%94.doc</value>
      </prop>
     </node>
     <node oor:name="52" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/.cache/.fr-tLjpTK/%C2%82%C3%AB%C2%A1%C2%AE%C3%A0%20%C2%AA%C2%A0%C3%A2%C2%A0%C3%A1%C3%A2%C3%A0%C2%AE%C3%A4.doc</value>
+      <value>file:///media/1D65-C8D2/%EF%BF%BD%EF%BF%BD%20%EF%BF%BD%EF%BF%BD%EF%BF%BD%203-5.doc</value>
      </prop>
     </node>
     <node oor:name="53" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/.cache/.fr-Nigfsi/Heinlein%20-%20The%20Door%20into%20Summer/Heinlein%20-%20The%20Door%20into%20Summer.odt</value>
+      <value>file:///home/sio/.cache/.fr-tLjpTK/%C2%82%C3%AB%C2%A1%C2%AE%C3%A0%20%C2%AA%C2%A0%C3%A2%C2%A0%C3%A1%C3%A2%C3%A0%C2%AE%C3%A4.doc</value>
      </prop>
     </node>
     <node oor:name="54" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/tmp/trash/Heinlein%20-%20The%20Door%20into%20Summer/Heinlein%20-%20The%20Door%20into%20Summer.odt</value>
+      <value>file:///home/sio/.cache/.fr-Nigfsi/Heinlein%20-%20The%20Door%20into%20Summer/Heinlein%20-%20The%20Door%20into%20Summer.odt</value>
      </prop>
     </node>
     <node oor:name="55" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///tmp/exam_2010.xls</value>
+      <value>file:///home/sio/tmp/trash/Heinlein%20-%20The%20Door%20into%20Summer/Heinlein%20-%20The%20Door%20into%20Summer.odt</value>
      </prop>
     </node>
     <node oor:name="56" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/inet.xls</value>
+      <value>file:///tmp/exam_2010.xls</value>
      </prop>
     </node>
     <node oor:name="57" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/tmp/trash/1424702284_1xls</value>
+      <value>file:///home/sio/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/inet.xls</value>
      </prop>
     </node>
     <node oor:name="58" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/%D0%A2%D0%B5%D1%81%D1%82.xls</value>
+      <value>file:///home/sio/tmp/trash/1424702284_1xls</value>
      </prop>
     </node>
     <node oor:name="59" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/%D0%A1%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%B8%20%D0%9C%D1%83%D1%87%D0%BD%D0%BE%D0%B9%20%D0%BC%D0%BE%D1%81%D1%82%D1%8B.doc</value>
+      <value>file:///home/sio/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/%D0%A2%D0%B5%D1%81%D1%82.xls</value>
      </prop>
     </node>
     <node oor:name="60" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/portable_list.ods</value>
+      <value>file:///home/sio/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/%D0%A1%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%B8%20%D0%9C%D1%83%D1%87%D0%BD%D0%BE%D0%B9%20%D0%BC%D0%BE%D1%81%D1%82%D1%8B.doc</value>
      </prop>
     </node>
     <node oor:name="61" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/%D1%83%D1%87%D0%B5%D0%B1%D0%B0/%D0%A3%D1%87%D0%B5%D0%B1%D0%B0/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B8/mine/kurs_1.01.ods</value>
+      <value>file:///home/sio/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/portable_list.ods</value>
      </prop>
     </node>
     <node oor:name="62" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/%D1%83%D1%87%D0%B5%D0%B1%D0%B0/%D0%A3%D1%87%D0%B5%D0%B1%D0%B0/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B8/mine/kurs_1.01.xls</value>
+      <value>file:///home/sio/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/%D1%83%D1%87%D0%B5%D0%B1%D0%B0/%D0%A3%D1%87%D0%B5%D0%B1%D0%B0/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B8/mine/kurs_1.01.ods</value>
      </prop>
     </node>
     <node oor:name="63" oor:op="replace">
+     <prop oor:name="HistoryItemRef" oor:type="xs:string">
+      <value>file:///home/sio/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/%D1%83%D1%87%D0%B5%D0%B1%D0%B0/%D0%A3%D1%87%D0%B5%D0%B1%D0%B0/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B8/mine/kurs_1.01.xls</value>
+     </prop>
+    </node>
+    <node oor:name="64" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
       <value>file:///media/data/documents/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/%D1%83%D1%87%D0%B5%D0%B1%D0%B0/%D0%A3%D1%87%D0%B5%D0%B1%D0%B0/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B8/%D0%94%D0%B0%D1%88%D0%B0%20%D0%9A%D1%83%D0%B7%D0%BD%D0%B5%D1%86%D0%BE%D0%B2%D0%B0.xlsx</value>
      </prop>
@@ -1092,17 +1108,7 @@
     <node oor:name="file:///home/sio/documents/study/%D0%AD%D0%BA.%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B8%D0%BA.doc" oor:op="remove"/>
     <node oor:name="file:///media/E1FD-DC5E/%D0%A3%D1%87%D0%B5%D0%B1%D0%B0/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B%20%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B0%201.xls" oor:op="remove"/>
     <node oor:name="file:///media/E1FD-DC5E/%D0%A3%D1%87%D0%B5%D0%B1%D0%B0/%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B%2012.10.xlsx" oor:op="remove"/>
-    <node oor:name="file:///media/E1FD-DC5E/%D0%A3%D1%87%D0%B5%D0%B1%D0%B0/%D0%9B%D0%BE%D0%B3%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%201.xlsx" oor:op="replace">
-     <prop oor:name="Filter" oor:type="xs:string">
-      <value>Calc MS Excel 2007 XML</value>
-     </prop>
-     <prop oor:name="Password" oor:type="xs:string">
-      <value/>
-     </prop>
-     <prop oor:name="Title" oor:type="xs:string">
-      <value>Задача 1</value>
-     </prop>
-    </node>
+    <node oor:name="file:///media/E1FD-DC5E/%D0%A3%D1%87%D0%B5%D0%B1%D0%B0/%D0%9B%D0%BE%D0%B3%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%201.xlsx" oor:op="remove"/>
     <node oor:name="file:///home/sio/documents/study/2010_%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/%D0%A7%D1%83%D0%B6%D0%BE%D0%B9%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B8%D0%BA/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80.doc" oor:op="replace">
      <prop oor:name="Filter" oor:type="xs:string">
       <value>MS Word 97</value>
@@ -1191,56 +1197,67 @@
       <value>задача</value>
      </prop>
     </node>
+    <node oor:name="file:///home/sio/Untitled%201.rtf" oor:op="replace">
+     <prop oor:name="Filter" oor:type="xs:string">
+      <value>Rich Text Format</value>
+     </prop>
+     <prop oor:name="Password" oor:type="xs:string">
+      <value/>
+     </prop>
+     <prop oor:name="Title" oor:type="xs:string">
+      <value>Untitled 1</value>
+     </prop>
+    </node>
    </node>
    <node oor:name="OrderList">
     <node oor:name="0" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/tmp/trash/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0.ods</value>
+      <value>file:///home/sio/Untitled%201.rtf</value>
      </prop>
     </node>
     <node oor:name="1" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/documents/study/2010_%D0%90%D0%A5%D0%94/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.doc</value>
+      <value>file:///home/sio/tmp/trash/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0.ods</value>
      </prop>
     </node>
     <node oor:name="2" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///media/381B-007F/11111111111111.doc</value>
+      <value>file:///home/sio/documents/study/2010_%D0%90%D0%A5%D0%94/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.doc</value>
      </prop>
     </node>
     <node oor:name="3" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///media/381B-007F/%D0%9F%D0%90%D0%A1%D0%BF%D0%BE%D1%80%D1%82.RTF</value>
+      <value>file:///media/381B-007F/11111111111111.doc</value>
      </prop>
     </node>
     <node oor:name="4" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///media/381B-007F/%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9%20%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%20%D0%BE%D1%82%D1%87%D1%91%D1%82.docx</value>
+      <value>file:///media/381B-007F/%D0%9F%D0%90%D0%A1%D0%BF%D0%BE%D1%80%D1%82.RTF</value>
      </prop>
     </node>
     <node oor:name="5" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/documents/study/2010_%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/%D0%A0%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%201/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20-%20%D1%82%D0%B5%D0%BA%D1%81%D1%82.doc</value>
+      <value>file:///media/381B-007F/%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9%20%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%20%D0%BE%D1%82%D1%87%D1%91%D1%82.docx</value>
      </prop>
     </node>
     <node oor:name="6" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/documents/study/2010_%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/%D0%A7%D1%83%D0%B6%D0%BE%D0%B9%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B8%D0%BA/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0.docx</value>
+      <value>file:///home/sio/documents/study/2010_%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/%D0%A0%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%201/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20-%20%D1%82%D0%B5%D0%BA%D1%81%D1%82.doc</value>
      </prop>
     </node>
     <node oor:name="7" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/documents/study/2010_%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/%D0%A7%D1%83%D0%B6%D0%BE%D0%B9%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B8%D0%BA/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80.doc</value>
+      <value>file:///home/sio/documents/study/2010_%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/%D0%A7%D1%83%D0%B6%D0%BE%D0%B9%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B8%D0%BA/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0.docx</value>
      </prop>
     </node>
     <node oor:name="8" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///home/sio/documents/study/2010_%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D0%B8%D0%BA%D0%B8/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B%20%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B0%201.xls</value>
+      <value>file:///home/sio/documents/study/2010_%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/%D0%A7%D1%83%D0%B6%D0%BE%D0%B9%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B8%D0%BA/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80.doc</value>
      </prop>
     </node>
     <node oor:name="9" oor:op="replace">
      <prop oor:name="HistoryItemRef" oor:type="xs:string">
-      <value>file:///media/E1FD-DC5E/%D0%A3%D1%87%D0%B5%D0%B1%D0%B0/%D0%9B%D0%BE%D0%B3%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%201.xlsx</value>
+      <value>file:///home/sio/documents/study/2010_%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D0%B8%D0%BA%D0%B8/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B%20%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B0%201.xls</value>
      </prop>
     </node>
    </node>
