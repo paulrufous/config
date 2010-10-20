@@ -4,9 +4,9 @@
 }{
   "close_to_tray": true, 
   "ntf_sound_path": null, 
-  "window_width": 1019, 
+  "window_width": 1056, 
   "default_load_path": null, 
-  "window_y_pos": 76, 
+  "window_y_pos": 73, 
   "ntf_email": false, 
   "tray_upload_speed_list": [
     5.0, 
@@ -41,22 +41,22 @@
   "autoadd_queued": true, 
   "autoconnect_host_id": "d6cce0bede873688e279223e1c42ebab2c61ce26", 
   "classic_mode": false, 
-  "window_pane_position": 455, 
+  "window_pane_position": 456, 
   "enabled_plugins": [], 
   "show_rate_in_title": true, 
   "autoadd_enable": false, 
   "ntf_username": "", 
   "interactive_add": false, 
   "sidebar_show_zero": false, 
-  "window_x_pos": 130, 
-  "window_height": 679, 
+  "window_x_pos": 111, 
+  "window_height": 680, 
   "ntf_security": null, 
   "connection_limit_list": [
     50, 
     100, 
     200, 
     300, 
-    500
+    240
   ], 
   "sidebar_position": 0, 
   "show_new_releases": false, 

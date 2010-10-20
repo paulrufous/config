@@ -158,7 +158,7 @@ Nsg5
 S'Down Speed'
 p36
 sg7
-I80
+I99
 sg8
 I01
 sg9
@@ -174,7 +174,7 @@ Nsg5
 S'Up Speed'
 p39
 sg7
-I70
+I83
 sg8
 I01
 sg9
@@ -190,7 +190,7 @@ Nsg5
 S'ETA'
 p42
 sg7
-I171
+I161
 sg8
 I01
 sg9

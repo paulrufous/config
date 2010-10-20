@@ -28,5 +28,8 @@ InfoOutput=4
 [kubrick]
 InfoOutput=4
 
+[okular]
+InfoOutput=4
+
 [systemsettings]
 InfoOutput=4

@@ -89,3 +89,12 @@ Enabling: Russian dictionaries and hyphenation
 ###### Progress log entry 2010-10-12 19:35:36 ######
 ###### Progress log entry 2010-10-13 23:03:32 ######
 ###### Progress log entry 2010-10-14 22:12:59 ######
+###### Progress log entry 2010-10-18 16:09:31 ######
+###### Progress log entry 2010-10-18 16:23:26 ######
+###### Progress log entry 2010-10-18 22:06:44 ######
+###### Progress log entry 2010-10-19 18:26:43 ######
+###### Progress log entry 2010-10-19 18:27:34 ######
+###### Progress log entry 2010-10-19 18:28:06 ######
+###### Progress log entry 2010-10-19 20:28:56 ######
+###### Progress log entry 2010-10-20 19:15:09 ######
+###### Progress log entry 2010-10-20 19:22:38 ######

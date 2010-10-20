@@ -12,6 +12,7 @@ own_window_transparent yes
 own_window_colour hotpink
 double_buffer yes
 draw_shades no
+#~ #Глюки из-за смены шрифта посреди коньков
 #~ draw_outline yes
 #~ default_outline_color rgb:ff/00/00
 draw_borders no
@@ -28,12 +29,12 @@ net_avg_samples 2
 override_utf8_locale yes
 use_spacer false
 
-#~ TEXT
-#~ ${if_match "${mpd_status}" != "Stopped"}${color #707070}$mpd_artist${font Dejavu Sans:pixelsize=5:style=book}
-#~ ${font Dejavu Sans:size=16:style=book}                ${color #dddddd}$mpd_title$endif
+
+
 TEXT
 ${if_match "${mpd_status}" != "Stopped"}${color #7c8c9c}$mpd_artist${font Dejavu Sans:pixelsize=5:style=book}
 ${font Dejavu Sans:size=16:style=book}                ${color #9cacbc}$mpd_title$endif
 #~ TEXT
-#~ ${if_match "${mpd_status}" != "Stopped"}${color #7c8c9c}$mpd_artist
-#~ ${font Dejavu Sans:size=16:style=book}                $mpd_title$endif
+#~ ${color #7c8c9c}From A Second Story Window${color}
+#~ ${font Dejavu Sans:size=50:style=bold}${color #9cacbc}Soft Green Fields
+

@@ -14,10 +14,7 @@ export GNOME_DESKTOP_SESSION_ID=1234567890
 # LAUNCH WINDOW MANAGER AND EXIT THIS SCRIPT
 # "EXEC" REQUIRED
 
-fluxbox_daemon () {
-    fluxbox || fluxbox_daemon
-}
-startfluxbox || fluxbox_daemon
+startfluxbox || while true; do fluxbox && break || continue;  done
 
 #~exec urxvt
 #~exec openbox

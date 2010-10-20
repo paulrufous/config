@@ -48,7 +48,7 @@
   [Layer]	{6}
 [end]
 [app] (role=gimp-image-window)
-  [Dimensions]	{1072 797}
+  [Dimensions]	{1072 799}
   [Position]	(UPPERLEFT)	{0 0}
   [Deco]	{NONE}
 [end]
@@ -82,7 +82,6 @@
 [end]
 [app] (name=htop) (class=URxvt)
   [Dimensions]	{872 475}
-  [Close]	{yes}
 [end]
 [app] (name=aptitude) (class=URxvt)
   [Dimensions]	{634 640}

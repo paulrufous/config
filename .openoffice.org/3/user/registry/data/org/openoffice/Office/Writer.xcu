@@ -46,7 +46,7 @@
  <node oor:name="ObjectBar">
   <node oor:name="Selection">
    <prop oor:name="Table" oor:type="xs:int">
-    <value>23265</value>
+    <value>23266</value>
    </prop>
    <prop oor:name="NumberedList" oor:type="xs:int">
     <value>23265</value>

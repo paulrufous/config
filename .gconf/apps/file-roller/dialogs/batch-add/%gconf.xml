@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="default_extension" mtime="1286378987" type="string">
-		<stringvalue>.7z</stringvalue>
+	<entry name="default_extension" mtime="1287257614" type="string">
+		<stringvalue>.tar.bz2</stringvalue>
 	</entry>
 </gconf>
