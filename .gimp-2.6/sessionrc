@@ -68,8 +68,8 @@
     (position 0 22))
 (session-info "display" "gimp-empty-image-window"
     (position 0 0)
-    (size 1072 797))
+    (size 1072 799))
 
-(last-tip-shown 50)
+(last-tip-shown 60)
 
 # end of sessionrc

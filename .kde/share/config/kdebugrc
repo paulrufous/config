@@ -16,6 +16,9 @@ InfoOutput=2
 [kded]
 InfoOutput=4
 
+[kdenlive]
+InfoOutput=4
+
 [kio (delegateanimationhandler)]
 InfoOutput=4
 

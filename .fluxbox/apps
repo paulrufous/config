@@ -10,7 +10,9 @@
 [end]
 [group]  (workspace=[current])
  [app] (class=Firefox) (role=browser)
+ [app] (class=Minefield) (role=browser)
   [Workspace]	{0}
+  [Position]	(UPPERLEFT)	{151 99}
 [end]
 [app] (name=pcmanfm) (class=Pcmanfm)
 [end]
@@ -186,5 +188,11 @@
   [Workspace]	{2}
 [end]
 [app] (name=transmission) (class=Transmission) (role=tr-main)
+  [Workspace]	{2}
+  [Dimensions]	{514 676}
+  [Position]	(UPPERLEFT)	{712 102}
+  [Deco]	{BORDER}
+[end]
+[transient] (name=VCLSalFrame) (class=OpenOffice.org 3.2)
   [Deco]	{BORDER}
 [end]

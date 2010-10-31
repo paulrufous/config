@@ -11,7 +11,7 @@
 ~/bin/userapps.d.sh
 
 #(sleep 3; gmpc&)&
-(sleep 3; ~/misc/src/sonata/sonata.py&)&
+(sleep 3; exec ~/misc/src/sonata/sonata.py&)&
 ~/misc/src/gajim/launch.sh&
 urxvt -name Terminal&
 

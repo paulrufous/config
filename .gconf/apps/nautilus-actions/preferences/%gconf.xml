@@ -1,14 +1,26 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="main-window" mtime="1280673271" type="list" ltype="int">
+	<entry name="preferences-editor" mtime="1287879395" type="list" ltype="int">
+		<li type="int" value="202"/>
+		<li type="int" value="259"/>
+		<li type="int" value="442"/>
+		<li type="int" value="360"/>
+	</entry>
+	<entry name="import-assistant" mtime="1287879362" type="list" ltype="int">
+		<li type="int" value="0"/>
+		<li type="int" value="0"/>
+		<li type="int" value="513"/>
+		<li type="int" value="434"/>
+	</entry>
+	<entry name="main-window" mtime="1287879397" type="list" ltype="int">
 		<li type="int" value="94"/>
 		<li type="int" value="190"/>
-		<li type="int" value="580"/>
+		<li type="int" value="657"/>
 		<li type="int" value="455"/>
 	</entry>
-	<entry name="main-paned" mtime="1280673271" type="int" value="150"/>
-	<entry name="main-help-toolbar" mtime="1280673238" type="bool" value="true"/>
-	<entry name="main-file-toolbar" mtime="1280673238" type="bool" value="true"/>
-	<entry name="iprefs-level-zero" mtime="1287616286" type="list" ltype="string">
+	<entry name="main-paned" mtime="1287879397" type="int" value="150"/>
+	<entry name="main-help-toolbar" mtime="1287879350" type="bool" value="true"/>
+	<entry name="main-file-toolbar" mtime="1287879350" type="bool" value="true"/>
+	<entry name="iprefs-level-zero" mtime="1288530010" type="list" ltype="string">
 	</entry>
 </gconf>

@@ -144,3 +144,5 @@ message/rfc822
 text/x-component
 text/x-ms-iqy
 text/x-ms-rqy
+video/dv
+video/mpeg

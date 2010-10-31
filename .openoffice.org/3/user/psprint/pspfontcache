@@ -1,5 +1,10 @@
 PspFontCacheFile format 4
-FontCacheDirectory:1285760768:/home/sio/.fonts
+FontCacheDirectory:1287773948:/home/sio/.fonts
+File:WINGDNG2.TTF
+2;1
+Wingdings 2
+-1;Wingdings2;0;5;5;2;10;843;210;53;0;1110;1053;1110;1053;0;0;0;8;Regular
+
 File:UbuntuRegular.ttf
 2;1
 UbuntuBeta
@@ -10,6 +15,26 @@ File:UbuntuItalic.ttf
 UbuntuBeta
 -1;UbuntuBeta-Italic;2;5;5;2;65535;932;189;121;0;2684;1121;2684;1121;0;0;0;8;Italic
 
+File:tahoma.ttf
+2;1
+Tahoma
+-1;Tahoma;0;5;5;2;65535;1000;206;206;0;2114;1206;2114;1206;0;0;0;8;Normal
+
+File:segoeuiz.ttf
+2;1
+Segoe UI
+-1;SegoeUI-BoldItalic;2;8;5;2;65535;1079;250;329;0;1909;1329;1909;1329;0;0;0;8;Negreta cursiva
+
+File:webdings.ttf
+2;1
+Webdings
+-1;Webdings;0;5;5;2;10;799;200;-1;0;4001;999;4001;999;0;0;0;8;Regular
+
+File:seguisym.ttf
+2;1
+Segoe UI Symbol
+-1;SegoeUISymbol;0;5;5;2;65535;1079;250;329;0;1948;1329;1948;1329;0;0;0;8;Normal
+
 File:UbuntuBoldItalic.ttf
 2;1
 UbuntuBeta
@@ -19,6 +44,16 @@ File:PTS75F.ttf
 2;1
 PT Sans
 -1;PTSans-Bold;0;8;5;2;65535;1019;276;295;0;1578;1295;1578;1295;0;0;0;0;Bold
+
+File:calibrii.ttf
+2;1
+Calibri
+-1;Calibri-Italic;2;5;5;2;65535;952;268;220;0;1983;1220;1983;1220;0;0;0;8;Italic
+
+File:seguisb.ttf
+2;1
+Segoe UI;Segoe UI Semibol
+-1;SegoeUI-SemiBold;0;7;5;2;65535;1079;250;329;0;1805;1329;1805;1329;0;0;0;8;Semibold
 
 File:UbuntuBold.ttf
 2;1
@@ -35,6 +70,11 @@ File:PTS55F.ttf
 PT Sans
 -1;PTSans-Regular;0;5;5;2;65535;1019;276;295;0;1448;1295;1448;1295;0;0;0;0;Regular
 
+File:tahomabd.ttf
+2;1
+Tahoma
+-1;Tahoma-Bold;0;8;5;2;65535;1000;206;206;0;2322;1206;2322;1206;0;0;0;8;Negreta
+
 File:PTN57F.ttf
 2;1
 PT Sans Narrow
@@ -45,20 +85,65 @@ File:PTS56F.ttf
 PT Sans
 -1;PTSans-Italic;2;5;5;2;65535;1019;276;295;0;1372;1295;1372;1295;0;0;0;0;Italic
 
+File:calibri.ttf
+2;1
+Calibri
+-1;Calibri;0;5;5;2;65535;952;268;220;0;1742;1220;1742;1220;0;0;0;8;Regular
+
 File:PTC75F.ttf
 2;1
 PT Sans Caption
 -1;PTSans-CaptionBold;0;8;5;2;65535;1019;276;295;0;1660;1295;1660;1295;0;0;0;0;Bold
+
+File:calibrib.ttf
+2;1
+Calibri
+-1;Calibri-Bold;0;8;5;2;65535;952;268;220;0;1758;1220;1758;1220;0;0;0;8;Bold
+
+File:segoeuii.ttf
+2;1
+Segoe UI
+-1;SegoeUI-Italic;2;5;5;2;65535;1079;250;329;0;1796;1329;1796;1329;0;0;0;8;Cursiva
+
+File:WINGDNG3.TTF
+2;1
+Wingdings 3
+-1;Wingdings3;0;5;5;2;10;927;210;137;0;1027;1137;1027;1137;0;0;0;8;Regular
+
+File:segoeuil.ttf
+2;1
+Segoe UI;Segoe UI Ligh
+-1;SegoeUI-Light;0;3;5;2;65535;1079;250;329;0;1741;1329;1741;1329;0;0;0;8;Light
+
+File:segoeui.ttf
+2;1
+Segoe UI
+-1;SegoeUI;0;5;5;2;65535;1079;250;329;0;1914;1329;1914;1329;0;0;0;8;Normal
 
 File:PTC55F.ttf
 2;1
 PT Sans Caption
 -1;PTSans-Caption;0;5;5;2;65535;1019;276;295;0;1551;1295;1551;1295;0;0;0;0;Regular
 
+File:wingding.ttf
+2;1
+Wingdings
+-1;Wingdings-Regular;0;5;5;2;10;898;210;108;0;1358;1108;1358;1108;0;0;0;8;Regular
+
+File:segoeuib.ttf
+2;1
+Segoe UI
+-1;SegoeUI-Bold;0;8;5;2;65535;1079;250;329;0;2258;1329;2258;1329;0;0;0;8;Negreta
+
 File:PTN77F.ttf
 2;1
 PT Sans Narrow
 -1;PTSans-NarrowBold;0;8;3;2;65535;1019;276;295;0;1440;1295;1440;1295;0;0;0;0;Bold
+
+File:calibriz.ttf
+2;1
+Calibri
+-1;Calibri-BoldItalic;2;8;5;2;65535;952;268;220;0;1955;1220;1955;1220;0;0;0;8;Bold Italic
 
 FontCacheDirectory:1278774522:/home/sio/.fonts/Book Antiqua
 File:ANTQUAI.TTF
@@ -936,11 +1021,11 @@ File:Lucida Grande.ttf
 Lucida Grande
 -1;LucidaGrande;0;5;5;2;65535;966;210;176;0;2388;1176;2388;1176;0;0;0;0;Regular
 
-FontCacheDirectory:1279392345:/usr/share/fonts/truetype
+FontCacheDirectory:1287773060:/usr/share/fonts/truetype
 File:ttf-japanese-gothic.ttf
 2;1
 VL Gothic;VL ゴシッ�
--1;VL-Gothic-Regular;0;5;5;2;65535;1021;328;349;1;1061;1349;1061;1349;0;0;0;0;regular
+-1;VL-Gothic-Regular;0;5;5;2;65535;1000;270;270;1;1061;1270;1061;1270;0;0;0;0;regular
 
 File:ttf-japanese-mincho.ttf
 2;1
@@ -1140,15 +1225,15 @@ File:UnPilgi.ttf
 UnPilgi;은 필�
 -1;UnPilgi;0;5;5;2;65535;963;419;382;0;1490;1382;1490;1382;0;0;0;12;Regular
 
-FontCacheDirectory:1284743349:/usr/share/fonts/truetype/vlgothic
+FontCacheDirectory:1287880036:/usr/share/fonts/truetype/vlgothic
 File:VL-PGothic-Regular.ttf
 2;1
-VL PGothic;VL Pゴシッ�
+VL PGothic;VL Pゴシック
 -1;VL-PGothic-Regular;0;5;5;2;65535;1000;270;270;1;1578;1270;1578;1270;0;0;0;0;regular
 
 File:VL-Gothic-Regular.ttf
 2;1
-VL Gothic;VL ゴシッ�
+VL Gothic;VL ゴシック
 -1;VL-Gothic-Regular;0;5;5;2;65535;1000;270;270;1;1061;1270;1061;1270;0;0;0;0;regular
 
 FontCacheDirectory:1279392346:/usr/share/fonts/truetype/wqy
@@ -1160,4 +1245,305 @@ WenQuanYi Zen Hei Mono;文泉驛等寬正�;文泉驿等宽正�
 1;WenQuanYiZenHeiMono;0;6;5;2;65535;962;296;258;0;1175;1258;1175;1258;0;0;0;8;Regular
 WenQuanYi Zen Hei Sharp;文泉驛點陣正�;文泉驿点阵正�
 2;WenQuanYiZenHeiSharp;0;6;5;2;65535;962;296;258;0;1175;1258;1175;1258;0;0;0;8;Regular
+
+FontCacheDirectory:1287773060:/usr/share/fonts/truetype/msttcorefonts
+File:Courier_New_Bold_Italic.ttf
+2;1
+Courier New
+-1;CourierNewPS-BoldItalicMT;2;8;5;1;65535;832;300;132;0;938;1132;938;1132;0;0;0;0;Negreta cursiva
+
+File:Arial_Bold_Italic.ttf
+2;1
+Arial
+-1;Arial-BoldItalicMT;2;8;5;2;65535;905;211;116;0;1715;1116;1715;1116;0;0;0;0;Negreta cursiva
+
+File:trebucbd.ttf
+2;1
+Trebuchet MS
+-1;TrebuchetMS-Bold;0;8;5;2;65535;938;222;160;0;1229;1160;1229;1160;0;0;0;8;Negreta
+
+File:Times_New_Roman_Italic.ttf
+2;1
+Times New Roman
+-1;TimesNewRomanPS-ItalicMT;2;5;5;2;65535;891;216;107;0;1617;1107;1617;1107;0;0;0;0;cursiva
+
+File:Arial_Black.ttf
+2;1
+Arial Black
+-1;Arial-Black;0;5;5;2;65535;1100;309;409;0;1880;1409;1880;1409;0;0;0;0;Normal
+
+File:timesi.ttf
+2;1
+Times New Roman
+-1;TimesNewRomanPS-ItalicMT;2;5;5;2;65535;891;216;107;0;1617;1107;1617;1107;0;0;0;0;cursiva
+
+File:verdana.ttf
+2;1
+Verdana
+-1;Verdana;0;5;5;2;65535;1005;209;214;0;1495;1214;1495;1214;0;0;0;0;Normal
+
+File:Courier_New.ttf
+2;1
+Courier New
+-1;CourierNewPSMT;0;5;5;1;65535;832;300;132;0;658;1132;658;1132;0;0;0;0;Normal
+
+File:timesbi.ttf
+2;1
+Times New Roman
+-1;TimesNewRomanPS-BoldItalicMT;2;8;5;2;65535;891;216;107;0;1753;1107;1753;1107;0;0;0;0;Negreta cursiva
+
+File:Verdana_Bold_Italic.ttf
+2;1
+Verdana
+-1;Verdana-BoldItalic;2;8;5;2;65535;1005;209;214;0;1870;1214;1870;1214;0;0;0;0;Negreta cursiva
+
+File:Arial_Italic.ttf
+2;1
+Arial
+-1;Arial-ItalicMT;2;5;5;2;65535;905;211;116;0;1598;1116;1598;1116;0;0;0;0;Cursiva
+
+File:ariali.ttf
+2;1
+Arial
+-1;Arial-ItalicMT;2;5;5;2;65535;905;211;116;0;1598;1116;1598;1116;0;0;0;0;Cursiva
+
+File:Georgia_Bold.ttf
+2;1
+Georgia
+-1;Georgia-Bold;0;8;5;2;65535;916;219;135;0;1485;1135;1485;1135;0;0;0;0;Negreta
+
+File:ariblk.ttf
+2;1
+Arial Black
+-1;Arial-Black;0;5;5;2;65535;1100;309;409;0;1880;1409;1880;1409;0;0;0;0;Normal
+
+File:Georgia_Italic.ttf
+2;1
+Georgia
+-1;Georgia-Italic;2;5;5;2;65535;916;219;135;0;1391;1135;1391;1135;0;0;0;0;Cursiva
+
+File:arialbi.ttf
+2;1
+Arial
+-1;Arial-BoldItalicMT;2;8;5;2;65535;905;211;116;0;1715;1116;1715;1116;0;0;0;0;Negreta cursiva
+
+File:courbi.ttf
+2;1
+Courier New
+-1;CourierNewPS-BoldItalicMT;2;8;5;1;65535;832;300;132;0;938;1132;938;1132;0;0;0;0;Negreta cursiva
+
+File:Trebuchet_MS_Bold.ttf
+2;1
+Trebuchet MS
+-1;TrebuchetMS-Bold;0;8;5;2;65535;938;222;160;0;1229;1160;1229;1160;0;0;0;8;Negreta
+
+File:comic.ttf
+2;1
+Comic Sans MS
+-1;ComicSansMS;0;5;5;2;65535;1102;291;393;0;1278;1393;1278;1393;0;0;0;0;Normal
+
+File:Times_New_Roman.ttf
+2;1
+Times New Roman
+-1;TimesNewRomanPSMT;0;5;5;2;65535;891;216;107;0;2596;1107;2596;1107;0;0;0;0;Normal
+
+File:impact.ttf
+2;1
+Impact
+-1;Impact;0;5;3;2;65535;1008;210;218;0;1390;1218;1390;1218;0;0;0;0;Normal
+
+File:Georgia_Bold_Italic.ttf
+2;1
+Georgia
+-1;Georgia-BoldItalic;2;8;5;2;65535;916;219;135;0;1596;1135;1596;1135;0;0;0;0;Negreta cursiva
+
+File:verdanaz.ttf
+2;1
+Verdana
+-1;Verdana-BoldItalic;2;8;5;2;65535;1005;209;214;0;1870;1214;1870;1214;0;0;0;0;Negreta cursiva
+
+File:georgia.ttf
+2;1
+Georgia
+-1;Georgia;0;5;5;2;65535;916;219;135;0;1339;1135;1339;1135;0;0;0;0;Normal
+
+File:couri.ttf
+2;1
+Courier New
+-1;CourierNewPS-ItalicMT;2;5;5;1;65535;832;300;132;0;867;1132;867;1132;0;0;0;0;Cursiva
+
+File:Georgia.ttf
+2;1
+Georgia
+-1;Georgia;0;5;5;2;65535;916;219;135;0;1339;1135;1339;1135;0;0;0;0;Normal
+
+File:Webdings.ttf
+2;1
+Webdings
+-1;Webdings;0;5;5;2;10;799;200;-1;0;4001;999;4001;999;0;0;0;0;Regular
+
+File:webdings.ttf
+2;1
+Webdings
+-1;Webdings;0;5;5;2;10;799;200;-1;0;4001;999;4001;999;0;0;0;0;Regular
+
+File:comicbd.ttf
+2;1
+Comic Sans MS
+-1;ComicSansMS-Bold;0;8;5;2;65535;1102;291;393;0;1340;1393;1340;1393;0;0;0;0;Negreta
+
+File:Courier_New_Bold.ttf
+2;1
+Courier New
+-1;CourierNewPS-BoldMT;0;8;5;1;65535;832;300;132;0;747;1132;747;1132;0;0;0;0;Negreta
+
+File:Andale_Mono.ttf
+2;1
+Andale Mono
+-1;AndaleMono;0;5;5;1;65535;907;217;124;0;600;1124;600;1124;0;0;0;8;Normal
+
+File:Arial_Bold.ttf
+2;1
+Arial
+-1;Arial-BoldMT;0;8;5;2;65535;905;211;116;0;2660;1116;2660;1116;0;0;0;0;Negreta
+
+File:trebucbi.ttf
+2;1
+Trebuchet MS
+-1;Trebuchet-BoldItalic;2;8;5;2;65535;938;222;160;0;1262;1160;1262;1160;0;0;0;8;Negreta cursiva
+
+File:cour.ttf
+2;1
+Courier New
+-1;CourierNewPSMT;0;5;5;1;65535;832;300;132;0;658;1132;658;1132;0;0;0;0;Normal
+
+File:times.ttf
+2;1
+Times New Roman
+-1;TimesNewRomanPSMT;0;5;5;2;65535;891;216;107;0;2596;1107;2596;1107;0;0;0;0;Normal
+
+File:Impact.ttf
+2;1
+Impact
+-1;Impact;0;5;3;2;65535;1008;210;218;0;1390;1218;1390;1218;0;0;0;0;Normal
+
+File:Times_New_Roman_Bold.ttf
+2;1
+Times New Roman
+-1;TimesNewRomanPS-BoldMT;0;8;5;2;65535;891;216;107;0;2591;1107;2591;1107;0;0;0;0;Negreta
+
+File:georgiai.ttf
+2;1
+Georgia
+-1;Georgia-Italic;2;5;5;2;65535;916;219;135;0;1391;1135;1391;1135;0;0;0;0;Cursiva
+
+File:Comic_Sans_MS_Bold.ttf
+2;1
+Comic Sans MS
+-1;ComicSansMS-Bold;0;8;5;2;65535;1102;291;393;0;1340;1393;1340;1393;0;0;0;0;Negreta
+
+File:trebuc.ttf
+2;1
+Trebuchet MS
+-1;TrebuchetMS;0;5;5;2;65535;938;222;160;0;1167;1160;1167;1160;0;0;0;8;Normal
+
+File:arial.ttf
+2;1
+Arial
+-1;ArialMT;0;5;5;2;65535;905;211;116;0;2692;1116;2692;1116;0;0;0;0;Normal
+
+File:Arial.ttf
+2;1
+Arial
+-1;ArialMT;0;5;5;2;65535;905;211;116;0;2692;1116;2692;1116;0;0;0;0;Normal
+
+File:Verdana.ttf
+2;1
+Verdana
+-1;Verdana;0;5;5;2;65535;1005;209;214;0;1495;1214;1495;1214;0;0;0;0;Normal
+
+File:Trebuchet_MS.ttf
+2;1
+Trebuchet MS
+-1;TrebuchetMS;0;5;5;2;65535;938;222;160;0;1167;1160;1167;1160;0;0;0;8;Normal
+
+File:trebucit.ttf
+2;1
+Trebuchet MS
+-1;TrebuchetMS-Italic;2;5;5;2;65535;938;222;160;0;1216;1160;1216;1160;0;0;0;8;Cursiva
+
+File:georgiab.ttf
+2;1
+Georgia
+-1;Georgia-Bold;0;8;5;2;65535;916;219;135;0;1485;1135;1485;1135;0;0;0;0;Negreta
+
+File:timesbd.ttf
+2;1
+Times New Roman
+-1;TimesNewRomanPS-BoldMT;0;8;5;2;65535;891;216;107;0;2591;1107;2591;1107;0;0;0;0;Negreta
+
+File:verdanai.ttf
+2;1
+Verdana
+-1;Verdana-Italic;2;5;5;2;65535;1005;209;214;0;1591;1214;1591;1214;0;0;0;0;Cursiva
+
+File:Comic_Sans_MS.ttf
+2;1
+Comic Sans MS
+-1;ComicSansMS;0;5;5;2;65535;1102;291;393;0;1278;1393;1278;1393;0;0;0;0;Normal
+
+File:Verdana_Bold.ttf
+2;1
+Verdana
+-1;Verdana-Bold;0;8;5;2;65535;1005;209;214;0;1780;1214;1780;1214;0;0;0;0;Negreta
+
+File:Trebuchet_MS_Bold_Italic.ttf
+2;1
+Trebuchet MS
+-1;Trebuchet-BoldItalic;2;8;5;2;65535;938;222;160;0;1262;1160;1262;1160;0;0;0;8;Negreta cursiva
+
+File:arialbd.ttf
+2;1
+Arial
+-1;Arial-BoldMT;0;8;5;2;65535;905;211;116;0;2660;1116;2660;1116;0;0;0;0;Negreta
+
+File:andalemo.ttf
+2;1
+Andale Mono
+-1;AndaleMono;0;5;5;1;65535;907;217;124;0;600;1124;600;1124;0;0;0;8;Normal
+
+File:courbd.ttf
+2;1
+Courier New
+-1;CourierNewPS-BoldMT;0;8;5;1;65535;832;300;132;0;747;1132;747;1132;0;0;0;0;Negreta
+
+File:Trebuchet_MS_Italic.ttf
+2;1
+Trebuchet MS
+-1;TrebuchetMS-Italic;2;5;5;2;65535;938;222;160;0;1216;1160;1216;1160;0;0;0;8;Cursiva
+
+File:Courier_New_Italic.ttf
+2;1
+Courier New
+-1;CourierNewPS-ItalicMT;2;5;5;1;65535;832;300;132;0;867;1132;867;1132;0;0;0;0;Cursiva
+
+File:Verdana_Italic.ttf
+2;1
+Verdana
+-1;Verdana-Italic;2;5;5;2;65535;1005;209;214;0;1591;1214;1591;1214;0;0;0;0;Cursiva
+
+File:verdanab.ttf
+2;1
+Verdana
+-1;Verdana-Bold;0;8;5;2;65535;1005;209;214;0;1780;1214;1780;1214;0;0;0;0;Negreta
+
+File:Times_New_Roman_Bold_Italic.ttf
+2;1
+Times New Roman
+-1;TimesNewRomanPS-BoldItalicMT;2;8;5;2;65535;891;216;107;0;1753;1107;1753;1107;0;0;0;0;Negreta cursiva
+
+File:georgiaz.ttf
+2;1
+Georgia
+-1;Georgia-BoldItalic;2;8;5;2;65535;916;219;135;0;1596;1135;1596;1135;0;0;0;0;Negreta cursiva
 

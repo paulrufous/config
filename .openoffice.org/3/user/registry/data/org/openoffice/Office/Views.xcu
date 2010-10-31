@@ -254,7 +254,7 @@
  <node oor:name="TabDialogs">
   <node oor:name="25604" oor:op="replace">
    <prop oor:name="PageID" oor:type="xs:int">
-    <value>1</value>
+    <value>4</value>
    </prop>
    <prop oor:name="WindowState" oor:type="xs:string">
     <value>321,266,,;;,,,;</value>
@@ -310,7 +310,7 @@
   </node>
   <node oor:name="21451" oor:op="replace">
    <prop oor:name="PageID" oor:type="xs:int">
-    <value>20812</value>
+    <value>20834</value>
    </prop>
    <prop oor:name="WindowState" oor:type="xs:string">
     <value>336,170,,;;,,,;</value>

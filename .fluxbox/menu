@@ -25,6 +25,9 @@
 [end]
 [submenu] (Office/)
     [submenu] (MS Office/)
+        [exec] (Word) {playonlinux --run "Microsoft Office Word 2003"}
+        [exec] (Excel) {playonlinux --run "Microsoft Office Excel 2003"}
+        [exec] (PowerPoint) {playonlinux --run "Microsoft Office PowerPoint 2003"}
     [end]
     [submenu] (OO Office/)
         [exec] (Writer) {env OOO_FORCE_DESKTOP="gnome" oowriter}

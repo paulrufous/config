@@ -43,16 +43,19 @@
    </node>
    <node oor:name="private:resource/toolbar/tableobjectbar">
     <prop oor:name="DockPos" oor:type="xs:string">
-     <value>2147483647,2147483647</value>
+     <value>0,105</value>
     </prop>
     <prop oor:name="DockingArea" oor:type="xs:int">
-     <value>0</value>
+     <value>2</value>
     </prop>
     <prop oor:name="Pos" oor:type="xs:string">
-     <value>30,82</value>
+     <value>64,313</value>
     </prop>
     <prop oor:name="Size" oor:type="xs:string">
      <value>323,61</value>
+    </prop>
+    <prop oor:name="Docked" oor:type="xs:boolean">
+     <value>false</value>
     </prop>
    </node>
    <node oor:name="private:resource/toolbar/numobjectbar">
@@ -67,6 +70,20 @@
     </prop>
     <prop oor:name="Size" oor:type="xs:string">
      <value>398,31</value>
+    </prop>
+   </node>
+   <node oor:name="private:resource/toolbar/mediaobjectbar">
+    <prop oor:name="Pos" oor:type="xs:string">
+     <value>468,318</value>
+    </prop>
+    <prop oor:name="Size" oor:type="xs:string">
+     <value>592,31</value>
+    </prop>
+    <prop oor:name="DockPos" oor:type="xs:string">
+     <value>0,1</value>
+    </prop>
+    <prop oor:name="Docked" oor:type="xs:boolean">
+     <value>false</value>
     </prop>
    </node>
   </node>

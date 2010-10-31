@@ -6,6 +6,16 @@
 # Most values can be set within GIMP by changing some options in the
 # Preferences dialog.
 
+(default-grid
+    (style on-off-dash)
+    (fgcolor (color-rgba 0.298039 0.298039 0.298039 1.000000))
+    (bgcolor (color-rgba 1.000000 1.000000 1.000000 1.000000))
+    (xspacing 50.000000)
+    (yspacing 50.000000)
+    (spacing-unit inches)
+    (xoffset 0.000000)
+    (yoffset 0.000000)
+    (offset-unit inches))
 (theme "Small")
 
 

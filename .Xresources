@@ -29,7 +29,7 @@ URxvt.perl-ext-common: default,matcher
 !URxvt.tabbed.tab-fg: 11
 !URxvt.tabbed.tab-bg: 0
 URxvt.urlLauncher: firefox
-URxvt.matcher.button: 1
+URxvt.matcher.button: 2
 
 !from rurik
 URxvt*background: #333333
