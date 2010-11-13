@@ -5,7 +5,7 @@ default-font-family=Liberation Sans
 monospace-font-family=Liberation Mono
 minimum-font-size=8
 last-window-width=894
-last-window-height=798
+last-window-height=667
 last-panel-position=224
 last-panel-page=7
 show-menubar=false
@@ -30,9 +30,9 @@ identify-as=MIDORI_IDENT_SAFARI
 user-agent=Mozilla/5.0 (X11; U; Linux; en-us) AppleWebKit/531+ (KHTML, like Gecko) Safari/531.2+ Midori/0.2
 
 [extensions]
-libadblock.so=true
-libweb-cache.so=true
+libaddons.so=true
 libtoolbar-editor.so=true
 libshortcuts.so=true
+libweb-cache.so=true
 libformhistory.so=true
-libaddons.so=true
+libadblock.so=true

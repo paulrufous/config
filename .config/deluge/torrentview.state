@@ -98,7 +98,7 @@ I77
 sg8
 I01
 sg9
-I0
+I1
 sg10
 I5
 sba(ideluge.ui.gtkui.listview
@@ -190,7 +190,7 @@ Nsg5
 S'ETA'
 p42
 sg7
-I161
+I128
 sg8
 I01
 sg9

@@ -127,5 +127,7 @@ Mod4 Tab :ExecCommand ~/bin/cml.sh
 
 
 
+Control Mod1 Return :ArrangeWindows
 
-
+Shift Mouse4 :Exec transset-df --inc .1 -p -m .15
+Shift Mouse5 :Exec transset-df --dec .1 -p -m .15

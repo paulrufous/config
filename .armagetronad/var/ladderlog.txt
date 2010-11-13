@@ -25,3 +25,103 @@ ROUND_SCORE_TEAM 11 sio
 NEW_ROUND
 ROUND_SCORE 0 sio sio
 GAME_END
+PLAYER_ENTERED sio  sio
+ROUND_SCORE_TEAM 0 sio
+NEW_ROUND
+NEW_MATCH
+DEATH_FRAG sio excel
+ROUND_WINNER ai_team excel
+ROUND_SCORE -2 sio sio
+ROUND_SCORE_TEAM -2 sio
+NEW_ROUND
+DEATH_FRAG outlook sio
+ROUND_WINNER sio sio
+ROUND_SCORE 3 sio sio
+ROUND_SCORE_TEAM 13 sio
+NEW_ROUND
+DEATH_FRAG sio excel
+ROUND_WINNER ai_team excel
+ROUND_SCORE -2 sio sio
+ROUND_SCORE_TEAM -2 sio
+NEW_ROUND
+DEATH_FRAG sio outlook
+ROUND_WINNER ai_team outlook
+ROUND_SCORE -2 sio sio
+ROUND_SCORE_TEAM -2 sio
+NEW_ROUND
+DEATH_FRAG sio outlook
+ROUND_WINNER ai_team outlook
+DEATH_FRAG outlook sio
+ROUND_SCORE 1 sio sio
+ROUND_SCORE_TEAM 1 sio
+NEW_ROUND
+DEATH_FRAG sio outlook
+ROUND_WINNER ai_team outlook
+ROUND_SCORE -2 sio sio
+ROUND_SCORE_TEAM -2 sio
+NEW_ROUND
+DEATH_FRAG outlook sio
+ROUND_WINNER sio sio
+ROUND_SCORE 3 sio sio
+ROUND_SCORE_TEAM 13 sio
+NEW_ROUND
+DEATH_FRAG sio outlook
+ROUND_WINNER ai_team outlook
+ROUND_SCORE -2 sio sio
+ROUND_SCORE_TEAM -2 sio
+NEW_ROUND
+DEATH_FRAG outlook sio
+ROUND_WINNER sio sio
+ROUND_SCORE 3 sio sio
+ROUND_SCORE_TEAM 13 sio
+NEW_ROUND
+DEATH_FRAG sio outlook
+ROUND_WINNER ai_team outlook
+MATCH_WINNER ai_team outlook
+ROUND_SCORE -2 sio sio
+ROUND_SCORE_TEAM -2 sio
+NEW_ROUND
+NEW_MATCH
+DEATH_FRAG outlook sio
+ROUND_WINNER sio sio
+ROUND_SCORE 3 sio sio
+ROUND_SCORE_TEAM 13 sio
+NEW_ROUND
+DEATH_FRAG sio outlook
+ROUND_WINNER ai_team excel outlook
+ROUND_SCORE -2 sio sio
+ROUND_SCORE_TEAM -2 sio
+NEW_ROUND
+DEATH_FRAG outlook sio
+DEATH_SUICIDE excel
+ROUND_WINNER sio sio
+ROUND_SCORE 3 sio sio
+ROUND_SCORE_TEAM 13 sio
+NEW_ROUND
+DEATH_FRAG sio excel
+ROUND_WINNER ai_team excel outlook
+ROUND_SCORE -2 sio sio
+ROUND_SCORE_TEAM -2 sio
+NEW_ROUND
+DEATH_FRAG sio excel
+ROUND_WINNER ai_team excel outlook
+ROUND_SCORE -2 sio sio
+ROUND_SCORE_TEAM -2 sio
+NEW_ROUND
+DEATH_FRAG sio excel
+ROUND_WINNER ai_team excel outlook
+ROUND_SCORE -2 sio sio
+ROUND_SCORE_TEAM -2 sio
+NEW_ROUND
+DEATH_FRAG sio excel
+ROUND_WINNER ai_team excel outlook
+ROUND_SCORE -2 sio sio
+ROUND_SCORE_TEAM -2 sio
+NEW_ROUND
+DEATH_FRAG sio excel
+ROUND_WINNER ai_team excel outlook
+ROUND_SCORE -2 sio sio
+ROUND_SCORE_TEAM -2 sio
+NEW_ROUND
+ROUND_SCORE 0 sio sio
+GAME_END

@@ -26,6 +26,9 @@ application/x-shockwave-flash=userapp-firefox-4BMTHV.desktop;vlc.desktop;avidemu
 application/x-extension-img=file-roller.desktop;
 image/x-xcf=gimp.desktop;
 application/x-wine-extension-cfg=geany.desktop;
+application/x-java-archive=file-roller.desktop;
+application/pdf=evince.desktop;
+application/x-rar=file-roller.desktop;
 
 [Removed Associations]
 application/xml=wine-extension-txt.desktop;wine-extension-ini.desktop;wine-extension-xml.desktop;

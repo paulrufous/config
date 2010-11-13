@@ -24,6 +24,7 @@
 [end]
 [group]  (workspace=[current])
  [app] (name=gajim*) (class=Gajim.py) (role=gc)
+ [app] (role=gc)
  [app] (name=Download) (role=Manager)
   [Workspace]	{0}
   [Dimensions]	{635 400}
@@ -31,12 +32,12 @@
 [end]
 [app] (name=gajim.py) (class=Gajim.py) (role=pm)
   [Workspace]	{0}
-  [Dimensions]	{407 387}
-  [Position]	(UPPERLEFT)	{237 22}
+  [Dimensions]	{407 378}
+  [Position]	(UPPERLEFT)	{234 22}
 [end]
 [app] (name=gajim.py) (class=Gajim.py) (role=chat)
   [Workspace]	{0}
-  [Dimensions]	{407 387}
+  [Dimensions]	{407 378}
   [Position]	(UPPERLEFT)	{0 22}
 [end]
 [app] (name=evince) (class=Evince)
@@ -172,6 +173,7 @@
 [end]
 [app] (name=sonata) (class=Sonata) (role=mainWindow)
   [Workspace]	{2}
+  [Dimensions]	{504 679}
   [Position]	(UPPERLEFT)	{42 102}
   [Deco]	{BORDER}
 [end]
@@ -195,4 +197,9 @@
 [end]
 [transient] (name=VCLSalFrame) (class=OpenOffice.org 3.2)
   [Deco]	{BORDER}
+[end]
+[app] (name=gajim.py) (class=Gajim.py) (role=gc)
+  [Workspace]	{0}
+  [Dimensions]	{635 400}
+  [Position]	(UPPERLEFT)	{643 0}
 [end]
