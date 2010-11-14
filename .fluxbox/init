@@ -20,12 +20,12 @@ session.screen0.toolbar.tools:	iconbar
 session.screen0.toolbar.autoHide:	true
 session.screen0.toolbar.height:	0
 session.screen0.toolbar.onhead:	0
-session.screen0.toolbar.alpha:	211
+session.screen0.toolbar.alpha:	230
 session.screen0.toolbar.placement:	BottomCenter
 session.screen0.toolbar.visible:	true
 session.screen0.toolbar.layer:	Dock
 session.screen0.toolbar.widthPercent:	100
-session.screen0.menu.alpha:	211
+session.screen0.menu.alpha:	230
 session.screen0.slit.placement:	RightBottom
 session.screen0.slit.maxOver:	false
 session.screen0.slit.acceptKdeDockapps:	true
@@ -42,10 +42,10 @@ session.screen0.defaultDeco:	NORMAL
 session.screen0.strftimeFormat:	%d %b, %a %02k:%M:%S
 session.screen0.rowPlacementDirection:	LeftToRight
 session.screen0.maxDisableResize:	false
-session.screen0.fullMaximization:	false
 session.screen0.colPlacementDirection:	TopToBottom
-session.screen0.autoRaise:	false
+session.screen0.fullMaximization:	false
 session.screen0.showwindowposition:	false
+session.screen0.autoRaise:	false
 session.screen0.windowMenu:	/home/sio/.fluxbox/windowmenu
 session.screen0.focusModel:	ClickFocus
 session.screen0.menuMode:	Delay

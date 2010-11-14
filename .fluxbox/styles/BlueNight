@@ -111,7 +111,8 @@ window.title.focus:                  tiled
 window.title.focus.pixmap:                   BlueNight-tile.png
 window.title.focus.color:            #000000
 window.title.focus.colorTo:          #ffffff
-window.title.height:		     20
+window.title.height:		     19
+!20
 
 window.title.unfocus:                tiled
 window.title.unfocus.pixmap:                   BlueNight-tile.png
