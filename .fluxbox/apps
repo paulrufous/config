@@ -75,7 +75,7 @@
 [app] (name=synaptic) (class=Synaptic)
   [Workspace]	{2}
 [end]
-[app] (name=deluge) (class=Deluge)
+[app] (name=deluge*) (class=Deluge*)
   [Workspace]	{2}
   [Deco]	{BORDER}
   [Minimized]	{yes}
@@ -88,7 +88,6 @@
 [end]
 [app] (name=aptitude) (class=URxvt)
   [Dimensions]	{634 640}
-  [Close]	{yes}
 [end]
 [app] (name=nautilus) (class=Nautilus)
 [end]
@@ -202,4 +201,6 @@
   [Workspace]	{0}
   [Dimensions]	{635 400}
   [Position]	(UPPERLEFT)	{643 0}
+[end]
+[app] (name=WINWORD.EXE) (class=Wine)
 [end]

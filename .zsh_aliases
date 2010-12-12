@@ -31,3 +31,8 @@ cue2flac () {
         metaflac --set-tag-from-file=CUESHEET="$1" --import-cuesheet-from="$1" "$2";
     fi
 }
+
+ls-rights () {
+    [ -z "$*" ] && stat -c "%U:%G %a %n" "$PWD"/* && return 0
+    [ -d "$1" ] && stat -c "%U:%G %a %n" "$1"/* || stat -c "%U:%G %a %n" "$1"
+}

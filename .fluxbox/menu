@@ -6,7 +6,7 @@
 [submenu] (Internet/)
     [exec] (Firefox) {firefox -P default}
     [exec] (Gajim) {~/misc/src/gajim/launch.sh}
-    [exec] (Skype) {amixer sset Master 66%; skype; amixer sset Master 100%}
+    [exec] (Skype) {amixer sset Master 63%; skype; amixer sset Master 100%}
 #    [exec] (gFtp) {gftp}
     [exec] (Deluge) {deluge}
 [end]
@@ -25,9 +25,14 @@
 [end]
 [submenu] (Office/)
     [submenu] (MS Office/)
-        [exec] (Word) {playonlinux --run "Microsoft Office Word 2003"}
-        [exec] (Excel) {playonlinux --run "Microsoft Office Excel 2003"}
-        [exec] (PowerPoint) {playonlinux --run "Microsoft Office PowerPoint 2003"}
+        ### BELOW ARE VARIANTS WITH PLAYONLINUX WINE. FONT SMOOTHING NOT SUPPORTED
+        #[exec] (Word) {playonlinux --run "Microsoft Office Word 2003"}
+        #[exec] (Excel) {playonlinux --run "Microsoft Office Excel 2003"}
+        #[exec] (PowerPoint) {playonlinux --run "Microsoft Office PowerPoint 2003"}
+        ### BELOW ARE VARIANTS WITH SYS-WIDE WINE VERSION. FONT SMOOTHING ENABLED
+        [exec] (Word) {WINEPREFIX=~/.PlayOnLinux/wineprefix/Office2003 wine "C:\Program Files\Microsoft Office\OFFICE11\WINWORD.EXE"}
+        [exec] (Excel) {WINEPREFIX=~/.PlayOnLinux/wineprefix/Office2003 wine "C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE"}
+        [exec] (PowerPoint) {WINEPREFIX=~/.PlayOnLinux/wineprefix/Office2003 wine "C:\Program Files\Microsoft Office\OFFICE11\POWERPNT.EXE"}
     [end]
     [submenu] (OO Office/)
         [exec] (Writer) {env OOO_FORCE_DESKTOP="gnome" oowriter}
@@ -86,9 +91,10 @@
         [exec] (sol) {/usr/games/sol}
     [end]
     [separator]
-    [exec] (Calculator) {gcalctool}
+    [exec] (Calculator) {galculator}
     [exec] (Coolreader) {cr3}
     [exec] (Comix) {comix}
+    [exec] (FBReader) {FBReader}
     [exec] (Playonlinux) {playonlinux}
     [exec] (VirtualBox) {sudo /etc/init.d/vboxdrv start && VirtualBox; sudo /etc/init.d/vboxdrv stop}
 [end]

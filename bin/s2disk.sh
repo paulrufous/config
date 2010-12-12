@@ -9,4 +9,4 @@ sleep 2
 modprobe uhci_hcd
 modprobe ehci_hcd
 modprobe usb_storage
-swapoff -a; swapon -a
+#swapoff -a; swapon -a

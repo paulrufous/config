@@ -4,8 +4,8 @@ default-encoding=UTF-8
 default-font-family=Liberation Sans
 monospace-font-family=Liberation Mono
 minimum-font-size=8
-last-window-width=894
-last-window-height=667
+last-window-width=903
+last-window-height=560
 last-panel-position=224
 last-panel-page=7
 show-menubar=false
@@ -18,7 +18,6 @@ open-panels-in-windows=true
 homepage=
 speed-dial-in-new-tabs=false
 download-folder=/home/sio/downloads
-ask-for-destination-folder=true
 text-editor=leafpad %f
 location-entry-search=http://www.google.com/search?q=%s
 preferred-encoding=MIDORI_ENCODING_UNICODE
@@ -28,6 +27,7 @@ open-tabs-in-the-background=true
 open-tabs-next-to-current=false
 identify-as=MIDORI_IDENT_SAFARI
 user-agent=Mozilla/5.0 (X11; U; Linux; en-us) AppleWebKit/531+ (KHTML, like Gecko) Safari/531.2+ Midori/0.2
+clear-private-data=95
 
 [extensions]
 libaddons.so=true

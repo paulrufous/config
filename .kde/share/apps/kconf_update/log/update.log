@@ -113,3 +113,26 @@
 2010-08-23T19:46:40 Checking update-file '/usr/share/kde4/apps/kconf_update/kuriikwsfilter.upd' for new updates
 2010-08-23T19:46:40 Checking update-file '/usr/share/kde4/apps/kconf_update/devicepreference.upd' for new updates
 2010-08-23T19:46:40 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin.upd' for new updates
+2010-11-14T14:36:56 Checking update-file '/usr/share/kde4/apps/kconf_update/audiocd.upd' for new updates
+2010-11-14T14:36:56 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_on_off.upd' for new updates
+2010-11-14T14:36:56 Checking update-file '/usr/share/kde4/apps/kconf_update/kuriikwsfilter.upd' for new updates
+2010-11-14T14:36:56 Checking update-file '/usr/share/kde4/apps/kconf_update/kio_help.upd' for new updates
+2010-11-14T14:36:56 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinsticky.upd' for new updates
+2010-11-14T14:36:57 Checking update-file '/usr/share/kde4/apps/kconf_update/kcookiescfg.upd' for new updates
+2010-11-14T14:36:57 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_fsp_workarounds_1.upd' for new updates
+2010-11-14T14:36:57 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin3_plugin.upd' for new updates
+2010-11-14T14:36:57 Checking update-file '/usr/share/kde4/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2010-11-14T14:36:57 Checking update-file '/usr/share/kde4/apps/kconf_update/kded.upd' for new updates
+2010-11-14T14:36:57 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma_popupapplet_fix_groups.upd' for new updates
+2010-11-14T14:36:57 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinupdatewindowsettings.upd' for new updates
+2010-11-14T14:36:57 Checking update-file '/usr/share/kde4/apps/kconf_update/kioslave.upd' for new updates
+2010-11-14T14:36:57 kioslave.upd: Found new update 'kde2.2/r1'
+2010-11-14T14:36:57 kioslave.upd: Skipping update 'kde2.2/r1'
+2010-11-14T14:36:57 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2010-11-14T14:36:57 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus2.upd' for new updates
+2010-11-14T14:36:57 Checking update-file '/usr/share/kde4/apps/kconf_update/devicepreference.upd' for new updates
+2010-11-14T14:36:57 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_update_tabbox_settings.upd' for new updates
+2010-11-14T14:36:57 Checking update-file '/usr/share/kde4/apps/kconf_update/kwiniconify.upd' for new updates
+2010-11-14T14:36:57 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin.upd' for new updates
+2010-11-14T14:36:57 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus1.upd' for new updates
+2010-11-14T14:36:57 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_window_shortcuts.upd' for new updates

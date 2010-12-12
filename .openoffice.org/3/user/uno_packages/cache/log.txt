@@ -131,3 +131,17 @@ Enabling: Russian dictionaries and hyphenation
 ###### Progress log entry 2010-11-07 23:08:44 ######
 ###### Progress log entry 2010-11-07 23:09:23 ######
 ###### Progress log entry 2010-11-14 00:52:07 ######
+###### Progress log entry 2010-11-18 16:01:26 ######
+###### Progress log entry 2010-11-19 21:20:31 ######
+###### Progress log entry 2010-12-01 15:48:34 ######
+###### Progress log entry 2010-12-01 21:41:42 ######
+###### Progress log entry 2010-12-02 21:33:38 ######
+###### Progress log entry 2010-12-03 21:36:48 ######
+###### Progress log entry 2010-12-03 21:38:05 ######
+###### Progress log entry 2010-12-03 21:39:13 ######
+###### Progress log entry 2010-12-03 21:39:23 ######
+###### Progress log entry 2010-12-04 19:17:29 ######
+###### Progress log entry 2010-12-05 22:02:56 ######
+###### Progress log entry 2010-12-06 21:41:53 ######
+###### Progress log entry 2010-12-07 20:48:30 ######
+###### Progress log entry 2010-12-11 21:21:13 ######

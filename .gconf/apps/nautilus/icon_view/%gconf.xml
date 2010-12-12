@@ -6,5 +6,5 @@
 		</li>
 	</entry>
 	<entry name="labels_beside_icons" mtime="1280762062" type="bool" value="false"/>
-	<entry name="default_use_tighter_layout" mtime="1279040613" type="bool" value="false"/>
+	<entry name="default_use_tighter_layout" mtime="1290261085" type="bool" value="false"/>
 </gconf>

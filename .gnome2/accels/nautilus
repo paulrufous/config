@@ -106,6 +106,7 @@
 ; (gtk_accel_path "<Actions>/DirViewActions/Location Eject Volume" "")
 ; (gtk_accel_path "<Actions>/ShellActions/Zoom In" "<Control>plus")
 ; (gtk_accel_path "<Actions>/DirViewActions/Start Volume" "")
+; (gtk_accel_path "<Actions>/ListViewActions/Visible Columns" "")
 ; (gtk_accel_path "<Actions>/IconViewActions/Sort by Type" "")
 ; (gtk_accel_path "<Actions>/DirViewActions/Connect To Server Link" "")
 (gtk_accel_path "<Actions>/NavigationActions/Close All Windows" "<Control>q")

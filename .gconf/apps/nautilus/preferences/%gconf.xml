@@ -3,7 +3,7 @@
 	<entry name="show_directory_item_counts" mtime="1288911974" type="string">
 		<stringvalue>never</stringvalue>
 	</entry>
-	<entry name="show_image_thumbnails" mtime="1288912258" type="string">
+	<entry name="show_image_thumbnails" mtime="1290261100" type="string">
 		<stringvalue>local_only</stringvalue>
 	</entry>
 	<entry name="show_icon_text" mtime="1288911968" type="string">
@@ -24,7 +24,7 @@
 	<entry name="show_desktop" mtime="1279041584" type="bool" value="false"/>
 	<entry name="mouse_use_extra_buttons" mtime="1279041572" type="bool" value="true"/>
 	<entry name="exit_with_last_window" mtime="1279041546" type="bool" value="true"/>
-	<entry name="start_with_location_bar" mtime="1289695902" type="bool" value="true"/>
+	<entry name="start_with_location_bar" mtime="1292101813" type="bool" value="true"/>
 	<entry name="media_automount_open" mtime="1281798870" type="bool" value="true"/>
 	<entry name="media_autorun_never" mtime="1281798896" type="bool" value="true"/>
 	<entry name="media_autorun_x_content_open_folder" mtime="1281798895" type="list" ltype="string">
@@ -76,8 +76,8 @@
 	<entry name="sidebar_width" mtime="1279352134" type="int" value="116"/>
 	<entry name="start_with_sidebar" mtime="1289695986" type="bool" value="false"/>
 	<entry name="start_with_toolbar" mtime="1288794706" type="bool" value="false"/>
-	<entry name="navigation_window_saved_maximized" mtime="1289696359" type="bool" value="false"/>
-	<entry name="navigation_window_saved_geometry" mtime="1289696359" type="string">
-		<stringvalue>802x508+141+212</stringvalue>
+	<entry name="navigation_window_saved_maximized" mtime="1292116571" type="bool" value="false"/>
+	<entry name="navigation_window_saved_geometry" mtime="1292116571" type="string">
+		<stringvalue>802x508+107+191</stringvalue>
 	</entry>
 </gconf>

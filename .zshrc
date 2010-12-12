@@ -106,6 +106,7 @@ zle -N predict-on
 zle -N predict-off
 bindkey "^X^Z" predict-on # C-x C-z
 bindkey "^Z" predict-off # C-z
+predict-on
 ### END ARROWS SEARCH
 ### TETRIS
 autoload -U tetris
@@ -133,4 +134,7 @@ screensaver()
 ### REMOVE ~/bin FROM PATH
 [ $USER = root ] || PATH=/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games
 ### END REMOVE ~/bin FROM PATH
-
+# Anchored history search using cursor up/down keys:
+bindkey "^[[A" history-beginning-search-backward
+bindkey "^[[B" history-beginning-search-forward
+# End Anchored history search using cursor up/down keys

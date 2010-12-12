@@ -29,6 +29,9 @@ application/x-wine-extension-cfg=geany.desktop;
 application/x-java-archive=file-roller.desktop;
 application/pdf=evince.desktop;
 application/x-rar=file-roller.desktop;
+image/vnd.djvu=evince.desktop;
+application/x-bittorrent=deluge.desktop;
+application/x-tar=file-roller.desktop;
 
 [Removed Associations]
 application/xml=wine-extension-txt.desktop;wine-extension-ini.desktop;wine-extension-xml.desktop;

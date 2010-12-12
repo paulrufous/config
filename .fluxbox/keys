@@ -118,7 +118,8 @@ Mod4 Mouse2 :ExecCommand amixer sset Master 100% && amixer sset PCM 100%
 Mod4 d :ShowDesktop
 Mod4 s :Stick
 Mod1 m :ExecCommand amixer sset Master toggle
-Mod4 t :ToggleDecor
+Mod4 t :ToggleCmd {SetDecor BORDER} {SetDecor NORMAL}
+!ToggleDecor
 Print :ExecCommand cd ~/pictures/screens && scrot
 Mod1 Print :ExecCommand cd ~/pictures/screens && scrot -bu
 Mod4 h :Shade

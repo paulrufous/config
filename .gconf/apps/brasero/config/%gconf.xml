@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="plugins" mtime="1289693900" type="list" ltype="string">
+	<entry name="plugins" mtime="1292099216" type="list" ltype="string">
 		<li type="string">
 			<stringvalue>File Checksum</stringvalue>
 		</li>

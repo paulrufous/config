@@ -2,6 +2,25 @@
 <FictionBookMarks>
   <file>
     <file-info>
+      <doc-title>Воин</doc-title>
+      <doc-author>Роберт Э. Сальваторе</doc-author>
+      <doc-series>(Тёмный Эльф #3)</doc-series>
+      <doc-filename>Сальваторе - Темный эльф 3 - Воин.fb2.zip</doc-filename>
+      <doc-filepath>/home/sio/documents/books/Fiction/</doc-filepath>
+      <doc-filesize>317490</doc-filesize>
+    </file-info>
+    <bookmark-list>
+      <bookmark type="lastpos" percent="0.24%" timestamp="1292116436" shortcut="0">
+        <start-point>/FictionBook/body/section[1]/p[3]/text().146</start-point>
+        <end-point/>
+        <header-text/>
+        <selection-text/>
+        <comment-text/>
+      </bookmark>
+    </bookmark-list>
+  </file>
+  <file>
+    <file-info>
       <doc-title>Двор Хаоса</doc-title>
       <doc-author>Роджер Желязны</doc-author>
       <doc-series>( Хроники Амбера #5)</doc-series>
@@ -10,7 +29,7 @@
       <doc-filesize>166217</doc-filesize>
     </file-info>
     <bookmark-list>
-      <bookmark type="lastpos" percent="99.86%" timestamp="1286734415" shortcut="0">
+      <bookmark type="lastpos" percent="99.06%" timestamp="1286734415" shortcut="0">
         <start-point>/FictionBook/body[1]/section[14]/p[26]/text().88</start-point>
         <end-point/>
         <header-text/>
