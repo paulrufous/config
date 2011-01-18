@@ -25,14 +25,14 @@
 [end]
 [submenu] (Office/)
     [submenu] (MS Office/)
-        ### BELOW ARE VARIANTS WITH PLAYONLINUX WINE. FONT SMOOTHING NOT SUPPORTED
-        #[exec] (Word) {playonlinux --run "Microsoft Office Word 2003"}
-        #[exec] (Excel) {playonlinux --run "Microsoft Office Excel 2003"}
-        #[exec] (PowerPoint) {playonlinux --run "Microsoft Office PowerPoint 2003"}
-        ### BELOW ARE VARIANTS WITH SYS-WIDE WINE VERSION. FONT SMOOTHING ENABLED
-        [exec] (Word) {WINEPREFIX=~/.PlayOnLinux/wineprefix/Office2003 wine "C:\Program Files\Microsoft Office\OFFICE11\WINWORD.EXE"}
-        [exec] (Excel) {WINEPREFIX=~/.PlayOnLinux/wineprefix/Office2003 wine "C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE"}
-        [exec] (PowerPoint) {WINEPREFIX=~/.PlayOnLinux/wineprefix/Office2003 wine "C:\Program Files\Microsoft Office\OFFICE11\POWERPNT.EXE"}
+        [exec] (Word) {WINEPREFIX=/home/sio/.wineprefixes/mso2003 wine "C:\Program Files\Microsoft Office\OFFICE11\WINWORD.EXE"}
+        [exec] (Excel) {WINEPREFIX=/home/sio/.wineprefixes/mso2003 wine "C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE"}
+        [exec] (PowerPoint) {WINEPREFIX=/home/sio/.wineprefixes/mso2003 wine "C:\Program Files\Microsoft Office\OFFICE11\POWERPNT.EXE"}
+    [end]
+    [submenu] (MS 2007/)
+        [exec] (Word) {WINEPREFIX=~/.wineprefixes/mso2007 wine "C:\Program Files\Microsoft Office\Office12\WINWORD.EXE"}
+        [exec] (Excel) {WINEPREFIX=~/.wineprefixes/mso2007 wine "C:\Program Files\Microsoft Office\Office12\EXCEL.EXE"}
+        [exec] (PowerPoint) {WINEPREFIX=~/.wineprefixes/mso2007 wine "C:\Program Files\Microsoft Office\Office12\POWERPNT.EXE"}
     [end]
     [submenu] (OO Office/)
         [exec] (Writer) {env OOO_FORCE_DESKTOP="gnome" oowriter}
@@ -103,10 +103,10 @@
     [exec] (ControlCenter) {gnome-control-center}
     [exec] (GParted) {gksudo gparted}
     [exec] (Gtk Theme) {lxappearance && killall lxappearance}
-    [exec] (htop) {urxvt -fn "xft:DejaVu Sans Mono-9:antiallias=True"  -name htop -T "System Monitor" -e htop}
+    [exec] (htop) {urxvt -fn "xft:DejaVu Sans Mono-9:antialias=True"  -name htop -T "System Monitor" -e htop}
     [exec] (Monitor) {gnome-system-monitor}
     [separator]
-    [exec] (Aptitude) {urxvt  -fn "xft:DejaVu Sans Mono-9:antiallias=True" -T "Aptitude Package Manager" -name aptitude -e sudo aptitude}
+    [exec] (Aptitude) {urxvt  -fn "xft:DejaVu Sans Mono-9:antialias=True" -T "Aptitude Package Manager" -name aptitude -e sudo aptitude}
     [exec] (Synaptic) {gksudo synaptic}
 [end]
 [separator]

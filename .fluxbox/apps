@@ -11,6 +11,7 @@
 [group]  (workspace=[current])
  [app] (class=Firefox) (role=browser)
  [app] (class=Minefield) (role=browser)
+ [app] (class=Iceweasel) (role=browser)
   [Workspace]	{0}
   [Position]	(UPPERLEFT)	{151 99}
 [end]
@@ -20,7 +21,7 @@
   [Workspace]	{2}
   [Dimensions]	{962 759}
   [Position]	(UPPERLEFT)	{178 22}
-  [Deco]	{NONE}
+  [Deco]	{BORDER}
 [end]
 [group]  (workspace=[current])
  [app] (name=gajim*) (class=Gajim.py) (role=gc)
@@ -203,4 +204,7 @@
   [Position]	(UPPERLEFT)	{643 0}
 [end]
 [app] (name=WINWORD.EXE) (class=Wine)
+[end]
+[transient] (name=firefox-bin) (class=Firefox-bin)
+  [Position]	(UPPERLEFT)	{246 65}
 [end]

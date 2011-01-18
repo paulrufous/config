@@ -16,9 +16,9 @@ title = %A - %T
 [library]
 lib_view = 1
 lib_genre = !NONE!
-lib_path = /
+lib_path = !NONE!
 lib_year = !NONE!
-lib_artist = !NONE!
+lib_artist = Bullet For My Valentine
 lib_album = !NONE!
 
 [player]

@@ -1,5 +1,16 @@
 <?xml version="1.0"?>
 <gconf>
+	<entry name="captions" mtime="1292707797" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>none</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>none</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>none</stringvalue>
+		</li>
+	</entry>
 	<entry name="text_ellipsis_limit" mtime="1280935799" type="list" ltype="string">
 		<li type="string">
 			<stringvalue>2</stringvalue>

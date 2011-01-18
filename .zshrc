@@ -1,7 +1,7 @@
 # Lines configured by zsh-newuser-install
 HISTFILE=~/.histfile
-HISTSIZE=1000
-SAVEHIST=1000
+HISTSIZE=10000
+SAVEHIST=10000
 bindkey -e
 # End of lines configured by zsh-newuser-install
 # The following lines were added by compinstall
@@ -41,8 +41,8 @@ linux|screen|screen.linux|rxvt)
 	bindkey "^[[1~" beginning-of-line
 	bindkey "^[[4~" end-of-line
 	bindkey "^[e" expand-cmd-path      # C-e for expanding path of typed command
-	bindkey "^[[A" up-line-or-search   # up arrow for back-history-search
-	bindkey "^[[B" down-line-or-search # down arrow for fwd-history-search
+#	bindkey "^[[A" up-line-or-search   # up arrow for back-history-search
+#	bindkey "^[[B" down-line-or-search # down arrow for fwd-history-search
 	bindkey " "  magic-space           # do history expansion on space
  ;;
 *xterm*|rxvt-unicode|(dt|k|E)term)
@@ -104,9 +104,9 @@ zstyle ':completion:*:processes-names' command 'ps xho command'
 autoload -U predict-on
 zle -N predict-on
 zle -N predict-off
-bindkey "^X^Z" predict-on # C-x C-z
-bindkey "^Z" predict-off # C-z
-predict-on
+bindkey "^X^P" predict-on # C-x C-z
+bindkey "^P" predict-off # C-z
+#predict-on
 ### END ARROWS SEARCH
 ### TETRIS
 autoload -U tetris
@@ -138,3 +138,6 @@ screensaver()
 bindkey "^[[A" history-beginning-search-backward
 bindkey "^[[B" history-beginning-search-forward
 # End Anchored history search using cursor up/down keys
+# По ^z очищать от текущей позиции до конца строки - полезно при автодополнении без таба
+bindkey "^z" kill-line
+# End
