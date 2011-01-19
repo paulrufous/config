@@ -76,8 +76,8 @@
 	<entry name="sidebar_width" mtime="1279352134" type="int" value="116"/>
 	<entry name="start_with_sidebar" mtime="1289695986" type="bool" value="false"/>
 	<entry name="start_with_toolbar" mtime="1288794706" type="bool" value="false"/>
-	<entry name="navigation_window_saved_maximized" mtime="1295375495" type="bool" value="false"/>
-	<entry name="navigation_window_saved_geometry" mtime="1295369905" type="string">
-		<stringvalue>805x487+46+141</stringvalue>
+	<entry name="navigation_window_saved_maximized" mtime="1295456969" type="bool" value="false"/>
+	<entry name="navigation_window_saved_geometry" mtime="1295453951" type="string">
+		<stringvalue>805x487+19+291</stringvalue>
 	</entry>
 </gconf>
