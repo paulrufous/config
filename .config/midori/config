@@ -17,7 +17,8 @@ toolbar-items=TabNew,Location,Search,CompactMenu,
 open-panels-in-windows=true
 homepage=
 speed-dial-in-new-tabs=false
-download-folder=/home/sio/downloads
+download-folder=/home/sio/downloads/midori_D
+ask-for-destination-folder=true
 text-editor=leafpad %f
 location-entry-search=http://www.google.com/search?q=%s
 preferred-encoding=MIDORI_ENCODING_UNICODE

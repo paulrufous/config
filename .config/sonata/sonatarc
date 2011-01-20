@@ -14,7 +14,7 @@ library = %A - %T
 title = %A - %T
 
 [library]
-lib_view = 0
+lib_view = 1
 lib_genre = !NONE!
 lib_path = /
 lib_year = !NONE!
@@ -74,7 +74,7 @@ profile_num = 0
 info_tab_pos = 0
 current_tab_pos = 1
 current_tab_visible = True
-playlists_tab_pos = 4
+playlists_tab_pos = 3
 playlists_tab_visible = False
 info_tab_visible = True
 streams_tab_visible = False
@@ -94,6 +94,6 @@ ports[0] = 6600
 musicdirs[0] = /home/sio/music
 
 [plugins]
-autostart_plugins = localmpd,gajim_tune,lyricwiki,rhapsodycovers,playlists
+autostart_plugins = gajim_tune,lyricwiki,rhapsodycovers,playlists
 known_plugins = test,localmpd,gajim_tune,lyricwiki,rhapsodycovers,streams,playlists
 

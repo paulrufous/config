@@ -6,7 +6,7 @@
 	<entry name="show_image_thumbnails" mtime="1290261100" type="string">
 		<stringvalue>local_only</stringvalue>
 	</entry>
-	<entry name="show_icon_text" mtime="1288911968" type="string">
+	<entry name="show_icon_text" mtime="1295529555" type="string">
 		<stringvalue>never</stringvalue>
 	</entry>
 	<entry name="toolbar_items" mtime="1288793928" type="list" ltype="string">
@@ -76,8 +76,8 @@
 	<entry name="sidebar_width" mtime="1279352134" type="int" value="116"/>
 	<entry name="start_with_sidebar" mtime="1289695986" type="bool" value="false"/>
 	<entry name="start_with_toolbar" mtime="1288794706" type="bool" value="false"/>
-	<entry name="navigation_window_saved_maximized" mtime="1295456969" type="bool" value="false"/>
-	<entry name="navigation_window_saved_geometry" mtime="1295453951" type="string">
-		<stringvalue>805x487+19+291</stringvalue>
+	<entry name="navigation_window_saved_maximized" mtime="1295532367" type="bool" value="false"/>
+	<entry name="navigation_window_saved_geometry" mtime="1295532367" type="string">
+		<stringvalue>805x487+42+127</stringvalue>
 	</entry>
 </gconf>

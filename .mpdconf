@@ -100,7 +100,7 @@ save_absolute_paths_in_playlists "no"
 # audio file discovery process. Optionally, 'comment' can be added to this
 # list.
 #
-metadata_to_use "artist,album,title,track,name,genre,disc"
+metadata_to_use "artist,album,title,track,name,date,genre,disc"
 #
 ###############################################################################
 
