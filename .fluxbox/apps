@@ -89,6 +89,7 @@
 [end]
 [app] (name=aptitude) (class=URxvt)
   [Dimensions]	{634 640}
+  [Position]	(UPPERLEFT)	{644 0}
 [end]
 [app] (name=nautilus) (class=Nautilus)
 [end]
