@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <group name="Keys">
+    <option name="Action0" value="toc"/>
+    <option name="Action1" value="showLibrary"/>
+    <option name="Action10" value="none"/>
+    <option name="Action11" value="quit"/>
+    <option name="Action12" value="none"/>
+    <option name="Action13" value="pageForward"/>
+    <option name="Action14" value="pageBackward"/>
+    <option name="Action2" value="showNetLibrary"/>
+    <option name="Action3" value="undo"/>
+    <option name="Action4" value="preferences"/>
+    <option name="Action5" value="quit"/>
+    <option name="Action6" value="redo"/>
+    <option name="Action7" value="pageForward"/>
+    <option name="Action8" value="none"/>
+    <option name="Action9" value="redo"/>
+    <option name="Key0" value="&lt;1&gt;"/>
+    <option name="Key1" value="&lt;2&gt;"/>
+    <option name="Key10" value="&lt;LeftArrow&gt;"/>
+    <option name="Key11" value="&lt;Q&gt;"/>
+    <option name="Key12" value="&lt;RightArrow&gt;"/>
+    <option name="Key13" value="&lt;Space&gt;"/>
+    <option name="Key14" value="&lt;UpArrow&gt;"/>
+    <option name="Key2" value="&lt;3&gt;"/>
+    <option name="Key3" value="&lt;BackSpace&gt;"/>
+    <option name="Key4" value="&lt;Ctrl&gt;+&lt;P&gt;"/>
+    <option name="Key5" value="&lt;Ctrl&gt;+&lt;Q&gt;"/>
+    <option name="Key6" value="&lt;Delete&gt;"/>
+    <option name="Key7" value="&lt;DownArrow&gt;"/>
+    <option name="Key8" value="&lt;End&gt;"/>
+    <option name="Key9" value="&lt;Home&gt;"/>
+    <option name="Number" value="15"/>
+  </group>
+  <group name="Options">
+    <option name="BookPath" value="/home/sio/documents/books/Fiction"/>
+    <option name="KeyDelay" value="250"/>
+    <option name="ScanSubdirs" value="true"/>
+  </group>
+  <group name="Rotation">
+    <option name="Angle" value="0"/>
+  </group>
+  <group name="Scrollings">
+    <option name="Delay" value="100"/>
+  </group>
+  <group name="TapScrolling">
+    <option name="Enabled" value="false"/>
+  </group>
+  <group name="Web Browser">
+    <option name="Enabled" value="false"/>
+    <option name="Name" value="Browser"/>
+  </group>
+  <group name="gotoPageDialog">
+    <option name="Index" value="731"/>
+  </group>
+</config>

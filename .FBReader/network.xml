@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <group name="Options">
+    <option name="DownloadDirectory" value="~/.FBReader_library"/>
+  </group>
+  <group name="litres.ru">
+    <option name="on" value="false"/>
+  </group>
+  <group name="shucang.com">
+    <option name="on" value="false"/>
+  </group>
+</config>
