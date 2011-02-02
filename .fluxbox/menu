@@ -54,7 +54,7 @@
         [exec] (Armagetron) {armagetronad}
         [exec] (BattleTanks) {btanks}
         [exec] (Diablo II) {cd "/home/sio/.PlayOnLinux/wineprefix/DiabloII/drive_c/Program Files/Diablo II" && WINEPREFIX=~/.PlayOnLinux/wineprefix/DiabloII wine Game.exe}
-        [exec] (Duke Nukem 3D) {cd ~/bin/DukeNukem && SDL_VIDEO_X11_DGAMOUSE=0 dosbox DUKE3D.EXE}
+        [exec] (Duke Nukem) {cd ~/bin/DukeNukem && SDL_VIDEO_X11_DGAMOUSE=0 dosbox DUKE3D.EXE}
         [exec] (GLTron) {gltron}
         [exec] (gtkPool) {gtkpool}
         [exec] (Kolf) {kolf}

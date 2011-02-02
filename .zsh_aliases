@@ -6,6 +6,7 @@ alias ls='ls --color=auto'
 alias ll="ls -l"
 alias la="ls -a"
 alias ":q"="clear && exit"
+alias bones='grep -vE "^#|^$"'
 
 # DEFAULT BEHAVIOUR
 alias dvtm="dvtm -m \<"
@@ -32,6 +33,7 @@ cue2flac () {
     fi
 }
 
+# SHOW PERMISSIONS + LS
 ls-rights () {
     [ -z "$*" ] && stat -c "%U:%G %a %n" "$PWD"/* && return 0
     [ -d "$1" ] && stat -c "%U:%G %a %n" "$1"/* || stat -c "%U:%G %a %n" "$1"

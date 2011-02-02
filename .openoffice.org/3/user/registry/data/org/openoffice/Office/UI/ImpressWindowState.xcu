@@ -29,16 +29,16 @@
    </node>
    <node oor:name="private:resource/toolbar/commontaskbar">
     <prop oor:name="DockPos" oor:type="xs:string">
-     <value>1,0</value>
+     <value>1166,0</value>
     </prop>
     <prop oor:name="Docked" oor:type="xs:boolean">
-     <value>false</value>
+     <value>true</value>
     </prop>
     <prop oor:name="Pos" oor:type="xs:string">
-     <value>693,149</value>
+     <value>1050,63</value>
     </prop>
     <prop oor:name="Size" oor:type="xs:string">
-     <value>115,31</value>
+     <value>91,31</value>
     </prop>
    </node>
   </node>

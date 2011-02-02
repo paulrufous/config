@@ -62,7 +62,7 @@
    </prop>
    <node oor:name="UserData">
     <prop oor:name="UserItem" oor:op="replace" oor:type="xs:string">
-     <value>V1,2,0</value>
+     <value>V1,2,1,0,30378</value>
     </prop>
    </node>
   </node>

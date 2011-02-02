@@ -1,5 +1,5 @@
 [$Version]
-update_info=kded.upd:kde3.0,kwin.upd:kde3.2Xinerama
+update_info=kded.upd:kde3.0,kwin.upd:kde3.2Xinerama,kdeui.upd:kde4/migrate_from_kde3_icon_theme
 
 [ColorEffects:Inactive]
 ColorEffect=-2
@@ -93,7 +93,7 @@ Decoration position=0
 LocationCombo Completionmode=5
 PathCombo Completionmode=5
 Previews=false
-Recent URLs[$e]=
+Recent URLs[$e]=$HOME/data/
 Show Bookmarks=false
 Show Full Path=false
 Show Preview=false

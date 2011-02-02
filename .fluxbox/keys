@@ -106,8 +106,8 @@ Mod4 Mod1 a :Move -1 0
 Mod4 Mod1 d :Move +1 0
 
 
-Menu :ExecCommand mpc toggle
-Mod1 Menu :ExecCommand mpc next
+94 :ExecCommand mpc toggle
+Mod1 94 :ExecCommand mpc next
 Mod4 Mouse4 :ExecCommand amixer sset Master 2+
 Mod4 Mouse5 :ExecCommand amixer sset Master 2-
 Mod1 Mouse4 :ExecCommand mpc volume +2
@@ -132,3 +132,5 @@ Control Mod1 Return :ArrangeWindows
 
 Shift Mouse4 :Exec transset-df --inc .1 -p -m .15
 Shift Mouse5 :Exec transset-df --dec .1 -p -m .15
+
+Mod1 Escape :ToggleCmd {ExecCommand synclient TouchpadOff=0} {ExecCommand synclient TouchpadOff=1}
