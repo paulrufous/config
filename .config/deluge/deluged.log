@@ -1,11 +1,3 @@
-[ERROR   ] 17:51:02 rpcserver:303 Exception calling RPC request: '9586af5f34dc1ad43a4587dc05e8e73943e73a1f'
-Traceback (most recent call last):
-  File "/usr/lib/pymodules/python2.6/deluge/core/rpcserver.py", line 298, in dispatch
-    ret = self.factory.methods[method](*args, **kwargs)
-  File "/usr/lib/pymodules/python2.6/deluge/core/core.py", line 415, in get_torrents_status
-    status_dict[torrent_id] = self.get_torrent_status(torrent_id, keys, diff)
-  File "/usr/lib/pymodules/python2.6/deluge/core/core.py", line 397, in get_torrent_status
-    status = self.torrentmanager[torrent_id].get_status(keys, diff)
-  File "/usr/lib/pymodules/python2.6/deluge/core/torrentmanager.py", line 273, in __getitem__
-    return self.torrents[torrent_id]
-KeyError: '9586af5f34dc1ad43a4587dc05e8e73943e73a1f'
+[ERROR   ] 18:23:38 main:216 There is a deluge daemon running with this config directory!
+[ERROR   ] 18:23:38 main:217 You cannot run multiple daemons with the same config directory set.
+[ERROR   ] 18:23:38 main:218 If you believe this is an error, you can force a start by deleting /home/sio/.config/deluge/deluged.pid.

@@ -184,7 +184,7 @@
  <node oor:name="Dialogs">
   <node oor:name="16615" oor:op="replace">
    <prop oor:name="WindowState" oor:type="xs:string">
-    <value>320,217,,;;,,,;</value>
+    <value>189,387,,;;,,,;</value>
    </prop>
   </node>
   <node oor:name="260" oor:op="replace">

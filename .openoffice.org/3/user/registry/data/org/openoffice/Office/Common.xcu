@@ -26,7 +26,7 @@
  <node oor:name="Font">
   <node oor:name="View">
    <prop oor:name="ShowFontBoxWYSIWYG" oor:type="xs:boolean">
-    <value>false</value>
+    <value>true</value>
    </prop>
   </node>
  </node>
@@ -58,7 +58,7 @@
  <node oor:name="View">
   <node oor:name="Dialog">
    <prop oor:name="MiddleMouseButton" oor:type="xs:short">
-    <value>1</value>
+    <value>2</value>
    </prop>
   </node>
  </node>

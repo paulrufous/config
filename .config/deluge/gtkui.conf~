@@ -23,7 +23,7 @@
     10.0, 
     30.0, 
     80.0, 
-    300.0
+    100.0
   ], 
   "window_maximized": false, 
   "enable_system_tray": false, 
@@ -41,7 +41,7 @@
   "autoadd_queued": true, 
   "autoconnect_host_id": "d6cce0bede873688e279223e1c42ebab2c61ce26", 
   "classic_mode": false, 
-  "window_pane_position": 376, 
+  "window_pane_position": 369, 
   "enabled_plugins": [], 
   "show_rate_in_title": true, 
   "autoadd_enable": false, 

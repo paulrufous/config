@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config>
   <group name="Search">
-    <option name="Pattern" value="standpipe"/>
+    <option name="Pattern" value="fourth interlude"/>
+    <option name="Pattern1" value="interlude"/>
+    <option name="Pattern2" value="standpipe"/>
   </group>
 </config>

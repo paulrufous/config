@@ -9,6 +9,9 @@
     <option name="TouchSensitive" value="false"/>
     <option name="Type" value="1"/>
   </group>
+  <group name="OpenFileDialog">
+    <option name="Directory" value="/home/sio/torrents/King, Stephen"/>
+  </group>
   <group name="Options">
     <option name="BottomMargin" value="0"/>
     <option name="Height" value="668"/>
@@ -16,19 +19,20 @@
     <option name="LeftMargin" value="275"/>
     <option name="RightMargin" value="275"/>
     <option name="Width" value="1157"/>
-    <option name="WindowState" value="2"/>
     <option name="XPosition" value="22"/>
     <option name="YPosition" value="57"/>
   </group>
   <group name="OptionsDialog">
     <option name="Height" value="331"/>
-    <option name="SelectedTab" value="Keys"/>
+    <option name="SelectedTab" value="Format"/>
     <option name="Width" value="509"/>
   </group>
   <group name="Style">
     <option name="Base:fontFamily" value="Liberation Serif"/>
     <option name="Base:fontSize" value="35"/>
     <option name="Base:lineSpacingPercent" value="110"/>
+    <option name="Regular Paragraph:firstLineIndentDelta" value="60"/>
+    <option name="Regular Paragraph:spaceAfter" value="20"/>
   </group>
   <group name="ToggleButtonGroup">
     <option name="booksOrder" value="byAuthor"/>

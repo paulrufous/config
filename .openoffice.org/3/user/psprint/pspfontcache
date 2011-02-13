@@ -1,5 +1,25 @@
 PspFontCacheFile format 4
-FontCacheDirectory:1289694157:/home/sio/.fonts
+FontCacheDirectory:1297344201:/home/sio/.fonts
+File:Liberastika-Bold.ttf
+2;1
+Liberastika;Либерастика
+-1;Liberastika-Bold;0;8;5;2;65535;930;236;166;0;1682;1166;1682;1166;0;0;0;8;Bold
+
+File:Liberastika-BoldItalic.ttf
+2;1
+Liberastika;Либерастика
+-1;Liberastika-BoldItalic;2;8;5;2;65535;905;211;116;0;1742;1116;1742;1116;0;0;0;8;Bold Italic
+
+File:Liberastika-Italic.ttf
+2;1
+Liberastika;Либерастика
+-1;Liberastika-Italic;2;5;5;2;65535;917;225;142;0;1696;1142;1696;1142;0;0;0;8;Italic
+
+File:Liberastika-Regular.ttf
+2;1
+Liberastika;Либерастика
+-1;Liberastika-Regular;0;5;5;2;65535;1021;225;246;0;1640;1246;1640;1246;0;0;0;8;Regular
+
 FontCacheDirectory:1278774522:/home/sio/.fonts/Book Antiqua
 File:ANTQUAI.TTF
 2;1
@@ -384,74 +404,79 @@ File:c0582bt_.pfb
 Courier 10 Pitch
 -1;Courier10PitchBT-Italic;2;5;0;1;91;858;299;157;0;664;579;664;579;0;0;0;c0582bt_.afm;Italic
 
-FontCacheDirectory:1278778365:/usr/share/fonts/truetype/freefont
+FontCacheDirectory:1297351237:/usr/share/fonts/truetype/freefont
 File:FreeSerifBold.ttf
 2;1
 FreeSerif
--1;FreeSerifBold;0;8;5;2;65535;900;300;200;0;2656;1200;2656;1200;0;0;0;0;Fett
+-1;FreeSerifBold;0;8;5;2;65535;900;300;200;0;2626;1200;2626;1200;0;0;0;0;получерен
 
 File:FreeSansOblique.ttf
 2;1
 FreeSans
--1;FreeSansOblique;1;5;5;2;65535;1000;300;300;0;2470;1300;2470;1300;0;0;0;0;Oblique
+-1;FreeSansOblique;2;5;5;2;65535;1000;300;300;0;2738;1300;2738;1300;0;0;0;0;наклонен
 
 File:FreeSans.ttf
 2;1
 FreeSans
--1;FreeSans;0;5;5;2;65535;1000;300;300;0;2590;1300;2590;1300;0;0;0;0;obyčejné
+-1;FreeSans;0;5;5;2;65535;1000;300;300;0;2684;1300;2684;1300;0;0;0;0;нормален
 
 File:FreeSerifItalic.ttf
 2;1
 FreeSerif
--1;FreeSerifItalic;2;5;5;2;65535;900;300;200;0;2552;1200;2552;1200;0;0;0;0;Kursiv
+-1;FreeSerifItalic;2;5;5;2;65535;900;300;200;0;2437;1200;2437;1200;0;0;0;0;курсивен
 
 File:FreeSansBold.ttf
 2;1
 FreeSans
--1;FreeSansBold;0;8;5;2;65535;1000;300;300;0;2524;1300;2524;1300;0;0;0;0;Bold
+-1;FreeSansBold;0;8;5;2;65535;1000;300;300;0;2524;1300;2524;1300;0;0;0;0;получерен
 
 File:FreeSerif.ttf
 2;1
 FreeSerif
--1;FreeSerif;0;5;5;2;65535;900;300;200;0;2646;1200;2646;1200;0;0;0;0;Mittel
+-1;FreeSerif;0;5;5;2;65535;900;300;200;0;2646;1200;2646;1200;0;0;0;0;нормален
 
 File:FreeMonoOblique.ttf
 2;1
 FreeMono
--1;FreeMonoOblique;2;5;5;1;65535;800;200;150;0;1460;1000;1460;1000;0;0;0;0;Cursiva
+-1;FreeMonoOblique;2;5;5;1;65535;800;200;150;0;1460;1000;1460;1000;0;0;0;0;наклонен
 
 File:FreeMonoBold.ttf
 2;1
 FreeMono
--1;FreeMonoBold;0;8;5;1;65535;800;200;150;0;1358;1000;1358;1000;0;0;0;0;Negreta
+-1;FreeMonoBold;0;8;5;1;65535;800;200;150;0;1336;1000;1336;1000;0;0;0;0;получерен
 
 File:FreeMono.ttf
 2;1
 FreeMono
--1;FreeMono;0;5;5;1;65535;800;200;150;0;1492;1000;1492;1000;0;0;0;0;Normal
+-1;FreeMono;0;5;5;1;65535;800;200;150;0;1492;1000;1492;1000;0;0;0;0;нормален
+
+File:Untitled1.ttf
+2;1
+Untitled1
+-1;Untitled1;0;6;5;2;65535;666;545;211;0;2409;1211;2409;1211;0;0;0;0;Medium
 
 File:FreeSansBoldOblique.ttf
 2;1
 FreeSans
--1;FreeSansBoldOblique;1;8;5;2;65535;1000;300;300;0;2360;1300;2360;1300;0;0;0;0;BoldOblique
+-1;FreeSansBoldOblique;2;8;5;2;65535;1000;300;300;0;2499;1300;2499;1300;0;0;0;0;получерен наклонен
 
 File:FreeMonoBoldOblique.ttf
 2;1
 FreeMono
--1;FreeMonoBoldOblique;2;8;5;1;65535;800;200;150;0;1478;1000;1478;1000;0;0;0;0;Negreta cursiva
+-1;FreeMonoBoldOblique;2;8;5;1;65535;800;200;150;0;1476;1000;1476;1000;0;0;0;0;получерен наклонен
 
 File:FreeSerifBoldItalic.ttf
 2;1
 FreeSerif
--1;FreeSerifBoldItalic;2;8;5;2;65535;900;300;200;0;2654;1200;2654;1200;0;0;0;0;FettKursiv
+-1;FreeSerifBoldItalic;2;8;5;2;65535;900;300;200;0;2465;1200;2465;1200;0;0;0;0;получерен курсивен
 
-FontCacheDirectory:1294832889:/usr/share/fonts/truetype/openoffice
+FontCacheDirectory:1297351270:/usr/share/fonts/truetype/openoffice
 File:opens___.ttf
 2;1
 OpenSymbol
 -1;OpenSymbol;0;5;5;2;65535;799;200;-1;0;1262;999;1262;999;0;0;0;8;Regular
 
-FontCacheDirectory:1278862726:/usr/share/fonts/truetype/ttf-dejavu
+FontCacheDirectory:1297351261:/usr/share/fonts/truetype/ttf-dejavu
 File:DejaVuSans-BoldOblique.ttf
 2;1
 DejaVu Sans
@@ -461,6 +486,16 @@ File:DejaVuSansMono-Oblique.ttf
 2;1
 DejaVu Sans Mono
 -1;DejaVuSansMono-Oblique;1;5;5;1;65535;928;235;163;0;1148;1163;1148;1163;0;0;0;0;Oblique
+
+File:DejaVuSansCondensed-Bold.ttf
+2;1
+DejaVu Sans;DejaVu Sans Condensed
+-1;DejaVuSansCondensed-Bold;0;8;4;2;65535;928;235;163;1;2739;1163;2739;1163;0;0;0;0;Condensed Bold
+
+File:DejaVuSerifCondensed-Bold.ttf
+2;1
+DejaVu Serif;DejaVu Serif Condensed
+-1;DejaVuSerifCondensed-Bold;0;8;4;2;65535;938;235;173;0;2368;1173;2368;1173;0;0;0;0;Condensed Bold
 
 File:DejaVuSansMono.ttf
 2;1
@@ -472,10 +507,30 @@ File:DejaVuSerif.ttf
 DejaVu Serif
 -1;DejaVuSerif;0;5;5;2;65535;928;235;163;0;2448;1163;2448;1163;0;0;0;0;Book
 
+File:DejaVuSansCondensed.ttf
+2;1
+DejaVu Sans;DejaVu Sans Condensed
+-1;DejaVuSansCondensed;0;5;4;2;65535;928;235;163;0;2430;1163;2430;1163;0;0;0;0;Condensed
+
+File:DejaVuSerifCondensed.ttf
+2;1
+DejaVu Serif;DejaVu Serif Condensed
+-1;DejaVuSerifCondensed;0;5;4;2;65535;928;235;163;0;2203;1163;2203;1163;0;0;0;0;Condensed
+
 File:DejaVuSans.ttf
 2;1
 DejaVu Sans
 -1;DejaVuSans;0;5;5;2;65535;928;235;163;0;2700;1163;2700;1163;0;0;0;0;Book
+
+File:DejaVuSans-ExtraLight.ttf
+2;1
+DejaVu Sans;DejaVu Sans Light
+-1;DejaVuSans-ExtraLight;0;2;5;2;65535;928;235;163;0;2391;1163;2391;1163;0;0;0;0;ExtraLight
+
+File:DejaVuSerifCondensed-Italic.ttf
+2;1
+DejaVu Serif;DejaVu Serif Condensed
+-1;DejaVuSerifCondensed-Italic;2;5;4;2;65535;928;235;163;0;2235;1163;2235;1163;0;0;0;0;Condensed Italic
 
 File:DejaVuSerif-Bold.ttf
 2;1
@@ -492,10 +547,25 @@ File:DejaVuSans-Oblique.ttf
 DejaVu Sans
 -1;DejaVuSans-Oblique;1;5;5;2;65535;928;235;163;0;2674;1163;2674;1163;0;0;0;0;Oblique
 
+File:DejaVuSansCondensed-BoldOblique.ttf
+2;1
+DejaVu Sans;DejaVu Sans Condensed
+-1;DejaVuSansCondensed-BoldOblique;1;8;4;2;65535;928;235;163;0;2758;1163;2758;1163;0;0;0;0;Condensed Bold Oblique
+
 File:DejaVuSerif-BoldItalic.ttf
 2;1
 DejaVu Serif
 -1;DejaVuSerif-BoldItalic;2;8;5;2;65535;938;235;173;0;2658;1173;2658;1173;0;0;0;0;Bold Italic
+
+File:DejaVuSerifCondensed-BoldItalic.ttf
+2;1
+DejaVu Serif;DejaVu Serif Condensed
+-1;DejaVuSerifCondensed-BoldItalic;2;8;4;2;65535;938;235;173;0;2393;1173;2393;1173;0;0;0;0;Condensed Bold Italic
+
+File:DejaVuSansCondensed-Oblique.ttf
+2;1
+DejaVu Sans;DejaVu Sans Condensed
+-1;DejaVuSansCondensed-Oblique;1;5;4;2;65535;928;235;163;0;2407;1163;2407;1163;0;0;0;0;Condensed Oblique
 
 File:DejaVuSansMono-Bold.ttf
 2;1
@@ -510,9 +580,9 @@ DejaVu Serif
 File:DejaVuSans-Bold.ttf
 2;1
 DejaVu Sans
--1;DejaVuSans-Bold;0;8;5;2;65535;928;235;163;0;3044;1163;3044;1163;0;0;0;0;Bold
+-1;DejaVuSans-Bold;0;8;5;2;65535;928;235;163;1;3044;1163;3044;1163;0;0;0;0;Bold
 
-FontCacheDirectory:1278777614:/usr/share/fonts/truetype/ttf-liberation
+FontCacheDirectory:1297382923:/usr/share/fonts/truetype/ttf-liberation
 File:LiberationMono-Bold.ttf
 2;1
 Liberation Mono
@@ -573,7 +643,7 @@ File:LiberationSerif-Regular.ttf
 Liberation Serif
 -1;LiberationSerif;0;5;5;2;65535;891;216;107;0;1182;1107;1182;1107;0;0;0;8;Regular
 
-FontCacheDirectory:1279546870:/usr/share/fonts/truetype/ttf-lyx
+FontCacheDirectory:1297351269:/usr/share/fonts/truetype/ttf-lyx
 File:eufm10.ttf
 2;1
 eufm10
@@ -613,6 +683,11 @@ File:cmr10.ttf
 2;1
 cmr10
 -1;Cmr10;0;5;5;2;65535;750;250;150;0;1051;1000;1051;1000;0;0;0;0;Regular
+
+File:rsfs10.ttf
+2;1
+rsfs10
+-1;rsfs10;2;5;5;2;65535;728;300;28;0;1242;1028;1242;1028;0;0;0;0;Roman
 
 File:cmsy10.ttf
 2;1
@@ -879,12 +954,12 @@ Lucida Grande
 FontCacheDirectory:1295289150:/usr/share/fonts/truetype
 File:ttf-japanese-gothic.ttf
 2;1
-VL Gothic;VL ゴシック
+VL Gothic;VL ゴシッ�
 -1;VL-Gothic-Regular;0;5;5;2;65535;1000;270;270;1;1061;1270;1061;1270;0;0;0;0;regular
 
 File:ttf-japanese-mincho.ttf
 2;1
-Sazanami Mincho;さざなみ明朝
+Sazanami Mincho;さざなみ明�
 -1;Sazanami-Mincho-Regular;0;6;5;2;65535;973;156;129;1;1300;1129;1300;1129;0;0;0;8;Regular
 
 FontCacheDirectory:1279392342:/usr/share/fonts/truetype/arphic
@@ -1492,7 +1567,7 @@ Segoe UI Symbol
 
 File:seguisb.ttf
 2;1
-Segoe UI;Segoe UI Se
+Segoe UI;Segoe UI 
 -1;SegoeUI-SemiBold;0;7;5;2;65535;1079;250;329;0;1805;1329;1805;1329;0;0;0;8;Semibold
 
 File:calibrii.ttf
@@ -1527,7 +1602,7 @@ Wingdings 3
 
 File:segoeuil.ttf
 2;1
-Segoe UI;Segoe UI
+Segoe UI;Segoe 
 -1;SegoeUI-Light;0;3;5;2;65535;1079;250;329;0;1741;1329;1741;1329;0;0;0;8;Light
 
 File:segoeui.ttf
@@ -1553,12 +1628,12 @@ Calibri
 FontCacheDirectory:1289694037:/home/sio/.fonts/Helvetica Fonts/Helvetica
 File:HelveticaLTStd-Cond.otf
 2;1
-Helvetica LT Std;Helvetica LT St
+Helvetica LT Std;Helvetica LT 
 -1;HelveticaLTStd-Cond;0;5;3;2;65535;990;250;240;0;1245;1240;1245;1240;0;0;0;65540;Condensed
 
 File:HelveticaLTStd-Comp.otf
 2;1
-Helvetica LT Std;Helvetica LT Std Comp
+Helvetica LT Std;Helvetica LT Std Co
 -1;HelveticaLTStd-Comp;0;5;2;2;65535;990;250;240;0;1120;1240;1120;1240;0;0;0;65540;Compressed
 
 File:HelveticaLTStd-Bold.otf
@@ -1573,7 +1648,7 @@ Helvetica LT Std
 
 File:HelveticaLTStd-BlkCond.otf
 2;1
-Helvetica LT Std;Helvetica LT Std Co
+Helvetica LT Std;Helvetica LT Std 
 -1;HelveticaLTStd-BlkCond;0;10;3;2;65535;1000;250;250;0;1281;1250;1281;1250;0;0;0;65540;Black Condensed
 
 File:HelveticaLTStd-Roman.otf
@@ -1583,7 +1658,7 @@ Helvetica LT Std
 
 File:HelveticaRoundedLTStd-Bd.otf
 2;1
-Helvetica Rounded LT Std;HelveticaRounded LT 
+Helvetica Rounded LT Std;HelveticaRounded L
 -1;HelveticaRoundedLTStd-Bd;0;8;5;2;65535;963;214;177;0;1131;1177;1131;1177;0;0;0;65540;Bold
 
 File:HelveticaLTStd-Obl.otf
@@ -1593,97 +1668,97 @@ Helvetica LT Std
 
 File:HelveticaRoundedLTStd-Black.otf
 2;1
-Helvetica Rounded LT Std;HelveticaRounded LT S
+Helvetica Rounded LT Std;HelveticaRounded LT
 -1;HelveticaRoundedLTStd-Black;0;10;5;2;65535;1000;222;222;0;1138;1222;1138;1222;0;0;0;65540;Black
 
 File:HelveticaLTStd-ExtraComp.otf
 2;1
-Helvetica LT Std;Helvetica LT Std ExtComp
+Helvetica LT Std;Helvetica LT Std ExtCo
 -1;HelveticaLTStd-ExtraComp;0;5;1;2;65535;956;250;206;0;1123;1206;1123;1206;0;0;0;65540;Extra Compressed
 
 File:HelveticaLTStd-LightCondObl.otf
 2;1
-Helvetica LT Std;Helvetica LT Std Cond
+Helvetica LT Std;Helvetica LT Std Co
 -1;HelveticaLTStd-LightCondObl;1;3;3;2;65535;986;285;271;0;1239;1271;1239;1271;0;0;0;65540;Light Condensed Oblique
 
 File:HelveticaRoundedLTStd-BdO.otf
 2;1
-Helvetica Rounded LT Std;HelveticaRounded LT 
+Helvetica Rounded LT Std;HelveticaRounded L
 -1;HelveticaRoundedLTStd-BdO;1;8;5;2;65535;963;278;241;0;1265;1241;1265;1241;0;0;0;65540;Bold Oblique
 
 File:HelveticaLTStd-Light.otf
 2;1
-Helvetica LT Std;Helvetica LT Std
+Helvetica LT Std;Helvetica LT S
 -1;HelveticaLTStd-Light;0;3;5;2;65535;979;250;229;0;1164;1229;1164;1229;0;0;0;65540;Light
 
 File:HelveticaLTStd-Blk.otf
 2;1
-Helvetica LT Std;Helvetica LT Std
+Helvetica LT Std;Helvetica LT S
 -1;HelveticaLTStd-Blk;0;10;5;2;65535;1013;250;263;0;1174;1263;1174;1263;0;0;0;65540;Black
 
 File:HelveticaRoundedLTStd-BdCn.otf
 2;1
-Helvetica Rounded LT Std;HelveticaRounded LT St
+Helvetica Rounded LT Std;HelveticaRounded LT 
 -1;HelveticaRoundedLTStd-BdCn;0;8;3;2;65535;965;216;181;0;1100;1181;1100;1181;0;0;0;65540;Bold Condensed
 
 File:HelveticaLTStd-BlkObl.otf
 2;1
-Helvetica LT Std;Helvetica LT Std
+Helvetica LT Std;Helvetica LT S
 -1;HelveticaLTStd-BlkObl;1;10;5;2;65535;1013;272;285;0;1291;1285;1291;1285;0;0;0;65540;Black Oblique
 
 File:HelveticaLTStd-BlkCondObl.otf
 2;1
-Helvetica LT Std;Helvetica LT Std Co
+Helvetica LT Std;Helvetica LT Std 
 -1;HelveticaLTStd-BlkCondObl;1;10;3;2;65535;1000;287;287;0;1330;1287;1330;1287;0;0;0;65540;Black Condensed Oblique
 
 File:HelveticaLTStd-LightCond.otf
 2;1
-Helvetica LT Std;Helvetica LT Std Cond
+Helvetica LT Std;Helvetica LT Std Co
 -1;HelveticaLTStd-LightCond;0;3;3;2;65535;986;250;236;0;1170;1236;1170;1236;0;0;0;65540;Light Condensed
 
 File:HelveticaLTStd-FractionBold.otf
 2;1
-Helvetica LT Std;Helvetica LT Std Fra
+Helvetica LT Std;Helvetica LT Std F
 -1;HelveticaLTStd-FractionBold;0;8;5;2;65535;875;125;150;0;1432;1000;1432;1000;0;0;0;65540;Bold Fractions
 
 File:HelveticaRoundedLTStd-BdCnO.otf
 2;1
-Helvetica Rounded LT Std;HelveticaRounded LT St
+Helvetica Rounded LT Std;HelveticaRounded LT 
 -1;HelveticaRoundedLTStd-BdCnO;1;8;3;2;65535;965;282;247;0;1184;1247;1184;1247;0;0;0;65540;Bold Condensed Oblique
 
 File:HelveticaLTStd-UltraComp.otf
 2;1
-Helvetica LT Std;Helvetica LT Std UltComp
+Helvetica LT Std;Helvetica LT Std UltCo
 -1;HelveticaLTStd-UltraComp;0;5;1;2;65535;925;250;175;0;1167;1175;1167;1175;0;0;0;65540;Ultra Compressed
 
 File:HelveticaRoundedLTStd-BlkO.otf
 2;1
-Helvetica Rounded LT Std;HelveticaRounded LT S
+Helvetica Rounded LT Std;HelveticaRounded LT
 -1;HelveticaRoundedLTStd-BlkO;1;10;5;2;65535;1000;277;277;0;1260;1277;1260;1277;0;0;0;65540;Black Oblique
 
 File:HelveticaLTStd-Fraction.otf
 2;1
-Helvetica LT Std;Helvetica LT Std Fra
+Helvetica LT Std;Helvetica LT Std F
 -1;HelveticaLTStd-Fraction;0;5;5;2;65535;877;123;150;0;1389;1000;1389;1000;0;0;0;65540;Fractions
 
 File:HelveticaLTStd-CondObl.otf
 2;1
-Helvetica LT Std;Helvetica LT St
+Helvetica LT Std;Helvetica LT 
 -1;HelveticaLTStd-CondObl;1;5;3;2;65535;990;288;278;0;1293;1278;1293;1278;0;0;0;65540;Condensed Oblique
 
 File:HelveticaLTStd-LightObl.otf
 2;1
-Helvetica LT Std;Helvetica LT Std
+Helvetica LT Std;Helvetica LT S
 -1;HelveticaLTStd-LightObl;1;3;5;2;65535;979;273;252;0;1277;1252;1277;1252;0;0;0;65540;Light Oblique
 
 File:HelveticaLTStd-BoldCondObl.otf
 2;1
-Helvetica LT Std;Helvetica LT St
+Helvetica LT Std;Helvetica LT 
 -1;HelveticaLTStd-BoldCondObl;1;8;3;2;65535;991;288;279;0;1311;1279;1311;1279;0;0;0;65540;Bold Condensed Oblique
 
 File:HelveticaLTStd-BoldCond.otf
 2;1
-Helvetica LT Std;Helvetica LT St
+Helvetica LT Std;Helvetica LT 
 -1;HelveticaLTStd-BoldCond;0;8;3;2;65535;991;250;241;0;1260;1241;1260;1241;0;0;0;65540;Bold Condensed
 
 File:HelveticaInseratLTStd-Roman.otf
@@ -1715,257 +1790,257 @@ Helvetica World
 FontCacheDirectory:1289694033:/home/sio/.fonts/Helvetica Fonts/Neue Helvetica
 File:HelveticaNeueLTCom-ThEx.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 3
+Helvetica Neue LT Com;HelveticaNeueLT Com
 -1;HelveticaNeueLTCom-ThEx;0;3;7;2;65535;950;220;170;0;1327;1170;1327;1170;0;0;0;4;33 Thin Extended
 
 File:HelveticaNeueLTCom-XBlkCn.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 107 
+Helvetica Neue LT Com;HelveticaNeueLT Com 10
 -1;HelveticaNeueLTCom-XBlkCn;0;10;3;2;65535;989;240;229;0;1284;1229;1284;1229;0;0;0;4;107 Extra Black Condensed
 
 File:HelveticaNeueLTCom-LtIt.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com
+Helvetica Neue LT Com;HelveticaNeueLT C
 -1;HelveticaNeueLTCom-LtIt;2;3;5;2;65535;951;214;165;0;1264;1165;1264;1165;0;0;0;4;46 Light Italic
 
 File:HelveticaNeueLTCom-UltLtIt.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 25
+Helvetica Neue LT Com;HelveticaNeueLT Com 
 -1;HelveticaNeueLTCom-UltLtIt;2;3;5;2;65535;924;214;138;0;1238;1138;1238;1138;0;0;0;4;26 Ultra Light Italic
 
 File:HelveticaNeueLTCom-BdCnO.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com
+Helvetica Neue LT Com;HelveticaNeueLT C
 -1;HelveticaNeueLTCom-BdCnO;1;8;5;2;65535;961;271;232;0;1284;1232;1284;1232;0;0;0;4;77 Bold Condensed Oblique
 
 File:HelveticaNeueLTCom-BdExO.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com
+Helvetica Neue LT Com;HelveticaNeueLT C
 -1;HelveticaNeueLTCom-BdExO;1;8;7;2;65535;984;220;204;0;1448;1204;1448;1204;0;0;0;4;73 Bold Extended Oblique
 
 File:HelveticaNeueLTCom-MdCn.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 6
+Helvetica Neue LT Com;HelveticaNeueLT Com
 -1;HelveticaNeueLTCom-MdCn;0;6;5;2;65535;951;216;167;0;1195;1167;1195;1167;0;0;0;4;67 Medium Condensed
 
 File:HelveticaNeueLTCom-MdEx.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 6
+Helvetica Neue LT Com;HelveticaNeueLT Com
 -1;HelveticaNeueLTCom-MdEx;0;6;5;2;65535;978;220;198;0;1331;1198;1331;1198;0;0;0;4;63 Medium Extended
 
 File:HelveticaNeueLTCom-MdCnO.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 6
+Helvetica Neue LT Com;HelveticaNeueLT Com
 -1;HelveticaNeueLTCom-MdCnO;1;6;5;2;65535;951;216;167;0;1247;1167;1247;1167;0;0;0;4;67 Medium Condensed Oblique
 
 File:HelveticaNeueLTCom-MdExO.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 6
+Helvetica Neue LT Com;HelveticaNeueLT Com
 -1;HelveticaNeueLTCom-MdExO;1;6;5;2;65535;978;220;198;0;1477;1198;1477;1198;0;0;0;4;63 Medium Extended Oblique
 
 File:HelveticaNeueLTCom-Md.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com
+Helvetica Neue LT Com;HelveticaNeueLT C
 -1;HelveticaNeueLTCom-Md;0;6;5;2;65535;952;221;173;0;1231;1173;1231;1173;0;0;0;4;65 Medium
 
 File:HelveticaNeueLTCom-XBlkCnO.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 107 
+Helvetica Neue LT Com;HelveticaNeueLT Com 10
 -1;HelveticaNeueLTCom-XBlkCnO;1;10;3;2;65535;989;240;229;0;1337;1229;1337;1229;0;0;0;4;107 Extra Black Condensed Oblique
 
 File:HelveticaNeueLTCom-HvCn.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 6
+Helvetica Neue LT Com;HelveticaNeueLT Com
 -1;HelveticaNeueLTCom-HvCn;0;9;5;2;65535;975;230;205;0;1266;1205;1266;1205;0;0;0;4;87 Heavy Condensed
 
 File:HelveticaNeueLTCom-BlkIt.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 
+Helvetica Neue LT Com;HelveticaNeueLT Co
 -1;HelveticaNeueLTCom-BlkIt;2;10;5;2;65535;970;220;190;0;1321;1190;1321;1190;0;0;0;4;96 Black Italic
 
 File:HelveticaNeueLTCom-HvEx.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 6
+Helvetica Neue LT Com;HelveticaNeueLT Com
 -1;HelveticaNeueLTCom-HvEx;0;9;7;2;65535;978;220;198;0;1497;1198;1497;1198;0;0;0;4;83 Heavy Extended
 
 File:HelveticaNeueLTCom-ExO.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com
+Helvetica Neue LT Com;HelveticaNeueLT C
 -1;HelveticaNeueLTCom-ExO;1;5;7;2;65535;984;220;204;0;1424;1204;1424;1204;0;0;0;4;53 Extended Oblique
 
 File:HelveticaNeueLTCom-LtCn.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 4
+Helvetica Neue LT Com;HelveticaNeueLT Com
 -1;HelveticaNeueLTCom-LtCn;0;3;5;2;65535;927;204;131;0;1167;1131;1167;1131;0;0;0;4;47 Light Condensed
 
 File:HelveticaNeueLTCom-LtEx.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 4
+Helvetica Neue LT Com;HelveticaNeueLT Com
 -1;HelveticaNeueLTCom-LtEx;0;3;7;2;65535;953;220;173;0;1318;1173;1318;1173;0;0;0;4;43 Light Extended
 
 File:HelveticaNeueLTCom-BdIt.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 55
+Helvetica Neue LT Com;HelveticaNeueLT Com 
 -1;HelveticaNeueLTCom-BdIt;2;8;5;2;65535;975;218;193;0;1295;1193;1295;1193;0;0;0;4;76 Bold Italic
 
 File:HelveticaNeueLTCom-UltLtCn.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 27 U
+Helvetica Neue LT Com;HelveticaNeueLT Com 27
 -1;HelveticaNeueLTCom-UltLtCn;0;3;3;2;65535;899;184;83;0;1166;1083;1166;1083;0;0;0;4;27 Ultra Light Condensed
 
 File:HelveticaNeueLTCom-UltLtEx.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 23 U
+Helvetica Neue LT Com;HelveticaNeueLT Com 23
 -1;HelveticaNeueLTCom-UltLtEx;0;3;7;2;65535;937;220;157;0;1327;1157;1327;1157;0;0;0;4;23 Ultra Light Extended
 
 File:HelveticaNeueLTCom-Blk.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 
+Helvetica Neue LT Com;HelveticaNeueLT Co
 -1;HelveticaNeueLTCom-Blk;0;10;5;2;65535;953;232;185;0;1266;1185;1266;1185;0;0;0;4;95 Black
 
 File:HelveticaNeueLTCom-ThExO.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 3
+Helvetica Neue LT Com;HelveticaNeueLT Com
 -1;HelveticaNeueLTCom-ThExO;1;3;7;2;65535;950;220;170;0;1462;1170;1462;1170;0;0;0;4;33 Thin Extended Oblique
 
 File:HelveticaNeueLTCom-BlkCn.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 97
+Helvetica Neue LT Com;HelveticaNeueLT Com 
 -1;HelveticaNeueLTCom-BlkCn;0;10;5;2;65535;972;230;202;0;1264;1202;1264;1202;0;0;0;4;97 Black Condensed
 
 File:HelveticaNeueLTCom-BlkEx.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 93
+Helvetica Neue LT Com;HelveticaNeueLT Com 
 -1;HelveticaNeueLTCom-BlkEx;0;10;7;2;65535;1011;235;246;0;1650;1246;1650;1246;0;0;0;4;93 Black Extended
 
 File:HelveticaNeueLTCom-BdCn.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com
+Helvetica Neue LT Com;HelveticaNeueLT C
 -1;HelveticaNeueLTCom-BdCn;0;8;5;2;65535;961;224;185;0;1230;1185;1230;1185;0;0;0;4;77 Bold Condensed
 
 File:HelveticaNeueLTCom-BdEx.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com
+Helvetica Neue LT Com;HelveticaNeueLT C
 -1;HelveticaNeueLTCom-BdEx;0;8;7;2;65535;984;220;204;0;1308;1204;1308;1204;0;0;0;4;73 Bold Extended
 
 File:HelveticaNeueLTCom-It.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 55
+Helvetica Neue LT Com;HelveticaNeueLT Com 
 -1;HelveticaNeueLTCom-It;2;5;5;2;65535;957;214;171;0;1272;1171;1272;1171;0;0;0;4;56 Italic
 
 File:HelveticaNeueLTCom-BdOu.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 7
+Helvetica Neue LT Com;HelveticaNeueLT Com
 -1;HelveticaNeueLTCom-BdOu;0;8;5;2;65535;987;229;216;0;1247;1216;1247;1216;0;0;0;4;75 Bold Outline
 
 File:HelveticaNeueLTCom-Th.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com
+Helvetica Neue LT Com;HelveticaNeueLT C
 -1;HelveticaNeueLTCom-Th;0;3;5;2;65535;927;214;141;0;1210;1141;1210;1141;0;0;0;4;35 Thin
 
 File:HelveticaNeueLTCom-BlkCnO.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 97
+Helvetica Neue LT Com;HelveticaNeueLT Com 
 -1;HelveticaNeueLTCom-BlkCnO;1;10;5;2;65535;972;270;242;0;1317;1242;1317;1242;0;0;0;4;97 Black Condensed Oblique
 
 File:HelveticaNeueLTCom-ThIt.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com
+Helvetica Neue LT Com;HelveticaNeueLT C
 -1;HelveticaNeueLTCom-ThIt;2;3;5;2;65535;927;214;141;0;1244;1141;1244;1141;0;0;0;4;36 Thin Italic
 
 File:HelveticaNeueLTCom-LtCnO.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 4
+Helvetica Neue LT Com;HelveticaNeueLT Com
 -1;HelveticaNeueLTCom-LtCnO;1;3;5;2;65535;927;272;199;0;1237;1199;1237;1199;0;0;0;4;47 Light Condensed Oblique
 
 File:HelveticaNeueLTCom-BlkExO.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 93
+Helvetica Neue LT Com;HelveticaNeueLT Com 
 -1;HelveticaNeueLTCom-BlkExO;1;10;7;2;65535;1011;235;246;0;1672;1246;1672;1246;0;0;0;4;93 Black Extended Oblique
 
 File:HelveticaNeueLTCom-UltLt.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 25
+Helvetica Neue LT Com;HelveticaNeueLT Com 
 -1;HelveticaNeueLTCom-UltLt;0;3;5;2;65535;931;214;145;0;1182;1145;1182;1145;0;0;0;4;25 Ultra Light
 
 File:HelveticaNeueLTCom-LtExO.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 4
+Helvetica Neue LT Com;HelveticaNeueLT Com
 -1;HelveticaNeueLTCom-LtExO;1;3;7;2;65535;953;220;173;0;1445;1173;1445;1173;0;0;0;4;43 Light Extended Oblique
 
 File:HelveticaNeueLTCom-UltLtCnO.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 27 U
+Helvetica Neue LT Com;HelveticaNeueLT Com 27
 -1;HelveticaNeueLTCom-UltLtCnO;1;3;3;2;65535;899;273;172;0;1230;1172;1230;1172;0;0;0;4;27 Ultra Light Condensed Oblique
 
 File:HelveticaNeueLTCom-UltLtExO.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 23 U
+Helvetica Neue LT Com;HelveticaNeueLT Com 23
 -1;HelveticaNeueLTCom-UltLtExO;1;3;7;2;65535;937;220;157;0;1476;1157;1476;1157;0;0;0;4;23 Ultra Light Extended Oblique
 
 File:HelveticaNeueLTCom-CnO.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com
+Helvetica Neue LT Com;HelveticaNeueLT C
 -1;HelveticaNeueLTCom-CnO;1;5;5;2;65535;932;272;204;0;1236;1204;1236;1204;0;0;0;4;57 Condensed Oblique
 
 File:HelveticaNeueLTCom-Hv.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com
+Helvetica Neue LT Com;HelveticaNeueLT C
 -1;HelveticaNeueLTCom-Hv;0;9;5;2;65535;951;234;185;0;1265;1185;1265;1185;0;0;0;4;85 Heavy
 
 File:HelveticaNeueLTCom-Cn.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com
+Helvetica Neue LT Com;HelveticaNeueLT C
 -1;HelveticaNeueLTCom-Cn;0;5;5;2;65535;932;212;144;0;1164;1144;1164;1144;0;0;0;4;57 Condensed
 
 File:HelveticaNeueLTCom-Ex.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com
+Helvetica Neue LT Com;HelveticaNeueLT C
 -1;HelveticaNeueLTCom-Ex;0;5;7;2;65535;984;220;204;0;1317;1204;1317;1204;0;0;0;4;53 Extended
 
 File:HelveticaNeueLTCom-Roman.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 55
+Helvetica Neue LT Com;HelveticaNeueLT Com 
 -1;HelveticaNeueLTCom-Roman;0;5;5;2;65535;952;214;166;0;1242;1166;1242;1166;0;0;0;4;55 Roman
 
 File:HelveticaNeueLTCom-MdIt.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com
+Helvetica Neue LT Com;HelveticaNeueLT C
 -1;HelveticaNeueLTCom-MdIt;2;6;5;2;65535;947;218;165;0;1290;1165;1290;1165;0;0;0;4;66 Medium Italic
 
 File:HelveticaNeueLTCom-ThCnO.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 3
+Helvetica Neue LT Com;HelveticaNeueLT Com
 -1;HelveticaNeueLTCom-ThCnO;1;3;3;2;65535;899;273;172;0;1229;1172;1229;1172;0;0;0;4;37 Thin Condensed Oblique
 
 File:HelveticaNeueLTCom-Lt.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com
+Helvetica Neue LT Com;HelveticaNeueLT C
 -1;HelveticaNeueLTCom-Lt;0;3;5;2;65535;967;214;181;0;1216;1181;1216;1181;0;0;0;4;45 Light
 
 File:HelveticaNeueLTCom-Bd.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 55
+Helvetica Neue LT Com;HelveticaNeueLT Com 
 -1;HelveticaNeueLTCom-Bd;0;8;5;2;65535;975;218;193;0;1244;1193;1244;1193;0;0;0;4;75 Bold
 
 File:HelveticaNeueLTCom-HvCnO.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 6
+Helvetica Neue LT Com;HelveticaNeueLT Com
 -1;HelveticaNeueLTCom-HvCnO;1;9;5;2;65535;975;270;245;0;1322;1245;1322;1245;0;0;0;4;87 Heavy Condensed Oblique
 
 File:HelveticaNeueLTCom-HvExO.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 6
+Helvetica Neue LT Com;HelveticaNeueLT Com
 -1;HelveticaNeueLTCom-HvExO;1;9;7;2;65535;978;220;198;0;1536;1198;1536;1198;0;0;0;4;83 Heavy Extended Oblique
 
 File:HelveticaNeueLTCom-HvIt.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com
+Helvetica Neue LT Com;HelveticaNeueLT C
 -1;HelveticaNeueLTCom-HvIt;2;9;5;2;65535;952;228;180;0;1304;1180;1304;1180;0;0;0;4;86 Heavy Italic
 
 File:HelveticaNeueLTCom-ThCn.ttf
 2;1
-Helvetica Neue LT Com;HelveticaNeueLT Com 3
+Helvetica Neue LT Com;HelveticaNeueLT Com
 -1;HelveticaNeueLTCom-ThCn;0;3;3;2;65535;899;273;172;0;1163;1172;1163;1172;0;0;0;4;37 Thin Condensed
 
 FontCacheDirectory:1292595470:/usr/share/fonts/truetype/ttf-bitstream-vera
@@ -2042,12 +2117,12 @@ Ume Gothic C5
 
 File:ume-tmo3.ttf
 2;1
-Ume Mincho;梅明朝
+Ume Mincho;梅明�
 -1;Ume-Mincho;0;5;5;2;65535;859;140;-1;1;1034;999;1034;999;0;0;0;8;Regular
 
 File:ume-ugo5.ttf
 2;1
-Ume UI Gothic O5;梅UIゴシックO5
+Ume UI Gothic O5;梅UIゴシック
 -1;Ume-UI-Gothic-O5;0;5;5;2;65535;859;140;-1;1;1073;999;1073;999;0;0;0;8;Medium
 
 File:ume-pms3.ttf
@@ -2072,17 +2147,17 @@ Ume Gothic C4
 
 File:ume-tgo5.ttf
 2;1
-Ume Gothic O5;梅ゴシックO5
+Ume Gothic O5;梅ゴシック
 -1;Ume-Gothic-O5;0;5;5;2;65535;859;140;-1;1;1073;999;1073;999;0;0;0;8;Medium
 
 File:ume-pgo5.ttf
 2;1
-Ume P Gothic O5;梅PゴシックO5
+Ume P Gothic O5;梅Pゴシック
 -1;Ume-P-Gothic-O5;0;5;5;2;65535;859;140;-1;1;1073;999;1073;999;0;0;0;8;Medium
 
 File:ume-ugo4.ttf
 2;1
-Ume UI Gothic;梅UIゴシック
+Ume UI Gothic;梅UIゴシッ�
 -1;Ume-UI-Gothic;0;5;5;2;65535;859;140;-1;1;1066;999;1066;999;0;0;0;8;Regular
 
 File:ume-tms3.ttf
@@ -2097,16 +2172,16 @@ Ume P Gothic C5
 
 File:ume-pmo3.ttf
 2;1
-Ume P Mincho;梅P明朝
+Ume P Mincho;梅P明�
 -1;Ume-P-Mincho;0;5;5;2;65535;859;140;-1;1;1034;999;1034;999;0;0;0;8;Regular
 
 File:ume-tgo4.ttf
 2;1
-Ume Gothic;梅ゴシック
+Ume Gothic;梅ゴシッ�
 -1;Ume-Gothic;0;5;5;2;65535;859;140;-1;1;1066;999;1066;999;0;0;0;8;Regular
 
 File:ume-pgo4.ttf
 2;1
-Ume P Gothic;梅Pゴシック
+Ume P Gothic;梅Pゴシッ�
 -1;Ume-P-Gothic;0;5;5;2;65535;859;140;-1;1;1066;999;1066;999;0;0;0;8;Regular
 

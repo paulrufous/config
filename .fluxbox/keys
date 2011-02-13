@@ -133,4 +133,4 @@ Control Mod1 Return :ArrangeWindows
 Shift Mouse4 :Exec transset-df --inc .1 -p -m .15
 Shift Mouse5 :Exec transset-df --dec .1 -p -m .15
 
-Mod1 Escape :ToggleCmd {ExecCommand synclient TouchpadOff=0} {ExecCommand synclient TouchpadOff=1}
+Mod4 F4 :ToggleCmd {ExecCommand synclient TouchpadOff=0} {ExecCommand synclient TouchpadOff=1}

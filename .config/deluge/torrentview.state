@@ -73,7 +73,8 @@ ListViewColumnState
 p19
 (dp20
 g4
-Nsg5
+I5
+sg5
 S'Name'
 p21
 sg7
@@ -89,8 +90,7 @@ ListViewColumnState
 p22
 (dp23
 g4
-I6
-sg5
+Nsg5
 S'Size'
 p24
 sg7
@@ -190,7 +190,7 @@ Nsg5
 S'ETA'
 p42
 sg7
-I224
+I239
 sg8
 I01
 sg9

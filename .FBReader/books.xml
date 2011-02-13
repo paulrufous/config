@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config>
+  <group name="/home/sio/Stephen King - Cujo.html">
+    <option name="BreakType" value="6"/>
+    <option name="Initialized" value="true"/>
+  </group>
   <group name="/home/sio/documents/books/Fiction/Heinlein - The Door into Summer.zip:Heinlein - The Door into Summer/Heinlein, Robert A. - The Door into Summer.txt">
     <option name="BreakType" value="6"/>
     <option name="CreateContentsTable" value="true"/>
     <option name="EmptyLinesBeforeNewSection" value="4"/>
     <option name="IgnoredIndent" value="2"/>
+    <option name="Initialized" value="true"/>
+  </group>
+  <group name="/home/sio/documents/books/Fiction/King - IT [proper].htm">
+    <option name="BreakType" value="6"/>
+    <option name="IgnoredIndent" value="4"/>
+    <option name="Initialized" value="true"/>
+  </group>
+  <group name="/home/sio/tmp/trash/it/It/Stephen King - IT.htm">
+    <option name="BreakType" value="6"/>
+    <option name="IgnoredIndent" value="4"/>
     <option name="Initialized" value="true"/>
   </group>
 </config>
