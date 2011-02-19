@@ -1,3 +1,0 @@
-[ERROR   ] 18:23:38 main:216 There is a deluge daemon running with this config directory!
-[ERROR   ] 18:23:38 main:217 You cannot run multiple daemons with the same config directory set.
-[ERROR   ] 18:23:38 main:218 If you believe this is an error, you can force a start by deleting /home/sio/.config/deluge/deluged.pid.

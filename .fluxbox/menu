@@ -101,6 +101,7 @@
 [end]
 [submenu] (System/)
     [exec] (Alsamixer) {urxvt -name alsamixer -T "ALSA Mixer" -e alsamixer}
+    [exec] (Bluetooth) {blueman-manager; killall blueman-applet}
     [exec] (ControlCenter) {gnome-control-center}
     [exec] (GParted) {gksudo gparted}
     [exec] (Gtk Theme) {lxappearance && killall lxappearance}
@@ -113,6 +114,8 @@
 [separator]
 [submenu] (Fluxbox/)
     [config] (Config/)
+    [workspaces] (Workspaces/)
+    [separator]
     [reconfig]
     [restart] (Restart Flux)
 [end]

@@ -7,7 +7,7 @@
     <option name="Height" value="1"/>
     <option name="Offset" value="0"/>
     <option name="TouchSensitive" value="false"/>
-    <option name="Type" value="1"/>
+    <option name="Type" value="2"/>
   </group>
   <group name="OpenFileDialog">
     <option name="Directory" value="/home/sio/torrents/King, Stephen"/>

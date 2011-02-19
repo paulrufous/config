@@ -16,9 +16,9 @@ title = %A - %T
 [library]
 lib_view = 1
 lib_genre = !NONE!
-lib_path = /
+lib_path = !NONE!
 lib_year = !NONE!
-lib_artist = !NONE!
+lib_artist = Linkin Park
 lib_album = !NONE!
 
 [player]
@@ -30,7 +30,7 @@ playback = True
 covers = False
 sticky = False
 xfade_enabled = False
-info_song_more = False
+info_song_more = True
 search_num = 5
 progressbar = True
 ontop = False

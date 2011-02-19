@@ -4,41 +4,22 @@ Xft.hintstyle: hintfull
 Xft.rgba: rgb 
 Xft.dpi: 96.0
 
-!!URxvt*background: black
-!!URxvt*foreground: grey
 URxvt*transparent: true
-!URxvt*backgroundPixmap: ~/pictures/pixel.png
 URxvt*backgroundPixmap: /home/sio/.fluxbox/styles/BlueNight-tile.png-urxvt;0x0
 URxvt*shading: 170
 URxvt*tintColor: black
-!!URxvt*color4: #0000FF
-!!URxvt*color2: #008200
-!!URxvt*color10: #0C9400
-!!URxvt*color12: #0000FF
-!!URxvt*color6: #00DBDB
-!URxvt.colorBD: #CC5533
-!URxvt.colorUL: #88AA22
 URxvt.underlineColor: #d1d1d1
-!URxvt*font: xft:Terminus-12:autohint=true:antialias=true
 URxvt*scrollBar: False
 URxvt*saveLines: 5000
 URxvt.perl-ext-common: default,matcher
 ! ,digital-clock,readline,searchable-scrollback,selection,tabbed
-!URxvt.tabbed.tabbar-fg: 2
-!URxvt.tabbed.tabbar-bg: 0
-!URxvt.tabbed.tab-fg: 11
-!URxvt.tabbed.tab-bg: 0
 URxvt.urlLauncher: firefox
 URxvt.matcher.button: 2
-
-!from rurik
 URxvt*background: #333333
 URxvt*cursorColor: #e5e5e5
 URxvt*foreground: #e5e5e5
 URxvt*font: xft:DejaVu Sans Mono-9:antialias=True
 URxvt*geometry:90x25
-!:antialias=True:autohint=true
-!!URxvt*scrollBar: true
 URxvt*faceLines: 5000
 URxvt*color0:  #000000
 URxvt*color1:  #aa0000
@@ -77,8 +58,8 @@ URxvt*color15: #ffffff
 XTerm*background: #333333
 !XTerm*cursorColor: #e5e5e5
 XTerm*foreground: #e5e5e5
-XTerm*font: -*-terminus-medium-r-normal-*-14-*-*-*-*-*-iso10646-1
-XTerm*scrollBar: true
+XTerm*scrollBar: false
+XTerm*faceName: xft:DejaVu Sans Mono-9:antialias=True
 XTerm*faceLines: 5000
 XTerm*color0:  #000000
 XTerm*color1:  #aa0000

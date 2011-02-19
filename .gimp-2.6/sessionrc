@@ -59,7 +59,7 @@
     (position 684 0))
 (session-info "toplevel" "gimp-file-save-dialog"
     (position 87 58)
-    (size 883 740))
+    (size 720 698))
 (session-info "toplevel" "gimp-shear-tool-dialog"
     (position 470 356))
 (session-info "toplevel" "gimp-color-balance-tool-dialog"
@@ -70,6 +70,6 @@
     (position 0 0)
     (size 1072 799))
 
-(last-tip-shown 69)
+(last-tip-shown 72)
 
 # end of sessionrc

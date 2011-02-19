@@ -1,5 +1,368 @@
-03:48:27 PM Starting EasyTAG 2.1.6 (PId: 5330) ...
-03:48:27 PM Currently using libid3tag version 0.15.1 (beta) ...
-03:48:27 PM Currently using id3lib version 3.8.3 ...
-03:48:27 PM Currently using locale 'en_US.UTF-8' (and eventually 'ISO-8859-1')...
-03:48:42 PM EasyTAG: Normal exit.
+03:39:33 PM Starting EasyTAG 2.1.6 (PId: 7581) ...
+03:39:33 PM Currently using libid3tag version 0.15.1 (beta) ...
+03:39:33 PM Currently using id3lib version 3.8.3 ...
+03:39:33 PM Currently using locale 'en_US.UTF-8' (and eventually 'ISO-8859-1')...
+03:39:49 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (01) Pilot/06 - Lions - Machine.mp3'.
+03:39:49 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (01) Pilot/05 - Loins - No Generation.mp3'.
+03:39:49 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (01) Pilot/08 - Sun Kil Moon - Like the River.mp3'.
+03:39:49 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (01) Pilot/04 - Maylene & The Son Of Disaster - Plenty Strong & Plenty wrong.mp3'.
+03:39:49 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (01) Pilot/01 - The Black Keys - Hard Row.mp3'.
+03:39:49 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (01) Pilot/09 - Gia Ciambottie - Bobilicious.mp3'.
+03:39:49 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (01) Pilot/03 - The Album Leaf - Writings On The Wall.mp3'.
+03:39:49 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (01) Pilot/02 - Year Long Disaster - The Fool And You.mp3'.
+03:39:49 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (01) Pilot/10 - Campanas de America - Tus Ojitos.mp3'.
+03:39:51 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (05) Giving Back/01 - Fu Manchu - Hey.mp3'.
+03:39:51 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (05) Giving Back/06 - Michael Sackler-Berner -  Keep It Easy.mp3'.
+03:39:52 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (05) Giving Back/05 - Jin - Yum Dom Cha.mp3'.
+03:39:52 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (05) Giving Back/04 - Jesse Dayton - Tall Walkin' Texas Trash.mp3'.
+03:39:52 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (05) Giving Back/07 - The Donkeys - Excelsior Lady.mp3'.
+03:39:52 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (05) Giving Back/02 - Danielia Cotton - Make U Move.mp3'.
+03:39:52 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - INFO/Pedestrian - Sons of Anarchy Theme.mp3'.
+03:39:52 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (07) Old Bones/01 Fu Manchu - Eatin' Dust.mp3'.
+03:39:52 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (07) Old Bones/06 - Black Keys - Keep Me.mp3'.
+03:39:52 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (07) Old Bones/02 - Cobra Verde - Riot in the Foodcourt.mp3'.
+03:39:52 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (07) Old Bones/05 - Clutch - You Cant Stop Progress.mp3'.
+03:39:52 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (07) Old Bones/05 - Black Keys - Busted.mp3'.
+03:39:52 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (07) Old Bones/04 - Tara Holloway - This Time fer Sure.mp3'.
+03:39:52 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (13) The Revelator/01 - Stigers & The Forrest Rangers - John The Revelator.mp3'.
+03:39:52 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (13) The Revelator/05 - Tarbox Ramblers - Were You There.mp3'.
+03:39:52 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (13) The Revelator/04 - Black Mountain - Stay Free.mp3'.
+03:39:52 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (13) The Revelator/02 - Five Horse Johnson - Lightning When I Need.mp3'.
+03:39:52 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (12) The Sleep of Babies/03 Greenleaf-Stray Bullet Woman.mp3'.
+03:39:52 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (12) The Sleep of Babies/07 - Lions - White Angel.mp3'.
+03:39:52 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (12) The Sleep of Babies/01 - Audra Mae - Forever Young (music) Opening episode.mp3'.
+03:39:52 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (12) The Sleep of Babies/04 - Lions - No Generation.mp3'.
+03:39:52 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (12) The Sleep of Babies/08 - Audra Mae - Forever Young (Acapella) Closing Episode.mp3'.
+03:39:52 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (03) Fun Town/01 - Cycle of Pain - 5.mp3'.
+03:39:52 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (03) Fun Town/02 - Big Linda - Get it While You can.mp3'.
+03:39:52 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (03) Fun Town/03 - Daniella Cotton - Let It Ride.mp3'.
+03:39:52 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (09) Hell Followed/04 - Chicago Stone Lightning Band - My Love is a Good Look.mp3'.
+03:39:52 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (09) Hell Followed/01 - Michael Sackler-Berner - True Blue.mp3'.
+03:39:52 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (09) Hell Followed/03 - Bob Neuwirth - Biding Her Time.mp3'.
+03:39:52 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (09) Hell Followed/02 - Burning Brides - Plank of Fire.mp3'.
+03:39:52 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (11) Capybara/03 - Howlin' Rain - The Firing Of The Midnight Rain.mp3'.
+03:39:52 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (11) Capybara/01 - Murder by Death - Comin' Home.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (11) Capybara/02 - Sasquatch - Money Man.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (10) Better Half/03 - The Donkeys - Living On The Other Side.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (10) Better Half/02- Monster Magnet - Monolithic.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (08) The Pull/01 - Andy Williams - Can't Get Used to Losing You.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (08) The Pull/02 - Dropkick Murphys - Johnny I Hardly New Ya.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (04) Patch Over/01 - Austin Hanks - Alabama Clay.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (04) Patch Over/04 - Mojo Monkeys - eye of the sun.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (04) Patch Over/06 - Johnny Hickman - Lucky.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (04) Patch Over/07 - Mojo Monkeys - Mojo Man.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (04) Patch Over/05 - Mojo Monkeys - Hang.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (04) Patch Over/10 - Old Canes - Then Go On.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (04) Patch Over/08 - Clutch - Power Player.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (04) Patch Over/09 - Austin Hanks - Sucker Punch.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (04) Patch Over/03 - Lions - Evil Eye.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (04) Patch Over/02 - Lions - All Hail.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (06) AK-51/05 - Neon HorseCuckoo!.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (06) AK-51/01 - Bob Neuwirth - The First Time.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (06) AK-51/04 - Warlocks - Zombie Like Lovers.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (06) AK-51/06 - The Black Keys - Keep Me.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (06) AK-51/02 - Chtis Thompson - One Man Mission.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (06) AK-51/03 - Sharon Llittle - Follow That Sound.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (02) Seeds/03 - Big George Jackson -  If I Could Change.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (02) Seeds/05 - Katey Sagal - Son of a Preacher Man.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (02) Seeds/01 - Tarbox Ramblers - Already Gone.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (02) Seeds/02 - Lonnie Brooks - Don't Take Advantage of Me.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (02) Seeds/04 - Fu Manchu - Mongoose.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (01) Pilot/06 - Lions - Machine.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (01) Pilot/05 - Loins - No Generation.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (01) Pilot/08 - Sun Kil Moon - Like the River.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (01) Pilot/04 - Maylene & The Son Of Disaster - Plenty Strong & Plenty wrong.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (01) Pilot/01 - The Black Keys - Hard Row.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (01) Pilot/09 - Gia Ciambottie - Bobilicious.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (01) Pilot/03 - The Album Leaf - Writings On The Wall.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (01) Pilot/02 - Year Long Disaster - The Fool And You.mp3'.
+03:39:53 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (01) Pilot/10 - Campanas de America - Tus Ojitos.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e09 - Tarbox Ramblers - No Harm Blues.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s01e05 - Jesse Dayton - Tall Walkin' Texas Trash.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e10 - Bob Neuwirth - The Places I Can't Afford to Go.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s01e01 - Year Long Disaster - Fool And You.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s01e09 - Bob Neuwirth - Biding Her Time.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s01e04 - The Lions - Evil Eye.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s01e01 - The Lions - Machine.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e03 - Hillstomp - Cardiac Arrest in D.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e02 - The Upsidedown - If You Are Hell Girl.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s01e07 - Cobra Verde - Riot in the Food Court.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s01e05 - Michael Sackler-Berner - Keep It Easy.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e01 - Marlene and the Sons of the Disaster - Step Up (I'm on It).mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e08 - Cycle of Pain - Pungle.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e12 - Pearlene - Watch the Way.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e06 - Boo Boo Davis - I'm Comin' Home.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s01e10 - The Donkeys - Dolphin Center.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s01e09 - Burning Brides - Plank of Fire.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s01e04 - Johnny Hickman - Lucky.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e03 - Toadies - I Want Your Love.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e10 - All Points West - Novocaine.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e04 - The Obscurities - Stop Dragging Me Down.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e00 - - Fortunate Son.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e01 - The Hangmen - The Devil.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e13 - Paul Brady - Gimme Shelter.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e12 - Billy Valentine & the Forest Rangers - Someday Never Comes.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e04 - The Stone Foxes - Beneath Mt. Sinai.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s01e06 - Chris Thompson - One Man Mission.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s01e02 - Big George Jackson - If I Could Change.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s01e01 - The Lions - No Generation.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s01e12 - The Lions - White Angel.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s01e11 - Howlin' Rain - The Firing of the Midnight Rain.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e10 - The Brought Low - There's a Light.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e12 - Straylight Run - Hands in the Sky.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e04 - Pearlene - You Done Told Everybody.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e11 - Steve Conte & The Crazy Truth - Busload of Hope.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e11 - Chuck Prophet - Love Wont Keep us Apart.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s01e02 - Katey Sagal - Son of a Preacher Man.mp3'.
+03:40:15 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e13 - Pat James - City Lights.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s01e04 - Mojo Monkeys - Eye of the Sun.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e06 - Southern Bitch - Free Man Now.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s01e13 - Five Horse Johnson - Lightening When I Need.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s01e05 - Jin - Yum Dum Cha.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e05 - Pearlene - Two Crescents.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e07 - The Peak Show - Tell Me.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e08 - Sun Kil Moon - Salvador Sanchez.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e08 - Henry Clay People - Something in the Water.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s01e05 - The Donkeys - Excelsior Lady.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e13 - Bachi da Pietra - Casa di Legno.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e13 - Pat James - Let Me Live Long Enough.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s01e03 - Big Linda - Get It While You Can.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e13 - Tape Deck Mountain - Ghost Colony.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s01e07 - Tara Holloway - This Time fer Sure.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s01e04 - Mojo Monkeys - Mojo Man.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e02 - Katey Sagal - Ruby Tuesday.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e13 - Don Caballero - Railroad Cancellation.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s01e13 - Tarbox Ramblers - Were You There.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s01e01 - Gia Ciambotti - Bobilicious.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e11 - Deadstring Brothers - Can’t Make it Through the Night.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e03 - Gideon Smith & The Dixie Damned - Black Cat Road.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e00 - Citizen Cope - Son's Gonna Rise.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s01e04 - Mojo Monkeys - Hang.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e03 - The Death Riders - The Wrong Way Out.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e06 - Hillstomp - Nope.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e09 - Glasspack - Lot Lizard.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e07 - Madi Diaz - A Little Bit.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e08 - Amanda Blank - Make It, Take It.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e04 - Tara Halloway - The Bottom (Live From The Billy Block Show).mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e13 - Pat James - Just Fillin’ In.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s01e01 - Campanas De America - Tus Ojitos.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s01e04 - Austin Hanks - Alabama Clay.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e13 - MatLions - Burn this Town.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s01e04 - Austin Hanks - Sucker Punch.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s01e09 - Chicago Stone Lightning - My Love Is a Good Look.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s01e04 - The Lions - All Hail.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e11 - Two Gallants - Fly Low Carrion Crow.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s02e13 - Monster Magnet - Freeze and Pixilate.mp3'.
+03:40:16 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy Soundtrack - the missing files/s01e09 - Michael Sackler Berner - True Blue.mp3'.
+03:41:11 PM Selected files tagged with album 'Sons Of Anarchy (missing songs)'.
+03:41:23 PM Updated tag of 's01e01 - Campanas De America - Tus Ojitos.mp3'
+03:41:24 PM Updated tag of 's01e01 - Gia Ciambotti - Bobilicious.mp3'
+03:41:24 PM Updated tag of 's01e01 - The Lions - Machine.mp3'
+03:41:24 PM Updated tag of 's01e01 - The Lions - No Generation.mp3'
+03:41:24 PM Updated tag of 's01e01 - Year Long Disaster - Fool And You.mp3'
+03:41:24 PM Updated tag of 's01e02 - Big George Jackson - If I Could Change.mp3'
+03:41:24 PM Updated tag of 's01e02 - Katey Sagal - Son of a Preacher Man.mp3'
+03:41:25 PM Updated tag of 's01e03 - Big Linda - Get It While You Can.mp3'
+03:41:25 PM Updated tag of 's01e04 - Austin Hanks - Alabama Clay.mp3'
+03:41:25 PM Updated tag of 's01e04 - Austin Hanks - Sucker Punch.mp3'
+03:41:25 PM Updated tag of 's01e04 - Johnny Hickman - Lucky.mp3'
+03:41:26 PM Updated tag of 's01e04 - Mojo Monkeys - Eye of the Sun.mp3'
+03:41:26 PM Updated tag of 's01e04 - Mojo Monkeys - Hang.mp3'
+03:41:26 PM Updated tag of 's01e04 - Mojo Monkeys - Mojo Man.mp3'
+03:41:26 PM Updated tag of 's01e04 - The Lions - All Hail.mp3'
+03:41:27 PM Updated tag of 's01e04 - The Lions - Evil Eye.mp3'
+03:41:27 PM Updated tag of 's01e05 - Jesse Dayton - Tall Walkin' Texas Trash.mp3'
+03:41:27 PM Updated tag of 's01e05 - Jin - Yum Dum Cha.mp3'
+03:41:27 PM Updated tag of 's01e05 - Michael Sackler-Berner - Keep It Easy.mp3'
+03:41:27 PM Updated tag of 's01e05 - The Donkeys - Excelsior Lady.mp3'
+03:41:28 PM Updated tag of 's01e06 - Chris Thompson - One Man Mission.mp3'
+03:41:28 PM Updated tag of 's01e07 - Cobra Verde - Riot in the Food Court.mp3'
+03:41:28 PM Updated tag of 's01e07 - Tara Holloway - This Time fer Sure.mp3'
+03:41:28 PM Updated tag of 's01e09 - Bob Neuwirth - Biding Her Time.mp3'
+03:41:29 PM Updated tag of 's01e09 - Burning Brides - Plank of Fire.mp3'
+03:41:29 PM Updated tag of 's01e09 - Chicago Stone Lightning - My Love Is a Good Look.mp3'
+03:41:29 PM Updated tag of 's01e09 - Michael Sackler Berner - True Blue.mp3'
+03:41:29 PM Updated tag of 's01e10 - The Donkeys - Dolphin Center.mp3'
+03:41:30 PM Updated tag of 's01e11 - Howlin' Rain - The Firing of the Midnight Rain.mp3'
+03:41:30 PM Updated tag of 's01e12 - The Lions - White Angel.mp3'
+03:41:30 PM Updated tag of 's01e13 - Five Horse Johnson - Lightening When I Need.mp3'
+03:41:30 PM Updated tag of 's01e13 - Tarbox Ramblers - Were You There.mp3'
+03:41:30 PM Updated tag of 's02e00 - Citizen Cope - Son's Gonna Rise.mp3'
+03:41:31 PM Updated tag of 's02e00 - - Fortunate Son.mp3'
+03:41:31 PM Updated tag of 's02e01 - Marlene and the Sons of the Disaster - Step Up (I'm on It).mp3'
+03:41:31 PM Updated tag of 's02e01 - The Hangmen - The Devil.mp3'
+03:41:31 PM Updated tag of 's02e02 - Katey Sagal - Ruby Tuesday.mp3'
+03:41:31 PM Updated tag of 's02e02 - The Upsidedown - If You Are Hell Girl.mp3'
+03:41:31 PM Updated tag of 's02e03 - Gideon Smith & The Dixie Damned - Black Cat Road.mp3'
+03:41:31 PM Updated tag of 's02e03 - Hillstomp - Cardiac Arrest in D.mp3'
+03:41:32 PM Updated tag of 's02e03 - The Death Riders - The Wrong Way Out.mp3'
+03:41:32 PM Updated tag of 's02e03 - Toadies - I Want Your Love.mp3'
+03:41:32 PM Updated tag of 's02e04 - Pearlene - You Done Told Everybody.mp3'
+03:41:32 PM Updated tag of 's02e04 - Tara Halloway - The Bottom (Live From The Billy Block Show).mp3'
+03:41:32 PM Updated tag of 's02e04 - The Obscurities - Stop Dragging Me Down.mp3'
+03:41:32 PM Updated tag of 's02e04 - The Stone Foxes - Beneath Mt. Sinai.mp3'
+03:41:32 PM Updated tag of 's02e05 - Pearlene - Two Crescents.mp3'
+03:41:32 PM Updated tag of 's02e06 - Boo Boo Davis - I'm Comin' Home.mp3'
+03:41:33 PM Updated tag of 's02e06 - Hillstomp - Nope.mp3'
+03:41:33 PM Updated tag of 's02e06 - Southern Bitch - Free Man Now.mp3'
+03:41:33 PM Updated tag of 's02e07 - Madi Diaz - A Little Bit.mp3'
+03:41:33 PM Updated tag of 's02e07 - The Peak Show - Tell Me.mp3'
+03:41:33 PM Updated tag of 's02e08 - Amanda Blank - Make It, Take It.mp3'
+03:41:33 PM Updated tag of 's02e08 - Cycle of Pain - Pungle.mp3'
+03:41:33 PM Updated tag of 's02e08 - Henry Clay People - Something in the Water.mp3'
+03:41:34 PM Updated tag of 's02e08 - Sun Kil Moon - Salvador Sanchez.mp3'
+03:41:34 PM Updated tag of 's02e09 - Glasspack - Lot Lizard.mp3'
+03:41:34 PM Updated tag of 's02e09 - Tarbox Ramblers - No Harm Blues.mp3'
+03:41:34 PM Updated tag of 's02e10 - All Points West - Novocaine.mp3'
+03:41:34 PM Updated tag of 's02e10 - Bob Neuwirth - The Places I Can't Afford to Go.mp3'
+03:41:34 PM Updated tag of 's02e10 - The Brought Low - There's a Light.mp3'
+03:41:34 PM Updated tag of 's02e11 - Chuck Prophet - Love Wont Keep us Apart.mp3'
+03:41:34 PM Updated tag of 's02e11 - Deadstring Brothers - Can’t Make it Through the Night.mp3'
+03:41:35 PM Updated tag of 's02e11 - Steve Conte & The Crazy Truth - Busload of Hope.mp3'
+03:41:35 PM Updated tag of 's02e11 - Two Gallants - Fly Low Carrion Crow.mp3'
+03:41:35 PM Updated tag of 's02e12 - Billy Valentine & the Forest Rangers - Someday Never Comes.mp3'
+03:41:35 PM Updated tag of 's02e12 - Pearlene - Watch the Way.mp3'
+03:41:35 PM Updated tag of 's02e12 - Straylight Run - Hands in the Sky.mp3'
+03:41:35 PM Updated tag of 's02e13 - Bachi da Pietra - Casa di Legno.mp3'
+03:41:36 PM Updated tag of 's02e13 - Don Caballero - Railroad Cancellation.mp3'
+03:41:36 PM Updated tag of 's02e13 - MatLions - Burn this Town.mp3'
+03:41:36 PM Updated tag of 's02e13 - Monster Magnet - Freeze and Pixilate.mp3'
+03:41:36 PM Updated tag of 's02e13 - Pat James - City Lights.mp3'
+03:41:36 PM Updated tag of 's02e13 - Pat James - Just Fillin’ In.mp3'
+03:41:36 PM Updated tag of 's02e13 - Pat James - Let Me Live Long Enough.mp3'
+03:41:36 PM Updated tag of 's02e13 - Paul Brady - Gimme Shelter.mp3'
+03:41:36 PM Updated tag of 's02e13 - Tape Deck Mountain - Ghost Colony.mp3'
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (05) Giving Back/01 - Fu Manchu - Hey.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (05) Giving Back/06 - Michael Sackler-Berner -  Keep It Easy.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (05) Giving Back/05 - Jin - Yum Dom Cha.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (05) Giving Back/04 - Jesse Dayton - Tall Walkin' Texas Trash.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (05) Giving Back/07 - The Donkeys - Excelsior Lady.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (05) Giving Back/02 - Danielia Cotton - Make U Move.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - INFO/Pedestrian - Sons of Anarchy Theme.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (07) Old Bones/01 Fu Manchu - Eatin' Dust.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (07) Old Bones/06 - Black Keys - Keep Me.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (07) Old Bones/02 - Cobra Verde - Riot in the Foodcourt.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (07) Old Bones/05 - Clutch - You Cant Stop Progress.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (07) Old Bones/05 - Black Keys - Busted.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (07) Old Bones/04 - Tara Holloway - This Time fer Sure.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (13) The Revelator/01 - Stigers & The Forrest Rangers - John The Revelator.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (13) The Revelator/05 - Tarbox Ramblers - Were You There.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (13) The Revelator/04 - Black Mountain - Stay Free.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (13) The Revelator/02 - Five Horse Johnson - Lightning When I Need.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (12) The Sleep of Babies/03 Greenleaf-Stray Bullet Woman.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (12) The Sleep of Babies/07 - Lions - White Angel.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (12) The Sleep of Babies/01 - Audra Mae - Forever Young (music) Opening episode.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (12) The Sleep of Babies/04 - Lions - No Generation.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (12) The Sleep of Babies/08 - Audra Mae - Forever Young (Acapella) Closing Episode.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (03) Fun Town/01 - Cycle of Pain - 5.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (03) Fun Town/02 - Big Linda - Get it While You can.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (03) Fun Town/03 - Daniella Cotton - Let It Ride.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (09) Hell Followed/04 - Chicago Stone Lightning Band - My Love is a Good Look.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (09) Hell Followed/01 - Michael Sackler-Berner - True Blue.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (09) Hell Followed/03 - Bob Neuwirth - Biding Her Time.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (09) Hell Followed/02 - Burning Brides - Plank of Fire.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (11) Capybara/03 - Howlin' Rain - The Firing Of The Midnight Rain.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (11) Capybara/01 - Murder by Death - Comin' Home.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (11) Capybara/02 - Sasquatch - Money Man.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (10) Better Half/03 - The Donkeys - Living On The Other Side.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (10) Better Half/02- Monster Magnet - Monolithic.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (08) The Pull/01 - Andy Williams - Can't Get Used to Losing You.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (08) The Pull/02 - Dropkick Murphys - Johnny I Hardly New Ya.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (04) Patch Over/01 - Austin Hanks - Alabama Clay.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (04) Patch Over/04 - Mojo Monkeys - eye of the sun.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (04) Patch Over/06 - Johnny Hickman - Lucky.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (04) Patch Over/07 - Mojo Monkeys - Mojo Man.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (04) Patch Over/05 - Mojo Monkeys - Hang.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (04) Patch Over/10 - Old Canes - Then Go On.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (04) Patch Over/08 - Clutch - Power Player.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (04) Patch Over/09 - Austin Hanks - Sucker Punch.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (04) Patch Over/03 - Lions - Evil Eye.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (04) Patch Over/02 - Lions - All Hail.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (06) AK-51/05 - Neon HorseCuckoo!.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (06) AK-51/01 - Bob Neuwirth - The First Time.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (06) AK-51/04 - Warlocks - Zombie Like Lovers.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (06) AK-51/06 - The Black Keys - Keep Me.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (06) AK-51/02 - Chtis Thompson - One Man Mission.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (06) AK-51/03 - Sharon Llittle - Follow That Sound.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (02) Seeds/03 - Big George Jackson -  If I Could Change.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (02) Seeds/05 - Katey Sagal - Son of a Preacher Man.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (02) Seeds/01 - Tarbox Ramblers - Already Gone.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (02) Seeds/02 - Lonnie Brooks - Don't Take Advantage of Me.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (02) Seeds/04 - Fu Manchu - Mongoose.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (01) Pilot/06 - Lions - Machine.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (01) Pilot/05 - Loins - No Generation.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (01) Pilot/08 - Sun Kil Moon - Like the River.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (01) Pilot/04 - Maylene & The Son Of Disaster - Plenty Strong & Plenty wrong.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (01) Pilot/01 - The Black Keys - Hard Row.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (01) Pilot/09 - Gia Ciambottie - Bobilicious.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (01) Pilot/03 - The Album Leaf - Writings On The Wall.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (01) Pilot/02 - Year Long Disaster - The Fool And You.mp3'.
+03:41:40 PM Automatic corrections applied for file '/home/sio/videos/Movies/Sons of Anarchy/SoA - Soundtrack/Sons of Anarchy, Season 1 Soundtrack/Sons of Anarchy - (01) Pilot/10 - Campanas de America - Tus Ojitos.mp3'.
+03:41:45 PM Selected files tagged with album 'Sons Of Anarchy'.
+03:41:51 PM Updated tag of '01 - The Black Keys - Hard Row.mp3'
+03:41:52 PM Updated tag of '02 - Year Long Disaster - The Fool And You.mp3'
+03:41:52 PM Updated tag of '03 - The Album Leaf - Writings On The Wall.mp3'
+03:41:52 PM Updated tag of '04 - Maylene & The Son Of Disaster - Plenty Strong & Plenty wrong.mp3'
+03:41:52 PM Updated tag of '05 - Loins - No Generation.mp3'
+03:41:53 PM Updated tag of '06 - Lions - Machine.mp3'
+03:41:53 PM Updated tag of '08 - Sun Kil Moon - Like the River.mp3'
+03:41:53 PM Updated tag of '09 - Gia Ciambottie - Bobilicious.mp3'
+03:41:53 PM Updated tag of '10 - Campanas de America - Tus Ojitos.mp3'
+03:41:54 PM Updated tag of '01 - Tarbox Ramblers - Already Gone.mp3'
+03:41:54 PM Updated tag of '02 - Lonnie Brooks - Don't Take Advantage of Me.mp3'
+03:41:54 PM Updated tag of '03 - Big George Jackson -  If I Could Change.mp3'
+03:41:55 PM Updated tag of '04 - Fu Manchu - Mongoose.mp3'
+03:41:55 PM Updated tag of '05 - Katey Sagal - Son of a Preacher Man.mp3'
+03:41:55 PM Updated tag of '01 - Cycle of Pain - 5.mp3'
+03:41:55 PM Updated tag of '02 - Big Linda - Get it While You can.mp3'
+03:41:56 PM Updated tag of '03 - Daniella Cotton - Let It Ride.mp3'
+03:41:56 PM Updated tag of '01 - Austin Hanks - Alabama Clay.mp3'
+03:41:56 PM Updated tag of '02 - Lions - All Hail.mp3'
+03:41:56 PM Updated tag of '03 - Lions - Evil Eye.mp3'
+03:41:57 PM Updated tag of '04 - Mojo Monkeys - eye of the sun.mp3'
+03:41:57 PM Updated tag of '05 - Mojo Monkeys - Hang.mp3'
+03:41:57 PM Updated tag of '06 - Johnny Hickman - Lucky.mp3'
+03:41:57 PM Updated tag of '07 - Mojo Monkeys - Mojo Man.mp3'
+03:41:58 PM Updated tag of '08 - Clutch - Power Player.mp3'
+03:41:58 PM Updated tag of '09 - Austin Hanks - Sucker Punch.mp3'
+03:41:58 PM Updated tag of '10 - Old Canes - Then Go On.mp3'
+03:41:58 PM Updated tag of '01 - Fu Manchu - Hey.mp3'
+03:41:59 PM Updated tag of '02 - Danielia Cotton - Make U Move.mp3'
+03:41:59 PM Updated tag of '04 - Jesse Dayton - Tall Walkin' Texas Trash.mp3'
+03:41:59 PM Updated tag of '05 - Jin - Yum Dom Cha.mp3'
+03:41:59 PM Updated tag of '06 - Michael Sackler-Berner -  Keep It Easy.mp3'
+03:42:00 PM Updated tag of '07 - The Donkeys - Excelsior Lady.mp3'
+03:42:00 PM Updated tag of '01 - Bob Neuwirth - The First Time.mp3'
+03:42:00 PM Updated tag of '02 - Chtis Thompson - One Man Mission.mp3'
+03:42:00 PM Updated tag of '03 - Sharon Llittle - Follow That Sound.mp3'
+03:42:01 PM Updated tag of '04 - Warlocks - Zombie Like Lovers.mp3'
+03:42:01 PM Updated tag of '05 - Neon HorseCuckoo!.mp3'
+03:42:01 PM Updated tag of '06 - The Black Keys - Keep Me.mp3'
+03:42:01 PM Updated tag of '01 Fu Manchu - Eatin' Dust.mp3'
+03:42:02 PM Updated tag of '02 - Cobra Verde - Riot in the Foodcourt.mp3'
+03:42:02 PM Updated tag of '04 - Tara Holloway - This Time fer Sure.mp3'
+03:42:02 PM Updated tag of '05 - Black Keys - Busted.mp3'
+03:42:02 PM Updated tag of '05 - Clutch - You Cant Stop Progress.mp3'
+03:42:03 PM Updated tag of '06 - Black Keys - Keep Me.mp3'
+03:42:03 PM Updated tag of '01 - Andy Williams - Can't Get Used to Losing You.mp3'
+03:42:03 PM Updated tag of '02 - Dropkick Murphys - Johnny I Hardly New Ya.mp3'
+03:42:03 PM Updated tag of '01 - Michael Sackler-Berner - True Blue.mp3'
+03:42:04 PM Updated tag of '02 - Burning Brides - Plank of Fire.mp3'
+03:42:04 PM Updated tag of '03 - Bob Neuwirth - Biding Her Time.mp3'
+03:42:04 PM Updated tag of '04 - Chicago Stone Lightning Band - My Love is a Good Look.mp3'
+03:42:04 PM Updated tag of '02- Monster Magnet - Monolithic.mp3'
+03:42:05 PM Updated tag of '03 - The Donkeys - Living On The Other Side.mp3'
+03:42:05 PM Updated tag of '01 - Murder by Death - Comin' Home.mp3'
+03:42:05 PM Updated tag of '02 - Sasquatch - Money Man.mp3'
+03:42:05 PM Updated tag of '03 - Howlin' Rain - The Firing Of The Midnight Rain.mp3'
+03:42:06 PM Updated tag of '01 - Audra Mae - Forever Young (music) Opening episode.mp3'
+03:42:06 PM Updated tag of '03 Greenleaf-Stray Bullet Woman.mp3'
+03:42:06 PM Updated tag of '04 - Lions - No Generation.mp3'
+03:42:07 PM Updated tag of '07 - Lions - White Angel.mp3'
+03:42:07 PM Updated tag of '08 - Audra Mae - Forever Young (Acapella) Closing Episode.mp3'
+03:42:07 PM Updated tag of '01 - Stigers & The Forrest Rangers - John The Revelator.mp3'
+03:42:07 PM Updated tag of '02 - Five Horse Johnson - Lightning When I Need.mp3'
+03:42:08 PM Updated tag of '04 - Black Mountain - Stay Free.mp3'
+03:42:08 PM Updated tag of '05 - Tarbox Ramblers - Were You There.mp3'
+03:42:08 PM Updated tag of 'Pedestrian - Sons of Anarchy Theme.mp3'
+03:42:13 PM EasyTAG: Normal exit.

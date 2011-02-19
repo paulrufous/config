@@ -2,7 +2,7 @@
 <oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="Common" oor:package="org.openoffice.Office">
  <node oor:name="Internal">
   <prop oor:name="CurrentTempURL" oor:type="xs:string">
-   <value/>
+   <value>file:///tmp/svhgl.tmp</value>
   </prop>
  </node>
  <node oor:name="Misc">

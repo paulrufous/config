@@ -112,13 +112,13 @@
 [end]
 [app] (name=gajim) (class=Gajim.py) (role=pm)
   [Workspace]	{0}
-  [Dimensions]	{407 378}
-  [Position]	(UPPERLEFT)	{234 22}
+  [Dimensions]	{407 380}
+  [Position]	(UPPERLEFT)	{234 20}
 [end]
 [app] (name=gajim) (class=Gajim.py) (role=chat)
   [Workspace]	{0}
-  [Dimensions]	{407 378}
-  [Position]	(UPPERLEFT)	{0 22}
+  [Dimensions]	{407 380}
+  [Position]	(UPPERLEFT)	{0 20}
 [end]
 [app] (name=gajim.py) (class=Gajim.py) (role=messages)
   [Workspace]	{0}
