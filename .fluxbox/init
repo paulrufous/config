@@ -1,6 +1,7 @@
 session.screen0.clientMenu.usePixmap:	false
 session.screen0.toolbar.onhead:	0
-session.screen0.toolbar.tools:	iconbar, systemtray
+session.screen0.toolbar.tools:	iconbar
+!, systemtray
 session.screen0.toolbar.placement:	BottomCenter
 session.screen0.toolbar.height:	0
 session.screen0.toolbar.maxOver:	true

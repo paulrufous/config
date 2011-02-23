@@ -35,6 +35,7 @@ application/x-tar=file-roller.desktop;
 image/bmp=eog.desktop;gpicview.desktop;
 video/dv=smplayer.desktop;vlc.desktop;totem.desktop;Kino.desktop;
 video/mp4=smplayer.desktop;
+application/octet-stream=leafpad.desktop;
 
 [Removed Associations]
 application/xml=wine-extension-txt.desktop;wine-extension-ini.desktop;wine-extension-xml.desktop;

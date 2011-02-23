@@ -149,7 +149,7 @@
     <value xsi:nil="true"/>
    </prop>
    <prop oor:name="WindowState" oor:type="xs:string">
-    <value>412,275,,;1;,,,;</value>
+    <value>353,155,,;1;,,,;</value>
    </prop>
    <node oor:name="UserData">
     <prop oor:name="Data" oor:op="replace" oor:type="xs:string">

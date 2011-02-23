@@ -18,7 +18,7 @@ lib_view = 1
 lib_genre = !NONE!
 lib_path = !NONE!
 lib_year = !NONE!
-lib_artist = Linkin Park
+lib_artist = In Flames
 lib_album = !NONE!
 
 [player]

@@ -63,7 +63,7 @@ Mod1 F2 :Exec gmrun
 Mod4 r :Exec gmrun 
 #fbrun -font "-*-terminus-bold-r-normal-*-14-140-*-72-*-*-*-*" -bg black -fg gray -w 300
 
-Mod4 e :Exec nautilus
+Mod4 e :Exec nautilus computer:///
 
 
 # volume settings, using common keycodes

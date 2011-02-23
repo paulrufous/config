@@ -1,35 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="Recovery" oor:package="org.openoffice.Office">
  <node oor:name="RecoveryList">
-  <node oor:name="recovery_item_1" oor:op="replace">
-   <prop oor:name="DocumentState" oor:type="xs:int">
-    <value>0</value>
-   </prop>
-   <prop oor:name="Filter" oor:type="xs:string">
-    <value>MS Word 97</value>
-   </prop>
-   <prop oor:name="Module" oor:type="xs:string">
-    <value>com.sun.star.text.TextDocument</value>
-   </prop>
-   <prop oor:name="OriginalURL" oor:type="xs:string">
-    <value>file:///home/sio/documents/study/2010_%D0%93%D0%BE%D1%81%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D0%93%D0%9E%D0%A1%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%202010.doc</value>
-   </prop>
-   <prop oor:name="TempURL" oor:type="xs:string">
-    <value/>
-   </prop>
-   <prop oor:name="TemplateURL" oor:type="xs:string">
-    <value/>
-   </prop>
-   <prop oor:name="Title" oor:type="xs:string">
-    <value>Вопросы ГОСэкзамен 2010.doc</value>
-   </prop>
-  </node>
+  <node oor:name="recovery_item_1" oor:op="remove"/>
   <node oor:name="recovery_item_2" oor:op="remove"/>
   <node oor:name="recovery_item_3" oor:op="remove"/>
   <node oor:name="recovery_item_4" oor:op="remove"/>
   <node oor:name="recovery_item_5" oor:op="remove"/>
   <node oor:name="recovery_item_6" oor:op="remove"/>
   <node oor:name="recovery_item_7" oor:op="remove"/>
+  <node oor:name="recovery_item_8" oor:op="remove"/>
+  <node oor:name="recovery_item_9" oor:op="remove"/>
+  <node oor:name="recovery_item_10" oor:op="remove"/>
  </node>
  <node oor:name="AutoSave">
   <prop oor:name="TimeIntervall" oor:type="xs:int">
