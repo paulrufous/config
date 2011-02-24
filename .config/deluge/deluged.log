@@ -1,3 +1,22 @@
-[ERROR   ] 07:46:41 main:216 There is a deluge daemon running with this config directory!
-[ERROR   ] 07:46:41 main:217 You cannot run multiple daemons with the same config directory set.
-[ERROR   ] 07:46:41 main:218 If you believe this is an error, you can force a start by deleting /home/sio/.config/deluge/deluged.pid.
+[ERROR   ] 00:14:22 rpcserver:303 Exception calling RPC request: 'd81a832fb29a9998cc5cf30fb5013d953ca17ff1'
+Traceback (most recent call last):
+  File "/usr/lib/pymodules/python2.6/deluge/core/rpcserver.py", line 298, in dispatch
+    ret = self.factory.methods[method](*args, **kwargs)
+  File "/usr/lib/pymodules/python2.6/deluge/core/core.py", line 415, in get_torrents_status
+    status_dict[torrent_id] = self.get_torrent_status(torrent_id, keys, diff)
+  File "/usr/lib/pymodules/python2.6/deluge/core/core.py", line 397, in get_torrent_status
+    status = self.torrentmanager[torrent_id].get_status(keys, diff)
+  File "/usr/lib/pymodules/python2.6/deluge/core/torrentmanager.py", line 273, in __getitem__
+    return self.torrents[torrent_id]
+KeyError: 'd81a832fb29a9998cc5cf30fb5013d953ca17ff1'
+[ERROR   ] 00:14:35 rpcserver:303 Exception calling RPC request: '42ec43df55dcfef40bc8c5f5f227b6c804512ee4'
+Traceback (most recent call last):
+  File "/usr/lib/pymodules/python2.6/deluge/core/rpcserver.py", line 298, in dispatch
+    ret = self.factory.methods[method](*args, **kwargs)
+  File "/usr/lib/pymodules/python2.6/deluge/core/core.py", line 415, in get_torrents_status
+    status_dict[torrent_id] = self.get_torrent_status(torrent_id, keys, diff)
+  File "/usr/lib/pymodules/python2.6/deluge/core/core.py", line 397, in get_torrent_status
+    status = self.torrentmanager[torrent_id].get_status(keys, diff)
+  File "/usr/lib/pymodules/python2.6/deluge/core/torrentmanager.py", line 273, in __getitem__
+    return self.torrents[torrent_id]
+KeyError: '42ec43df55dcfef40bc8c5f5f227b6c804512ee4'
