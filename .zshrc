@@ -87,14 +87,14 @@ precmd() {
     (*xterm*|*rxvt*|(dt|k|E)term) print -Pn "\e]2;%n@%m: %~\a"
       ;;
   esac
-  YOTASIGNAL=`tail -n 5 /var/log/wimax.log|grep RSSI|tail -n 1|awk '{printf $2+0"/""%.1f",$4+0}'`
+  #YOTASIGNAL=`tail -n 5 /var/log/wimax.log|grep RSSI|tail -n 1|awk '{printf $2+0"/""%.1f",$4+0}'`
 }
 ### END TERMINAL HEADER
 
 ### LONG RUNNING
-#report time for long working commands
-REPORTTIME=120
-TIMEFMT="%U user %S system %P cpu %*Es total"
+#~  report time for long working commands
+#REPORTTIME=120
+#TIMEFMT="%U user %S system %P cpu %*Es total"
 ### END LONG RUNNING
 
 ### CORRECT
@@ -137,7 +137,7 @@ TRAPALRM() {
     then
 #~      ↓↓↓ Замените этот блок на собственный ↓↓↓
         watch -n 1 tail -n 3 /var/log/wimax.log
-        echo $POSTEDIT
+        kill -SIGINT $$ &
 #~      ↑↑↑ Замените этот блок на собственный ↑↑↑
     fi
 }

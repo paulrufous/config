@@ -28,7 +28,7 @@
  [app] (role=gc)
  [app] (name=Download) (role=Manager)
   [Workspace]	{0}
-  [Dimensions]	{635 399}
+  [Dimensions]	{635 400}
   [Position]	(UPPERLEFT)	{643 0}
 [end]
 [app] (name=gajim.py) (class=Gajim.py) (role=pm)
@@ -112,12 +112,12 @@
 [end]
 [app] (name=gajim) (class=Gajim.py) (role=pm)
   [Workspace]	{0}
-  [Dimensions]	{407 379}
+  [Dimensions]	{407 380}
   [Position]	(UPPERLEFT)	{234 20}
 [end]
 [app] (name=gajim) (class=Gajim.py) (role=chat)
   [Workspace]	{0}
-  [Dimensions]	{407 379}
+  [Dimensions]	{407 380}
   [Position]	(UPPERLEFT)	{0 20}
 [end]
 [app] (name=gajim.py) (class=Gajim.py) (role=messages)
