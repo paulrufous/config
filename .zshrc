@@ -1,4 +1,5 @@
 #!/bin/zsh
+##Эта строка ни за чем не нужна, просто с ней на гитхабе включается подсветка синтаксиса :)
 
 # Lines configured by zsh-newuser-install
 HISTFILE=~/.histfile
