@@ -41,10 +41,6 @@
                 (tab-style preview)
                 (aux-info
                     (current-page "GimpColorSelectorPalette"))))))
-(session-info "toolbox" "dock"
-    (position 13 309)
-    (size 44 440)
-    (open-on-exit))
 (session-info "toplevel" "gimp-file-open-dialog"
     (position 100 41)
     (size 983 612))
@@ -66,10 +62,14 @@
     (position 700 0))
 (session-info "toplevel" "gimp-rotate-tool-dialog"
     (position 0 22))
+(session-info "toolbox" "dock"
+    (position 13 309)
+    (size 44 440)
+    (open-on-exit))
 (session-info "display" "gimp-empty-image-window"
     (position 0 0)
     (size 1072 799))
 
-(last-tip-shown 72)
+(last-tip-shown 74)
 
 # end of sessionrc

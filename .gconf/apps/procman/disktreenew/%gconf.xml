@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="columns_order" mtime="1298224454" type="list" ltype="int">
+	<entry name="columns_order" mtime="1298584970" type="list" ltype="int">
 		<li type="int" value="0"/>
 		<li type="int" value="1"/>
 		<li type="int" value="2"/>
@@ -9,20 +9,20 @@
 		<li type="int" value="5"/>
 		<li type="int" value="6"/>
 	</entry>
-	<entry name="col_3_visible" mtime="1298224454" type="bool" value="true"/>
-	<entry name="col_3_width" mtime="1298224454" type="int" value="49"/>
-	<entry name="col_6_visible" mtime="1298224454" type="bool" value="true"/>
-	<entry name="col_6_width" mtime="1298224454" type="int" value="374"/>
-	<entry name="col_5_visible" mtime="1298224454" type="bool" value="true"/>
-	<entry name="col_5_width" mtime="1298224454" type="int" value="72"/>
-	<entry name="col_4_visible" mtime="1298224454" type="bool" value="false"/>
-	<entry name="col_4_width" mtime="1298224454" type="int" value="0"/>
-	<entry name="col_2_visible" mtime="1298224454" type="bool" value="true"/>
-	<entry name="col_2_width" mtime="1298224454" type="int" value="48"/>
-	<entry name="col_1_visible" mtime="1298224454" type="bool" value="true"/>
-	<entry name="col_1_width" mtime="1298224454" type="int" value="71"/>
-	<entry name="col_0_visible" mtime="1298224454" type="bool" value="false"/>
-	<entry name="col_0_width" mtime="1298224454" type="int" value="0"/>
-	<entry name="sort_order" mtime="1298224454" type="int" value="0"/>
-	<entry name="sort_col" mtime="1298224454" type="int" value="1"/>
+	<entry name="col_3_visible" mtime="1298584970" type="bool" value="true"/>
+	<entry name="col_3_width" mtime="1298584970" type="int" value="62"/>
+	<entry name="col_6_visible" mtime="1298584970" type="bool" value="true"/>
+	<entry name="col_6_width" mtime="1298584970" type="int" value="341"/>
+	<entry name="col_5_visible" mtime="1298584970" type="bool" value="true"/>
+	<entry name="col_5_width" mtime="1298584970" type="int" value="72"/>
+	<entry name="col_4_visible" mtime="1298584970" type="bool" value="false"/>
+	<entry name="col_4_width" mtime="1298584970" type="int" value="0"/>
+	<entry name="col_2_visible" mtime="1298584970" type="bool" value="true"/>
+	<entry name="col_2_width" mtime="1298584970" type="int" value="48"/>
+	<entry name="col_1_visible" mtime="1298584970" type="bool" value="true"/>
+	<entry name="col_1_width" mtime="1298584970" type="int" value="91"/>
+	<entry name="col_0_visible" mtime="1298584970" type="bool" value="false"/>
+	<entry name="col_0_width" mtime="1298584970" type="int" value="0"/>
+	<entry name="sort_order" mtime="1298584970" type="int" value="0"/>
+	<entry name="sort_col" mtime="1298584970" type="int" value="1"/>
 </gconf>
