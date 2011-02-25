@@ -1,0 +1,2 @@
+# Удалить оставшиеся конфиги удаленных пакетов (purge previously removed)
+sudo aptitude purge `dpkg --get-selections | grep -w deinstall | awk '{printf $1 " "}'`

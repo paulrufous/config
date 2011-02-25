@@ -129,7 +129,7 @@ bindkey "^P" predict-off # C-z
 #~ ### END TETRIS
 
 ### SCREENSAVER
-IDLELIMIT=360
+IDLELIMIT=300
 #~  IDLELIMIT - максимальная величина idle к моменту проверки (замените на
 #~  удобное вам значение в секундах)
 [ $USER = root ] || TMOUT=60

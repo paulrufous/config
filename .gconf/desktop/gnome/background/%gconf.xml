@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="primary_color" mtime="1279049185" type="string">
+	<entry name="primary_color" mtime="1298638121" type="string">
 		<stringvalue>#6666baba0000</stringvalue>
 	</entry>
-	<entry name="secondary_color" mtime="1279049185" type="string">
+	<entry name="secondary_color" mtime="1298638121" type="string">
 		<stringvalue>#6666baba0000</stringvalue>
 	</entry>
-	<entry name="picture_filename" mtime="1279049185" type="string">
+	<entry name="picture_filename" mtime="1298638121" type="string">
 		<stringvalue>/usr/share/images/desktop-base/desktop-background</stringvalue>
 	</entry>
-	<entry name="color_shading_type" mtime="1279049185" type="string">
+	<entry name="color_shading_type" mtime="1298638121" type="string">
 		<stringvalue>solid</stringvalue>
 	</entry>
-	<entry name="picture_options" mtime="1279049185" type="string">
+	<entry name="picture_options" mtime="1298638121" type="string">
 		<stringvalue>zoom</stringvalue>
 	</entry>
 </gconf>

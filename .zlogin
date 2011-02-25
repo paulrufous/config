@@ -3,7 +3,8 @@ export _JAVA_OPTIONS="-Dawt.useSystemAAFontSettings=lcd -Dswing.aatext=true -Dsw
 
 
 # Автозапуск иксов при логине пользователем в первой консоли
-if [ $USER = sio  ] && [ "`tty`" = "/dev/tty1" ]; then
+if [ $USER = sio  ] && [ "`tty`" = "/dev/tty1" ]; 
+then
     setsid startx;
     exit;
 else
