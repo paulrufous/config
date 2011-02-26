@@ -1,0 +1,32 @@
+
+[Default Applications]
+image/jpeg=gpicview.desktop
+image/svg+xml=gpicview.desktop
+video/x-flv=smplayer.desktop
+audio/mpeg=totem.desktop
+application/x-shockwave-flash=userapp-flashplayer-TJPQRV.desktop
+video/3gpp=smplayer.desktop
+application/zip=file-roller.desktop
+text/plain=leafpad.desktop
+application/vnd.oasis.opendocument.spreadsheet=openoffice.org-calc.desktop
+application/pdf=evince.desktop
+text/html=userapp-firefox-NM6IRV.desktop
+application/vnd.oasis.opendocument.text=openoffice.org-writer.desktop
+audio/x-wav=totem.desktop
+image/vnd.djvu=evince.desktop
+
+[Added Associations]
+image/jpeg=gpicview.desktop;
+image/svg+xml=gpicview.desktop;
+video/x-flv=smplayer.desktop;
+audio/mpeg=totem.desktop;
+application/x-shockwave-flash=userapp-flashplayer-TJPQRV.desktop;
+video/3gpp=smplayer.desktop;
+application/zip=file-roller.desktop;FBReader.desktop;
+text/plain=leafpad.desktop;
+application/vnd.oasis.opendocument.spreadsheet=openoffice.org-calc.desktop;
+application/pdf=evince.desktop;
+text/html=userapp-firefox-NM6IRV.desktop;
+application/vnd.oasis.opendocument.text=openoffice.org-writer.desktop;
+audio/x-wav=totem.desktop;
+image/vnd.djvu=evince.desktop;
