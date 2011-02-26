@@ -7,8 +7,8 @@ do
     {
         find "$DIR" -type f | while read FILENAME
             do
-                grep -wi wine $FILENAME &&\
-                grep -wvi wine $FILENAME > $FILENAME
+                grep -wi wine "$FILENAME" &&\
+                grep -wvi wine "$FILENAME" > "$FILENAME"
             done
     }
 done
