@@ -21,6 +21,6 @@
 	<entry name="main-paned" mtime="1298638200" type="int" value="150"/>
 	<entry name="main-help-toolbar" mtime="1298638195" type="bool" value="true"/>
 	<entry name="main-file-toolbar" mtime="1298638195" type="bool" value="true"/>
-	<entry name="iprefs-level-zero" mtime="1298638195" type="list" ltype="string">
+	<entry name="iprefs-level-zero" mtime="1298755118" type="list" ltype="string">
 	</entry>
 </gconf>
