@@ -1,13 +1,15 @@
 # 1. ВЫМАРЫВАНИЕ СОДЕРЖИМОГО
 DIRS_TO_CLEAN="$HOME/.local/share/applications $HOME/.local/share/mime"
-# Из этих папок будет удалена любая строка, содержащая слово "wine"
+BAD_WORD="wine"
+# Из файлов в этих папках будет удалена любая строка,
+# которая содержит слово "$BAD_WORD"
 
 for DIR in $DIRS_TO_CLEAN
 do
     {
-    grep -Rwi -Hl wine "$DIR" | while read FILENAME #thx to ixti@laptop
+    grep -Rwi -Hl "$BAD_WORD" "$DIR" | while read FILENAME #thx to ixti@laptop
     do
-        grep -wvi wine "$FILENAME" > "$FILENAME"
+        grep -wvi "$BAD_WORD" "$FILENAME" > "$FILENAME"
     done
     }
 done
