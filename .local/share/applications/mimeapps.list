@@ -10,10 +10,12 @@ application/zip=file-roller.desktop
 text/plain=leafpad.desktop
 application/vnd.oasis.opendocument.spreadsheet=openoffice.org-calc.desktop
 application/pdf=evince.desktop
-text/html=userapp-firefox-NM6IRV.desktop
+text/html=geany.desktop
 application/vnd.oasis.opendocument.text=openoffice.org-writer.desktop
 audio/x-wav=totem.desktop
 image/vnd.djvu=evince.desktop
+image/png=gpicview.desktop
+image/gif=gpicview.desktop
 
 [Added Associations]
 image/jpeg=gpicview.desktop;
@@ -26,7 +28,9 @@ application/zip=file-roller.desktop;FBReader.desktop;
 text/plain=leafpad.desktop;
 application/vnd.oasis.opendocument.spreadsheet=openoffice.org-calc.desktop;
 application/pdf=evince.desktop;
-text/html=userapp-firefox-NM6IRV.desktop;
+text/html=userapp-firefox-NM6IRV.desktop;geany.desktop;
 application/vnd.oasis.opendocument.text=openoffice.org-writer.desktop;
 audio/x-wav=totem.desktop;
 image/vnd.djvu=evince.desktop;
+image/png=gpicview.desktop;
+image/gif=gpicview.desktop;
