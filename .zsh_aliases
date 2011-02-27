@@ -6,7 +6,7 @@ alias ls='ls --color=auto'
 alias ll="ls -l"
 alias la="ls -a"
 alias ":q"="clear && exit"
-alias bones='grep -vE "^#|^$"'
+alias bones='grep -vE "^ *#|^ *$"'
 
 # DEFAULT BEHAVIOUR
 alias dvtm="dvtm -m \<"

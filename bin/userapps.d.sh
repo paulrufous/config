@@ -4,23 +4,10 @@
 # Запущенные коньки при незапущенных иксах выглядят жестоко, пусть и
 # только в списке процессов
 
-#~ ПЕРВАЯ ВЕРСИЯ. ИНДУСОКОД
-#~ xxkb_daemon() {
-    #~ xxkb; xxkb_daemon
-#~ }
-#~ xxkb_daemon&
-#~ 
-#~ 
-#~ conkympd_daemon() {
-    #~ conky; conkympd_daemon
-#~ }
-#~ conkympd_daemon&
-#~ 
-#~ conkyclock_daemon() {
-    #~ conky -c ~/.conkyrc-diclock; conkyclock_daemon
-#~ }
-#~ conkyclock_daemon&
+LIST_FILE="$HOME/bin/userapps.d.list"
+SLEEP_TIME=5
 
-(while true; do xxkb; sleep 5; done)&
-(while true; do conky; sleep 5; done)&
-(while true; do conky -c ~/.conkyrc-diclock; sleep 5; done)&
+grep -vE "^ *#|^ *$" $LIST_FILE | while read DAEMON
+do
+    `(while true; do $DAEMON; sleep $SLEEP_TIME; done)`
+done
