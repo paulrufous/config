@@ -19,7 +19,7 @@
   </node>
   <node oor:name="Zoom">
    <prop oor:name="Value" oor:type="xs:int">
-    <value>205</value>
+    <value>100</value>
    </prop>
   </node>
   <node oor:name="ViewLayout">
@@ -55,6 +55,9 @@
    </prop>
    <prop oor:name="NumberedList" oor:type="xs:int">
     <value>23265</value>
+   </prop>
+   <prop oor:name="Graphic" oor:type="xs:int">
+    <value>23268</value>
    </prop>
   </node>
  </node>

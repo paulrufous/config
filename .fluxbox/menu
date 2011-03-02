@@ -7,6 +7,7 @@
     [exec] (Firefox) {firefox -P default}
     [exec] (Gajim) {~/misc/src/gajim/launch.sh}
     [exec] (Skype) {amixer sset Master 63%; skype; amixer sset Master 100%}
+    [exec] (Icedove) {icedove}
 #    [exec] (gFtp) {gftp}
     [exec] (Deluge) {deluge}
 [end]
@@ -71,6 +72,7 @@
         [exec] (Warsow) {warsow}
         [exec] (Wesnoth) {wesnoth-1.8}
         [exec] (Widelands) {SDL_VIDEO_X11_DGAMOUSE=0 widelands}
+        [exec] (Xmoto) {SDL_VIDEO_X11_DGAMOUSE=0 xmoto}
     [end]
     [submenu] (Gnome Games/)
         [exec] (glchess) {/usr/games/glchess}
@@ -107,6 +109,7 @@
     [exec] (Gtk Theme) {lxappearance && killall lxappearance}
     [exec] (htop) {urxvt -fn "xft:DejaVu Sans Mono-9:antialias=True"  -name htop -T "System Monitor" -e htop}
     [exec] (Monitor) {gnome-system-monitor}
+    [exec] (Printer) {hp-toolbox}
     [separator]
     [exec] (Aptitude) {urxvt  -fn "xft:DejaVu Sans Mono-9:antialias=True" -T "Aptitude Package Manager" -name aptitude -e sudo aptitude}
     [exec] (Synaptic) {gksudo synaptic}

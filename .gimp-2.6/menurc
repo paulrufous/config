@@ -655,6 +655,7 @@
 ; (gtk_accel_path "<Actions>/dockable/dialogs-channels" "")
 ; (gtk_accel_path "<Actions>/view/view-scroll-right-border" "")
 ; (gtk_accel_path "<Actions>/context/context-brush-select-first" "")
+; (gtk_accel_path "<Actions>/plug-in/xsane" "")
 ; (gtk_accel_path "<Actions>/context/context-background-blue-set" "")
 ; (gtk_accel_path "<Actions>/context/context-foreground-hue-minimum" "")
 ; (gtk_accel_path "<Actions>/tools/tools-perspective-clone" "")

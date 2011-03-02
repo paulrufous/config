@@ -1,0 +1,11 @@
+[ERROR   ] 00:46:30 rpcserver:303 Exception calling RPC request: 'fd7c7a23d2bbdfd95a15df7d37d58b4f5bc381e9'
+Traceback (most recent call last):
+  File "/usr/lib/pymodules/python2.6/deluge/core/rpcserver.py", line 298, in dispatch
+    ret = self.factory.methods[method](*args, **kwargs)
+  File "/usr/lib/pymodules/python2.6/deluge/core/core.py", line 415, in get_torrents_status
+    status_dict[torrent_id] = self.get_torrent_status(torrent_id, keys, diff)
+  File "/usr/lib/pymodules/python2.6/deluge/core/core.py", line 397, in get_torrent_status
+    status = self.torrentmanager[torrent_id].get_status(keys, diff)
+  File "/usr/lib/pymodules/python2.6/deluge/core/torrentmanager.py", line 273, in __getitem__
+    return self.torrents[torrent_id]
+KeyError: 'fd7c7a23d2bbdfd95a15df7d37d58b4f5bc381e9'

@@ -209,3 +209,7 @@
 [transient] (name=firefox-bin) (class=Firefox-bin)
   [Position]	(UPPERLEFT)	{246 65}
 [end]
+[app] (name=Mail) (class=Icedove) (role=3pane)
+  [Workspace]	{2}
+  [Deco]	{BORDER}
+[end]

@@ -16,6 +16,7 @@ audio/x-wav=totem.desktop
 image/vnd.djvu=evince.desktop
 image/png=gpicview.desktop
 image/gif=gpicview.desktop
+inode/directory=nautilus-folder-handler.desktop
 
 [Added Associations]
 image/jpeg=gpicview.desktop;
@@ -34,3 +35,4 @@ audio/x-wav=totem.desktop;
 image/vnd.djvu=evince.desktop;
 image/png=gpicview.desktop;
 image/gif=gpicview.desktop;
+inode/directory=easytag.desktop;totem.desktop;

@@ -1,6 +1,6 @@
 # COLORED OUTPUT FOR SOME APPS
 alias grep='grep --color=auto'
-alias ls='ls --color=auto'
+alias ls='ls --color=auto --time-style +%Y-%m-%d\ %H:%M'
 
 # SHORTCUTS
 alias ll="ls -l"
