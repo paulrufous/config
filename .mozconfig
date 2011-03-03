@@ -1,0 +1,48 @@
+# My first mozilla config
+#
+# Options prefixed with mk_add_options are passed to client.mk.  The most important of these is MOZ_OBJDIR, which controls where your application gets built (also known as the object directory). 
+# Options prefixed with ac_add_options are passed to configure, and effect the build process.
+
+mk_add_options MOZ_OBJDIR=@TOPSRCDIR@/obj-@CONFIG_GUESS@ #Enables objdir
+mk_add_options MOZ_MAKE_FLAGS="-j4" #Parallel compilation is a nice speedup
+
+# Из онлайн-инструкции
+ac_add_options --enable-application=browser #We are building firefox
+ac_add_options --enable-optimize #Enables the default compiler optimization options
+ac_add_options --disable-debug
+ac_add_options --disable-tests #By default, many auxiliary test applications are built, which can help debug and patch the mozilla source.
+ac_add_options --enable-official-branding
+
+# Мои опции
+ac_add_options --enable-system-cairo #Ради чего все и затевалось
+ac_add_options --enable-strip
+ac_add_options --enable-install-strip
+
+# Срисовал с iceweasel
+ac_add_options --enable-default-toolkit=cairo-gtk2
+ac_add_options --enable-pango
+ac_add_options --with-system-png
+ac_add_options --with-system-jpeg
+ac_add_options --with-system-zlib
+ac_add_options --with-system-bz2
+ac_add_options --with-system-nspr
+ac_add_options --with-system-nss
+ac_add_options --enable-svg
+ac_add_options --enable-mathml
+ac_add_options --disable-pedantic
+ac_add_options --enable-gnomevfs
+ac_add_options --enable-gnomeui
+ac_add_options --disable-mochitest
+ac_add_options --enable-canvas
+ac_add_options --enable-readline
+ac_add_options --disable-installer
+ac_add_options --disable-javaxpcom
+ac_add_options --disable-elf-dynstr-gc
+ac_add_options --enable-system-hunspell
+ac_add_options --disable-crashreporter
+ac_add_options --enable-system-sqlite
+ac_add_options --enable-url-classifier
+ac_add_options --enable-startup-notification
+ac_add_options --enable-system-ffi
+ac_add_options --with-system-libevent
+ac_add_options --host=i686-linux-gnu

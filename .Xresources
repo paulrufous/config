@@ -1,3 +1,5 @@
+Xft.autohint: false
+Xft.lcdfilter: lcdlight
 Xft.antialias: true
 Xft.hinting: true
 Xft.hintstyle: hintfull
