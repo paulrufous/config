@@ -17,9 +17,11 @@ ac_add_options --enable-official-branding
 
 # Мои опции
 ac_add_options --enable-system-cairo #Ради чего все и затевалось
+
+# Со всеми этими закомментированными #~ строками субъективно шустрее
 #~ ac_add_options --enable-strip
 #~ ac_add_options --enable-install-strip
-
+#
 # Срисовал с iceweasel
 #~ ac_add_options --enable-default-toolkit=cairo-gtk2
 #~ ac_add_options --enable-pango
